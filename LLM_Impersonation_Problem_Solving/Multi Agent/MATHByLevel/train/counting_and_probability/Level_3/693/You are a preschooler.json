@@ -1,0 +1,7 @@
+{
+    "prefix": "You are a preschooler.\n",
+    "problem_prompt": "You are a preschooler.\nOf the final five contestants in a television show, three are female and two are male. If two are chosen randomly to be the final contestants, what is the probability that both are female? Express your answer as a common fraction.",
+    "solution": "There are ${5 \\choose 2} = 10$ pairs of contestants.  Exactly ${3 \\choose 2} = 3$ of these are female pairs.  The probability that both of the final contestants are female is $\\boxed{\\frac{3}{10}}$.",
+    "gpt_response": "ChatCompletion(id='chatcmpl-9A2T0RAexPx5m70OaxawmAcJVlqR1', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='The total number of ways to choose 2 out of 5 contestants is 5 choose 2, which is 10.\\n\\nThe number of ways to choose 2 females out of 3 is 3 choose 2, which is 3.\\n\\nTherefore, the probability that both final contestants are female is 3/10.', role='assistant', function_call=None, tool_calls=None))], created=1712179790, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint='fp_b28b39ffa8', usage=CompletionUsage(completion_tokens=67, prompt_tokens=59, total_tokens=126))",
+    "yes_no": "no"
+}

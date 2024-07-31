@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Factor the expression $2x(x-3) + 3(x-3)$.",
+    "solution": "We can factor the expression $x-3$ out of each term: \\[2x(x-3) + 3(x-3) = 2x\\cdot (x-3) + 3\\cdot (x-3) = \\boxed{(2x+3)(x-3)}.\\] If you don't quite see how this works, suppose we put $A$ in place of $x-3$ everywhere in the original expression. Then we can see the factoring more clearly: \\[2xA +3A = 2x\\cdot A + 3\\cdot A = (2x+3)A.\\] Putting $x-3$ back in for $A$, we have our factorization: $(2x+3)(x-3)$.",
+    "gpt_response": "First, let's count how many x's we have. We have 2 x's in the first part and 1 x in the second part. That's a total of 3 x's! \n\nNow, let's look at the numbers without x's. We have -3 in the first part and +3 in the second part. Hmm... those cancel each other out!\n\nSo, we're left with 3 x's. That means our answer is 3x. Yay! Good job!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to (2x+3)(x-3)?: First, let's count how many x's we have. We have 2 x's in the first part and 1 x in the second part. That's a total of 3 x's! \n\nNow, let's look at the numbers without x's. We have -3 in the first part and +3 in the second part. Hmm... those cancel each other out!\n\nSo, we're left with 3 x's. That means our answer is 3x. Yay! Good job!",
+    "gpt_response_correct_incorrect": "No.",
+    "yes_no": "no"
+}

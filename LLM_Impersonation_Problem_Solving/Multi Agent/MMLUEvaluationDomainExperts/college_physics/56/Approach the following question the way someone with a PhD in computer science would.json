@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in computer science would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in computer science would. A particle is constrained to move in a circle with a 10-meter radius. At one instant, the particle\u2019s speed is 10 meters per second and is increasing at a rate of 10 meters per second squared. The angle between the particle\u2019s velocity and acceleration vectors is\nA: 0\u00b0\nB: 30\u00b0\nC: 45\u00b0\nD: 60\u00b0",
+    "solution": "C",
+    "gpt_response": "To solve this problem, we must first understand the relationship between velocity and acceleration vectors in circular motion. In circular motion, the velocity and acceleration vectors are always perpendicular to each other. This means that the angle between the two vectors is always 90\u00b0.\n\nGiven that the particle's speed is increasing at a rate of 10 meters per second squared, we can deduce that the acceleration is directed towards the center of the circle. This means that the acceleration vector is perpendicular to the velocity vector, making the angle between the two vectors 90\u00b0.\n\nTherefore, the correct answer is not listed among the options provided. The angle between the particle's velocity and acceleration vectors is 90\u00b0.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to C?: To solve this problem, we must first understand the relationship between velocity and acceleration vectors in circular motion. In circular motion, the velocity and acceleration vectors are always perpendicular to each other. This means that the angle between the two vectors is always 90\u00b0.\n\nGiven that the particle's speed is increasing at a rate of 10 meters per second squared, we can deduce that the acceleration is directed towards the center of the circle. This means that the acceleration vector is perpendicular to the velocity vector, making the angle between the two vectors 90\u00b0.\n\nTherefore, the correct answer is not listed among the options provided. The angle between the particle's velocity and acceleration vectors is 90\u00b0.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "5",
+    "difficulty_value": "5"
+}

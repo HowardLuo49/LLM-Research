@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. Mediastinal lymph node calcification is seen in which one of the following-\n1: Metastatic neoplasm\n2: Lymphoma\n3: Sarcoidosis\n4: Bronchiectasis",
+    "solution": 3,
+    "gpt_response": "3: Sarcoidosis",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: 3: Sarcoidosis",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

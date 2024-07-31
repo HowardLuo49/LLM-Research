@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Not a premalignant condition: March 2005\n1: Retinitis pigmentosa\n2: Crohn's disease\n3: Ulcerative colitis\n4: Leukoplakia",
+    "solution": 1,
+    "gpt_response": "As a doctor, I would choose option 1: Retinitis pigmentosa. Retinitis pigmentosa is a genetic disorder that affects the retina of the eye and is not a premalignant condition. Crohn's disease, ulcerative colitis, and leukoplakia are all conditions that have the potential to develop into malignancies if not properly managed.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: As a doctor, I would choose option 1: Retinitis pigmentosa. Retinitis pigmentosa is a genetic disorder that affects the retina of the eye and is not a premalignant condition. Crohn's disease, ulcerative colitis, and leukoplakia are all conditions that have the potential to develop into malignancies if not properly managed.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

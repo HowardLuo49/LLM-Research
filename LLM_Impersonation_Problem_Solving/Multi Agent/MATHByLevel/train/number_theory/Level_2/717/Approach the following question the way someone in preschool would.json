@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. A bag of grapes is to be distributed evenly to 5 kids in a class, and the grapes that are left over will be thrown out. If each student receives the greatest possible number of grapes, what is the greatest possible number of grapes that could be thrown out?",
+    "solution": "If we have at least $5$ grapes left, we can give each student one more, so they do not have the greatest possible number.  On the other hand, if we have $4$ grapes left, we cannot give out any more without leaving out at least one student.  So $\\boxed{4}$ grapes is the maximum that we throw out.",
+    "gpt_response": "Yay! Grapes are so yummy! Let's count them out for each kid. If we have 25 grapes and 5 kids, we can give each kid 5 grapes. But wait, 5 x 5 = 25, so that's perfect! There won't be any grapes left over. Yay! All the grapes will be eaten, and none will be thrown out.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 4?: Yay! Grapes are so yummy! Let's count them out for each kid. If we have 25 grapes and 5 kids, we can give each kid 5 grapes. But wait, 5 x 5 = 25, so that's perfect! There won't be any grapes left over. Yay! All the grapes will be eaten, and none will be thrown out.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

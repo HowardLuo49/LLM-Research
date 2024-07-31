@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Statement 1 | The homomorphic image of a cyclic group is cyclic. Statement 2 | The homomorphic image of an Abelian group is Abelian.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "A",
+    "gpt_response": "Hmm.. Let me think about this. A group is like a bunch of friends playing together. So if the friends in the group are in a line (like a circle), then the group is called cyclic. If you take a picture of the group, that's like the homomorphic image. So if the friends are in a line in the picture, the picture is also cyclic. That means Statement 1 is true.\n\nNow let's think about Statement 2. If the friends in the group play nicely and share all their toys, that group is called Abelian. So if you take a picture of that group, the picture would also be Abelian. So Statement 2 is also true.\n\nSo the answer is A: True, True.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to A?: Hmm.. Let me think about this. A group is like a bunch of friends playing together. So if the friends in the group are in a line (like a circle), then the group is called cyclic. If you take a picture of the group, that's like the homomorphic image. So if the friends are in a line in the picture, the picture is also cyclic. That means Statement 1 is true.\n\nNow let's think about Statement 2. If the friends in the group play nicely and share all their toys, that group is called Abelian. So if you take a picture of that group, the picture would also be Abelian. So Statement 2 is also true.\n\nSo the answer is A: True, True.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

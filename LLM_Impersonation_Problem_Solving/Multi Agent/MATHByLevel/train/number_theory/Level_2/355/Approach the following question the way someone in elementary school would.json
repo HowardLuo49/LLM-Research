@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. One digit of the decimal representation of $\\frac{5}{7}$ is randomly selected. What is the probability that the digit is a 4? Express your answer as a common fraction.",
+    "solution": "The decimal representation of $\\frac{5}{7}$ is $0.\\overline{714285}$, which has a repeating block of 6 digits. Since 4 is one of those six digits that keep repeating, the probability that the selected digit is a 4 is $\\boxed{\\frac{1}{6}}$.",
+    "gpt_response": "To find the decimal representation of $\\frac{5}{7}$, we do the division. The decimal representation of $\\frac{5}{7}$ is $0.\\overline{714285}$.\n\nThere is only one 4 in the repeating decimal, and there are a total of 6 digits that can be randomly selected (0, 1, 2, 3, 5, 7). \n\nSo, the probability of selecting a 4 is $\\boxed{\\frac{1}{6}}$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to \\frac{1?: To find the decimal representation of $\\frac{5}{7}$, we do the division. The decimal representation of $\\frac{5}{7}$ is $0.\\overline{714285}$.\n\nThere is only one 4 in the repeating decimal, and there are a total of 6 digits that can be randomly selected (0, 1, 2, 3, 5, 7). \n\nSo, the probability of selecting a 4 is $\\boxed{\\frac{1}{6}}$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

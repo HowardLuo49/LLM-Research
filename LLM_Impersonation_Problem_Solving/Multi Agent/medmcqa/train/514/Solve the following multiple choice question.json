@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. Which among the following NOT a pharmacological action of opioids\n1: Cough suppression\n2: Anti-emesis\n3: Miosis\n4: Truncal rigidity",
+    "solution": 2,
+    "gpt_response": "4: Truncal rigidity",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: 4: Truncal rigidity",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

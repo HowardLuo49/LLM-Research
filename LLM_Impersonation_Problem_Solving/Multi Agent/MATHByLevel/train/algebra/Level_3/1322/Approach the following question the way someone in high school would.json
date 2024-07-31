@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. On a Cartesian coordinate plane, points $(2,1)$ and $(3, 4)$ are adjacent points on a square. What is the area of the square?",
+    "solution": "We use the distance formula to find the distance between the two points, which is the side length of the square.\n$\\sqrt{(3-2)^2+(4-1)^2}=\\sqrt{1+9} = \\sqrt{10}$. Therefore, the area of the square is $(\\sqrt{10})^2 = \\boxed{10}$.",
+    "gpt_response": "To find the area of the square, we first need to find the distance between the two points. Using the distance formula $\\sqrt{(x_2-x_1)^2 + (y_2-y_1)^2}$, we have:\n$\\sqrt{(3-2)^2 + (4-1)^2} = \\sqrt{1+9} = \\sqrt{10}.$\n\nSince the distance between adjacent points on a square is equal to the side length of the square, the side length of the square is $\\sqrt{10}$.\n\nTo find the area of the square, we simply square the side length:\n$(\\sqrt{10})^2 = 10.$\n\nTherefore, the area of the square is $10$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 10?: To find the area of the square, we first need to find the distance between the two points. Using the distance formula $\\sqrt{(x_2-x_1)^2 + (y_2-y_1)^2}$, we have:\n$\\sqrt{(3-2)^2 + (4-1)^2} = \\sqrt{1+9} = \\sqrt{10}.$\n\nSince the distance between adjacent points on a square is equal to the side length of the square, the side length of the square is $\\sqrt{10}$.\n\nTo find the area of the square, we simply square the side length:\n$(\\sqrt{10})^2 = 10.$\n\nTherefore, the area of the square is $10$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

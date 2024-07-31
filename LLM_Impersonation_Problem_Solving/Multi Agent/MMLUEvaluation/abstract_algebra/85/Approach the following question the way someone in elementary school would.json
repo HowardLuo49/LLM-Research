@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. Statement 1 | A homomorphism is one to one if and only if the kernel consists of the identity element alone. Statement 2 | The image of a group of 6 elements under some homomorphism may have 4 elements.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "C",
+    "gpt_response": "Okay, so let's break this down. For the first statement, a homomorphism is one to one if and only if the kernel consists of the identity element alone. That means the homomorphism doesn't map any other element to the identity except for the identity itself. So true for the first statement.\n\nFor the second statement, it says the image of a group of 6 elements under some homomorphism may have 4 elements. This means that the homomorphism can map the 6 elements in the group to just 4 elements in the image. So also true for the second statement.\n\nSo both statements are true. Let's pick answer choice A: True, True.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to C?: Okay, so let's break this down. For the first statement, a homomorphism is one to one if and only if the kernel consists of the identity element alone. That means the homomorphism doesn't map any other element to the identity except for the identity itself. So true for the first statement.\n\nFor the second statement, it says the image of a group of 6 elements under some homomorphism may have 4 elements. This means that the homomorphism can map the 6 elements in the group to just 4 elements in the image. So also true for the second statement.\n\nSo both statements are true. Let's pick answer choice A: True, True.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

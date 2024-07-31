@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Light from a laser falls on a pair of very narrow slits separated by 0.5 micrometer, and bright fringes separated by 1.0 millimeter are observed on a distant screen. If the frequency of the laser light is doubled, what will be the separation of the bright fringes?\nA: 0.25 mm\nB: 0.5 mm\nC: 1.0 mm\nD: 2.0 mm",
+    "solution": "B",
+    "gpt_response": "B: 0.5 mm\n\nExplanation: When the frequency of the laser light is doubled, the separation of the bright fringes will remain the same. The distance between the fringes is determined by the distance between the slits and the wavelength of the light, which are not affected by the frequency.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to B?: B: 0.5 mm\n\nExplanation: When the frequency of the laser light is doubled, the separation of the bright fringes will remain the same. The distance between the fringes is determined by the distance between the slits and the wavelength of the light, which are not affected by the frequency.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Microvesicular fatty liver is caused by -\n1: DM\n2: Valproate\n3: Starvation\n4: IBD",
+    "solution": 2,
+    "gpt_response": "As a doctor, when considering the etiology of microvesicular fatty liver, it is important to review each potential cause in order to determine the most likely culprit. \n\nIn this case, microvesicular fatty liver is most commonly associated with the use of certain medications such as valproate, which is known to induce this liver pathology. Therefore, option 2: Valproate would be the most likely cause of microvesicular fatty liver in this scenario. \n\nIt is important to always consider the patient's medical history, medications, and other risk factors when diagnosing and treating liver conditions, as multiple factors can contribute to the development of liver diseases.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: As a doctor, when considering the etiology of microvesicular fatty liver, it is important to review each potential cause in order to determine the most likely culprit. \n\nIn this case, microvesicular fatty liver is most commonly associated with the use of certain medications such as valproate, which is known to induce this liver pathology. Therefore, option 2: Valproate would be the most likely cause of microvesicular fatty liver in this scenario. \n\nIt is important to always consider the patient's medical history, medications, and other risk factors when diagnosing and treating liver conditions, as multiple factors can contribute to the development of liver diseases.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

@@ -1,0 +1,10 @@
+{
+    "prefix": "You are an expert in number theory. Solve the following problem. ",
+    "problem_prompt": "You are an expert in number theory. Solve the following problem. Determine the residue of $-811\\pmod{24}$. Your answer should be an integer in the range $0,1,2,\\ldots,22,23$.",
+    "solution": "Dividing 811 by 24 gives a quotient of 33, so the greatest multiple of 24 less than $-811$ is $24\\cdot -34=-816$. Thus $-811$ is $-811-(-816)=5$ more than a multiple of $24$. Since $0\\leq 5 < 24$, the residue of $-811$ is $\\boxed{5}$ (mod 24).",
+    "gpt_response": "To determine the residue of $-811 \\pmod{24}$, we first find the residue of $811 \\pmod{24}$ and then take the negative of that residue.\n\nSince $811 = 33\\cdot 24 + 19$, we have $811 \\equiv 19 \\pmod{24}$.\n\nTherefore, the residue of $-811 \\pmod{24}$ is the negative of $19$, which is $-19 \\equiv 5 \\pmod{24}$.\n\nSo, the residue of $-811 \\pmod{24}$ is $\\boxed{5}$.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 5?: To determine the residue of $-811 \\pmod{24}$, we first find the residue of $811 \\pmod{24}$ and then take the negative of that residue.\n\nSince $811 = 33\\cdot 24 + 19$, we have $811 \\equiv 19 \\pmod{24}$.\n\nTherefore, the residue of $-811 \\pmod{24}$ is the negative of $19$, which is $-19 \\equiv 5 \\pmod{24}$.\n\nSo, the residue of $-811 \\pmod{24}$ is $\\boxed{5}$.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes"
+}

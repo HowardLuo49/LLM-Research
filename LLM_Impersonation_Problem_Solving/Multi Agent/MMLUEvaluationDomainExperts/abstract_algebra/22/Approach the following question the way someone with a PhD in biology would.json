@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. Statement 1 | Any set of two vectors in R^2 is linearly independent. Statement 2 | If V = span(v1, ... , vk) and {v1, ... , vk} are linearly independent, then dim(V) = k.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "D",
+    "gpt_response": "Based on the principles of linear algebra, the first statement is false and the second statement is true. \n\nFor the first statement, any set of two vectors in R^2 is not necessarily linearly independent. For example, if the two vectors are scalar multiples of each other, they are linearly dependent. \n\nFor the second statement, if V is the span of vectors v1, ..., vk and these vectors are linearly independent, then dim(V) = k. This is because dim(V) represents the number of vectors in a basis for V, and in this case, the vectors v1, ..., vk form a basis for V since they are linearly independent. \n\nTherefore, the correct answer is D: False, True.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: Based on the principles of linear algebra, the first statement is false and the second statement is true. \n\nFor the first statement, any set of two vectors in R^2 is not necessarily linearly independent. For example, if the two vectors are scalar multiples of each other, they are linearly dependent. \n\nFor the second statement, if V is the span of vectors v1, ..., vk and these vectors are linearly independent, then dim(V) = k. This is because dim(V) represents the number of vectors in a basis for V, and in this case, the vectors v1, ..., vk form a basis for V since they are linearly independent. \n\nTherefore, the correct answer is D: False, True.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

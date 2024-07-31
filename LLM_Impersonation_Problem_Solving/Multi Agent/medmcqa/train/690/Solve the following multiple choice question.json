@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. 40 yr old female presented with breast lump of size 4 cm with involvement of skin and mobile palpable axillary LN, FNAC of lesion showed intrductal carcinoma. What is the initial management of for this pt?\n1: Radiotherapy\n2: Neo-adjuvant chemotherapy\n3: Modified radical mastectomy\n4: Simple mastectomy",
+    "solution": 2,
+    "gpt_response": "3: Modified radical mastectomy\n\nModified radical mastectomy is the initial management for a 40-year-old female with a 4 cm breast lump, involvement of skin, and palpable axillary lymph nodes showing intraductal carcinoma on FNAC. This surgical procedure involves removing the breast tissue, including the tumor and any affected lymph nodes in the axilla. It is often recommended as the initial treatment for locally advanced breast cancer.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: 3: Modified radical mastectomy\n\nModified radical mastectomy is the initial management for a 40-year-old female with a 4 cm breast lump, involvement of skin, and palpable axillary lymph nodes showing intraductal carcinoma on FNAC. This surgical procedure involves removing the breast tissue, including the tumor and any affected lymph nodes in the axilla. It is often recommended as the initial treatment for locally advanced breast cancer.",
+    "gpt_response_correct_incorrect": "No. The final solution obtained in the response is not 2, it is 3: Modified radical mastectomy.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

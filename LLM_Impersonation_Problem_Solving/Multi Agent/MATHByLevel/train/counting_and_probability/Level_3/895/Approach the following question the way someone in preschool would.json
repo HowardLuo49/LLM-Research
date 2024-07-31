@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Assuming that the birth of a boy or a girl is equally likely, what is the probability that the three children in a family include at least one boy and one girl? Express your answer as a common fraction.",
+    "solution": "There are only two ways for a family of three to not have at least one boy and at least one girl: either the family is all boys, or it is all girls. The probability that a family is all boys is $\\left( \\frac{1}{2} \\right) ^3=\\frac{1}{8}$, and the probability that a family is all girls is also $\\frac{1}{8}$. Therefore, the probability that a family of three is neither all girls nor all boys is $1-\\frac{1}{8}-\\frac{1}{8}=\\boxed{\\frac{3}{4}}$.",
+    "gpt_response": "Well, there are three children in the family. \nLet's look at all the different possibilities:\n- Boy, boy, boy\n- Boy, boy, girl\n- Boy, girl, boy\n- Girl, boy, boy\n- Girl, girl, boy\n- Girl, girl, girl\n\nOut of these, only the second, third, fourth, and fifth options have at least one boy and one girl. So, the probability of having at least one boy and one girl is 4 out of 6, or 2 out of 3.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to \\frac{3?: Well, there are three children in the family. \nLet's look at all the different possibilities:\n- Boy, boy, boy\n- Boy, boy, girl\n- Boy, girl, boy\n- Girl, boy, boy\n- Girl, girl, boy\n- Girl, girl, girl\n\nOut of these, only the second, third, fourth, and fifth options have at least one boy and one girl. So, the probability of having at least one boy and one girl is 4 out of 6, or 2 out of 3.",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

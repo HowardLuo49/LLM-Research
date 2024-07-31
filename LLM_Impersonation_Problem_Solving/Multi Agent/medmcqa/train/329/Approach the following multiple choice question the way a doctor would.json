@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Which of the following clinical situations is associated with an increase in predominantly conjugated (\"direct\") bilirubin?\n1: Physiologic jaundice of the neonate\n2: Kernicterus Following Rhesus Incompatibility\n3: Gilbe's Syndrome\n4: Pancreatic head tumor",
+    "solution": 4,
+    "gpt_response": "The correct answer is 4: Pancreatic head tumor. \n\nIn a patient with a pancreatic head tumor, there can be obstruction of the bile duct leading to impaired bilirubin excretion, resulting in an increase in predominantly conjugated (\"direct\") bilirubin levels. This is a clinical situation associated with cholestasis and elevated conjugated bilirubin levels. The other options do not specifically involve impaired bilirubin excretion.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 4?: The correct answer is 4: Pancreatic head tumor. \n\nIn a patient with a pancreatic head tumor, there can be obstruction of the bile duct leading to impaired bilirubin excretion, resulting in an increase in predominantly conjugated (\"direct\") bilirubin levels. This is a clinical situation associated with cholestasis and elevated conjugated bilirubin levels. The other options do not specifically involve impaired bilirubin excretion.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

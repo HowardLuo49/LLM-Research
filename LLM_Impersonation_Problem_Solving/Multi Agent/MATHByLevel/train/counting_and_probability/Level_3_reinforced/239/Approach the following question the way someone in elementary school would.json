@@ -1,0 +1,10 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. What's the coefficient of the $x^2y^4$ term in the expansion of $(x+y)^6$?",
+    "solution": "By the Binomial Theorem, the coefficient that we want is just $\\binom{6}{2}=\\boxed{15}$.",
+    "gpt_response": "To find the coefficient of the $x^2y^4$ term in the expansion of $(x+y)^6, we can use the \"pascal's triangle\" method. First, we write out the coefficients of each term in the expansion:\n\n1 6 15 20 15 6 1\n\nThen, we need to find the term that corresponds to $x^2y^4$. This term would be the third term in the expansion, since $x^2$ has a degree of 2 and $y^4$ has a degree of 4.\n\nSo, the coefficient of the $x^2y^4$ term in the expansion of $(x+y)^6 is 15.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 15?: To find the coefficient of the $x^2y^4$ term in the expansion of $(x+y)^6, we can use the \"pascal's triangle\" method. First, we write out the coefficients of each term in the expansion:\n\n1 6 15 20 15 6 1\n\nThen, we need to find the term that corresponds to $x^2y^4$. This term would be the third term in the expansion, since $x^2$ has a degree of 2 and $y^4$ has a degree of 4.\n\nSo, the coefficient of the $x^2y^4$ term in the expansion of $(x+y)^6 is 15.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 2,
+    "yes_no": "yes"
+}

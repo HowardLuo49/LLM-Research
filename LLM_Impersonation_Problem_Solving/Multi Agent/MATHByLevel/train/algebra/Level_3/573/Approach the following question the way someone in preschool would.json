@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. What is $2a+3b$, where $a=2-i$ and $b=-1+i$?",
+    "solution": "Substituting in, we have $2(2-i)+3(-1+i)$. Expanding, we have $4-2i-3+3i$; adding, we have $\\boxed{1+i}$.",
+    "gpt_response": "Let's see how much money we have! If we have $2 of something called \"a\" and $3 of something called \"b,\" we can add them all up. \n\n$a=2-i$, so we have 2 of those things. That means we have $2(2-i)$.\n\n$b=-1+i$, so we have 3 of those things. That means we have $3(-1+i)$.\n\nNow let's add it all together:\n\n$2a+3b = 2(2-i) + 3(-1+i)$\n\n$2a+3b = 4 - 2i - 3 + 3i $\n\n$2a+3b = 1 + i$\n\nSo, $2a+3b$ is equal to 1 + i!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 1+i?: Let's see how much money we have! If we have $2 of something called \"a\" and $3 of something called \"b,\" we can add them all up. \n\n$a=2-i$, so we have 2 of those things. That means we have $2(2-i)$.\n\n$b=-1+i$, so we have 3 of those things. That means we have $3(-1+i)$.\n\nNow let's add it all together:\n\n$2a+3b = 2(2-i) + 3(-1+i)$\n\n$2a+3b = 4 - 2i - 3 + 3i $\n\n$2a+3b = 1 + i$\n\nSo, $2a+3b$ is equal to 1 + i!",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

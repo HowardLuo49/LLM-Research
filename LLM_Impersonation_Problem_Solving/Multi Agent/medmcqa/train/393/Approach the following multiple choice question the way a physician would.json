@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Length of umbilical cord is?\n1: 40-50 cms\n2: 60- 120 cms\n3: 30-100 cms\n4: 25-40 cms",
+    "solution": 3,
+    "gpt_response": "The correct answer is 1: 40-50 cms. This is the typical length of an umbilical cord in a newborn baby.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: The correct answer is 1: 40-50 cms. This is the typical length of an umbilical cord in a newborn baby.",
+    "gpt_response_correct_incorrect": "No, the final solution obtained in the response is not option 3.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. If $a$ is three times $b$, $b$ is twice $c$, and $c$ is four times $d$, what is the value of $\\frac{a\\cdot c}{b\\cdot d}$?",
+    "solution": "We have that $c=4d$, $b=2c$, and $a=3b$ and thus we can use the equations $c=4d$, $b=8d$, and $a=24d$ to find the value of the expression.  Plugging in these values we get $\\frac{24d \\cdot 4d}{8d \\cdot d}=\\boxed{12}$.",
+    "gpt_response": "First, let's assign some variables to represent the values in the question. Let's say $b = 1$ (since it's easiest to start with a value of 1). Then we know that $a = 3b = 3$, $c = 2b = 2$, and $d = \\frac{c}{4} = \\frac{2}{4} = 0.5$. \n\nNow we can plug these values into the expression $\\frac{a\\cdot c}{b\\cdot d}$:\n\n$\\frac{3\\cdot 2}{1\\cdot 0.5}$\n\n$= \\frac{6}{0.5}$\n\n$= 12$\n\nSo, the value of $\\frac{a\\cdot c}{b\\cdot d}$ when $b = 1$ is 12.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 12?: First, let's assign some variables to represent the values in the question. Let's say $b = 1$ (since it's easiest to start with a value of 1). Then we know that $a = 3b = 3$, $c = 2b = 2$, and $d = \\frac{c}{4} = \\frac{2}{4} = 0.5$. \n\nNow we can plug these values into the expression $\\frac{a\\cdot c}{b\\cdot d}$:\n\n$\\frac{3\\cdot 2}{1\\cdot 0.5}$\n\n$= \\frac{6}{0.5}$\n\n$= 12$\n\nSo, the value of $\\frac{a\\cdot c}{b\\cdot d}$ when $b = 1$ is 12.",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

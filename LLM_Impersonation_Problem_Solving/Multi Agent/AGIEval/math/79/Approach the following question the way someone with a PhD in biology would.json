@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. Simplify\n\\[\\frac{\\cos x}{1 - \\sin x} - \\frac{\\cos x}{1 + \\sin x}.\\]",
+    "solution": "2 \\tan x",
+    "gpt_response": "To simplify this expression, we can factor out a common factor of $\\cos x$ from both terms:\n\\[\\frac{\\cos x}{1 - \\sin x} - \\frac{\\cos x}{1 + \\sin x} = \\cos x \\left(\\frac{1}{1 - \\sin x} - \\frac{1}{1 + \\sin x}\\right).\\]\n\nNext, we can find a common denominator for the fractions inside the parentheses:\n\\[\\cos x \\left(\\frac{1 + \\sin x - 1 + \\sin x}{(1 - \\sin x)(1 + \\sin x)}\\right) = \\cos x \\left(\\frac{2\\sin x}{1 - \\sin^2 x}\\right).\\]\n\nUsing the Pythagorean identity $\\sin^2 x + \\cos^2 x = 1$, we can simplify the denominator:\n\\[\\cos x \\left(\\frac{2\\sin x}{\\cos^2 x}\\right) = 2\\sin x \\sec x.\\]\n\nTherefore, the simplified expression is $2\\sin x \\sec x$.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 2 \\tan x?: To simplify this expression, we can factor out a common factor of $\\cos x$ from both terms:\n\\[\\frac{\\cos x}{1 - \\sin x} - \\frac{\\cos x}{1 + \\sin x} = \\cos x \\left(\\frac{1}{1 - \\sin x} - \\frac{1}{1 + \\sin x}\\right).\\]\n\nNext, we can find a common denominator for the fractions inside the parentheses:\n\\[\\cos x \\left(\\frac{1 + \\sin x - 1 + \\sin x}{(1 - \\sin x)(1 + \\sin x)}\\right) = \\cos x \\left(\\frac{2\\sin x}{1 - \\sin^2 x}\\right).\\]\n\nUsing the Pythagorean identity $\\sin^2 x + \\cos^2 x = 1$, we can simplify the denominator:\n\\[\\cos x \\left(\\frac{2\\sin x}{\\cos^2 x}\\right) = 2\\sin x \\sec x.\\]\n\nTherefore, the simplified expression is $2\\sin x \\sec x$.",
+    "gpt_response_correct_incorrect": "No, the final solution obtained is not 2\\tan x. It is 2\\sin x \\sec x.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

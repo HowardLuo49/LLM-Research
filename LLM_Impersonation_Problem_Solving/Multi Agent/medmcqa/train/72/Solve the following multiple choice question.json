@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. The WBC that is considered \u201csecond line of defence\u201d is:\n1: Neutrophil\n2: Eosinophil\n3: Basophil\n4: Monocyte",
+    "solution": 4,
+    "gpt_response": "1: Eosinophil",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 4?: 1: Eosinophil",
+    "gpt_response_correct_incorrect": "2: Neutrophil\n\n3: Lymphocyte\n\n4: Basophil\n\nYes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

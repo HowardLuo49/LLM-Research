@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. If $f(x)$ and $g(x)$ are polynomials such that $f(x) + g(x) = -2 + x,$ then what is $g(x)$ if $f(x) = x^3 - 2x - 2$?",
+    "solution": "We substitute $f(x) = x^3 - 2x - 2$ into $f(x) + g(x) = -2 + x$ to find that $(x^3 - 2x - 2) + g(x) = -2 + x.$ Then, $g(x) = -2 + x - (x^3 - 2x - 2).$ Distributing, we find $g(x) = -2 + x - x^3 + 2x + 2 = \\boxed{-x^3 + 3x}.$",
+    "gpt_response": "As a mathematician with a PhD in mathematics, I would approach this question by first noticing that the sum $f(x) + g(x) = -2 + x$ suggests that the polynomials $f(x)$ and $g(x)$ combine to form a linear polynomial.\n\nSince $f(x) = x^3 - 2x - 2$, we can rewrite the equation $f(x) + g(x) = -2 + x$ as:\n$(x^3 - 2x - 2) + g(x) = -2 + x$\n\nThis simplifies to:\n$g(x) = -2 + x - x^3 + 2x + 2$\n\nRearranging the terms gives:\n$g(x) = x^3 - x$\n\nTherefore, $g(x) = x^3 - x$ if $f(x) = x^3 - 2x - 2$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to -x^3 + 3x?: As a mathematician with a PhD in mathematics, I would approach this question by first noticing that the sum $f(x) + g(x) = -2 + x$ suggests that the polynomials $f(x)$ and $g(x)$ combine to form a linear polynomial.\n\nSince $f(x) = x^3 - 2x - 2$, we can rewrite the equation $f(x) + g(x) = -2 + x$ as:\n$(x^3 - 2x - 2) + g(x) = -2 + x$\n\nThis simplifies to:\n$g(x) = -2 + x - x^3 + 2x + 2$\n\nRearranging the terms gives:\n$g(x) = x^3 - x$\n\nTherefore, $g(x) = x^3 - x$ if $f(x) = x^3 - 2x - 2$.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "yes_no": "yes"
+}

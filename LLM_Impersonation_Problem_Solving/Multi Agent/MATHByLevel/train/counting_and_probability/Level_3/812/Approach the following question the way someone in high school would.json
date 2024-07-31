@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. To take quizzes, each of 30 students in a class is paired with another student. If the pairing is done randomly, what is the probability that Margo is paired with her best friend, Irma? Express your answer as a common fraction.",
+    "solution": "Among the 29 equally likely possibilities for Margo's partner, Irma is one of them.  Therefore, the probability that Margo's partner is Irma is $\\boxed{\\frac{1}{29}}$.",
+    "gpt_response": "Since there are 30 students in the class and they are paired randomly, there are a total of 30 possible pairs. This means there is a 1 in 30 chance that Margo will be paired with Irma, her best friend. \n\nTherefore, the probability that Margo is paired with Irma is 1/30.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to \\frac{1?: Since there are 30 students in the class and they are paired randomly, there are a total of 30 possible pairs. This means there is a 1 in 30 chance that Margo will be paired with Irma, her best friend. \n\nTherefore, the probability that Margo is paired with Irma is 1/30.",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

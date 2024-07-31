@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. A tumor has the following characteristic retrobulbar location within the muscle cone, well defined capsule, presents with slowly progressive proptosis, easily resectable, occurs most commonly in the 2nd to 4th decade. Most likely diagnosis is -\n1: Capillary hemangioma\n2: Cavernous hemangioma\n3: Lymhangioma\n4: Hemangiopericytome",
+    "solution": 2,
+    "gpt_response": "As a doctor, I would consider a few key factors from the description provided in order to make an accurate diagnosis. The retrobulbar location within the muscle cone, well defined capsule, slowly progressive proptosis, and occurrence in the 2nd to 4th decade are all important clinical features to consider.\n\nBased on these characteristics, the most likely diagnosis is 2: Cavernous hemangioma.Cavernous hemangiomas are slow-growing benign vascular tumors that commonly present in the retrobulbar space, have well-defined capsules, and typically occur in young to middle-aged adults. They are usually easily resectable and can cause proptosis due to their location within the orbit.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: As a doctor, I would consider a few key factors from the description provided in order to make an accurate diagnosis. The retrobulbar location within the muscle cone, well defined capsule, slowly progressive proptosis, and occurrence in the 2nd to 4th decade are all important clinical features to consider.\n\nBased on these characteristics, the most likely diagnosis is 2: Cavernous hemangioma.Cavernous hemangiomas are slow-growing benign vascular tumors that commonly present in the retrobulbar space, have well-defined capsules, and typically occur in young to middle-aged adults. They are usually easily resectable and can cause proptosis due to their location within the orbit.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. How many ways are there to put 5 balls in 2 boxes if the balls are distinguishable and the boxes are distinguishable?",
+    "solution": "There are 2 different boxes, so each of the 5 balls can be placed in two different locations.  So the answer is $2^5 = \\boxed{32}$.",
+    "gpt_response": "Let's count together how many ways we can put the balls in the boxes! First, we can put the first ball in the first box. Then we can put the second ball in the first box, and so on until we put all 5 balls in the first box. After that, we can put all the balls in the second box. So, there are 2 ways to put the balls in the boxes! Yay, we did it!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 32?: Let's count together how many ways we can put the balls in the boxes! First, we can put the first ball in the first box. Then we can put the second ball in the first box, and so on until we put all 5 balls in the first box. After that, we can put all the balls in the second box. So, there are 2 ways to put the balls in the boxes! Yay, we did it!",
+    "gpt_response_correct_incorrect": "No.",
+    "yes_no": "no"
+}

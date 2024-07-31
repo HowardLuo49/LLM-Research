@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Fleeting skin lesions are often present in patients with:\n1: Viral hepatitis B\n2: Acute cholangitis\n3: Viral hepatitis A\n4: Carcinoma head of pancreas",
+    "solution": 1,
+    "gpt_response": "Based on my medical knowledge and experience, the correct answer is:\n\n3: Viral hepatitis A\n\nFleeting skin lesions are commonly seen in patients with viral hepatitis A. It is important to consider the patient's presentation, history, and risk factors when diagnosing and treating skin lesions associated with liver diseases.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: Based on my medical knowledge and experience, the correct answer is:\n\n3: Viral hepatitis A\n\nFleeting skin lesions are commonly seen in patients with viral hepatitis A. It is important to consider the patient's presentation, history, and risk factors when diagnosing and treating skin lesions associated with liver diseases.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

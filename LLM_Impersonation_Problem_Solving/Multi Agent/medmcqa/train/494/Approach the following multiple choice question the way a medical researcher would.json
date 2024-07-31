@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a medical researcher would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a medical researcher would. CSF is stored at:Kerala 11\n1: 4degC\n2: -20degC\n3: Room temperature\n4: -70degC",
+    "solution": 1,
+    "gpt_response": "A medical researcher would likely consider the storage temperature of cerebrospinal fluid (CSF) in order to maintain its integrity and prevent degradation of important components. \n\nIn this case, CSF is typically stored at 4\u00b0C in a refrigerated environment to prevent bacterial growth and maintain its biochemical composition. Storing CSF at -20\u00b0C or -70\u00b0C may risk freezing and damaging the cells and proteins within the fluid. Room temperature may cause bacterial contamination or degradation of the fluid over time. \n\nTherefore, the most suitable option for storing CSF would be 1: 4\u00b0C.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: A medical researcher would likely consider the storage temperature of cerebrospinal fluid (CSF) in order to maintain its integrity and prevent degradation of important components. \n\nIn this case, CSF is typically stored at 4\u00b0C in a refrigerated environment to prevent bacterial growth and maintain its biochemical composition. Storing CSF at -20\u00b0C or -70\u00b0C may risk freezing and damaging the cells and proteins within the fluid. Room temperature may cause bacterial contamination or degradation of the fluid over time. \n\nTherefore, the most suitable option for storing CSF would be 1: 4\u00b0C.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

@@ -1,0 +1,7 @@
+{
+    "prefix": "You are in high school.\n",
+    "problem_prompt": "You are in high school.\nHow many ways are there to put 4 balls in 3 boxes if the balls are distinguishable and the boxes are distinguishable?",
+    "solution": "There are 3 options (boxes) for each of the 4 balls, so the number of ways is $3^4 = \\boxed{81}$.",
+    "gpt_response": "ChatCompletion(id='chatcmpl-9A2hYZ7wpAQxlMfA5FkIYzFchexdd', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='There are 81 ways to put 4 distinguishable balls in 3 distinguishable boxes. \\n\\nOne way to think about this problem is to consider each ball individually and decide which box it will go into. Since each ball has 3 choices (box 1, box 2, or box 3), there are 3^4 = 81 possible ways to distribute the balls among the boxes.', role='assistant', function_call=None, tool_calls=None))], created=1712180692, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint='fp_b28b39ffa8', usage=CompletionUsage(completion_tokens=82, prompt_tokens=40, total_tokens=122))",
+    "yes_no": "yes"
+}

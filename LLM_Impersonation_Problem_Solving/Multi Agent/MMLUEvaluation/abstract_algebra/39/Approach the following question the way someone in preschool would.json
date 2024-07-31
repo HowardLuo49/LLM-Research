@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Statement 1 | Every permutation is a cycle. Statement 2 | Every cycle is a permutation.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "D",
+    "gpt_response": "Hmm, well I'm not sure what \"permutation\" or \"cycle\" means, but I know that everything goes around and around like a circle! So maybe both statements are true? Like, everything is a cycle and everything is a permutation. So, I think the answer is A: True, True!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: Hmm, well I'm not sure what \"permutation\" or \"cycle\" means, but I know that everything goes around and around like a circle! So maybe both statements are true? Like, everything is a cycle and everything is a permutation. So, I think the answer is A: True, True!",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

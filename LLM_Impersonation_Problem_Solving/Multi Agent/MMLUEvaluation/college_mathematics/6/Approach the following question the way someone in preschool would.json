@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. A ladder 9 meters in length is leaning against a vertical wall on level ground. As the bottom end of the ladder is moved away from the wall at a constant rate of 2 meters per second, the top end slides downward along the wall. How fast, in meters per second, will the top end of the ladder be sliding downward at the moment the top end is 3 meters above the ground?\nA: 12*sqrt(2)\nB: 6*sqrt(2)\nC: 4*sqrt(2)\nD: 1/(2*sqrt(2))",
+    "solution": "C",
+    "gpt_response": "Hmm, let's see. The ladder is sliding down at 2 meters per second and moving 9 meters along the ground. When the top end is 3 meters above the ground, we can use the Pythagorean theorem to find the distance from the top end to the base of the ladder, which would be 6 meters. Since the ladder is leaning against the wall, we can use similar triangles to find that the top end is sliding downward at a rate of 2*sqrt(2) meters per second. So, the correct answer is B: 6*sqrt(2).",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to C?: Hmm, let's see. The ladder is sliding down at 2 meters per second and moving 9 meters along the ground. When the top end is 3 meters above the ground, we can use the Pythagorean theorem to find the distance from the top end to the base of the ladder, which would be 6 meters. Since the ladder is leaning against the wall, we can use similar triangles to find that the top end is sliding downward at a rate of 2*sqrt(2) meters per second. So, the correct answer is B: 6*sqrt(2).",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. What is the kinetic energy released in a type Ia supernova explosion, assuming the entire mass of a white dwarf star (9.9solar masses) is converted into energy? Please note that the following content involves constants might be used in the calculations : solar mass = 1.989e30 kg ; velocity of light: c = 3e8 m/s. Additionally, please select the option from the given choices that you believe is closest to the correct answer!\n\nA. 1.53e+48 J\nB. 3.6e+48 J\nC. 9.38e+48 J\nD. 1.77e+48 J\n\nAnswer:",
+    "solution": [
+        "D"
+    ],
+    "gpt_response": "To calculate the kinetic energy released in the type Ia supernova explosion, we can use the concept of mass-energy equivalence from Einstein's famous equation E=mc^2, where E is energy, m is mass, and c is the speed of light.\n\nGiven that the mass of the white dwarf star is 9.9 solar masses, we first need to convert this mass into kilograms:\nMass = 9.9 * 1.989e30 kg = 1.96711e31 kg\n\nNext, we calculate the energy released using the equation E = mc^2:\nE = (1.96711e31 kg) * (3e8 m/s)^2\nE = 1.77e+48 J\n\nTherefore, the closest answer choice to the correct answer is:\n\nD. 1.77e+48 J",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to ['D']?: To calculate the kinetic energy released in the type Ia supernova explosion, we can use the concept of mass-energy equivalence from Einstein's famous equation E=mc^2, where E is energy, m is mass, and c is the speed of light.\n\nGiven that the mass of the white dwarf star is 9.9 solar masses, we first need to convert this mass into kilograms:\nMass = 9.9 * 1.989e30 kg = 1.96711e31 kg\n\nNext, we calculate the energy released using the equation E = mc^2:\nE = (1.96711e31 kg) * (3e8 m/s)^2\nE = 1.77e+48 J\n\nTherefore, the closest answer choice to the correct answer is:\n\nD. 1.77e+48 J",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "9",
+    "difficulty_value": "9"
+}

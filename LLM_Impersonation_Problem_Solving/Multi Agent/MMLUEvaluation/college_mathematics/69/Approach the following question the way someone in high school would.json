@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Suppose today is Wednesday. What day of the week will it be 10^(10^(10)) days from now?\nA: Sunday\nB: Monday\nC: Tuesday\nD: Wednesday",
+    "solution": "A",
+    "gpt_response": "Um, so today is Wednesday, right? And for the question, we have to find out what day of the week it will be 10^(10^(10)) days from now. I think if we keep adding days, it will just keep cycling through the days of the week. So if we figure out what day of the week it is 10 days from now, we can just keep adding 10 days at a time until we get to a really big number like 10^(10^(10)). So, if we start with Wednesday and keep adding 10 days, we'll see that it falls on Wednesday, Monday, Sunday, and then it starts over. So, I think the answer is A: Sunday.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to A?: Um, so today is Wednesday, right? And for the question, we have to find out what day of the week it will be 10^(10^(10)) days from now. I think if we keep adding days, it will just keep cycling through the days of the week. So if we figure out what day of the week it is 10 days from now, we can just keep adding 10 days at a time until we get to a really big number like 10^(10^(10)). So, if we start with Wednesday and keep adding 10 days, we'll see that it falls on Wednesday, Monday, Sunday, and then it starts over. So, I think the answer is A: Sunday.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

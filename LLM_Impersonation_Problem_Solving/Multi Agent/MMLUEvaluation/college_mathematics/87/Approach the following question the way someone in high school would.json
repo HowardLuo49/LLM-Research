@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. How many positive numbers x satisfy the equation cos(97x) = x?\nA: 1\nB: 15\nC: 31\nD: 49",
+    "solution": "C",
+    "gpt_response": "Since there are multiple x values, the answer is not 1. To find the number of positive solutions, we can graph y = cos(97x) and y = x, and see how many times the graphs intersect in the first quadrant. By testing values or using a graphing calculator, we find that there are 15 intersections in the first quadrant. Therefore, the answer is B: 15.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to C?: Since there are multiple x values, the answer is not 1. To find the number of positive solutions, we can graph y = cos(97x) and y = x, and see how many times the graphs intersect in the first quadrant. By testing values or using a graphing calculator, we find that there are 15 intersections in the first quadrant. Therefore, the answer is B: 15.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "D: 49",
+    "difficulty_value": "4"
+}

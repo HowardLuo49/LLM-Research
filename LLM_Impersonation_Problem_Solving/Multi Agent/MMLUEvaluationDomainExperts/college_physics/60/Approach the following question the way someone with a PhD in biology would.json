@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. The first five harmonics produced by an organ pipe open at both ends are 50 Hz, 100 Hz, 150 Hz, 200 Hz, and 250 Hz. Which of the harmonics, if any, will survive once the pipe is closed at one end?\nA: 50 Hz, 150 Hz, and 250 Hz only\nB: 100 Hz and 200 Hz only\nC: 150 Hz and 250 Hz only\nD: None",
+    "solution": "D",
+    "gpt_response": "As someone with a PhD in biology, I would approach this question by applying the principles of physics and acoustics, which are relevant to the study of sound production and propagation. \n\nAn organ pipe that is open at both ends only supports odd multiples of the fundamental frequency (50 Hz in this case) as its harmonics. When the pipe is closed at one end, it behaves similarly to an organ pipe that is closed at both ends, which only supports even multiples of the fundamental frequency. \n\nTherefore, the harmonics that will survive once the pipe is closed at one end are 100 Hz, 200 Hz, and 300 Hz. Based on the given options, the correct answer would be B: 100 Hz and 200 Hz only. \n\nThis answer is derived from a combination of theoretical understanding of pipe acoustics and the specific frequencies provided in the question.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: As someone with a PhD in biology, I would approach this question by applying the principles of physics and acoustics, which are relevant to the study of sound production and propagation. \n\nAn organ pipe that is open at both ends only supports odd multiples of the fundamental frequency (50 Hz in this case) as its harmonics. When the pipe is closed at one end, it behaves similarly to an organ pipe that is closed at both ends, which only supports even multiples of the fundamental frequency. \n\nTherefore, the harmonics that will survive once the pipe is closed at one end are 100 Hz, 200 Hz, and 300 Hz. Based on the given options, the correct answer would be B: 100 Hz and 200 Hz only. \n\nThis answer is derived from a combination of theoretical understanding of pipe acoustics and the specific frequencies provided in the question.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

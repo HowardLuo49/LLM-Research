@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. Determine the residue of $-811\\pmod{24}$. Your answer should be an integer in the range $0,1,2,\\ldots,22,23$.",
+    "solution": "Dividing 811 by 24 gives a quotient of 33, so the greatest multiple of 24 less than $-811$ is $24\\cdot -34=-816$. Thus $-811$ is $-811-(-816)=5$ more than a multiple of $24$. Since $0\\leq 5 < 24$, the residue of $-811$ is $\\boxed{5}$ (mod 24).",
+    "gpt_response": "To find the residue of $-811$ modulo $24$, we can first rewrite $-811$ in terms of a multiple of $24$ plus the residue we are trying to find. We have:\n\n$$-811 = (-34) \\cdot 24 + 23$$\n\nTherefore, the residue of $-811$ modulo $24$ is $23$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 5?: To find the residue of $-811$ modulo $24$, we can first rewrite $-811$ in terms of a multiple of $24$ plus the residue we are trying to find. We have:\n\n$$-811 = (-34) \\cdot 24 + 23$$\n\nTherefore, the residue of $-811$ modulo $24$ is $23$.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "11",
+    "difficulty_value": "1"
+}

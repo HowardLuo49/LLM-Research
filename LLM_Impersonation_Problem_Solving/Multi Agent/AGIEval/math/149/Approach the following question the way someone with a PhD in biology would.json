@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. The graph of $y=ax^2+bx+c$ is given below, where $a$, $b$, and $c$ are integers.  Find $a+b+c$.\n\n[asy]\nLabel f;\n\nf.p=fontsize(4);\n\nxaxis(-3,3,Ticks(f, 1.0));\n\nyaxis(-4,4,Ticks(f, 1.0));\n\nreal f(real x)\n\n{\n\nreturn -2x^2+4x+1;\n\n}\n\ndraw(graph(f,-.7,2.7),linewidth(1),Arrows(6));\n[/asy]",
+    "solution": "3",
+    "gpt_response": "To find the sum $a+b+c$, we need to determine the values of $a$, $b$, and $c$ in the quadratic equation $y = ax^2 + bx + c$ represented by the given graph.\n\nThe graph is a parabola that opens downwards, meaning $a$ is negative. From the graph, we can estimate the vertex to be approximately $(1,3)$, which tells us that $a = -2$, $b = 4$, and $c = 1$. \n\nTherefore, the sum $a+b+c = -2 + 4 + 1 = 3$.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 3?: To find the sum $a+b+c$, we need to determine the values of $a$, $b$, and $c$ in the quadratic equation $y = ax^2 + bx + c$ represented by the given graph.\n\nThe graph is a parabola that opens downwards, meaning $a$ is negative. From the graph, we can estimate the vertex to be approximately $(1,3)$, which tells us that $a = -2$, $b = 4$, and $c = 1$. \n\nTherefore, the sum $a+b+c = -2 + 4 + 1 = 3$.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

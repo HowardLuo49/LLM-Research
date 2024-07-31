@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Rationalize the denominator of $\\frac{5}{\\sqrt{125}}$.",
+    "solution": "Simplify the denominator first to obtain $\\frac{5}{\\sqrt{125}} = \\frac{5}{5\\sqrt{5}} = \\frac{1}{\\sqrt{5}} = \\boxed{\\frac{\\sqrt{5}}{5}}$.",
+    "gpt_response": "Ok kiddos! Let's make the bottom number of the fraction nice and pretty. We can do that by simplifying the square root of 125.\n\nNow, what number multiplied by itself equals 125? Hmm let's see... Oh yes! It's 5! So we can rewrite the square root of 125 as 5.\n\nNow our fraction looks like this: $\\frac{5}{5}$. And 5 divided by 5 is 1!\n\nSo the simplified fraction is $\\frac{5}{\\sqrt{125}} = \\frac{5}{5} = 1$.\n\nGreat job, everyone! We simplified the denominator and made our fraction nice and simple. Yay!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to \\frac{\\sqrt{5?: Ok kiddos! Let's make the bottom number of the fraction nice and pretty. We can do that by simplifying the square root of 125.\n\nNow, what number multiplied by itself equals 125? Hmm let's see... Oh yes! It's 5! So we can rewrite the square root of 125 as 5.\n\nNow our fraction looks like this: $\\frac{5}{5}$. And 5 divided by 5 is 1!\n\nSo the simplified fraction is $\\frac{5}{\\sqrt{125}} = \\frac{5}{5} = 1$.\n\nGreat job, everyone! We simplified the denominator and made our fraction nice and simple. Yay!",
+    "gpt_response_correct_incorrect": "No. The final solution obtained in the given explanation is 1, not \\frac{\\sqrt{5}{5}}.",
+    "yes_no": "no"
+}

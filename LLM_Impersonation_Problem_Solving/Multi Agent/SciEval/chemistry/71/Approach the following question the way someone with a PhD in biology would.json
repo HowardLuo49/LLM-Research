@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. What is the SMILES expression of methyl 4-amino-3-(propan-2-ylamino)butanoate?\nAnswer:",
+    "solution": [
+        "CC(C)NC(CC(=O)OC)CN"
+    ],
+    "gpt_response": "The SMILES expression of methyl 4-amino-3-(propan-2-ylamino)butanoate is CC(C)NCC(CC(=O)OC)C(N)C. In this expression, each uppercase letter represents an atom (e.g. C for Carbon, N for Nitrogen, O for Oxygen), while lowercase letters represent bonds between atoms. The numbers in parentheses indicate the position of substituents on the main chain.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response ['CC(C)NC(CC(=O)OC)CN']?: The SMILES expression of methyl 4-amino-3-(propan-2-ylamino)butanoate is CC(C)NCC(CC(=O)OC)C(N)C. In this expression, each uppercase letter represents an atom (e.g. C for Carbon, N for Nitrogen, O for Oxygen), while lowercase letters represent bonds between atoms. The numbers in parentheses indicate the position of substituents on the main chain.",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "5",
+    "difficulty_value": "5"
+}

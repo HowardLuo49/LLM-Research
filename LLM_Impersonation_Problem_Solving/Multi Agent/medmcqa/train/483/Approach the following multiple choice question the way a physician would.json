@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. More than 90% patients of CREST syndrome with the limited cutaneous form of this disorder make which of the following autoantibodies?\n1: Anti-centromere\n2: Anti-DNA topoisomerase l\n3: Anti-double-stranded DNA\n4: Anti-Golgi",
+    "solution": 1,
+    "gpt_response": "Based on my medical knowledge and experience, the correct answer would be option 1: Anti-centromere. This autoantibody is commonly found in patients with limited cutaneous systemic sclerosis, also known as CREST syndrome. Anti-DNA topoisomerase l is typically associated with diffuse cutaneous systemic sclerosis, while anti-double-stranded DNA is more commonly found in autoimmune disorders such as systemic lupus erythematosus. Anti-Golgi is not typically associated with CREST syndrome.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: Based on my medical knowledge and experience, the correct answer would be option 1: Anti-centromere. This autoantibody is commonly found in patients with limited cutaneous systemic sclerosis, also known as CREST syndrome. Anti-DNA topoisomerase l is typically associated with diffuse cutaneous systemic sclerosis, while anti-double-stranded DNA is more commonly found in autoimmune disorders such as systemic lupus erythematosus. Anti-Golgi is not typically associated with CREST syndrome.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

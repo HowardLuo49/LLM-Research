@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Statement 1 | Every field is also a ring. Statement 2 | Every ring has a multiplicative identity.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "C",
+    "gpt_response": "Teacher: Ok, everyone, let's think about our rings! Remember, every field is also a ring. That's true! And then, does every ring have a multiplicative identity? Let's see... Yes! That's also true! So, what do we say?\n\nPreschooler: True, True!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to C?: Teacher: Ok, everyone, let's think about our rings! Remember, every field is also a ring. That's true! And then, does every ring have a multiplicative identity? Let's see... Yes! That's also true! So, what do we say?\n\nPreschooler: True, True!",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. At 20\u00b0C, a pipe open at both ends resonates at a frequency of 440 hertz. At what frequency does the same pipe resonate on a particularly cold day when the speed of sound is 3 percent lower than it would be at 20\u00b0C ?\nA: 414 Hz\nB: 427 Hz\nC: 433 Hz\nD: 440 Hz",
+    "solution": "B",
+    "gpt_response": "Brrr, it's very chilly outside today! So let's pretend we have a magical pipe that makes sounds. Usually, it makes a sound at 440 hertz when it's 20 degrees Celsius. But today, because it's so cold, the sound moves slower. Hmm, let me think... Oh! I remember my teacher saying that sound moves slower when it's cold. So if it's 3 percent slower, that means the frequency will be a little lower too. Let's see, 3 percent of 440 is... umm, I'm not sure. But I think if we take away a little bit from 440, we'll get the answer! So let's try... 440 minus a little bit... Oh, I think it's 427 hertz! So the answer is B: 427 Hz! Yay, we figured it out!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to B?: Brrr, it's very chilly outside today! So let's pretend we have a magical pipe that makes sounds. Usually, it makes a sound at 440 hertz when it's 20 degrees Celsius. But today, because it's so cold, the sound moves slower. Hmm, let me think... Oh! I remember my teacher saying that sound moves slower when it's cold. So if it's 3 percent slower, that means the frequency will be a little lower too. Let's see, 3 percent of 440 is... umm, I'm not sure. But I think if we take away a little bit from 440, we'll get the answer! So let's try... 440 minus a little bit... Oh, I think it's 427 hertz! So the answer is B: 427 Hz! Yay, we figured it out!",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. Statement 1 | If H is a subgroup of a group G and a belongs to G, then aH = Ha. Statement 2 | If H is normal of G and a belongs to G, then ah = ha for all h in H.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "B",
+    "gpt_response": "To determine the correctness of these statements, we must first understand the definitions involved. \n\nStatement 1 states that if H is a subgroup of a group G and a belongs to G, then aH = Ha. This statement is true because left cosets of H in G are equal to right cosets of H in G for any subgroup H of G and any element a in G.\n\nStatement 2 states that if H is normal of G and a belongs to G, then ah = ha for all h in H. This statement is also true because for a subgroup H to be normal in G, left cosets are equal to right cosets for any element in G and any element in H.\n\nTherefore, the correct answer is A: True, True.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to B?: To determine the correctness of these statements, we must first understand the definitions involved. \n\nStatement 1 states that if H is a subgroup of a group G and a belongs to G, then aH = Ha. This statement is true because left cosets of H in G are equal to right cosets of H in G for any subgroup H of G and any element a in G.\n\nStatement 2 states that if H is normal of G and a belongs to G, then ah = ha for all h in H. This statement is also true because for a subgroup H to be normal in G, left cosets are equal to right cosets for any element in G and any element in H.\n\nTherefore, the correct answer is A: True, True.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

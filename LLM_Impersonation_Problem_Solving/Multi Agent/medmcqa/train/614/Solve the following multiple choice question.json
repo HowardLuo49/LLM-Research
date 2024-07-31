@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. Drug NOT used in pulmonary hypeension is?\n1: Calcium channel blocker\n2: Endothelin receptor antagonist\n3: Alpha blocker\n4: Prostacyclin",
+    "solution": 3,
+    "gpt_response": "3: Alpha blocker",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: 3: Alpha blocker",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

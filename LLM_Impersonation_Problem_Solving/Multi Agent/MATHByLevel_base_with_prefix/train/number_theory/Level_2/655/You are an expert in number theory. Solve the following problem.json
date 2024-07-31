@@ -1,0 +1,10 @@
+{
+    "prefix": "You are an expert in number theory. Solve the following problem. ",
+    "problem_prompt": "You are an expert in number theory. Solve the following problem. A marathon is $26$ miles and $385$ yards. One mile equals $1760$ yards.\n\nLeila has run ten marathons in her life. If the total distance Leila covered in these marathons is $m$ miles and $y$ yards, where $0\\le y<1760$, what is the value of $y$?",
+    "solution": "If one marathon equals $26$ miles and $385$ yards, then ten marathons equal $260$ miles and $3850$ yards. Those $3850$ yards can be broken down as $2$ miles and $3850 - (2\\cdot 1760) = 3850 - 3520 = 330$ yards. Therefore, $y=\\boxed{330}$.",
+    "gpt_response": "Leila has run $10$ marathons in total. Therefore, the total distance she covered is:\n\n$10 \\times (26$ miles $385$ yards) $= 260$ miles $3850$ yards\n\nConverting this into just yards:\n\n$260$ miles $3850$ yards $= 260 \\times 1760$ yards $+ 3850$ yards $= 457600$ yards $+ 3850$ yards $= 461450$ yards\n\nTherefore, $m=260$ and $y=3850$. Since $0\\le y<1760$, the value of $y$ is $\\boxed{3850}$.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 330?: Leila has run $10$ marathons in total. Therefore, the total distance she covered is:\n\n$10 \\times (26$ miles $385$ yards) $= 260$ miles $3850$ yards\n\nConverting this into just yards:\n\n$260$ miles $3850$ yards $= 260 \\times 1760$ yards $+ 3850$ yards $= 457600$ yards $+ 3850$ yards $= 461450$ yards\n\nTherefore, $m=260$ and $y=3850$. Since $0\\le y<1760$, the value of $y$ is $\\boxed{3850}$.",
+    "gpt_response_correct_incorrect": "No, the final solution obtained is 461450, not 330.",
+    "attempts": 3,
+    "yes_no": "no"
+}

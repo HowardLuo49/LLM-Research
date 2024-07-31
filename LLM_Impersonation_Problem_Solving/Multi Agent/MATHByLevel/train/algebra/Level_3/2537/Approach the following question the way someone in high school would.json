@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. If $5a+2b=0$ and $a$ is two less than $b$, what is $7b$?",
+    "solution": "First we begin by solving the system of equations \\begin{align*}\n5a+2b&=0, \\\\\nb-2&=a.\n\\end{align*}Making the substitution for $a$ from the second equation to the first, we get $5(b-2)+2b=0$, which simplifies to $7b-10=0$. Solving for $b$, we find that $b=\\frac{10}{7}$. Hence $7b=7\\cdot \\frac{10}{7}=\\boxed{10}$.",
+    "gpt_response": "First, let's write out the two equations we're given.\n\nOur first equation is $5a+2b=0$.\nOur second equation is $a=b-2$.\n\nLet's solve the second equation for a to substitute it into the first equation.\n\nIf $a=b-2$, then we can substitute $a$ in the first equation with $b-2$.\n\n$5(b-2)+2b=0$\n\nNow, let's distribute and simplify.\n\n$5b-10+2b=0$\n\nCombining like terms, we get:\n\n$7b-10=0$\n\nNow, let's solve for $b$.\n\n$7b=10$\n\nFinally, we can find $7b$ by multiplying $b$ by $7$.\n\n$7b=70$\n\nSo, $7b$ is equal to $70$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 10?: First, let's write out the two equations we're given.\n\nOur first equation is $5a+2b=0$.\nOur second equation is $a=b-2$.\n\nLet's solve the second equation for a to substitute it into the first equation.\n\nIf $a=b-2$, then we can substitute $a$ in the first equation with $b-2$.\n\n$5(b-2)+2b=0$\n\nNow, let's distribute and simplify.\n\n$5b-10+2b=0$\n\nCombining like terms, we get:\n\n$7b-10=0$\n\nNow, let's solve for $b$.\n\n$7b=10$\n\nFinally, we can find $7b$ by multiplying $b$ by $7$.\n\n$7b=70$\n\nSo, $7b$ is equal to $70$.",
+    "gpt_response_correct_incorrect": "No, the final solution obtained is not equal to 10.",
+    "yes_no": "no"
+}

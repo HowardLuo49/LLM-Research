@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. What is the sum of all of the two-digit primes that are greater than 12 but less than 99 and are still prime when their two digits are interchanged?",
+    "solution": "To solve this question we need to think about what the units digit of a prime number could be. A two-digit prime could end in 1, 3, 7 or 9; thus, we need to examine primes only in the 10s, 30s, 70s and 90s because when the digits are switched the tens digit will become the units digit. The primes greater than 12 but less than 99 that are still prime when their two digits are interchanged are 13, 17, 31, 37, 71, 73, 79 and 97. Their sum is $\\boxed{418}$.",
+    "gpt_response": "Ok, so first we need to find all the two-digit primes between 12 and 99. Let's make a list of those numbers: 13, 17, 31, 37, 71, 73, 79, and 97.\n\nNext, we need to find out which of these primes are still prime when their two digits are interchanged. From our list, we can see that 13, 17, 31, 37, and 97 are still prime when their two digits are switched.\n\nFinally, we need to find the sum of these primes: 13 + 17 + 31 + 37 + 97 = 195.\n\nSo, the sum of all the two-digit primes greater than 12 but less than 99 and that are still prime when their two digits are interchanged is 195.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 418?: Ok, so first we need to find all the two-digit primes between 12 and 99. Let's make a list of those numbers: 13, 17, 31, 37, 71, 73, 79, and 97.\n\nNext, we need to find out which of these primes are still prime when their two digits are interchanged. From our list, we can see that 13, 17, 31, 37, and 97 are still prime when their two digits are switched.\n\nFinally, we need to find the sum of these primes: 13 + 17 + 31 + 37 + 97 = 195.\n\nSo, the sum of all the two-digit primes greater than 12 but less than 99 and that are still prime when their two digits are interchanged is 195.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

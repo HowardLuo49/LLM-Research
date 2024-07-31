@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. How many positive factors of 72 are perfect cubes?",
+    "solution": "Prime factorize $72$ as $2^3\\cdot 3^2$.  A positive integer is a factor of 72 if and only if the exponents in its prime factorization are less than or equal to the corresponding exponents in the prime factorization of 72.  Also, a positive integer is a perfect cube if and only if every exponent is a multiple of 3.  Therefore, in forming a perfect cube factor of 72, we have 2 choices for the exponent of $2$ (either 0 or 3) and only 1 choice for the exponent of 3 (namely 0).  There are $2\\cdot 1=\\boxed{2}$ ways to make these choices.",
+    "gpt_response": "Let's look at the factors of 72: 1, 2, 3, 4, 6, 8, 9, 12, 18, 24, 36, 72. \n\nPerfect cubes are numbers that can be written as the cube of a whole number. The perfect cubes in the factors of 72 are 1, 8, and 27. So there are 3 perfect cubes as factors of 72.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 2?: Let's look at the factors of 72: 1, 2, 3, 4, 6, 8, 9, 12, 18, 24, 36, 72. \n\nPerfect cubes are numbers that can be written as the cube of a whole number. The perfect cubes in the factors of 72 are 1, 8, and 27. So there are 3 perfect cubes as factors of 72.",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

@@ -1,0 +1,10 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. Brent rolls a fair dodecahedral die with numbers $1,2,3,...,12$ on its faces. What is the expected number of digits in the number he obtains? Express your answer in a decimal.",
+    "solution": "There are nine numbers with one digit: $1,2,...,9$, so the probability of selecting a one digit number is $\\frac{9}{12} =\\frac{3}{4}$. There are three numbers with two digits: $10,11,12$, so the probability of selecting a two digit number is $\\frac{3}{12} = \\frac{1}{4}$. The expected number of digits is therefore $E = \\frac{3}{4} \\cdot 1 + \\frac{1}{4} \\cdot 2 = \\boxed{1.25}$.",
+    "gpt_response": "First, we need to find the probabilities of obtaining numbers with different number of digits.\n\nThe numbers $1-9$ have one digit each with probability $9/12 = 3/4$.\n\nThe numbers $10-12$ have two digits each with probability $3/12 = 1/4$.\n\nTherefore, the expected number of digits is\n$$E = 1 \\cdot \\frac{3}{4} + 2 \\cdot \\frac{1}{4} = \\frac{3}{4} + \\frac{2}{4} = \\frac{5}{4} = 1.25.$$\n\nSo, the expected number of digits in the number he obtains is $1.25$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 1.25?: First, we need to find the probabilities of obtaining numbers with different number of digits.\n\nThe numbers $1-9$ have one digit each with probability $9/12 = 3/4$.\n\nThe numbers $10-12$ have two digits each with probability $3/12 = 1/4$.\n\nTherefore, the expected number of digits is\n$$E = 1 \\cdot \\frac{3}{4} + 2 \\cdot \\frac{1}{4} = \\frac{3}{4} + \\frac{2}{4} = \\frac{5}{4} = 1.25.$$\n\nSo, the expected number of digits in the number he obtains is $1.25$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes"
+}

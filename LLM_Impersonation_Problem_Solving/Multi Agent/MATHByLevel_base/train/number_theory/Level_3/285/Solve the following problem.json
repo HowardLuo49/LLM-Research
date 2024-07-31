@@ -1,0 +1,10 @@
+{
+    "prefix": "Solve the following problem. ",
+    "problem_prompt": "Solve the following problem. Find the integer $n$, $0 \\le n \\le 11$, such that \\[n \\equiv 10389 \\pmod{12}.\\]",
+    "solution": "Since $10389 \\equiv 9 \\pmod{12}$, the integer $n$ we seek is $n = \\boxed{9}$.",
+    "gpt_response": "We have that $10389 \\equiv 9 \\pmod{12}$. Since $0 \\le n \\le 11$ and $9$ is the remainder when $10389$ is divided by $12$, we have $n = \\boxed{9}$.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 9?: We have that $10389 \\equiv 9 \\pmod{12}$. Since $0 \\le n \\le 11$ and $9$ is the remainder when $10389$ is divided by $12$, we have $n = \\boxed{9}$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes"
+}

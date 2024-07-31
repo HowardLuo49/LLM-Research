@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. How many three-digit perfect cubes are divisible by $9?$",
+    "solution": "A cube is divisible by $9$ if the number being cubed is divisible by $\\sqrt[3]{9}=3^{\\frac{2}{3}}.$ Since a perfect cube is the cube of an integer, we need the number being cubed to be a multiple of $3,$ so the cube is of the form $(3n)^3=27n^3$. Since $\\frac{999}{27}=37,$ the cubes we need are $27$ times a cube less than or equal to $37,$ of which there are three. However, $27\\cdot1^3=27,$ only has two digits, leaving $\\boxed{2}$ such three-digit cubes.",
+    "gpt_response": "First, let's find the range of three-digit perfect cubes. The smallest three-digit perfect cube is $7^3=343$ and the largest three-digit perfect cube is $9^3=729.$\n\nNext, let's find which of these perfect cubes are divisible by $9.$ We know that a number is divisible by $9$ if the sum of its digits is divisible by $9.$\n\nFor $343,$ the sum of its digits is $3+4+3=10,$ which is not divisible by $9.$\n\nFor $512,$ the sum of its digits is $5+1+2=8,$ which is not divisible by $9.$\n\nFor $729,$ the sum of its digits is $7+2+9=18,$ which is divisible by $9.$\n\nTherefore, the only three-digit perfect cube divisible by $9$ is $\\boxed{729}.$",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 2?: First, let's find the range of three-digit perfect cubes. The smallest three-digit perfect cube is $7^3=343$ and the largest three-digit perfect cube is $9^3=729.$\n\nNext, let's find which of these perfect cubes are divisible by $9.$ We know that a number is divisible by $9$ if the sum of its digits is divisible by $9.$\n\nFor $343,$ the sum of its digits is $3+4+3=10,$ which is not divisible by $9.$\n\nFor $512,$ the sum of its digits is $5+1+2=8,$ which is not divisible by $9.$\n\nFor $729,$ the sum of its digits is $7+2+9=18,$ which is divisible by $9.$\n\nTherefore, the only three-digit perfect cube divisible by $9$ is $\\boxed{729}.$",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

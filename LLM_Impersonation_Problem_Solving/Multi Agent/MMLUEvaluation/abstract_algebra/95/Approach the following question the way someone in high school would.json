@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Statement 1 | If H is a subgroup of G and a belongs to G then aH is a subgroup of G if and only if a is in H. Statement 2 | If H is a subgroup of G and a and b belong to G then aH = bH if and only if ab is in H.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "C",
+    "gpt_response": "Hmm, okay let's break this down. So for the first statement, it's saying aH is a subgroup of G if and only if a is in H. I think that makes sense because if a is not in H, then aH wouldn't be a subgroup of G. And for the second statement, it's saying aH equals bH if and only if ab is in H. I think that also makes sense because if ab is not in H, then aH wouldn't be equal to bH. So I would say the answer is A: True, True.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to C?: Hmm, okay let's break this down. So for the first statement, it's saying aH is a subgroup of G if and only if a is in H. I think that makes sense because if a is not in H, then aH wouldn't be a subgroup of G. And for the second statement, it's saying aH equals bH if and only if ab is in H. I think that also makes sense because if ab is not in H, then aH wouldn't be equal to bH. So I would say the answer is A: True, True.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

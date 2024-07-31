@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. I am going to buy exotic fruits.  Dragonfruit costs $x-4$ dollars.  Starfruit is five dollars less expensive than rambutan.  Rambutan costs $2x$ dollars more than dragonfruit.  How much does it cost to buy one rambutan, two starfruit, and three dragonfruit? Your answer will be an expression that depends on $x$.",
+    "solution": "-34 + 12x",
+    "gpt_response": "To approach this problem, we must first express the cost of each fruit in terms of $x$. \n\nFrom the given information:\n1. Dragonfruit costs $x-4$ dollars.\n2. Starfruit costs $5$ dollars less than rambutan, so starfruit costs $2x - 5$ dollars.\n3. Rambutan costs $2x$ dollars more than dragonfruit, so rambutan costs $x-4+2x = 3x - 4$ dollars.\n\nNow, we can calculate the total cost of buying one rambutan, two starfruit, and three dragonfruit:\nTotal cost = Cost of 1 rambutan + Cost of 2 starfruit + Cost of 3 dragonfruit\nTotal cost = $(3x-4) + 2(2x-5) + 3(x-4)$\nTotal cost = $3x - 4 + 4x - 10 + 3x - 12$\nTotal cost = $10x - 26$\n\nTherefore, the expression for the total cost of buying one rambutan, two starfruit, and three dragonfruit is $10x - 26$.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response -34 + 12x?: To approach this problem, we must first express the cost of each fruit in terms of $x$. \n\nFrom the given information:\n1. Dragonfruit costs $x-4$ dollars.\n2. Starfruit costs $5$ dollars less than rambutan, so starfruit costs $2x - 5$ dollars.\n3. Rambutan costs $2x$ dollars more than dragonfruit, so rambutan costs $x-4+2x = 3x - 4$ dollars.\n\nNow, we can calculate the total cost of buying one rambutan, two starfruit, and three dragonfruit:\nTotal cost = Cost of 1 rambutan + Cost of 2 starfruit + Cost of 3 dragonfruit\nTotal cost = $(3x-4) + 2(2x-5) + 3(x-4)$\nTotal cost = $3x - 4 + 4x - 10 + 3x - 12$\nTotal cost = $10x - 26$\n\nTherefore, the expression for the total cost of buying one rambutan, two starfruit, and three dragonfruit is $10x - 26$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

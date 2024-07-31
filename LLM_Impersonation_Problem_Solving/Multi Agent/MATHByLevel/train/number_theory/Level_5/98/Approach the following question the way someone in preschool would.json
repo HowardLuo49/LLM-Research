@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. For all composite integers $n$, what is the largest integer that always divides into the difference between $n$ and the cube of $n$?",
+    "solution": "Notice that $n^3 - n$ factors as $n^3 - n = n(n^2 - 1) = (n-1)n(n+1)$. We observe that among any three consecutive integers, at least one must be divisible by $2$ and one must be divisible by $3$. Thus, we know that $6$ must always divide into $n^3 - n$. Indeed, this is the largest such integer; for $n = 6$, then $n^3 - n = 210 = 6 \\cdot 5 \\cdot 7$, and for $n = 33$, then $n^3 - n = 32 \\cdot 33 \\cdot 34 = 6 \\cdot 32 \\cdot 11 \\cdot 17$, whose greatest common divisor is $\\boxed{6}$.",
+    "gpt_response": "Okay, so we have to find the biggest number that always goes into the difference between a number and its cube. Let's start with a number, like 5. The difference between 5 and its cube (125) is 120, and we can see that 5 goes into 120. Let's try another number, like 8. The difference between 8 and its cube (512) is 504, and 8 goes into 504. So, it seems like the biggest number that always divides into the difference between a number and its cube is the number itself! So, if we have any composite integer $n$, the largest integer that always divides into the difference between $n$ and the cube of $n$ is $n$. Yay, we did it!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 6?: Okay, so we have to find the biggest number that always goes into the difference between a number and its cube. Let's start with a number, like 5. The difference between 5 and its cube (125) is 120, and we can see that 5 goes into 120. Let's try another number, like 8. The difference between 8 and its cube (512) is 504, and 8 goes into 504. So, it seems like the biggest number that always divides into the difference between a number and its cube is the number itself! So, if we have any composite integer $n$, the largest integer that always divides into the difference between $n$ and the cube of $n$ is $n$. Yay, we did it!",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "9",
+    "difficulty_value": "9"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. For how many integers $n$ between 1 and 11 (inclusive) is $\\frac{n}{12}$ a repeating decimal?",
+    "solution": "Recall that a simplified fraction has a terminating decimal representation if and only if the denominator is divisible by no primes other than 2 or 5.\n\nThe prime factorization of $12$ is $2^2 \\cdot 3$. Therefore, $n/12$ terminates if and only if the numerator has a factor of $3$ in it to cancel out the $3$ in the denominator. Since $3$ integers from $1$ to $11$ are divisible by $3$, there are $11-3=\\boxed{8}$ integers $n$ for which the fraction is a repeating decimal.",
+    "gpt_response": "Hmm, let's see. Let's count together and see which numbers make a repeating decimal when we divide them by 12. We start with 1, nope it doesn't repeat. 2, nope. 3, nope. 4, nope. 5, nope. 6, ooo it repeats! 7, nope. 8, nope. 9, nope. 10, nope. 11, nope. So, only 1 out of the numbers from 1 to 11 makes a repeating decimal when divided by 12. Yay, we figured it out together!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 8?: Hmm, let's see. Let's count together and see which numbers make a repeating decimal when we divide them by 12. We start with 1, nope it doesn't repeat. 2, nope. 3, nope. 4, nope. 5, nope. 6, ooo it repeats! 7, nope. 8, nope. 9, nope. 10, nope. 11, nope. So, only 1 out of the numbers from 1 to 11 makes a repeating decimal when divided by 12. Yay, we figured it out together!",
+    "gpt_response_correct_incorrect": "No. The final solution obtained in the example is 6, not 8.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Find the fraction that equals $0.\\overline{73}$.",
+    "solution": "We have \\[0.\\overline{73} = \\frac{73}{100} + \\frac{73}{10000} + \\frac{73}{1000000} + \\cdots.\\]This infinite geometric series has first term $73/100$ and common ratio $1/100$, so we have \\[0.\\overline{73} = \\frac{73/100}{1-1/100} = \\boxed{\\frac{73}{99}}.\\]",
+    "gpt_response": "To find the fraction that equals $0.\\overline{73}$, we can let x = 0.\\overline{73}. \n\nThen, we can multiply both sides of the equation by 100 to get:\n\n100x = 73.\\overline{73}\n\nNow, we can subtract the original equation (x = 0.\\overline{73}) from the new equation to get:\n\n100x - x = 73.\\overline{73} - 0.\\overline{73}\n99x = 73\nx = 73/99\n\nTherefore, the fraction that equals $0.\\overline{73}$ is 73/99.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to \\frac{73?: To find the fraction that equals $0.\\overline{73}$, we can let x = 0.\\overline{73}. \n\nThen, we can multiply both sides of the equation by 100 to get:\n\n100x = 73.\\overline{73}\n\nNow, we can subtract the original equation (x = 0.\\overline{73}) from the new equation to get:\n\n100x - x = 73.\\overline{73} - 0.\\overline{73}\n99x = 73\nx = 73/99\n\nTherefore, the fraction that equals $0.\\overline{73}$ is 73/99.",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

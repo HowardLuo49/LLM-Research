@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. What is the smallest four-digit positive integer that is divisible by 47?",
+    "solution": "We divide 1000 by 47 and get a remainder of 13. Therefore, if we subtract 13 from 1000, we should get an integer divisible by 47. Since $1000-13 = 987$ and 987 is divisible by 47, we can then add 47 to 987 to get the smallest four-digit integer that is divisible by 47, namely $987+47 = \\boxed{1034}$.",
+    "gpt_response": "To find the smallest four-digit number that is divisible by 47, we can start by counting up by 47 until we reach a four-digit number.\n\n47, 94, 141, 188, 235, 282, 329, 376, 423, 470, 517, 564, 611, 658, 705, 752, 799, 846, 893, 940, 987, 1034\n\nThe smallest four-digit number that is divisible by 47 is 1034.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 1034?: To find the smallest four-digit number that is divisible by 47, we can start by counting up by 47 until we reach a four-digit number.\n\n47, 94, 141, 188, 235, 282, 329, 376, 423, 470, 517, 564, 611, 658, 705, 752, 799, 846, 893, 940, 987, 1034\n\nThe smallest four-digit number that is divisible by 47 is 1034.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

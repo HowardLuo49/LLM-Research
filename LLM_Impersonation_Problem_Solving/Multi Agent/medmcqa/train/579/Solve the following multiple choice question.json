@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. Thickness of oxygen inhibition layer in composite curing is:\n1: 1-50 micrometer\n2: 15-150 micrometer\n3: 50-500 micrometer\n4: 1000-2000 micrometer",
+    "solution": 3,
+    "gpt_response": "2: 15-150 micrometer",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: 2: 15-150 micrometer",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

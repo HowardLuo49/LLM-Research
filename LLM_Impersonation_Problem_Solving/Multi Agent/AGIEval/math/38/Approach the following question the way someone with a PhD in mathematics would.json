@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. If $500 - 90 + 7 = 400 - 60 + 5 + N$, what is the value of $N$?",
+    "solution": "72",
+    "gpt_response": "To solve this equation, we simply need to simplify both sides and then solve for the variable $N$.\n\nStarting with the left side of the equation, we have $500 - 90 + 7 = 410 + 7 = 417$.\n\nMoving on to the right side of the equation, we have $400 - 60 + 5 + N = 345 + N$.\n\nNow, since the left side is equal to the right side, we have $417 = 345 + N$. \n\nSubtracting 345 from both sides gives $72 = N$.\n\nTherefore, the value of $N$ is 72.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 72?: To solve this equation, we simply need to simplify both sides and then solve for the variable $N$.\n\nStarting with the left side of the equation, we have $500 - 90 + 7 = 410 + 7 = 417$.\n\nMoving on to the right side of the equation, we have $400 - 60 + 5 + N = 345 + N$.\n\nNow, since the left side is equal to the right side, we have $417 = 345 + N$. \n\nSubtracting 345 from both sides gives $72 = N$.\n\nTherefore, the value of $N$ is 72.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "9",
+    "difficulty_value": "9"
+}

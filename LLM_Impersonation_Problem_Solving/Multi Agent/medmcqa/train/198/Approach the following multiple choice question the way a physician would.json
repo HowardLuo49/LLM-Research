@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Schizophrenia is treated by:\n1: Anti depressants\n2: Anti psychotics\n3: Anti epileptics\n4: Mood stabilizers",
+    "solution": 2,
+    "gpt_response": "As a physician, the appropriate treatment for schizophrenia would be anti psychotics. Anti depressants, anti epileptics, and mood stabilizers may be used in conjunction with anti psychotics depending on the individual's symptoms and overall health, but anti psychotics are the primary treatment for schizophrenia.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: As a physician, the appropriate treatment for schizophrenia would be anti psychotics. Anti depressants, anti epileptics, and mood stabilizers may be used in conjunction with anti psychotics depending on the individual's symptoms and overall health, but anti psychotics are the primary treatment for schizophrenia.",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

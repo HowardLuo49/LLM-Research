@@ -1,0 +1,10 @@
+{
+    "prefix": "You are an expert in number theory. Solve the following problem. ",
+    "problem_prompt": "You are an expert in number theory. Solve the following problem. How many positive two-digit integers have an odd number of positive factors?",
+    "solution": "Only square numbers have an odd number of factors. The $\\boxed{6}$ two-digit squares are 16, 25, 36, 49, 64 and 81.",
+    "gpt_response": "A positive integer has an odd number of factors if and only if it is a perfect square. This is because each factor of a number can be paired with another factor to form a pair (except for the square root of the number, which is only paired with itself). Therefore, the total number of factors of a perfect square is odd.\n\nThere are 7 perfect squares between 11 and 99: 16, 25, 36, 49, 64, 81, and 100. However, 100 is a three-digit number, so we exclude it. Therefore, there are 6 two-digit integers with an odd number of factors.\n\nHence, there are 6 positive two-digit integers with an odd number of positive factors.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 6?: A positive integer has an odd number of factors if and only if it is a perfect square. This is because each factor of a number can be paired with another factor to form a pair (except for the square root of the number, which is only paired with itself). Therefore, the total number of factors of a perfect square is odd.\n\nThere are 7 perfect squares between 11 and 99: 16, 25, 36, 49, 64, 81, and 100. However, 100 is a three-digit number, so we exclude it. Therefore, there are 6 two-digit integers with an odd number of factors.\n\nHence, there are 6 positive two-digit integers with an odd number of positive factors.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes"
+}

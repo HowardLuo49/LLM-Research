@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. The sign of the charge carriers in a doped semiconductor can be deduced by measuring which of the following properties?\nA: Specific heat\nB: Thermal conductivity\nC: Electrical resistivity\nD: Hall coefficient",
+    "solution": "D",
+    "gpt_response": "The sign of the charge carriers in a doped semiconductor can be deduced by measuring the Hall coefficient. The Hall coefficient is a physical property that characterizes the nature of charge carriers in a material. By applying a magnetic field perpendicular to the direction of current flow, the motion of the charge carriers will be influenced, leading to a measurable voltage perpendicular to both the current and magnetic field directions. The sign of this Hall voltage can be used to determine the sign of the charge carriers in the material, whether they are positive (holes) or negative (electrons). This information is crucial in understanding the behavior of doped semiconductors and designing electronic devices based on them.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: The sign of the charge carriers in a doped semiconductor can be deduced by measuring the Hall coefficient. The Hall coefficient is a physical property that characterizes the nature of charge carriers in a material. By applying a magnetic field perpendicular to the direction of current flow, the motion of the charge carriers will be influenced, leading to a measurable voltage perpendicular to both the current and magnetic field directions. The sign of this Hall voltage can be used to determine the sign of the charge carriers in the material, whether they are positive (holes) or negative (electrons). This information is crucial in understanding the behavior of doped semiconductors and designing electronic devices based on them.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

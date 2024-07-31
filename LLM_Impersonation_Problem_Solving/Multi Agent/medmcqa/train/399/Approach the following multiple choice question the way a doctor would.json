@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Storage form of thyroid hormone-\n1: Tri-iodo tyrosine\n2: Tri - iodo thyronine\n3: Thyroglobulin\n4: Di-iodo tyrosine",
+    "solution": 3,
+    "gpt_response": "The storage form of thyroid hormone is:\n3: Thyroglobulin",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: The storage form of thyroid hormone is:\n3: Thyroglobulin",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

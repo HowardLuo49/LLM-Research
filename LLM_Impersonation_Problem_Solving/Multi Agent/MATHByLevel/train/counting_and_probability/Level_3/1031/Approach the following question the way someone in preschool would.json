@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Jason is trying to remember the five digit combination to his safe.  He knows that he only used digits 1 through 5 (possibly repeated), that every even digit was followed by an odd digit, and every odd digit was followed by an even digit.  How many possible combinations does Jason need to try?",
+    "solution": "Of the digits 1 through 5, three are odd and two are even.  If Jason's combination started with an odd digit, there would be 3 possibilities for the first digit.  Since an even digit must follow, there would be 2 possibilities for the second digit.  Similarly, there would be 3 possibilities for the third digit, and so on.  This would be a total of: $$3\\times2\\times3\\times2\\times3=108$$We can apply the same logic if Jason's combination started with an even digit.  There would be 2 possibilities for the first digit, 3 for the second digit, and so on, for a total of : $$2\\times3\\times2\\times3\\times2=72$$Overall, Jason must try $72+108=\\boxed{180}$ combinations.",
+    "gpt_response": "Jason needs to remember numbers 1 to 5. Then he should put them in the safe in order. Then he should make sure that every even number is followed by an odd number and every odd number is followed by an even number.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 180?: Jason needs to remember numbers 1 to 5. Then he should put them in the safe in order. Then he should make sure that every even number is followed by an odd number and every odd number is followed by an even number.",
+    "gpt_response_correct_incorrect": "No",
+    "yes_no": "no"
+}

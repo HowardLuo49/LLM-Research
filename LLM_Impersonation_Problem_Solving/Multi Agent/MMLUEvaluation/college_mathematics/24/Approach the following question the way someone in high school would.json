@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Statement 1 | Suppose {s_n} and {t_n} are sequences of complex numbers such that lim_n\u2192\u221e s_n = s and lim_n\u2192\u221e tn = t. lim_n\u2192\u221e s_nt_n = st. Statement 2 | There exists a bounded sequence of real numbers with no convergent subsequence.\nA: True, True\nB: True, False\nC: False, True\nD: False, False",
+    "solution": "B",
+    "gpt_response": "I think the answer is B: True, False. The first statement is true because it makes sense based on what I know about limits of sequences. The second statement is false because a bounded sequence of real numbers must have a convergent subsequence according to what I've learned in math class.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to B?: I think the answer is B: True, False. The first statement is true because it makes sense based on what I know about limits of sequences. The second statement is false because a bounded sequence of real numbers must have a convergent subsequence according to what I've learned in math class.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

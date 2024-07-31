@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Let $n$ be a  positive integer and $a$ be an integer such that $a$ is its own inverse modulo $n$. What is the remainder when $a^2$ is divided by $n$?",
+    "solution": "Since $a$ is its own inverse modulo $n$, $a\\equiv a^{-1}\\pmod n$. Then \\[a^2\\equiv a\\cdot a\\equiv a\\cdot a^{-1}\\equiv \\boxed{1}\\pmod n.\\]",
+    "gpt_response": "Hmm, let's see. If we have a number $a$ where $a$ is the same as its inverse, that means $a \\times a$ should be equal to $1$ when we divide by $n$. So, the remainder when $a^2$ is divided by $n$ is... $1$! Yay!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 1?: Hmm, let's see. If we have a number $a$ where $a$ is the same as its inverse, that means $a \\times a$ should be equal to $1$ when we divide by $n$. So, the remainder when $a^2$ is divided by $n$ is... $1$! Yay!",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

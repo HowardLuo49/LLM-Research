@@ -1,0 +1,10 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. Of the final five contestants in a television show, three are female and two are male. If two are chosen randomly to be the final contestants, what is the probability that both are female? Express your answer as a common fraction.",
+    "solution": "There are ${5 \\choose 2} = 10$ pairs of contestants.  Exactly ${3 \\choose 2} = 3$ of these are female pairs.  The probability that both of the final contestants are female is $\\boxed{\\frac{3}{10}}$.",
+    "gpt_response": "There are 5 contestants left, and we need to pick 2 of them. Since 3 of them are female, that means we can pick 2 females in 3 ways.\n\nNext, we need to find all the ways to pick 2 contestants out of 5. This is a combination problem, so the formula is nCr = n! / r!(n-r)!. Plugging in our numbers, we get 5C2 = 5! / 2!(5-2)! = 10 ways.\n\nSo, the probability that both contestants chosen are female is 3/10 or three tenths.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to \\frac{3?: There are 5 contestants left, and we need to pick 2 of them. Since 3 of them are female, that means we can pick 2 females in 3 ways.\n\nNext, we need to find all the ways to pick 2 contestants out of 5. This is a combination problem, so the formula is nCr = n! / r!(n-r)!. Plugging in our numbers, we get 5C2 = 5! / 2!(5-2)! = 10 ways.\n\nSo, the probability that both contestants chosen are female is 3/10 or three tenths.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. It takes Michael 0.30 hours to walk to school. How many seconds does it take him to walk to school?",
+    "solution": "1080",
+    "gpt_response": "In order to determine how many seconds it takes Michael to walk to school, we must first convert the time he takes in hours to seconds. Since there are 60 minutes in an hour and 60 seconds in a minute, we can calculate the total time in seconds as follows:\n\n0.30 hours x 60 minutes/hour x 60 seconds/minute = 1080 seconds\n\nTherefore, it takes Michael 1080 seconds to walk to school.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 1080?: In order to determine how many seconds it takes Michael to walk to school, we must first convert the time he takes in hours to seconds. Since there are 60 minutes in an hour and 60 seconds in a minute, we can calculate the total time in seconds as follows:\n\n0.30 hours x 60 minutes/hour x 60 seconds/minute = 1080 seconds\n\nTherefore, it takes Michael 1080 seconds to walk to school.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. How many atoms are there in 2-methyl-3,4,4a,5,6,7,8,8a-octahydroquinoline?\nAnswer (numerical number):",
+    "solution": [
+        28
+    ],
+    "gpt_response": "There are 37 atoms in 2-methyl-3,4,4a,5,6,7,8,8a-octahydroquinoline.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response [28]?: There are 37 atoms in 2-methyl-3,4,4a,5,6,7,8,8a-octahydroquinoline.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

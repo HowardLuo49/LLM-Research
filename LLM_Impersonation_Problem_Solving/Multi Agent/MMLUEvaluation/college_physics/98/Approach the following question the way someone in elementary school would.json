@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. A nonrelativistic particle with a charge twice that of an electron moves through a uniform magnetic field. The field has a strength of \u03c0/4 tesla and is perpendicular to the velocity of the particle. What is the particle\u2019s mass if it has a cyclotron frequency of 1,600 hertz?\nA: 2.5 * 10^-23 kg\nB: 1.2 * 10^-22 kg\nC: 3.3 * 10^-22 kg\nD: 5.0 * 10^-21 kg",
+    "solution": "A",
+    "gpt_response": "Hmm... okay, so we have a particle with a charge that's twice that of an electron moving through a magnetic field. The field has a strength of \u03c0/4 tesla and is perpendicular to the particle's velocity. The particle has a cyclotron frequency of 1,600 hertz.\n\nTo find the mass of the particle, we can use the formula:\n\n\u03c9 = qB/m\n\nWhere:\n\u03c9 = cyclotron frequency (1,600 Hz)\nq = charge of the particle (twice the charge of an electron)\nB = magnetic field strength (\u03c0/4 T)\nm = mass of the particle (what we're trying to find)\n\nLet's plug in the values:\n1,600 = 2*q*(\u03c0/4)/m\n\nNow we can solve for m:\nm = 2*q*(\u03c0/4)/1,600\nm = 2*1.6*\u03c0*10^-19 / 1,600\nm = 3.2*\u03c0*10^-19 / 1,600\nm = 210^-19 / 500\nm = 2 * 10^-22\n\nSo the particle's mass is 2.5 * 10^-22 kg. Yay!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to A?: Hmm... okay, so we have a particle with a charge that's twice that of an electron moving through a magnetic field. The field has a strength of \u03c0/4 tesla and is perpendicular to the particle's velocity. The particle has a cyclotron frequency of 1,600 hertz.\n\nTo find the mass of the particle, we can use the formula:\n\n\u03c9 = qB/m\n\nWhere:\n\u03c9 = cyclotron frequency (1,600 Hz)\nq = charge of the particle (twice the charge of an electron)\nB = magnetic field strength (\u03c0/4 T)\nm = mass of the particle (what we're trying to find)\n\nLet's plug in the values:\n1,600 = 2*q*(\u03c0/4)/m\n\nNow we can solve for m:\nm = 2*q*(\u03c0/4)/1,600\nm = 2*1.6*\u03c0*10^-19 / 1,600\nm = 3.2*\u03c0*10^-19 / 1,600\nm = 210^-19 / 500\nm = 2 * 10^-22\n\nSo the particle's mass is 2.5 * 10^-22 kg. Yay!",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

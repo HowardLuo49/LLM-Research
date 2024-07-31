@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. DOC for listeria meningitis:\n1: Ampicillin\n2: Cefotaxime\n3: Cefotriaxone\n4: Ciprofloxacin",
+    "solution": 1,
+    "gpt_response": "The DOC for listeria meningitis is Ampicillin. Ampicillin is a broad-spectrum antibiotic that is effective against Listeria monocytogenes, the bacterium that causes listeria meningitis. It is important to start treatment with ampicillin as soon as possible to reduce the risk of complications and improve outcomes for the patient. Cefotaxime, Cefotriaxone, and Ciprofloxacin are not typically the first-line treatment for listeria meningitis.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: The DOC for listeria meningitis is Ampicillin. Ampicillin is a broad-spectrum antibiotic that is effective against Listeria monocytogenes, the bacterium that causes listeria meningitis. It is important to start treatment with ampicillin as soon as possible to reduce the risk of complications and improve outcomes for the patient. Cefotaxime, Cefotriaxone, and Ciprofloxacin are not typically the first-line treatment for listeria meningitis.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

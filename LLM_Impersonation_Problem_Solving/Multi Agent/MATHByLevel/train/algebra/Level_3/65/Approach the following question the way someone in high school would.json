@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. A television's price was discounted $40\\%$ and then slashed another $40\\%$ during a liquidation sale. By what percent has the original price been reduced?",
+    "solution": "Let the original price of the television be $T$. Then the price is now $0.6(0.6T)=0.36T$. Thus overall the price has been reduced by $1-0.36=\\boxed{64\\%}$.",
+    "gpt_response": "To find the total percent that the original price has been reduced by, we need to multiply the two percent reductions. \n\nFirst, the price was reduced by $40\\%$, so the price remaining is $60\\%$ of the original price. \n\nThen, the price was reduced by another $40\\%$, so the final price is $60\\% \\times 40% = 24\\%$ of the original price. \n\nTherefore, the original price has been reduced by $100\\% - 24\\% = 76\\%$. \n\nSo, the original price has been reduced by $76\\%$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 64\\%?: To find the total percent that the original price has been reduced by, we need to multiply the two percent reductions. \n\nFirst, the price was reduced by $40\\%$, so the price remaining is $60\\%$ of the original price. \n\nThen, the price was reduced by another $40\\%$, so the final price is $60\\% \\times 40% = 24\\%$ of the original price. \n\nTherefore, the original price has been reduced by $100\\% - 24\\% = 76\\%$. \n\nSo, the original price has been reduced by $76\\%$.",
+    "gpt_response_correct_incorrect": "No",
+    "yes_no": "no"
+}

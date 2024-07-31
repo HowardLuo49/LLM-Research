@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Find the maximum possible order for an element of S_n for n = 6.\nA: 6\nB: 12\nC: 30\nD: 105",
+    "solution": "A",
+    "gpt_response": "Hmm, let's count together. For n = 6, let's see how many times we can repeat an element before it gets back to where it started. Let's start with a fun game of jumping! \n\n1, 2, 3, 4, 5, 6... oh no, we're back where we started. So, the maximum possible order for an element of S_6 is 6. Yay, we did it! The answer is A: 6. Great teamwork!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to A?: Hmm, let's count together. For n = 6, let's see how many times we can repeat an element before it gets back to where it started. Let's start with a fun game of jumping! \n\n1, 2, 3, 4, 5, 6... oh no, we're back where we started. So, the maximum possible order for an element of S_6 is 6. Yay, we did it! The answer is A: 6. Great teamwork!",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "D: 105",
+    "difficulty_value": "5"
+}

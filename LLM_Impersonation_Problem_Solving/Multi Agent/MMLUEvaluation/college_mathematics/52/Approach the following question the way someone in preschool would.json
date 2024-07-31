@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Let S be a compact topological space, let T be a topological space, and let f be a function from S onto T. Of the following conditions on f, which is the weakest condition sufficient to ensure the compactness of T?\nA: f is a homeomorphism.\nB: f is continuous and one-to-one\nC: f is continuous.\nD: f is one-to-one",
+    "solution": "C",
+    "gpt_response": "Teacher, teacher, which one makes T compact? A: f is a homeomorphism, B: f is continuous and one-to-one, C: f is continuous, or D: f is one-to-one?",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to C?: Teacher, teacher, which one makes T compact? A: f is a homeomorphism, B: f is continuous and one-to-one, C: f is continuous, or D: f is one-to-one?",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "9",
+    "difficulty_value": "9"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. An athelete presented with red coloured urine after 2 days of history of severe exeion. The most probable cause is?\n1: Hemoglobinuria\n2: Hemosiderinuria\n3: Hematuria\n4: Myoglobinuria",
+    "solution": 4,
+    "gpt_response": "4: Myoglobinuria\n\nExplanation: Red coloured urine after strenuous exercise is most likely due to myoglobinuria, which is the presence of myoglobin in the urine. Myoglobin is a protein found in muscle cells and can be released into the bloodstream and excreted in the urine following muscle injury or exertion.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 4?: 4: Myoglobinuria\n\nExplanation: Red coloured urine after strenuous exercise is most likely due to myoglobinuria, which is the presence of myoglobin in the urine. Myoglobin is a protein found in muscle cells and can be released into the bloodstream and excreted in the urine following muscle injury or exertion.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

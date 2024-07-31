@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. A grating spectrometer can just barely resolve two wavelengths of 500 nm and 502 nm, respectively. Which of the following gives the resolving power of the spectrometer?\nA: 2\nB: 250\nC: 5,000\nD: 10,000",
+    "solution": "B",
+    "gpt_response": "The resolving power of a spectrometer is defined as the minimum wavelength difference that can be distinguished by the instrument. In this case, the spectrometer can just barely resolve two wavelengths of 500 nm and 502 nm, meaning the minimum wavelength difference is 2 nm. Therefore, the resolving power of the spectrometer is 2. so the correct answer is A: 2.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to B?: The resolving power of a spectrometer is defined as the minimum wavelength difference that can be distinguished by the instrument. In this case, the spectrometer can just barely resolve two wavelengths of 500 nm and 502 nm, meaning the minimum wavelength difference is 2 nm. Therefore, the resolving power of the spectrometer is 2. so the correct answer is A: 2.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "C: 5,000",
+    "difficulty_value": "5"
+}

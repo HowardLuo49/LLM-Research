@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. Diagnosis of carcinoid tumors is done by:\n1: 5HIAA\n2: DHEA\n3: DHEA\n4: Metanephrines",
+    "solution": 1,
+    "gpt_response": "1: 5HIAA",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: 1: 5HIAA",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

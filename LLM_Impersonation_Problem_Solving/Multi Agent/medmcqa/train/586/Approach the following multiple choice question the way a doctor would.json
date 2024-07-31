@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Uterine souffle :\n1: Is a soft blowing murmur synchronous with foetal hea sounds\n2: Is due to increase in blood flow through the dilated uterine vessels\n3: Is due to the active foetal movements\n4: Indicates the underlying foetal distress",
+    "solution": 2,
+    "gpt_response": "As a doctor, I would approach this question by first eliminating any obviously incorrect answers. In this case, options 3 and 4 can be ruled out as they do not accurately describe a uterine souffle.\n\nI would then consider the remaining options and recall my medical knowledge about uterine souffle. I know that a uterine souffle is a soft blowing murmur that is synchronous with the maternal pulse. This is caused by the increase in blood flow through the dilated uterine vessels. Therefore, I would confidently choose option 2 as the correct answer.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: As a doctor, I would approach this question by first eliminating any obviously incorrect answers. In this case, options 3 and 4 can be ruled out as they do not accurately describe a uterine souffle.\n\nI would then consider the remaining options and recall my medical knowledge about uterine souffle. I know that a uterine souffle is a soft blowing murmur that is synchronous with the maternal pulse. This is caused by the increase in blood flow through the dilated uterine vessels. Therefore, I would confidently choose option 2 as the correct answer.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

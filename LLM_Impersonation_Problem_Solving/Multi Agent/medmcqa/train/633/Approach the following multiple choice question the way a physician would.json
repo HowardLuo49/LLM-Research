@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. \"Birbeck granules\" are seen in\n1: Melanosomes\n2: Lamellar bodies\n3: Keratohyalin granules\n4: Langerhan cells",
+    "solution": 4,
+    "gpt_response": "In a clinical setting, if a physician encounters the term \"Birbeck granules,\" they would immediately associate it with Langerhans cells. Therefore, the correct answer to the multiple choice question would be 4: Langerhan cells.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 4?: In a clinical setting, if a physician encounters the term \"Birbeck granules,\" they would immediately associate it with Langerhans cells. Therefore, the correct answer to the multiple choice question would be 4: Langerhan cells.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

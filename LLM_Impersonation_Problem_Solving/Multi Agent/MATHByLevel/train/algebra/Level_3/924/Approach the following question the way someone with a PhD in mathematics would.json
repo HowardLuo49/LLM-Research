@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. What is the $y$-intercept of the line $x - 2y = 5$?",
+    "solution": "The $y$-intercept is the point at which the line crosses the $y$-axis.  The $x$-coordinate of such a point is 0.  Setting $x=0$ in the equation gives $-2y = 5$, so $y = \\boxed{-\\frac{5}{2}}$.",
+    "gpt_response": "To find the $y$-intercept of the line $x - 2y = 5$, we first need to rearrange the equation into slope-intercept form, $y = mx + b$, where $m$ is the slope and $b$ is the $y$-intercept.\n\nRearranging the equation $x - 2y = 5$, we get:\n$2y = x - 5$\n$y = \\frac{1}{2}x - \\frac{5}{2}$\n\nNow we can clearly see that the $y$-intercept is at $(0, -\\frac{5}{2})$. Therefore, the $y$-intercept of the line $x - 2y = 5$ is $-\\frac{5}{2}$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to -\\frac{5?: To find the $y$-intercept of the line $x - 2y = 5$, we first need to rearrange the equation into slope-intercept form, $y = mx + b$, where $m$ is the slope and $b$ is the $y$-intercept.\n\nRearranging the equation $x - 2y = 5$, we get:\n$2y = x - 5$\n$y = \\frac{1}{2}x - \\frac{5}{2}$\n\nNow we can clearly see that the $y$-intercept is at $(0, -\\frac{5}{2})$. Therefore, the $y$-intercept of the line $x - 2y = 5$ is $-\\frac{5}{2}$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

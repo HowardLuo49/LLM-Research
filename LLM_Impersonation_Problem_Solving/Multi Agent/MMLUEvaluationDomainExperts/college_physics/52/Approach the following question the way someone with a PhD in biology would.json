@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. The eigenvalues of a Hermitian operator are always\nA: real\nB: imaginary\nC: degenerate\nD: linear",
+    "solution": "A",
+    "gpt_response": "The eigenvalues of a Hermitian operator are always real. This is a fundamental property of Hermitian operators, which are operators that are equal to their own adjoints. This property ensures that the eigenvalues, which represent the possible values of a physical observable when the operator is applied to its corresponding eigenstate, are always real numbers. The real nature of the eigenvalues of a Hermitian operator plays a crucial role in the interpretation of quantum mechanics and the underlying mathematical framework describing physical systems.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to A?: The eigenvalues of a Hermitian operator are always real. This is a fundamental property of Hermitian operators, which are operators that are equal to their own adjoints. This property ensures that the eigenvalues, which represent the possible values of a physical observable when the operator is applied to its corresponding eigenstate, are always real numbers. The real nature of the eigenvalues of a Hermitian operator plays a crucial role in the interpretation of quantum mechanics and the underlying mathematical framework describing physical systems.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. Blood stained sputum may be the only symptom in?\n1: Bronchiectasis\n2: Carcinoma bronchus\n3: Adenoma bronchus\n4: Pulmonary T.B.",
+    "solution": 3,
+    "gpt_response": "2: Carcinoma bronchus",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: 2: Carcinoma bronchus",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

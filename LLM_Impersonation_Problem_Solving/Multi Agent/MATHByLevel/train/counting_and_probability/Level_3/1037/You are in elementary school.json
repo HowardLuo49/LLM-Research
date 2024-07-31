@@ -1,0 +1,7 @@
+{
+    "prefix": "You are in elementary school.\n",
+    "problem_prompt": "You are in elementary school.\nMahmoud tosses three coins. What is the probability that he will get at least one head?",
+    "solution": "We compute the probability that Mahmoud flips three tails and subtract from 1. The probability that Mahmoud flips one tail with one coin is $\\frac{1}{2}$, so the probability that he flips three tails is $\\left(\\frac{1}{2}\\right)^3 = \\frac{1}{8}$. The probability that he gets at least one head is $1- \\frac{1}{8}= \\boxed{\\frac{7}{8}}$.",
+    "gpt_response": "ChatCompletion(id='chatcmpl-9A2fGkVLUEdo5Bj24wYLT4pt9TEHj', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='To calculate the probability that Mahmoud will get at least one head, we can calculate the probability of getting all tails and then subtract that from 1. \\n\\nEach coin has 2 possible outcomes (heads or tails), so there are a total of 2^3 = 8 possible outcomes when tossing three coins.\\n\\nThe only outcome where Mahmoud does not get at least one head is if all three coins land on tails, which has a probability of (1/2)*(1/2)*(1/2) = 1/8.\\n\\nTherefore, the probability that Mahmoud will get at least one head is 1 - 1/8 = 7/8.', role='assistant', function_call=None, tool_calls=None))], created=1712180550, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint='fp_b28b39ffa8', usage=CompletionUsage(completion_tokens=134, prompt_tokens=34, total_tokens=168))",
+    "yes_no": "yes"
+}

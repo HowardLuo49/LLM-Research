@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. What is the SMILES expression of (3R)-1-(2H-tetrazol-5-yl)pyrrolidin-3-ol?\nAnswer:",
+    "solution": [
+        "C1CN(CC1O)C2=NNN=N2"
+    ],
+    "gpt_response": "The SMILES expression of (3R)-1-(2H-tetrazol-5-yl)pyrrolidin-3-ol can be written as:\n\nCC1CNC[C@@H](O1)c1nnc(n1)N\n\nThis SMILES expression encodes the structural information of the molecule in a compact and standardized format, allowing for easy representation and manipulation in computer systems.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response ['C1CN(CC1O)C2=NNN=N2']?: The SMILES expression of (3R)-1-(2H-tetrazol-5-yl)pyrrolidin-3-ol can be written as:\n\nCC1CNC[C@@H](O1)c1nnc(n1)N\n\nThis SMILES expression encodes the structural information of the molecule in a compact and standardized format, allowing for easy representation and manipulation in computer systems.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

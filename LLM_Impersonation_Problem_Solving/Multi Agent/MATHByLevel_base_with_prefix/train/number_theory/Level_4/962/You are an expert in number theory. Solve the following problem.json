@@ -1,0 +1,10 @@
+{
+    "prefix": "You are an expert in number theory. Solve the following problem. ",
+    "problem_prompt": "You are an expert in number theory. Solve the following problem. What is the largest integer that must divide the product of any $4$ consecutive integers?",
+    "solution": "Any $4$ consecutive integers will have at least one multiple of $3,$ an even number not divisible by $4,$ and a multiple of $4.$ Therefore the product of any $4$ consecutive integers must be divisible by $2\\cdot 3\\cdot 4=\\boxed{24}.$\n\nWe can check that no larger number divides every product of four consecutive integers by considering $1\\cdot2\\cdot3\\cdot4=24$.",
+    "gpt_response": "Let's consider any four consecutive integers, denoted as $n, n+1, n+2,$ and $n+3$.\n\nObserving these numbers, we can see that at least one of them must be divisible by $2$, another must be divisible by $3$, and another must be divisible by $4$.\n\nTherefore, the largest integer that must divide the product of any $4$ consecutive integers is $2 \\times 3 \\times 4 = 24$.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 24?: Let's consider any four consecutive integers, denoted as $n, n+1, n+2,$ and $n+3$.\n\nObserving these numbers, we can see that at least one of them must be divisible by $2$, another must be divisible by $3$, and another must be divisible by $4$.\n\nTherefore, the largest integer that must divide the product of any $4$ consecutive integers is $2 \\times 3 \\times 4 = 24$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes"
+}

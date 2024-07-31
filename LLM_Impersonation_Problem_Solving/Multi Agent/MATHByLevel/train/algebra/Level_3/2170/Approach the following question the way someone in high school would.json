@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Evaluate $\\left\\lceil\\sqrt{2}\\,\\right\\rceil+\\left\\lceil\\sqrt{22}\\,\\right\\rceil+\\left\\lceil\\sqrt{222}\\,\\right\\rceil$.",
+    "solution": "Since the following inequalities are true, \\[\\sqrt{1}<\\sqrt{2}<\\sqrt{4} \\Rightarrow 1<\\sqrt{2}<2\\]\\[\\sqrt{16}<\\sqrt{22}<\\sqrt{25} \\Rightarrow 4<\\sqrt{22}<5\\]\\[\\sqrt{196}<\\sqrt{222}<\\sqrt{225} \\Rightarrow 14<\\sqrt{222}<15\\]the smallest integer greater than $\\sqrt{2}$ is $2$, the smallest integer greater than $\\sqrt{22}$ is $5$, and the smallest integer greater than $\\sqrt{222}$ is $15$. Therefore, $2+5+15=\\boxed{22}$.",
+    "gpt_response": "Ok, so first let's find the square roots of each of these numbers. \n\nThe square root of 2 is around 1.414, so the ceiling of that is 2. \n\nThe square root of 22 is around 4.69, so the ceiling of that is 5. \n\nThe square root of 222 is around 14.9, so the ceiling of that is 15. \n\nNow we just need to add them up: \n\n$2 + 5 + 15 = 22$. \n\nSo the answer is 22.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 22?: Ok, so first let's find the square roots of each of these numbers. \n\nThe square root of 2 is around 1.414, so the ceiling of that is 2. \n\nThe square root of 22 is around 4.69, so the ceiling of that is 5. \n\nThe square root of 222 is around 14.9, so the ceiling of that is 15. \n\nNow we just need to add them up: \n\n$2 + 5 + 15 = 22$. \n\nSo the answer is 22.",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

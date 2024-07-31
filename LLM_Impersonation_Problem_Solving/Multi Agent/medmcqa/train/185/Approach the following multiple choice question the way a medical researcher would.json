@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a medical researcher would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a medical researcher would. A patient on amiodarone is diagnosed to have cornea verticillata. What should be management \u2013\n1: Stop the drug\n2: Penetrating keratoplasty\n3: Lamellar keratoplasty\n4: Observation",
+    "solution": 1,
+    "gpt_response": "1: Stop the drug\n\nExplanation: Cornea verticillata is a common side effect of amiodarone, a medication commonly used to treat heart arrhythmias. It usually resolves upon discontinuation of the medication. Therefore, the first step in management would be to stop the drug. Penetrating keratoplasty or lamellar keratoplasty may be considered in severe cases where visual impairment is significant and does not improve after discontinuing the medication, but observation is not a sufficient management strategy for this condition.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: 1: Stop the drug\n\nExplanation: Cornea verticillata is a common side effect of amiodarone, a medication commonly used to treat heart arrhythmias. It usually resolves upon discontinuation of the medication. Therefore, the first step in management would be to stop the drug. Penetrating keratoplasty or lamellar keratoplasty may be considered in severe cases where visual impairment is significant and does not improve after discontinuing the medication, but observation is not a sufficient management strategy for this condition.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. What is the SMILES expression of C6H14N2O2?\nAnswer:",
+    "solution": [
+        "CCCCC(C(=O)O)NN"
+    ],
+    "gpt_response": "The SMILES expression of a chemical compound is a linear notation that represents its structure in a concise and unambiguous manner. The SMILES expression of C6H14N2O2, which is the chemical formula for lysine, an essential amino acid, would be \"NCCCCC(N)C(O)=O\". This code describes the connectivity of atoms in the molecule, with each element and bond represented by specific characters. It is a useful tool for computer-based chemical informatics and computational chemistry applications.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response ['CCCCC(C(=O)O)NN']?: The SMILES expression of a chemical compound is a linear notation that represents its structure in a concise and unambiguous manner. The SMILES expression of C6H14N2O2, which is the chemical formula for lysine, an essential amino acid, would be \"NCCCCC(N)C(O)=O\". This code describes the connectivity of atoms in the molecule, with each element and bond represented by specific characters. It is a useful tool for computer-based chemical informatics and computational chemistry applications.",
+    "gpt_response_correct_incorrect": "No. The final solution obtained is \"NCCCCC(N)C(O)=O\", not \"CCCCC(C(=O)O)NN\".",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

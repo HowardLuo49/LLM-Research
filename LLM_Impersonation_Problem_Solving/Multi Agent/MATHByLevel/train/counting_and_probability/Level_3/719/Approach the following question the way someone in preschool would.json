@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. How many different four-digit numbers can be formed by arranging the four digits in 2004?",
+    "solution": "To form a four-digit number using 2, 0, 0 and 4, the digit in the thousands place must be 2 or 4. There are three places available for the remaining nonzero digit, whether it is 4 or 2. So the final answer is $\\boxed{6}$.",
+    "gpt_response": "Hmm let's see! We have the digits 2, 0, 0, and 4. Let's try putting them in different order! Let's start with 2...then 0...then another 0...and finally, 4! That makes the number 2004! Yay we did it! Now let's see if we can make more numbers using these digits. Let's try all the different ways we can rearrange these numbers! Let's explore and have fun!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 6?: Hmm let's see! We have the digits 2, 0, 0, and 4. Let's try putting them in different order! Let's start with 2...then 0...then another 0...and finally, 4! That makes the number 2004! Yay we did it! Now let's see if we can make more numbers using these digits. Let's try all the different ways we can rearrange these numbers! Let's explore and have fun!",
+    "gpt_response_correct_incorrect": "No. The final solution obtained is 2004, not 6.",
+    "yes_no": "no"
+}

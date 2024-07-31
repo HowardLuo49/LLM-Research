@@ -1,0 +1,10 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. The probability of snow for each of the next three days is $\\frac{3}{4}$. What is the probability that it will not snow at all during the next three days? Express your answer as a common fraction.",
+    "solution": "The probability of it snowing on any one day is $\\frac{3}{4}$ so the probability of it not snowing on any one day is $\\frac{1}{4}$. So, the probability it not snowing on all three days is $\\left(\\frac{1}{4}\\right)^3 = \\boxed{\\frac{1}{64}}$.",
+    "gpt_response": "Let event A be the event that it snows on a given day, and let event B be the event that it does not snow on a given day. \n\nThe probability of snow for each of the next three days is $\\frac{3}{4}$, so the probability of not snowing on each of the next three days is $1-\\frac{3}{4} = \\frac{1}{4}$. \n\nTherefore, the probability that it will not snow at all during the next three days is the probability that it will not snow on each of the three days, which is $(\\frac{1}{4})^3 = \\frac{1}{64}$. \n\nThus, the probability that it will not snow at all during the next three days is $\\boxed{\\frac{1}{64}}$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to \\frac{1?: Let event A be the event that it snows on a given day, and let event B be the event that it does not snow on a given day. \n\nThe probability of snow for each of the next three days is $\\frac{3}{4}$, so the probability of not snowing on each of the next three days is $1-\\frac{3}{4} = \\frac{1}{4}$. \n\nTherefore, the probability that it will not snow at all during the next three days is the probability that it will not snow on each of the three days, which is $(\\frac{1}{4})^3 = \\frac{1}{64}$. \n\nThus, the probability that it will not snow at all during the next three days is $\\boxed{\\frac{1}{64}}$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes"
+}

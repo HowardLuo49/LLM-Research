@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. What is the sum of the roots of the equation $(x - 5)^2 = 9$?",
+    "solution": "Knowing that $3$ is a root of $9$, we see that $x = 8,2$. Hence, the sum of the roots is $10$.\n\nAlternatively, we can rearrange the equation so that we have $x^2 - 10x + 16 = 0$. Then, using the case of Vieta's formula for a quadratic, we again see that the sum of the roots is $\\boxed{10}$.",
+    "gpt_response": "To find the sum of the roots, we need to first solve the equation $(x - 5)^2 = 9$. \n\nWe can start by taking the square root of both sides to get rid of the square:\n$x - 5 = \u00b13$\n\nNow, we can solve for x by adding 5 to both sides of the equation:\n$x = 5 \u00b1 3$\n\nThis gives us two possible values for x: 8 and 2. \n\nTo find the sum of the roots, we simply add these two values together:\n8 + 2 = 10\n\nSo, the sum of the roots of the equation $(x - 5)^2 = 9$ is 10.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 10?: To find the sum of the roots, we need to first solve the equation $(x - 5)^2 = 9$. \n\nWe can start by taking the square root of both sides to get rid of the square:\n$x - 5 = \u00b13$\n\nNow, we can solve for x by adding 5 to both sides of the equation:\n$x = 5 \u00b1 3$\n\nThis gives us two possible values for x: 8 and 2. \n\nTo find the sum of the roots, we simply add these two values together:\n8 + 2 = 10\n\nSo, the sum of the roots of the equation $(x - 5)^2 = 9$ is 10.",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

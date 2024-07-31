@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Which of the following statements is true?\nA: Every equivalence relation is a partial-ordering relation.\nB: Number of relations form A = {x, y, z} to B= (1, 2), is 64.\nC: Empty relation _ is reflexive\nD: Properties of a relation being symmetric and being un-symmetric are negative of each other.",
+    "solution": "B",
+    "gpt_response": "Hmm, let's see! The true statement is... A: Every equivalence relation is a partial-ordering relation. Yay!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to B?: Hmm, let's see! The true statement is... A: Every equivalence relation is a partial-ordering relation. Yay!",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

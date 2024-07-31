@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Statement 1 | The external direct product of cyclic groups is cyclic. Statement 2 | The external direct product of D_3 and D_4 is isomorphic to D_12.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "B",
+    "gpt_response": "Hmm, let me think about this. So, for the first one, if you mix two groups together, they become one big group, right? And for the second one, if you mix different groups together, they might not be the same as one of the original groups. So, for the first statement it sounds like it would be true that the big group is still cyclic. And for the second statement, it sounds like it would be false because the big group might not be isomorphic to one of the original groups. So, I think the answer is C: True, False.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to B?: Hmm, let me think about this. So, for the first one, if you mix two groups together, they become one big group, right? And for the second one, if you mix different groups together, they might not be the same as one of the original groups. So, for the first statement it sounds like it would be true that the big group is still cyclic. And for the second statement, it sounds like it would be false because the big group might not be isomorphic to one of the original groups. So, I think the answer is C: True, False.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

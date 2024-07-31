@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. In which case cystometric study is indicated -\n1: Neurogenic bladder\n2: Stress incontinence\n3: Fistula\n4: Urge incontinence",
+    "solution": 1,
+    "gpt_response": "The correct answer is 1: Neurogenic bladder. \n\nA cystometric study is indicated in cases of neurogenic bladder to evaluate bladder function and diagnose any abnormalities or dysfunction in nerve control of the bladder. It may also be used in cases of urge incontinence to assess bladder function and potential causes of the symptoms. Stress incontinence and fistula are typically diagnosed through other methods such as physical examination and imaging studies.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: The correct answer is 1: Neurogenic bladder. \n\nA cystometric study is indicated in cases of neurogenic bladder to evaluate bladder function and diagnose any abnormalities or dysfunction in nerve control of the bladder. It may also be used in cases of urge incontinence to assess bladder function and potential causes of the symptoms. Stress incontinence and fistula are typically diagnosed through other methods such as physical examination and imaging studies.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Best disinfectant of cholera stool is-\n1: Bleaching powder\n2: Cresol\n3: Phenol\n4: Lime",
+    "solution": 2,
+    "gpt_response": "As a doctor, I would recommend using bleaching powder as the best disinfectant for cholera stool. Bleaching powder is highly effective in killing cholera bacteria and preventing the spread of the disease. Lime can also be effective, but bleaching powder is generally preferred due to its strong disinfecting properties. Cresol and phenol are also effective disinfectants, but may not be as readily available or as safe to use as bleaching powder.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: As a doctor, I would recommend using bleaching powder as the best disinfectant for cholera stool. Bleaching powder is highly effective in killing cholera bacteria and preventing the spread of the disease. Lime can also be effective, but bleaching powder is generally preferred due to its strong disinfecting properties. Cresol and phenol are also effective disinfectants, but may not be as readily available or as safe to use as bleaching powder.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

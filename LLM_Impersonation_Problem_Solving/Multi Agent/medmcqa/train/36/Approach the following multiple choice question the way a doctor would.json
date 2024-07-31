@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. What is the most probable poal of entry of Aspergillus?\n1: Puncture wound\n2: Blood\n3: Lungs\n4: Gastrointestinal tract",
+    "solution": 3,
+    "gpt_response": "As a doctor, the most probable point of entry of Aspergillus would be the lungs. Aspergillus is a type of fungus that is commonly inhaled and can lead to respiratory infections such as aspergillosis. Although it is possible for Aspergillus to enter the body through other routes such as puncture wounds or the gastrointestinal tract, the most common and likely route of entry is through inhalation into the lungs.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: As a doctor, the most probable point of entry of Aspergillus would be the lungs. Aspergillus is a type of fungus that is commonly inhaled and can lead to respiratory infections such as aspergillosis. Although it is possible for Aspergillus to enter the body through other routes such as puncture wounds or the gastrointestinal tract, the most common and likely route of entry is through inhalation into the lungs.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

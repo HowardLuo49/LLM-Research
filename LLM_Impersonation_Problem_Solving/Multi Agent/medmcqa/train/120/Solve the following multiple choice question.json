@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. Ortolani's test is done for\n1: Congenial dislocation of the knee joints\n2: Congenital dislocation of the hip joints\n3: Congenital dislocation of the shoulder joints\n4: Congenital dislocation of the elbow joints",
+    "solution": 2,
+    "gpt_response": "2: Congenital dislocation of the hip joints",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: 2: Congenital dislocation of the hip joints",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

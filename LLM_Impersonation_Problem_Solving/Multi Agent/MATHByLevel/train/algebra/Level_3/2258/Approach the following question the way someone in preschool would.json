@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. A line is described by the equation $y-4=4(x-8)$. What is the sum of its $x$-intercept and $y$-intercept?",
+    "solution": "To solve for the $x$-intercept, we let $y$ equal 0, and then solve for the value of $x$ as shown: \\begin{align*}\n0-4&=4(x-8)\\\\\n\\Rightarrow\\qquad -1&=(x-8)\\\\\n\\Rightarrow\\qquad 7&=x\n\\end{align*} Similarly, let $x$ equal 0, and solve for the $y$-intercept: \\begin{align*}\ny-4&=4(0-8)\\\\\n\\Rightarrow\\qquad y-4&=-32\\\\\n\\Rightarrow\\qquad y&=-28\n\\end{align*} Therefore, the sum of the $x$ and $y$ intercepts is $7+(-28)=\\boxed{-21}$.",
+    "gpt_response": "To find the $x$-intercept, we set $y=0$ in the equation. So it becomes $-4=4(x-8)$. Then, we get $x-8=-1$, and finally $x=7$ for the $x$-intercept. To find the $y$-intercept, we set $x=0$ in the equation. So it becomes $y-4=4(-8)$, and finally $y=-32$ for the $y$-intercept. The sum of the $x$-intercept and the $y$-intercept is $7+(-32)=-25$. So, the sum is -25.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to -21?: To find the $x$-intercept, we set $y=0$ in the equation. So it becomes $-4=4(x-8)$. Then, we get $x-8=-1$, and finally $x=7$ for the $x$-intercept. To find the $y$-intercept, we set $x=0$ in the equation. So it becomes $y-4=4(-8)$, and finally $y=-32$ for the $y$-intercept. The sum of the $x$-intercept and the $y$-intercept is $7+(-32)=-25$. So, the sum is -25.",
+    "gpt_response_correct_incorrect": "No.",
+    "yes_no": "no"
+}

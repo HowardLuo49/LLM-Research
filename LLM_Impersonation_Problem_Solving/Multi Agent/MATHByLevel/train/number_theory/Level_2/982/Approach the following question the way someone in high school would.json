@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. To prepare for her half-marathon, Mary ran a total of $2847_9$ miles. How many miles (in base ten) did Mary run?",
+    "solution": "$2847_9=2\\cdot9^3+8\\cdot9^2+4\\cdot9^1+7\\cdot9^0=1458+648+36+7=\\boxed{2149}$ miles.",
+    "gpt_response": "To find the number of miles Mary ran in base ten, we need to convert the number given in base nine to base ten. \n\n2847 in base nine is equal to $2(9^3) + 8(9^2) + 4(9^1) + 7(9^0)$ in base ten.\n\nThis simplifies to $2(729) + 8(81) + 4(9) + 7(1)$ in base ten.\n\n$1458 + 648 + 36 + 7$ = $2149$ miles\n\nTherefore, Mary ran a total of 2149 miles.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 2149?: To find the number of miles Mary ran in base ten, we need to convert the number given in base nine to base ten. \n\n2847 in base nine is equal to $2(9^3) + 8(9^2) + 4(9^1) + 7(9^0)$ in base ten.\n\nThis simplifies to $2(729) + 8(81) + 4(9) + 7(1)$ in base ten.\n\n$1458 + 648 + 36 + 7$ = $2149$ miles\n\nTherefore, Mary ran a total of 2149 miles.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

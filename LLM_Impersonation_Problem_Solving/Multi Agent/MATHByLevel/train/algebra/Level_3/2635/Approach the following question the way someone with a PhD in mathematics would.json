@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. If $A:B:C = 2:1:4$, what is the value of $(3A + 2B) \\div (4C - A)$? Express your answer as a common fraction.",
+    "solution": "Suppose that $B = x$.  Then $A = 2x$ and $C = 4x$.  Thus $(3A + 2B)\\div (4C - A) = \\frac{8x}{14x} = \\frac{8}{14}=\\boxed{\\frac{4}{7}}$.",
+    "gpt_response": "To find the value of $(3A + 2B) \\div (4C - A)$, we first need to find the actual values of A, B, and C. \n\nGiven that $A:B:C = 2:1:4$, we can express A, B, and C as multiples of a variable k, so let's say $A = 2k$, $B = k$, and $C = 4k$. \n\nNow, we substitute A, B, and C back into the expression we want to find:\n\n$(3(2k) + 2(k)) \\div (4(4k) - 2k)$\n= $(6k + 2k) \\div (16k - 2k)$\n= $8k \\div 14k$\n= $\\frac{8k}{14k}$\n= $\\frac{4}{7}$\n\nTherefore, the value of $(3A + 2B) \\div (4C - A)$ is $\\frac{4}{7}$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to \\frac{4?: To find the value of $(3A + 2B) \\div (4C - A)$, we first need to find the actual values of A, B, and C. \n\nGiven that $A:B:C = 2:1:4$, we can express A, B, and C as multiples of a variable k, so let's say $A = 2k$, $B = k$, and $C = 4k$. \n\nNow, we substitute A, B, and C back into the expression we want to find:\n\n$(3(2k) + 2(k)) \\div (4(4k) - 2k)$\n= $(6k + 2k) \\div (16k - 2k)$\n= $8k \\div 14k$\n= $\\frac{8k}{14k}$\n= $\\frac{4}{7}$\n\nTherefore, the value of $(3A + 2B) \\div (4C - A)$ is $\\frac{4}{7}$.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "yes_no": "yes"
+}

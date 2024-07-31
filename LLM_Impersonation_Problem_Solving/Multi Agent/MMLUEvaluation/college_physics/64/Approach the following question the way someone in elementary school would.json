@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. Two simple pendulums A and B consist of identical masses suspended from strings of length L_A and L_B, respectively. The two pendulums oscillate in equal gravitational fields. If the period of pendulum B is twice the period of pendulum A, which of the following is true of the lengths of the two pendulums?\nA: L_B = 4L_A\nB: L_B = 2L_A\nC: L_B = L_A\nD: L_B = 1/2 L_A",
+    "solution": "A",
+    "gpt_response": "Well, if pendulum B has a period that is twice as long as pendulum A, that means it takes twice as long for it to complete one full swing. This could be because pendulum B has a longer string, which would mean it has a longer length. So, the answer would be B: L_B = 2L_A.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to A?: Well, if pendulum B has a period that is twice as long as pendulum A, that means it takes twice as long for it to complete one full swing. This could be because pendulum B has a longer string, which would mean it has a longer length. So, the answer would be B: L_B = 2L_A.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "5",
+    "difficulty_value": "5"
+}

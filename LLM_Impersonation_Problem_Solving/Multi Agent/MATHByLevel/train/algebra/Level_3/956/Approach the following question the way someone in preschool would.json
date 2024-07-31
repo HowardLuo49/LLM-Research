@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. What is the greatest possible sum of two consecutive integers whose product is less than 400?",
+    "solution": "Let the two integers be $n$ and $n + 1,$ so $n(n + 1) < 400.$  Then the largest possible value of $n$ will be close to the square root of 400, which is $\\sqrt{400} = 20.$  For $n = 19,$ $n(n + 1) = 19 \\cdot 20 = 380,$ and for $n = 20,$ $n(n + 1) = 20 \\cdot 21 = 420,$ so the largest possible sum of two consecutive integers whose product is less than 400 is $19 + 20 = \\boxed{39}.$",
+    "gpt_response": "Hmm, let's see. Consecutive integers are numbers that come one right after the other. So, if we start with 1, the next number would be 2. And if we multiply 1 and 2 together, we get 2.\n\nLet's try another pair of consecutive integers. If we start with 9, the next number would be 10. And if we multiply 9 and 10 together, we get 90.\n\nSo, it looks like the greatest possible sum of two consecutive integers whose product is less than 400 is 19 (9 + 10).",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 39?: Hmm, let's see. Consecutive integers are numbers that come one right after the other. So, if we start with 1, the next number would be 2. And if we multiply 1 and 2 together, we get 2.\n\nLet's try another pair of consecutive integers. If we start with 9, the next number would be 10. And if we multiply 9 and 10 together, we get 90.\n\nSo, it looks like the greatest possible sum of two consecutive integers whose product is less than 400 is 19 (9 + 10).",
+    "gpt_response_correct_incorrect": "No, the final solution obtained is not equal to 39.",
+    "yes_no": "no"
+}

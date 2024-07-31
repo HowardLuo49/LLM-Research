@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. CSF is stored at:Kerala 11\n1: 4degC\n2: -20degC\n3: Room temperature\n4: -70degC",
+    "solution": 1,
+    "gpt_response": "In a medical context, CSF stands for cerebrospinal fluid, which is a clear, colorless fluid that surrounds the brain and spinal cord. It is important to store CSF under specific conditions to maintain its integrity and avoid contamination. \n\nBased on my knowledge and experience as a physician, CSF should be stored at 4\u00b0C (Option 1) to preserve its characteristics and minimize the risk of bacterial growth. Storing CSF at room temperature (Option 3) could lead to degradation of proteins and cells in the fluid. Storing CSF at subzero temperatures like -20\u00b0C (Option 2) or -70\u00b0C (Option 4) could result in freezing and damage to the fluid.\n\nTherefore, the correct answer is: 1: 4degC.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: In a medical context, CSF stands for cerebrospinal fluid, which is a clear, colorless fluid that surrounds the brain and spinal cord. It is important to store CSF under specific conditions to maintain its integrity and avoid contamination. \n\nBased on my knowledge and experience as a physician, CSF should be stored at 4\u00b0C (Option 1) to preserve its characteristics and minimize the risk of bacterial growth. Storing CSF at room temperature (Option 3) could lead to degradation of proteins and cells in the fluid. Storing CSF at subzero temperatures like -20\u00b0C (Option 2) or -70\u00b0C (Option 4) could result in freezing and damage to the fluid.\n\nTherefore, the correct answer is: 1: 4degC.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. What is the least positive integer that is divisible by three distinct primes?",
+    "solution": "We use the fact that a number which is divisible by three primes must be divisible by their product -- this comes from the Fundamental Theorem of Arithmetic. Since we are looking for the least positive integer, we look at the three smallest primes: 2, 3, and 5. Multiplying these yields $2 \\times 3 \\times 5 = \\boxed{30}$, which is the least positive integer divisible by three distinct primes.",
+    "gpt_response": "To find the least positive integer that is divisible by three distinct primes, first we need to know what primes are. Primes are numbers that can only be divided by 1 and themselves. Some examples are 2, 3, 5, 7, 11, and so on.\n\nNow, we need to find three distinct primes. Let's choose the numbers 2, 3, and 5. To find the smallest number that is divisible by all three of these primes, we need to multiply them together. \n\n2 x 3 x 5 = 30\n\nSo, the least positive integer that is divisible by three distinct primes (2, 3, and 5) is 30.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 30?: To find the least positive integer that is divisible by three distinct primes, first we need to know what primes are. Primes are numbers that can only be divided by 1 and themselves. Some examples are 2, 3, 5, 7, 11, and so on.\n\nNow, we need to find three distinct primes. Let's choose the numbers 2, 3, and 5. To find the smallest number that is divisible by all three of these primes, we need to multiply them together. \n\n2 x 3 x 5 = 30\n\nSo, the least positive integer that is divisible by three distinct primes (2, 3, and 5) is 30.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

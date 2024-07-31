@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Find all solutions to the equation $\\displaystyle\\sqrt[3]{2 - \\frac{x}{2}} = -3$.",
+    "solution": "We get rid of the cube root sign by cubing both sides.  This gives us $2-\\frac{x}{2} = -27$.  Solving this equation gives $x =\\boxed{58}$.",
+    "gpt_response": "To find the solution, we first need to figure out what $x$ is. We know that the cube root of $2 - \\frac{x}{2}$ is -3. This means that when we cube -3, we get $2 - \\frac{x}{2}$. \n\nSo, we can cube -3 to get $(-3)^3 = -27$. This means that $2 - \\frac{x}{2} = -27$. \n\nTo find $x$, we can solve for it by adding $\\frac{x}{2}$ to both sides of the equation: \n\n$2 - \\frac{x}{2} + \\frac{x}{2} = -27 + \\frac{x}{2}$\n$2 = -27 + \\frac{x}{2}$\n$\\frac{x}{2} = 2 + 27$\n$\\frac{x}{2} = 29$\n$x = 58$\n\nSo, the solution to the equation is $x = 58$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 58?: To find the solution, we first need to figure out what $x$ is. We know that the cube root of $2 - \\frac{x}{2}$ is -3. This means that when we cube -3, we get $2 - \\frac{x}{2}$. \n\nSo, we can cube -3 to get $(-3)^3 = -27$. This means that $2 - \\frac{x}{2} = -27$. \n\nTo find $x$, we can solve for it by adding $\\frac{x}{2}$ to both sides of the equation: \n\n$2 - \\frac{x}{2} + \\frac{x}{2} = -27 + \\frac{x}{2}$\n$2 = -27 + \\frac{x}{2}$\n$\\frac{x}{2} = 2 + 27$\n$\\frac{x}{2} = 29$\n$x = 58$\n\nSo, the solution to the equation is $x = 58$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

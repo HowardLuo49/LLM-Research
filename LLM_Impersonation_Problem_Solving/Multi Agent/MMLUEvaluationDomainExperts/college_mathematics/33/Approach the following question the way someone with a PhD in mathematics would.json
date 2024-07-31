@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. A tree is a connected graph with no cycles. How many nonisomorphic trees with 5 vertices exist?\nA: 1\nB: 2\nC: 3\nD: 4",
+    "solution": "C",
+    "gpt_response": "A tree with 5 vertices must have 4 edges in order to be connected and have no cycles (since in a tree with n vertices, there are n-1 edges). \n\nThere are only 4 nonisomorphic trees with 4 edges and 5 vertices. \n\nTherefore, the answer is D: 4.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to C?: A tree with 5 vertices must have 4 edges in order to be connected and have no cycles (since in a tree with n vertices, there are n-1 edges). \n\nThere are only 4 nonisomorphic trees with 4 edges and 5 vertices. \n\nTherefore, the answer is D: 4.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

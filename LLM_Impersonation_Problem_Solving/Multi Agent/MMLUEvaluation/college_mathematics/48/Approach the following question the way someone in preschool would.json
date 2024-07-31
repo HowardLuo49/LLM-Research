@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Which of the following are valid intervals of convergence for a power series?\n(I) [\u22121, 3)\n(II) (\u2212\u221e, 0]\n(III) [2, 2] \u222a [3, 3]\n(IV) (\u2212\u221e,\u221e)\nA: Only (II)\nB: Only (IV )\nC: (I) and (IV )\nD: (II) and (III)",
+    "solution": "C",
+    "gpt_response": "I like (II) because it goes from negative infinity all the way up to 0! Yay! So my answer is B: Only (IV).",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to C?: I like (II) because it goes from negative infinity all the way up to 0! Yay! So my answer is B: Only (IV).",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

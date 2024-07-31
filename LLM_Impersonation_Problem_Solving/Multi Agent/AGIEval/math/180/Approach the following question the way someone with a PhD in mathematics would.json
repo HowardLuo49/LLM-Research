@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. Two 6-sided dice, one red and one green, are rolled.  What is the probability that the red die shows a 2 and the green die shows a 5?",
+    "solution": "\\frac{1}{36}",
+    "gpt_response": "In order to find the probability of the red die showing a 2 and the green die showing a 5, we first need to calculate the total number of possible outcomes when rolling two 6-sided dice.\n\nEach die has 6 possible outcomes: 1, 2, 3, 4, 5, or 6. When two dice are rolled, the total number of possible outcomes is the product of the number of outcomes of each die, which is 6 x 6 = 36.\n\nThe specific outcome we are interested in is when the red die shows a 2 and the green die shows a 5. This is a single outcome out of the total of 36 possible outcomes.\n\nTherefore, the probability of the red die showing a 2 and the green die showing a 5 is 1/36.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response \\frac{1}{36}?: In order to find the probability of the red die showing a 2 and the green die showing a 5, we first need to calculate the total number of possible outcomes when rolling two 6-sided dice.\n\nEach die has 6 possible outcomes: 1, 2, 3, 4, 5, or 6. When two dice are rolled, the total number of possible outcomes is the product of the number of outcomes of each die, which is 6 x 6 = 36.\n\nThe specific outcome we are interested in is when the red die shows a 2 and the green die shows a 5. This is a single outcome out of the total of 36 possible outcomes.\n\nTherefore, the probability of the red die showing a 2 and the green die showing a 5 is 1/36.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

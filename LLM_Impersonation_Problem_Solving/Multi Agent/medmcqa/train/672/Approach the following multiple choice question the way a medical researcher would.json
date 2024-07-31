@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a medical researcher would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a medical researcher would. Most common cause for acute infantile gastroenteritis is?\n1: Adenovirus\n2: E coli\n3: Norwalk virus\n4: Rota virus",
+    "solution": 4,
+    "gpt_response": "To determine the most common cause of acute infantile gastroenteritis, a medical researcher would likely conduct a literature review and analyze data from previous studies and clinical reports. They might also consider factors such as geographic location, seasonality, and patient demographics.\n\nBased on current research and data, rotavirus is generally considered the most common cause of acute infantile gastroenteritis. Rotavirus is highly contagious and spreads easily through contact with infected individuals or contaminated surfaces. It is especially common in young children and infants, causing symptoms such as diarrhea, vomiting, and fever. \n\nWhile adenovirus, E coli, and Norwalk virus can also cause gastroenteritis in infants, rotavirus is typically the most prevalent and therefore the most likely cause in a majority of cases.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 4?: To determine the most common cause of acute infantile gastroenteritis, a medical researcher would likely conduct a literature review and analyze data from previous studies and clinical reports. They might also consider factors such as geographic location, seasonality, and patient demographics.\n\nBased on current research and data, rotavirus is generally considered the most common cause of acute infantile gastroenteritis. Rotavirus is highly contagious and spreads easily through contact with infected individuals or contaminated surfaces. It is especially common in young children and infants, causing symptoms such as diarrhea, vomiting, and fever. \n\nWhile adenovirus, E coli, and Norwalk virus can also cause gastroenteritis in infants, rotavirus is typically the most prevalent and therefore the most likely cause in a majority of cases.",
+    "gpt_response_correct_incorrect": "Yes, the final solution obtained in the response is that rotavirus is the most common cause of acute infantile gastroenteritis.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

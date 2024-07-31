@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. Duhamel procedure is done for -\n1: Hirschsprung's disease\n2: HPSS\n3: Meckels diverticulum\n4: Volvulus",
+    "solution": 1,
+    "gpt_response": "1: Hirschsprung's disease",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: 1: Hirschsprung's disease",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

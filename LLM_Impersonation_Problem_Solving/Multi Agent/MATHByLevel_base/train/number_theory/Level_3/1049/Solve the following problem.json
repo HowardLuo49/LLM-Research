@@ -1,0 +1,10 @@
+{
+    "prefix": "Solve the following problem. ",
+    "problem_prompt": "Solve the following problem. The $24^\\text{th}$ day of a particular month is a Saturday. On what day of the week was the first day of that month?",
+    "solution": "If the $24$th is a Saturday, the $17$th was also a Saturday, as were the $10$th and the $3$rd.  So the $2$nd was a Friday and the $1$st was a $\\boxed{\\text{Thursday}}$.",
+    "gpt_response": "Since there are 7 days in a week, every 7 days the day of the week will repeat. \n\nTherefore, to find the day of the week for the 1st day of the month, we need to count backwards 23 days from Saturday (24th day) to find the 1st day.\n\nSaturday (24th day) - 23 days = Monday\n\nTherefore, the 1st day of the month was a $\\boxed{\\text{Monday}}$.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response \\text{Thursday?: Since there are 7 days in a week, every 7 days the day of the week will repeat. \n\nTherefore, to find the day of the week for the 1st day of the month, we need to count backwards 23 days from Saturday (24th day) to find the 1st day.\n\nSaturday (24th day) - 23 days = Monday\n\nTherefore, the 1st day of the month was a $\\boxed{\\text{Monday}}$.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes"
+}

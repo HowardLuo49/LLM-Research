@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. You recently bought more than 100 eggs. The eggs are sorted in containers that can store exactly 12 eggs. However, upon inspecting the containers, you realize that two containers each hold only 11 eggs, while all the other containers hold 12 eggs. What is the smallest number of eggs you could have right now?",
+    "solution": "If the two containers that held 11 eggs each held 12 eggs, then the number of eggs that you have would have been a multiple of 12. However, two eggs were removed, so the number of eggs you can have is two less than a multiple of 12. Therefore, the number of eggs you could have can be written in the form $12c-2$, where $c$ represents the number of containers you have. As a result, we would like to solve the inequality $12c-2 > 100$, which has solution $c > 8\\frac{1}{2}$. Therefore, since the number of containers must be an integer, we must have $c=9$, so the smallest number of eggs you could have right now is $12(9) - 2 = \\boxed{106}$.",
+    "gpt_response": "If two containers each have only 11 eggs, that means we are missing a total of 2 eggs. Since each container can hold 12 eggs, that means we are missing 1 full container worth of eggs. Therefore, the smallest number of eggs you could have right now is 12 + 12 = 24 eggs.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 106?: If two containers each have only 11 eggs, that means we are missing a total of 2 eggs. Since each container can hold 12 eggs, that means we are missing 1 full container worth of eggs. Therefore, the smallest number of eggs you could have right now is 12 + 12 = 24 eggs.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

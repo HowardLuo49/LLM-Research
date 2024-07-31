@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in physics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in physics would. The sign of the charge carriers in a doped semiconductor can be deduced by measuring which of the following properties?\nA: Specific heat\nB: Thermal conductivity\nC: Electrical resistivity\nD: Hall coefficient",
+    "solution": "D",
+    "gpt_response": "As someone with a PhD in physics, I would approach this question by considering the fundamental principles of semiconductor physics. In a doped semiconductor, the sign of the charge carriers can be determined by measuring the Hall coefficient. The Hall coefficient is a property that characterizes the sign of the charge carriers in a material. By applying a magnetic field perpendicular to the current flow in the semiconductor, the Hall voltage generated allows one to deduce whether the charge carriers are positive (holes) or negative (electrons). Therefore, the correct answer is D: Hall coefficient.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: As someone with a PhD in physics, I would approach this question by considering the fundamental principles of semiconductor physics. In a doped semiconductor, the sign of the charge carriers can be determined by measuring the Hall coefficient. The Hall coefficient is a property that characterizes the sign of the charge carriers in a material. By applying a magnetic field perpendicular to the current flow in the semiconductor, the Hall voltage generated allows one to deduce whether the charge carriers are positive (holes) or negative (electrons). Therefore, the correct answer is D: Hall coefficient.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. A net force F_A acts on object A, and a net force F_B acts on object B. The mass of object B is twice the mass of object A, and the acceleration of object B is twice that of object A. Which of the following is true of forces F_A and F_B?\nA: F_B = 1/4 F_A\nB: F_B = 1/2 F_A\nC: F_B = 2F_A\nD: F_B = 4F_A",
+    "solution": "D",
+    "gpt_response": "To answer this question, we can start by using Newton's second law of motion, which states that the acceleration of an object is directly proportional to the net force acting on it and inversely proportional to its mass. \nWe can express this relationship mathematically as:\n\nF = ma\n\nWhere F is the net force acting on the object, m is the mass of the object, and a is the acceleration of the object.\n\nGiven that the mass of object B is twice the mass of object A, and the acceleration of object B is twice that of object A, we can set up the following relationships:\n\nFor object A:\nF_A = ma_A\n\nFor object B:\nF_B = ma_B\n     = 2m_A * 2a_A\n     = 4(m_A * a_A)\n     = 4F_A\n\nTherefore, the correct statement is D: F_B = 4F_A.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: To answer this question, we can start by using Newton's second law of motion, which states that the acceleration of an object is directly proportional to the net force acting on it and inversely proportional to its mass. \nWe can express this relationship mathematically as:\n\nF = ma\n\nWhere F is the net force acting on the object, m is the mass of the object, and a is the acceleration of the object.\n\nGiven that the mass of object B is twice the mass of object A, and the acceleration of object B is twice that of object A, we can set up the following relationships:\n\nFor object A:\nF_A = ma_A\n\nFor object B:\nF_B = ma_B\n     = 2m_A * 2a_A\n     = 4(m_A * a_A)\n     = 4F_A\n\nTherefore, the correct statement is D: F_B = 4F_A.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

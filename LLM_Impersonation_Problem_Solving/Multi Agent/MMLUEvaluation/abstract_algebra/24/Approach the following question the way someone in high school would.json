@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Statement 1 | Every maximal ideal is a prime ideal. Statement 2 | If I is a maximal ideal of a commutative ring R, then R/I is field.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "B",
+    "gpt_response": "Hmm, let's see. So a maximal ideal is an ideal that is not properly contained in any other ideal. And a prime ideal is an ideal where if you multiply elements from the ring by elements in the ideal, the result is still in the ideal. So, since every maximal ideal is prime, Statement 1 is true. \n\nNow, for Statement 2. If I is a maximal ideal of a commutative ring R, then R/I is a field. This statement is also true because when you take the quotient ring R/I, it ends up being a field since I is maximal.\n\nSo, I think the answer is A: True, True.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to B?: Hmm, let's see. So a maximal ideal is an ideal that is not properly contained in any other ideal. And a prime ideal is an ideal where if you multiply elements from the ring by elements in the ideal, the result is still in the ideal. So, since every maximal ideal is prime, Statement 1 is true. \n\nNow, for Statement 2. If I is a maximal ideal of a commutative ring R, then R/I is a field. This statement is also true because when you take the quotient ring R/I, it ends up being a field since I is maximal.\n\nSo, I think the answer is A: True, True.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "5",
+    "difficulty_value": "5"
+}

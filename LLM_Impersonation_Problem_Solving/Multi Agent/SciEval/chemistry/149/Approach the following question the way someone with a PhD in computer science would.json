@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in computer science would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in computer science would. What is the SMILES expression of (2S)-2-piperazin-1-yl-1-azabicyclo[2.2.2]octane?\nAnswer:",
+    "solution": [
+        "C1CN2CCC1CC2N3CCNCC3"
+    ],
+    "gpt_response": "The SMILES expression for (2S)-2-piperazin-1-yl-1-azabicyclo[2.2.2]octane would be:\n\nN1(CCN2CCNCC2)CCC1",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response ['C1CN2CCC1CC2N3CCNCC3']?: The SMILES expression for (2S)-2-piperazin-1-yl-1-azabicyclo[2.2.2]octane would be:\n\nN1(CCN2CCNCC2)CCC1",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

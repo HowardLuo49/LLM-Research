@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. Our school's girls volleyball team has 14 players, including a set of 3 triplets: Alicia, Amanda, and Anna.  In how many ways can we choose 6 starters with no restrictions? (The triplets are treated as distinguishable.)",
+    "solution": "We are choosing 6 starters from 14 players, which can be done in $\\binom{14}{6} = \\boxed{3003}$ ways.",
+    "gpt_response": "To compute the number of ways to choose 6 starters from 14 players with no restrictions, we can use the combination formula. \n\nThe number of ways to choose 6 starters from 14 players is given by the binomial coefficient \"14 choose 6\", denoted as \"C(14,6)\". \n\nUsing the formula for combinations, C(n, k) = n! / (k! * (n-k)!), we have:\n\nC(14,6) = 14! / (6! * (14-6)!) \n        = 3003\n\nTherefore, there are 3003 ways to choose 6 starters from the 14 players in the girls volleyball team.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 3003?: To compute the number of ways to choose 6 starters from 14 players with no restrictions, we can use the combination formula. \n\nThe number of ways to choose 6 starters from 14 players is given by the binomial coefficient \"14 choose 6\", denoted as \"C(14,6)\". \n\nUsing the formula for combinations, C(n, k) = n! / (k! * (n-k)!), we have:\n\nC(14,6) = 14! / (6! * (14-6)!) \n        = 3003\n\nTherefore, there are 3003 ways to choose 6 starters from the 14 players in the girls volleyball team.",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

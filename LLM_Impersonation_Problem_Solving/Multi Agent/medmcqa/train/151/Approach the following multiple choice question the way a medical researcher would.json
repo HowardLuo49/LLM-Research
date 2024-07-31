@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a medical researcher would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a medical researcher would. To feel comfoable and cool in a factory the conrrected effective temperature ( in degree Farenheit) should be -\n1: Less tha 69\n2: Between 69 and 76\n3: Between 77 and 80\n4: Between 81 and 82",
+    "solution": 2,
+    "gpt_response": "In order to determine the correct effective temperature for comfort and cooling in a factory, a medical researcher would refer to established guidelines or research studies on thermal comfort. The most commonly used standard for assessing thermal comfort in indoor environments is the ASHRAE Standard 55, which provides guidelines for temperature, humidity, air movement, and clothing insulation.\n\nBased on ASHRAE Standard 55, the recommended temperature range for thermal comfort in a factory setting would typically fall within the range of 69 to 76 degrees Fahrenheit. Therefore, the correct answer would be:\n\n2: Between 69 and 76 degrees Fahrenheit",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: In order to determine the correct effective temperature for comfort and cooling in a factory, a medical researcher would refer to established guidelines or research studies on thermal comfort. The most commonly used standard for assessing thermal comfort in indoor environments is the ASHRAE Standard 55, which provides guidelines for temperature, humidity, air movement, and clothing insulation.\n\nBased on ASHRAE Standard 55, the recommended temperature range for thermal comfort in a factory setting would typically fall within the range of 69 to 76 degrees Fahrenheit. Therefore, the correct answer would be:\n\n2: Between 69 and 76 degrees Fahrenheit",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

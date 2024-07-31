@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. How many positive integers less than 100 are both a square and a cube?",
+    "solution": "In order for an integer to be a square and a cube, it must also be a perfect sixth power. The only perfect sixth powers less than 100 are $1^6=1$ and $2^6=64$, so there are only $\\boxed{2}$ positive integers less than 100 that are both a square and a cube.",
+    "gpt_response": "Let's count together! One, four, nine, sixteen, twenty-five, thirty-six, and eighty-one. So, there are seven positive integers less than 100 that are both a square and a cube. Yay!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 2?: Let's count together! One, four, nine, sixteen, twenty-five, thirty-six, and eighty-one. So, there are seven positive integers less than 100 that are both a square and a cube. Yay!",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

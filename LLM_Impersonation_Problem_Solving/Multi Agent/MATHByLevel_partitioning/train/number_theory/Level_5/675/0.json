@@ -1,0 +1,8 @@
+{
+    "problem_prompt": "Your job is to consider a number theory problem, and leave a plan for the next person to solve it. The problem will be revealed one sentence at a time. You do not have the entire problem yet, thus just do whatever calcluations/planning you think will be useful for the next person. If you don't think you can make any progress, say so. The following is a portion of the entire problem, and the work/progress/message the previous person left for you. There may be errors in the provided work that was previously done and left for you, so check and fix them if necessary.\nThe sum of two positive integers $a$ and $b$ is 1001.\n",
+    "solution": "Note that $\\gcd(a,b)$ divides both $a$ and $b$, so $\\gcd(a,b)$ must also divide $a + b = 1001$.  Clearly, $\\gcd(a,b)$ cannot be equal to 1001 (because both $a$ and $b$ must be less than 1001).  The next-largest divisor of 1001 is 143.  If $a = 143$ and $b = 1001 - 143 = 858$, then $\\gcd(a,b) = \\gcd(143,858) = 143$.  Therefore, the largest possible value of $\\gcd(a,b)$ is $\\boxed{143}$.",
+    "gpt_response": "Let's define two positive integers $a$ and $b$ where $a + b = 1001$.\nOne way to approach this problem is to find a relationship between $a$ and $b$ that we can use to solve for both variables.\nSince $a + b = 1001$, we can rewrite this as $b = 1001 - a$.\nNow, we can substitute $b$ in terms of $a$ into the equation $a + b = 1001$ to get $a + (1001 - a) = 1001$.",
+    "solution_prompt": "Question partition not complete yet",
+    "gpt_response_correct_incorrect": "Question partition not complete yet",
+    "yes_no": "Question partition not complete yet"
+}

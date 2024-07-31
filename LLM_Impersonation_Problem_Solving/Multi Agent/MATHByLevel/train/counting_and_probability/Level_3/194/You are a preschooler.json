@@ -1,0 +1,7 @@
+{
+    "prefix": "You are a preschooler.\n",
+    "problem_prompt": "You are a preschooler.\nIn how many ways can 6 distinct beads be placed on a bracelet? (Note that two arrangements are the same if one can be rotated or reflected to produce the other.)",
+    "solution": "There are $6!$ ways to place the beads on the bracelet, but we must divide by 6 for rotational symmetry (6 rotations for each arrangement), and by 2 for reflectional symmetry (we can flip the bracelet to get the same arrangement).  The answer is $\\dfrac{6!}{6 \\times 2} = \\boxed{60}$.",
+    "gpt_response": "ChatCompletion(id='chatcmpl-9A2aP5GuQFCzlzzIiGVIJ3ZPp0ENu', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='There are 720 different ways the beads can be arranged on the bracelet. \\n\\nThis can be found using the formula for permutations of n objects, which is n! (n factorial). For 6 distinct beads, the number of arrangements is 6! = 6 x 5 x 4 x 3 x 2 x 1 = 720.', role='assistant', function_call=None, tool_calls=None))], created=1712180249, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint='fp_b28b39ffa8', usage=CompletionUsage(completion_tokens=73, prompt_tokens=48, total_tokens=121))",
+    "yes_no": "yes"
+}

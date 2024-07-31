@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. What is the smallest positive integer $n$ such that $\\frac{n}{n+101}$ is equal to a terminating decimal?",
+    "solution": "If $\\frac{n}{n+101}$ is a terminating decimal, then $n+101$ is divisible only by 2 and 5. We proceed by looking for integers only divisible by 2 and 5.\n\nWe find that 125 is the smallest power of 5 greater than 101. The smallest satisfactory integer divisible by 25 is also 125; multiplying by powers of 2 gives us 100, then 200. The smallest satisfactory integer divisible by 5 is also 125, since multiplying by powers of 2 gives us 80, then 160. Finally, the smallest power of 2 greater than 101 is 128. 125 is the smallest denominator that will give a terminating decimal, so we have that $n+101 = 125$ which implies $n = \\boxed{24}$.",
+    "gpt_response": "Hmm let's see... to find the smallest number that we need to make the fraction a terminating decimal, we can try different numbers until we find the right one. Let's start with 1. If n is 1, then the fraction is $\\frac{1}{1+101} = \\frac{1}{102}$, which is not a terminating decimal. Let's try n = 2. Then the fraction is $\\frac{2}{2+101} = \\frac{2}{103}$, which is still not a terminating decimal. Let's keep trying different numbers until we find the smallest one that makes the fraction a terminating decimal.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 24?: Hmm let's see... to find the smallest number that we need to make the fraction a terminating decimal, we can try different numbers until we find the right one. Let's start with 1. If n is 1, then the fraction is $\\frac{1}{1+101} = \\frac{1}{102}$, which is not a terminating decimal. Let's try n = 2. Then the fraction is $\\frac{2}{2+101} = \\frac{2}{103}$, which is still not a terminating decimal. Let's keep trying different numbers until we find the smallest one that makes the fraction a terminating decimal.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

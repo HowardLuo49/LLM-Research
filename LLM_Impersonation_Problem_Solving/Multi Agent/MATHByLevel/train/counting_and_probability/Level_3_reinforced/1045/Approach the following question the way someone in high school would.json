@@ -1,0 +1,10 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Find the last two digits of the following sum: $$5! + 10! + 15! + \\cdots + 100!$$",
+    "solution": "Since for all $n \\ge 10$, $n!$ has (at least) two factors of 5, we know that $n!$ will end in two zeros.  Therefore, if $n\\ge 10$, then $n!$ contributes nothing to the last two digits of the sum. So we need only compute $5! = 120$, and hence our answer is $\\boxed{20}$.",
+    "gpt_response": "Okay, so let's break this down. We need to find the last two digits of the sum of all factorials from 5! to 100!. \n\nThe trick here is to focus on the last two digits of each factorial. We can see that the last two digits of 5! are 20, 10! are 00, 15! are 00, 20! are 00, and so on. This pattern continues where the last two digits of each factorial after 10! are always 00.\n\nSo, the sum of all the factorials from 5! to 100! is just equal to 5! + 10! = 20, since everything else is just 00.\n\nTherefore, the last two digits of the sum is 20.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 20?: Okay, so let's break this down. We need to find the last two digits of the sum of all factorials from 5! to 100!. \n\nThe trick here is to focus on the last two digits of each factorial. We can see that the last two digits of 5! are 20, 10! are 00, 15! are 00, 20! are 00, and so on. This pattern continues where the last two digits of each factorial after 10! are always 00.\n\nSo, the sum of all the factorials from 5! to 100! is just equal to 5! + 10! = 20, since everything else is just 00.\n\nTherefore, the last two digits of the sum is 20.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes"
+}

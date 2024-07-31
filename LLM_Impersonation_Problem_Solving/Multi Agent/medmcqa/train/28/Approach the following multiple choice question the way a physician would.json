@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Treatment of choice in traumatic facial nerve injury is:\n1: Facial sling\n2: Facial nerve repair\n3: Conservative management\n4: Systemic corticosteroids",
+    "solution": 2,
+    "gpt_response": "As a physician, the treatment of choice in traumatic facial nerve injury would be based on the severity and location of the injury. Facial sling may be used for supportive purposes in certain cases, but the primary treatment option would likely involve facial nerve repair. This may involve surgical intervention to repair the damaged nerve. Systemic corticosteroids may be considered for their anti-inflammatory properties in some cases, but they are not typically the first-line treatment option for traumatic facial nerve injury. Conservative management may be appropriate for milder cases or for supportive care following surgical intervention.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: As a physician, the treatment of choice in traumatic facial nerve injury would be based on the severity and location of the injury. Facial sling may be used for supportive purposes in certain cases, but the primary treatment option would likely involve facial nerve repair. This may involve surgical intervention to repair the damaged nerve. Systemic corticosteroids may be considered for their anti-inflammatory properties in some cases, but they are not typically the first-line treatment option for traumatic facial nerve injury. Conservative management may be appropriate for milder cases or for supportive care following surgical intervention.",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

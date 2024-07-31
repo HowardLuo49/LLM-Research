@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a medical researcher would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a medical researcher would. . Sulphasalazine is NOT used for the treatment of-\n1: Crohn's disease\n2: Rheumatoid ahritis\n3: Sarcoidosis\n4: Ulcerative colitis",
+    "solution": 3,
+    "gpt_response": "To determine the correct answer, a medical researcher would first review the pharmacological properties of sulfasalazine and its known indications for use. They would also consider any clinical trials or studies that have been conducted on the effectiveness of sulfasalazine in treating the various conditions listed in the question.\n\nBased on current knowledge and research findings, the correct answer is:\n\n3: Sarcoidosis\n\nSulfasalazine is not typically used for the treatment of sarcoidosis. It is more commonly prescribed for inflammatory conditions such as Crohn's disease, rheumatoid arthritis, and ulcerative colitis.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: To determine the correct answer, a medical researcher would first review the pharmacological properties of sulfasalazine and its known indications for use. They would also consider any clinical trials or studies that have been conducted on the effectiveness of sulfasalazine in treating the various conditions listed in the question.\n\nBased on current knowledge and research findings, the correct answer is:\n\n3: Sarcoidosis\n\nSulfasalazine is not typically used for the treatment of sarcoidosis. It is more commonly prescribed for inflammatory conditions such as Crohn's disease, rheumatoid arthritis, and ulcerative colitis.",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

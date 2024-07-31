@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in computer science would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in computer science would. What is the SMILES expression of (1S,2S,4R)-1-bromo-2-heptyl-4-methylcyclohexane?\nAnswer:",
+    "solution": [
+        "CCCCCCCC1CC(CCC1Br)C"
+    ],
+    "gpt_response": "The SMILES expression of (1S,2S,4R)-1-bromo-2-heptyl-4-methylcyclohexane can be represented as \"C[C@@H]1C[C@@H]([C@H](C1)CCCCCCC)C(C)CBr\". This is a linear notation used to represent the structure of chemical compounds in a concise and computer-readable format. This SMILES representation captures the stereochemistry and connectivity of the atoms in the given molecule.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response ['CCCCCCCC1CC(CCC1Br)C']?: The SMILES expression of (1S,2S,4R)-1-bromo-2-heptyl-4-methylcyclohexane can be represented as \"C[C@@H]1C[C@@H]([C@H](C1)CCCCCCC)C(C)CBr\". This is a linear notation used to represent the structure of chemical compounds in a concise and computer-readable format. This SMILES representation captures the stereochemistry and connectivity of the atoms in the given molecule.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

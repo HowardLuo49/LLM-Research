@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. Inhalation of fungal spores can cause primary lung infections. Of the following organisms, which one is most likely to be associated with this mode of transmission?\n1: C. immitis\n2: S. schenckii\n3: C. albicans\n4: T. tonsurans",
+    "solution": 1,
+    "gpt_response": "1: C. immitis\n\nC. immitis is the fungus that causes Valley fever, a disease that is commonly associated with inhalation of fungal spores and can cause primary lung infections in humans.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: 1: C. immitis\n\nC. immitis is the fungus that causes Valley fever, a disease that is commonly associated with inhalation of fungal spores and can cause primary lung infections in humans.",
+    "gpt_response_correct_incorrect": "1: Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

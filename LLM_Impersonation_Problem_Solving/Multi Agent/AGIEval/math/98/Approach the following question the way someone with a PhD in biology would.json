@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. Given $\\mathbf{A} = \\begin{pmatrix} 0 & 1 \\\\ -1 & 0 \\end{pmatrix},$ there exist positive real numbers $x$ and $y$ such that\n\\[(x \\mathbf{I} + y \\mathbf{A})^2 = \\mathbf{A}.\\]Enter the ordered pair $(x,y).$",
+    "solution": "\\left( \\frac{1}{\\sqrt{2}}, \\frac{1}{\\sqrt{2}} \\right)",
+    "gpt_response": "To find the ordered pair $(x,y),$ we can first compute $(x \\mathbf{I} + y \\mathbf{A})^2$ as\n\\[(x \\mathbf{I} + y \\mathbf{A})^2 = (x^2 \\mathbf{I} + 2xy \\mathbf{A} - y^2 \\mathbf{I})^2 = (x^2 - y^2) \\mathbf{I} + 2xy \\mathbf{A}.\\]Setting this equal to $\\mathbf{A},$ we have\n\\[(x^2 - y^2) \\mathbf{I} + 2xy \\mathbf{A} = \\mathbf{A}.\\]This gives us two equations:\n\\[x^2 - y^2 = 0\\]and\n\\[2xy = 1.\\]From the first equation, we have $x = y$ or $x = -y.$ However, $x$ and $y$ are both positive, so $x = y.$ Substituting this into the second equation, we get $2x^2 = 1,$ so $x = \\frac{1}{\\sqrt{2}}.$ Thus, the ordered pair is $\\boxed{\\left( \\frac{1}{\\sqrt{2}}, \\frac{1}{\\sqrt{2}} \\right)}.$",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response \\left( \\frac{1}{\\sqrt{2}}, \\frac{1}{\\sqrt{2}} \\right)?: To find the ordered pair $(x,y),$ we can first compute $(x \\mathbf{I} + y \\mathbf{A})^2$ as\n\\[(x \\mathbf{I} + y \\mathbf{A})^2 = (x^2 \\mathbf{I} + 2xy \\mathbf{A} - y^2 \\mathbf{I})^2 = (x^2 - y^2) \\mathbf{I} + 2xy \\mathbf{A}.\\]Setting this equal to $\\mathbf{A},$ we have\n\\[(x^2 - y^2) \\mathbf{I} + 2xy \\mathbf{A} = \\mathbf{A}.\\]This gives us two equations:\n\\[x^2 - y^2 = 0\\]and\n\\[2xy = 1.\\]From the first equation, we have $x = y$ or $x = -y.$ However, $x$ and $y$ are both positive, so $x = y.$ Substituting this into the second equation, we get $2x^2 = 1,$ so $x = \\frac{1}{\\sqrt{2}}.$ Thus, the ordered pair is $\\boxed{\\left( \\frac{1}{\\sqrt{2}}, \\frac{1}{\\sqrt{2}} \\right)}.$",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

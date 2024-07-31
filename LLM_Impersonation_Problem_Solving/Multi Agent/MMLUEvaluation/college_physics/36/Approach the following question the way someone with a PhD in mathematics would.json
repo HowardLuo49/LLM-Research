@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. By definition, the electric displacement current through a surface S is proportional to the\nA: magnetic flux through S\nB: rate of change of the magnetic flux through S\nC: time integral of the magnetic flux through S\nD: rate of change of the electric flux through S",
+    "solution": "D",
+    "gpt_response": "The correct answer is B: rate of change of the magnetic flux through S.\n\nBy definition, the electric displacement current through a surface S is given by the equation:\n\n\u222eS D\u22c5dA = \u2202\u03a6_B/\u2202t\n\nwhere D is the electric displacement field, dA is the differential area element of the surface S, \u03a6_B is the magnetic flux through the surface S, and \u2202/\u2202t represents the partial derivative with respect to time.\n\nTherefore, the electric displacement current through a surface is proportional to the rate of change of the magnetic flux through that surface.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: The correct answer is B: rate of change of the magnetic flux through S.\n\nBy definition, the electric displacement current through a surface S is given by the equation:\n\n\u222eS D\u22c5dA = \u2202\u03a6_B/\u2202t\n\nwhere D is the electric displacement field, dA is the differential area element of the surface S, \u03a6_B is the magnetic flux through the surface S, and \u2202/\u2202t represents the partial derivative with respect to time.\n\nTherefore, the electric displacement current through a surface is proportional to the rate of change of the magnetic flux through that surface.",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

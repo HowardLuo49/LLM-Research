@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. Triamterene causes\n1: Better glucose tolerance\n2: Muscle cramps\n3: Decrease in urea level\n4: Hypokalemia",
+    "solution": 2,
+    "gpt_response": "2: Muscle cramps",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: 2: Muscle cramps",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

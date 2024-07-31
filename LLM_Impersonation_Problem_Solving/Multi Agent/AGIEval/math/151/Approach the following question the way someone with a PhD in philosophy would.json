@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in philosophy would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in philosophy would. A ball travels on a parabolic path in which the height (in feet) is given by the expression $-25t^2+75t+24$, where $t$ is the time after launch. At what time is the height of the ball at its maximum?",
+    "solution": "\\frac{3}{2}",
+    "gpt_response": "To determine when the height of the ball is at its maximum, we must first find the vertex of the parabolic function $-25t^2+75t+24$. The vertex of a parabola in the form $y=ax^2+bx+c$ is given by the formula $(-b/2a,-(b^2-4ac)/4a)$.\n\nIn this case, our parabolic function is $h(t)=-25t^2+75t+24$, where $a=-25$, $b=75$, and $c=24$. Thus, the time at which the ball reaches its maximum height is given by $-b/2a=-75/(2*-25)=75/50=3/2$. \n\nTherefore, the height of the ball is at its maximum at $t=3/2$ seconds after launch.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response \\frac{3}{2}?: To determine when the height of the ball is at its maximum, we must first find the vertex of the parabolic function $-25t^2+75t+24$. The vertex of a parabola in the form $y=ax^2+bx+c$ is given by the formula $(-b/2a,-(b^2-4ac)/4a)$.\n\nIn this case, our parabolic function is $h(t)=-25t^2+75t+24$, where $a=-25$, $b=75$, and $c=24$. Thus, the time at which the ball reaches its maximum height is given by $-b/2a=-75/(2*-25)=75/50=3/2$. \n\nTherefore, the height of the ball is at its maximum at $t=3/2$ seconds after launch.",
+    "gpt_response_correct_incorrect": "Yes, the final solution obtained is $\\frac{3}{2}$.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

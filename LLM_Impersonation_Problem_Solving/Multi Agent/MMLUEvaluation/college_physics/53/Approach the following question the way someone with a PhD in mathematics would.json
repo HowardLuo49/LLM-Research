@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. A net force F_A acts on object A, and a net force F_B acts on object B. The mass of object B is twice the mass of object A, and the acceleration of object B is twice that of object A. Which of the following is true of forces F_A and F_B?\nA: F_B = 1/4 F_A\nB: F_B = 1/2 F_A\nC: F_B = 2F_A\nD: F_B = 4F_A",
+    "solution": "D",
+    "gpt_response": "To approach this question from a mathematical perspective, we can start by applying Newton's second law, which states that force is equal to mass multiplied by acceleration (F = ma).\n\nGiven that the mass of object B is twice that of object A (m_B = 2m_A) and the acceleration of object B is twice that of object A (a_B = 2a_A), we can write the following equations:\n\nF_A = m_A * a_A\nF_B = m_B * a_B\n\nSubstitute the given values into the equations:\n\nF_A = m_A * a_A\nF_A = m_A * 2a_A\nF_A = 2m_A * a_A\nF_A = F_B / 2\n\nNow, we can see that F_A is half of F_B. Therefore, the correct answer is:\n\nB: F_B = 1/2 F_A",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: To approach this question from a mathematical perspective, we can start by applying Newton's second law, which states that force is equal to mass multiplied by acceleration (F = ma).\n\nGiven that the mass of object B is twice that of object A (m_B = 2m_A) and the acceleration of object B is twice that of object A (a_B = 2a_A), we can write the following equations:\n\nF_A = m_A * a_A\nF_B = m_B * a_B\n\nSubstitute the given values into the equations:\n\nF_A = m_A * a_A\nF_A = m_A * 2a_A\nF_A = 2m_A * a_A\nF_A = F_B / 2\n\nNow, we can see that F_A is half of F_B. Therefore, the correct answer is:\n\nB: F_B = 1/2 F_A",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "9",
+    "difficulty_value": "9"
+}

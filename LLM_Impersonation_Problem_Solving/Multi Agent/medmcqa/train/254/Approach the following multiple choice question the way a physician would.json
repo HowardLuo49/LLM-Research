@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Drug of choice for Falciparum Malaria is:-\n1: Chloroquine\n2: Mefloquine\n3: ACT\n4: Proguanil",
+    "solution": 3,
+    "gpt_response": "As a physician, I would choose option 3: ACT (Artemisinin-based Combination Therapy) as the drug of choice for Falciparum Malaria. This is because ACT is currently recommended by the World Health Organization as the most effective treatment for uncomplicated Falciparum Malaria due to its high efficacy and lower risk of resistance compared to other antimalarial drugs such as Chloroquine, Mefloquine, and Proguanil.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: As a physician, I would choose option 3: ACT (Artemisinin-based Combination Therapy) as the drug of choice for Falciparum Malaria. This is because ACT is currently recommended by the World Health Organization as the most effective treatment for uncomplicated Falciparum Malaria due to its high efficacy and lower risk of resistance compared to other antimalarial drugs such as Chloroquine, Mefloquine, and Proguanil.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a medical researcher would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a medical researcher would. Hypersecretory glaucoma is seen in \u2013\n1: Epidemic dropsy\n2: Marfan's syndrome\n3: Hypertension\n4: Diabetes",
+    "solution": 1,
+    "gpt_response": "A medical researcher would approach this question by first understanding what hypersecretory glaucoma is. Hypersecretory glaucoma is a form of glaucoma characterized by abnormally high production of aqueous humor, the fluid in the eye that helps maintain intraocular pressure.\n\nNext, the researcher would analyze the possible options provided and consider which conditions are known to be associated with increased aqueous humor production. From the options provided, Marfan's syndrome is known to be associated with hypersecretory glaucoma. Marfan's syndrome is a genetic disorder that affects the body's connective tissue and can lead to various ophthalmic complications, including hypersecretory glaucoma.\n\nTherefore, the answer to the question is 2: Marfan's syndrome.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: A medical researcher would approach this question by first understanding what hypersecretory glaucoma is. Hypersecretory glaucoma is a form of glaucoma characterized by abnormally high production of aqueous humor, the fluid in the eye that helps maintain intraocular pressure.\n\nNext, the researcher would analyze the possible options provided and consider which conditions are known to be associated with increased aqueous humor production. From the options provided, Marfan's syndrome is known to be associated with hypersecretory glaucoma. Marfan's syndrome is a genetic disorder that affects the body's connective tissue and can lead to various ophthalmic complications, including hypersecretory glaucoma.\n\nTherefore, the answer to the question is 2: Marfan's syndrome.",
+    "gpt_response_correct_incorrect": "No, the final solution obtained is not option 1. The final solution obtained is option 2: Marfan's syndrome.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

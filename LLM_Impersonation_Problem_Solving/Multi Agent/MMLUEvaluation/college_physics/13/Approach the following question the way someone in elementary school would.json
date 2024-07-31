@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. The primary source of the Sun\u2019s energy is a series of thermonuclear reactions in which the energy produced is c^2 times the mass difference between\nA: two hydrogen atoms and one helium atom\nB: four hydrogen atoms and one helium atom\nC: six hydrogen atoms and two helium atoms\nD: three helium atoms and one carbon atom",
+    "solution": "B",
+    "gpt_response": "The answer is A: two hydrogen atoms and one helium atom. The Sun's energy comes from turning hydrogen into helium through a process called nuclear fusion. This releases a lot of energy, which is why the Sun shines so brightly!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to B?: The answer is A: two hydrogen atoms and one helium atom. The Sun's energy comes from turning hydrogen into helium through a process called nuclear fusion. This releases a lot of energy, which is why the Sun shines so brightly!",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "9",
+    "difficulty_value": "9"
+}

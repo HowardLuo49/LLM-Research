@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Statement 1 | If a group has an element of order 10, then it has elements of orders 1, 2, and 5. Statement 2 | If a group has an element of order 2 and an element of order 3, then it has an element of order 6.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "C",
+    "gpt_response": "Hmm, let's break it down. \n\nFor Statement 1, if there is an element of order 10 in a group, it means that there are elements of orders 1, 2, and 5 as well. This is because the order of an element is the smallest positive integer n such that a^n = e, where e is the identity element. So if an element has an order of 10, it must also have orders 1, 2, and 5. \n\nFor Statement 2, if there are elements of orders 2 and 3 in a group, then the group must also have an element of order 6. This is because the order of an element is the smallest positive integer n such that a^n = e. So if there are elements of orders 2 and 3, their least common multiple is 6, which means there must be an element of order 6 in the group as well. \n\nSo, the answer is A: True, True.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to C?: Hmm, let's break it down. \n\nFor Statement 1, if there is an element of order 10 in a group, it means that there are elements of orders 1, 2, and 5 as well. This is because the order of an element is the smallest positive integer n such that a^n = e, where e is the identity element. So if an element has an order of 10, it must also have orders 1, 2, and 5. \n\nFor Statement 2, if there are elements of orders 2 and 3 in a group, then the group must also have an element of order 6. This is because the order of an element is the smallest positive integer n such that a^n = e. So if there are elements of orders 2 and 3, their least common multiple is 6, which means there must be an element of order 6 in the group as well. \n\nSo, the answer is A: True, True.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

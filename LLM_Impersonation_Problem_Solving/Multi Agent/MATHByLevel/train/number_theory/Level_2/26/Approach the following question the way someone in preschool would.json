@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. What is the sum of the reciprocals of the natural-number factors of 6?",
+    "solution": "The natural-number factors of 6 are 1, 6, 2, 3. The sum of their reciprocals is $1/1+1/6+1/2+1/3=6/6+1/6+3/6+2/6=12/6=\\boxed{2}$.",
+    "gpt_response": "Let's count the natural-number factors of 6 first! The factors of 6 are 1, 2, 3, and 6. \n\nNow, we need to find the reciprocals of these factors. The reciprocal of a number is 1 divided by that number. So, the reciprocals of 1, 2, 3, and 6 are 1/1, 1/2, 1/3, and 1/6.\n\nTo find the sum of these reciprocals, we need to add them together. Let's do it now:\n\n1/1 + 1/2 + 1/3 + 1/6 = 1 + 1/2 + 1/3 + 1/6\n\nSo, the sum of the reciprocals of the natural-number factors of 6 is 1 + 1/2 + 1/3 + 1/6. Yay!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 2?: Let's count the natural-number factors of 6 first! The factors of 6 are 1, 2, 3, and 6. \n\nNow, we need to find the reciprocals of these factors. The reciprocal of a number is 1 divided by that number. So, the reciprocals of 1, 2, 3, and 6 are 1/1, 1/2, 1/3, and 1/6.\n\nTo find the sum of these reciprocals, we need to add them together. Let's do it now:\n\n1/1 + 1/2 + 1/3 + 1/6 = 1 + 1/2 + 1/3 + 1/6\n\nSo, the sum of the reciprocals of the natural-number factors of 6 is 1 + 1/2 + 1/3 + 1/6. Yay!",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

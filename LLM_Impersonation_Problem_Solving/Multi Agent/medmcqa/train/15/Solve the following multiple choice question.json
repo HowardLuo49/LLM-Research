@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. A 60 yr old chronic smoker presents with painless gross hematuria of 1 day duration. Investigation of choice to know the cause of hematuria\n1: USG\n2: X-ray KUB\n3: Urine routine\n4: Urine microscopy for malignant cytology cells",
+    "solution": 4,
+    "gpt_response": "4: Urine microscopy for malignant cytology cells\n\nIn a chronic smoker with painless gross hematuria, there is a higher likelihood of underlying malignancy such as bladder cancer. Therefore, the investigation of choice to identify malignant cells in the urine would be urine microscopy for malignant cytology cells. Other investigations such as USG and X-ray KUB may be helpful in assessing the urinary tract anatomy, while urine routine may show the presence of blood cells but may not specifically identify malignant cells.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 4?: 4: Urine microscopy for malignant cytology cells\n\nIn a chronic smoker with painless gross hematuria, there is a higher likelihood of underlying malignancy such as bladder cancer. Therefore, the investigation of choice to identify malignant cells in the urine would be urine microscopy for malignant cytology cells. Other investigations such as USG and X-ray KUB may be helpful in assessing the urinary tract anatomy, while urine routine may show the presence of blood cells but may not specifically identify malignant cells.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

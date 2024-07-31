@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. Statement 1 | If a R is an integral domain, then R[x] is an integral domain. Statement 2 | If R is a ring and f(x) and g(x) are in R[x], then deg (f(x)g(x)) = deg f(x) + deg g(x).\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "C",
+    "gpt_response": "Statement 1 says that if R is an integral domain, then R[x] is an integral domain. That means if you have a ring where you can add, subtract, and multiply, R[x] is also a ring where you can add, subtract, and multiply. This statement is true.\n\nStatement 2 says that if you have two polynomials f(x) and g(x) in the ring R[x], then the degree of the product f(x)g(x) is equal to the sum of the degrees of f(x) and g(x). For example, if f(x) is x^2 and g(x) is x^3, then the degree of the product f(x)g(x) would be 5 (2+3). This statement is also true.\n\nSo the answer is A: True, True.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to C?: Statement 1 says that if R is an integral domain, then R[x] is an integral domain. That means if you have a ring where you can add, subtract, and multiply, R[x] is also a ring where you can add, subtract, and multiply. This statement is true.\n\nStatement 2 says that if you have two polynomials f(x) and g(x) in the ring R[x], then the degree of the product f(x)g(x) is equal to the sum of the degrees of f(x) and g(x). For example, if f(x) is x^2 and g(x) is x^3, then the degree of the product f(x)g(x) would be 5 (2+3). This statement is also true.\n\nSo the answer is A: True, True.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "5",
+    "difficulty_value": "5"
+}

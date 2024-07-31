@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Find the units digit of $7 \\cdot 17 \\cdot 1977 - 7^3$",
+    "solution": "Since the units digits of $7 \\cdot 17 \\cdot 1977$ and $7^3$ are the same, their difference has a units digit of $\\boxed{0}$.",
+    "gpt_response": "To find the units digit of $7 \\cdot 17 \\cdot 1977 - 7^3$, we first multiply the numbers together. \n$7 \\cdot 17 \\cdot 1977 = 227383$\nNow we subtract $7^3$ from the result.\n$227383 - 7^3 = 227383 - 343 = 227040$\nThe units digit of this number is $0$, so the answer is $\\boxed{0}$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 0?: To find the units digit of $7 \\cdot 17 \\cdot 1977 - 7^3$, we first multiply the numbers together. \n$7 \\cdot 17 \\cdot 1977 = 227383$\nNow we subtract $7^3$ from the result.\n$227383 - 7^3 = 227383 - 343 = 227040$\nThe units digit of this number is $0$, so the answer is $\\boxed{0}$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

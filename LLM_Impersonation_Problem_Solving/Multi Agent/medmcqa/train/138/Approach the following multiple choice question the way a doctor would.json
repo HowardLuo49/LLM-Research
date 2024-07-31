@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Coloured urine is not seen in :\n1: Quinine\n2: Rifampcin\n3: Nitrofurantoin\n4: Pyridium",
+    "solution": 1,
+    "gpt_response": "As a doctor, I would approach this question by considering the mechanisms of action of each medication and their potential side effects related to urine discoloration.\n\n1: Quinine is not typically associated with urine discoloration.\n\n2: Rifampcin is known to cause red-orange discoloration of urine, so this would not be the correct answer.\n\n3: Nitrofurantoin can cause urine discoloration, specifically turning it a brown color.\n\n4: Pyridium, also known as phenazopyridine, is a medication commonly used to relieve urinary tract irritation and can cause orange to red discoloration of urine.\n\nBased on this information, the correct answer would be 1: Quinine, as it is not typically associated with urine discoloration.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: As a doctor, I would approach this question by considering the mechanisms of action of each medication and their potential side effects related to urine discoloration.\n\n1: Quinine is not typically associated with urine discoloration.\n\n2: Rifampcin is known to cause red-orange discoloration of urine, so this would not be the correct answer.\n\n3: Nitrofurantoin can cause urine discoloration, specifically turning it a brown color.\n\n4: Pyridium, also known as phenazopyridine, is a medication commonly used to relieve urinary tract irritation and can cause orange to red discoloration of urine.\n\nBased on this information, the correct answer would be 1: Quinine, as it is not typically associated with urine discoloration.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

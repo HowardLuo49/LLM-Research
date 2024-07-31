@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Let $N$ be the sum of the divisors of $200$. What is the largest prime factor of $N$?",
+    "solution": "The prime factorization of $200$ is $2^3 \\cdot 5^2$. It follows that $N = (1 + 2 + 2^2 + 2^3)(1 + 5 + 5^2)$, as each factor of $200$ is represented when the product is expanded. It follows that $N = (1 + 2 + 4 + 8)(1 + 5 + 25) = (15)(31)$. The largest prime factor is $\\boxed{31}$.",
+    "gpt_response": "Let's count the different numbers that we can divide 200 by! \n\nThe divisors of 200 are 1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, and 200. \n\nNow let's add all these numbers together to find N! \n\n1 + 2 + 4 + 5 + 8 + 10 + 20 + 25 + 40 + 50 + 100 + 200 = 465\n\nSo, the sum of the divisors of 200, N, is 465.\n\nNow, let's find the largest prime factor of 465. \n\n465 can be factored as 3 * 5 * 31. \n\nThe largest prime factor of 465 is 31! \n\nYay, we did it!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 31?: Let's count the different numbers that we can divide 200 by! \n\nThe divisors of 200 are 1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, and 200. \n\nNow let's add all these numbers together to find N! \n\n1 + 2 + 4 + 5 + 8 + 10 + 20 + 25 + 40 + 50 + 100 + 200 = 465\n\nSo, the sum of the divisors of 200, N, is 465.\n\nNow, let's find the largest prime factor of 465. \n\n465 can be factored as 3 * 5 * 31. \n\nThe largest prime factor of 465 is 31! \n\nYay, we did it!",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

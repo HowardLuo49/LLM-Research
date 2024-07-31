@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. What is the molecular weight of C6H10F3NO2?\nAnswer (numerical number):",
+    "solution": [
+        "185.14"
+    ],
+    "gpt_response": "147.15 daltons\n\nExplanation: \nTo calculate the molecular weight of a compound, you must add up the atomic weights of all the atoms present in the compound. \n\nC (Carbon) = 12.01\nH (Hydrogen) = 1.008\nF (Fluorine) = 18.998\nN (Nitrogen) = 14.01\nO (Oxygen) = 15.999\n\n(6*12.01) + (10*1.008) + (3*18.998) + 14.01 + (2*15.999) = 147.15 daltons\n\nTherefore, the molecular weight of C6H10F3NO2 is 147.15 daltons.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response ['185.14']?: 147.15 daltons\n\nExplanation: \nTo calculate the molecular weight of a compound, you must add up the atomic weights of all the atoms present in the compound. \n\nC (Carbon) = 12.01\nH (Hydrogen) = 1.008\nF (Fluorine) = 18.998\nN (Nitrogen) = 14.01\nO (Oxygen) = 15.999\n\n(6*12.01) + (10*1.008) + (3*18.998) + 14.01 + (2*15.999) = 147.15 daltons\n\nTherefore, the molecular weight of C6H10F3NO2 is 147.15 daltons.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "157",
+    "difficulty_value": "5"
+}

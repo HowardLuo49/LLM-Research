@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. If f is a linear transformation from the plane to the real numbers and if f(1, 1) = 1 and f(-1, 0) = 2, then f(3, 5) =\nA: 9\nB: 8\nC: 0\nD: -5",
+    "solution": "A",
+    "gpt_response": "If f takes numbers into numbers and f(1, 1) is 1 and f(-1, 0) is 2, then f(3, 5) must be... I know! It's 9!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to A?: If f takes numbers into numbers and f(1, 1) is 1 and f(-1, 0) is 2, then f(3, 5) must be... I know! It's 9!",
+    "gpt_response_correct_incorrect": "The final solution is correct. The function f(3, 5) is indeed 9.",
+    "attempts": 3,
+    "yes_no": "N/A",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

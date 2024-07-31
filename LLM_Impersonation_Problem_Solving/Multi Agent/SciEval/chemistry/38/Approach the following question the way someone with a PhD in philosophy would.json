@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in philosophy would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in philosophy would. What is the molecular weight of CC(CCC(C=C)C(C)O)O?\nAnswer (numerical number):",
+    "solution": [
+        "158.24"
+    ],
+    "gpt_response": "The molecular weight of CC(CCC(C=C)C(C)O)O is approximately 230.38 g/mol. This calculation is derived from adding the atomic weights of each element in the compound, taking into account the molecular structure and arrangement of atoms. The precise value may vary slightly depending on the isotopic composition of the elements present.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response ['158.24']?: The molecular weight of CC(CCC(C=C)C(C)O)O is approximately 230.38 g/mol. This calculation is derived from adding the atomic weights of each element in the compound, taking into account the molecular structure and arrangement of atoms. The precise value may vary slightly depending on the isotopic composition of the elements present.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "373.66",
+    "difficulty_value": "3"
+}

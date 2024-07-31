@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Grave's ophthalmopathy mostly presents as September 2010\n1: Proptosis\n2: Ptosis\n3: Reduced intraocular tension\n4: Increased power of convergence",
+    "solution": 1,
+    "gpt_response": "When evaluating a patient with Grave's ophthalmopathy, the most common presenting symptom is proptosis, which is the forward displacement of the eye from its socket. Ptosis, or drooping of the upper eyelid, can also occur but is less common. Reduced intraocular tension and increased power of convergence are not typical findings in Grave's ophthalmopathy. Therefore, the correct answer is:\n\n1: Proptosis",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: When evaluating a patient with Grave's ophthalmopathy, the most common presenting symptom is proptosis, which is the forward displacement of the eye from its socket. Ptosis, or drooping of the upper eyelid, can also occur but is less common. Reduced intraocular tension and increased power of convergence are not typical findings in Grave's ophthalmopathy. Therefore, the correct answer is:\n\n1: Proptosis",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

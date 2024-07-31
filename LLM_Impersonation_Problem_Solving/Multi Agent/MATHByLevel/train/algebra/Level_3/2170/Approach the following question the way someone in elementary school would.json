@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. Evaluate $\\left\\lceil\\sqrt{2}\\,\\right\\rceil+\\left\\lceil\\sqrt{22}\\,\\right\\rceil+\\left\\lceil\\sqrt{222}\\,\\right\\rceil$.",
+    "solution": "Since the following inequalities are true, \\[\\sqrt{1}<\\sqrt{2}<\\sqrt{4} \\Rightarrow 1<\\sqrt{2}<2\\]\\[\\sqrt{16}<\\sqrt{22}<\\sqrt{25} \\Rightarrow 4<\\sqrt{22}<5\\]\\[\\sqrt{196}<\\sqrt{222}<\\sqrt{225} \\Rightarrow 14<\\sqrt{222}<15\\]the smallest integer greater than $\\sqrt{2}$ is $2$, the smallest integer greater than $\\sqrt{22}$ is $5$, and the smallest integer greater than $\\sqrt{222}$ is $15$. Therefore, $2+5+15=\\boxed{22}$.",
+    "gpt_response": "First, let's find the square root of each number: \n\n$\\sqrt{2} \\approx 1.41$\n\n$\\sqrt{22} \\approx 4.69$\n\n$\\sqrt{222} \\approx 14.90$\n\nNow, we need to round up each square root to the nearest whole number:\n\n$\\lceil\\sqrt{2}\\rceil = 2$\n\n$\\lceil\\sqrt{22}\\rceil = 5$\n\n$\\lceil\\sqrt{222}\\rceil = 15$\n\nFinally, we add them all together:\n\n$2 + 5 + 15 = 22$\n\nSo, the answer is 22.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 22?: First, let's find the square root of each number: \n\n$\\sqrt{2} \\approx 1.41$\n\n$\\sqrt{22} \\approx 4.69$\n\n$\\sqrt{222} \\approx 14.90$\n\nNow, we need to round up each square root to the nearest whole number:\n\n$\\lceil\\sqrt{2}\\rceil = 2$\n\n$\\lceil\\sqrt{22}\\rceil = 5$\n\n$\\lceil\\sqrt{222}\\rceil = 15$\n\nFinally, we add them all together:\n\n$2 + 5 + 15 = 22$\n\nSo, the answer is 22.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "yes_no": "yes"
+}

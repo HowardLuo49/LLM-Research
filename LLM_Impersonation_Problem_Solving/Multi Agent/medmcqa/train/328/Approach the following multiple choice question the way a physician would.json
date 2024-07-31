@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Progesterone production in the ovary is primarily by:\n1: Stroma\n2: Corpora albicans\n3: Corpora lutea\n4: Mature follicles",
+    "solution": 3,
+    "gpt_response": "In the ovary, progesterone production is primarily by:\n3: Corpora lutea\n\nExplanation: Corpora lutea are temporary endocrine structures formed from the remnants of mature follicles after ovulation. They are responsible for producing progesterone in the ovary.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: In the ovary, progesterone production is primarily by:\n3: Corpora lutea\n\nExplanation: Corpora lutea are temporary endocrine structures formed from the remnants of mature follicles after ovulation. They are responsible for producing progesterone in the ovary.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

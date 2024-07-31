@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in physics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in physics would. Calculate the temperature of the universe at an age of 380,000 years after the Big Bang, given that the cosmic microwave background radiation has a present-day temperature of approximately 4.9 Kelvin. Additionally, please select the option from the given choices that you believe is closest to the correct answer!\n\nA. 5394.9 kelvin\nB. 9921.4 kelvin\nC. 8831.4 kelvin\nD. 7694.6 kelvin\n\nAnswer:",
+    "solution": [
+        "A"
+    ],
+    "gpt_response": "To calculate the temperature of the universe at an age of 380,000 years after the Big Bang, we can use Wien's displacement law which states:\n\n\u03bb_max * T = constant\n\nwhere \u03bb_max is the wavelength at which the cosmic microwave background radiation peaks, and T is the temperature of the radiation. \n\nSince the present-day temperature of the cosmic microwave background radiation is approximately 4.9 Kelvin, we can use this information to find the wavelength at which it peaks. The peak wavelength can be calculated as:\n\n\u03bb_max = (2.898 x 10^-3 m K) / T\n\n\u03bb_max = (2.898 x 10^-3 m K) / 4.9 K\n\u03bb_max = 0.590 m\n\nNext, we can calculate the temperature of the universe at an age of 380,000 years after the Big Bang by using the same formula with the new peak wavelength:\n\nT_universe = (2.898 x 10^-3 m K) / \u03bb_max\nT_universe = (2.898 x 10^-3 m K) / 0.59 m\nT_universe = 4915.25 Kelvin\n\nFrom the given choices, the closest answer to 4915.25 Kelvin is:\n\nA. 5394.9 kelvin",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to ['A']?: To calculate the temperature of the universe at an age of 380,000 years after the Big Bang, we can use Wien's displacement law which states:\n\n\u03bb_max * T = constant\n\nwhere \u03bb_max is the wavelength at which the cosmic microwave background radiation peaks, and T is the temperature of the radiation. \n\nSince the present-day temperature of the cosmic microwave background radiation is approximately 4.9 Kelvin, we can use this information to find the wavelength at which it peaks. The peak wavelength can be calculated as:\n\n\u03bb_max = (2.898 x 10^-3 m K) / T\n\n\u03bb_max = (2.898 x 10^-3 m K) / 4.9 K\n\u03bb_max = 0.590 m\n\nNext, we can calculate the temperature of the universe at an age of 380,000 years after the Big Bang by using the same formula with the new peak wavelength:\n\nT_universe = (2.898 x 10^-3 m K) / \u03bb_max\nT_universe = (2.898 x 10^-3 m K) / 0.59 m\nT_universe = 4915.25 Kelvin\n\nFrom the given choices, the closest answer to 4915.25 Kelvin is:\n\nA. 5394.9 kelvin",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

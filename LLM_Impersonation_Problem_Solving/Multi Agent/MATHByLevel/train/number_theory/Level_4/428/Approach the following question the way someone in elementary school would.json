@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. When the two-digit integer $MM$, with equal digits, is multiplied by the one-digit integer $M$, the result is the three-digit integer $NPM$. What is the greatest possible value of $NPM$?",
+    "solution": "$M=1$, $5$, or $6$ since no other digits have the property that the units digit of $M\\times M$ is $M$. Therefore, the greatest possible value of $MM\\times M=NPM$ is $66\\times6=\\boxed{396}$.",
+    "gpt_response": "Ok, so first let's figure out what the two-digit integer is. Since it has equal digits, we know it must be a number like 11, 22, 33, etc. Let's try the biggest one first, which is 99. \n\nSo $99 \\times 9 = 891$, which is our three-digit integer $NPM$. \n\nSo the greatest possible value of $NPM$ is $\\boxed{891}$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 396?: Ok, so first let's figure out what the two-digit integer is. Since it has equal digits, we know it must be a number like 11, 22, 33, etc. Let's try the biggest one first, which is 99. \n\nSo $99 \\times 9 = 891$, which is our three-digit integer $NPM$. \n\nSo the greatest possible value of $NPM$ is $\\boxed{891}$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

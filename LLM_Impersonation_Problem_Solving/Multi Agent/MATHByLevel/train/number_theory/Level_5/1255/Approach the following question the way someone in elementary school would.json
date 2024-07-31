@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. Given that $a$ is an odd multiple of $1183$, find the greatest common divisor of $2a^2+29a+65$ and $a+13$.",
+    "solution": "We can use the Euclidean Algorithm. \\begin{align*}\n&\\text{gcd}\\,(2a^2+29a+65,a+13)\\\\\n&\\qquad=\\text{gcd}\\,(2a^2+29a+65-(a+13)(2a+3),a+13)\\\\\n&\\qquad=\\text{gcd}\\,(2a^2+29a+65-(2a^2+29a+39),a+13)\\\\\n&\\qquad=\\text{gcd}\\,(26,a+13).\n\\end{align*}Since $a$ is an odd multiple of $1183$, which is an odd multiple of $13$, $a+13$ must be an even multiple of $13$. This means that $26$ is a divisor  of $a+13$, so the greatest common divisor is $\\boxed{26}$.",
+    "gpt_response": "To find the greatest common divisor, first we need to find the value of $a$. We know that $a$ is an odd multiple of $1183$. So we can write $a$ as $1183 \\cdot \\text{odd number}$. \n\nNow let's substitute $a = 1183 \\cdot \\text{odd number}$ into $2a^2+29a+65$ and $a+13$ to simplify.\n\nFor $2a^2+29a+65$, we get:\n$2(1183 \\cdot \\text{odd number})^2 + 29(1183 \\cdot \\text{odd number}) + 65$\n\nAnd for $a+13$, we get:\n$1183 \\cdot \\text{odd number} + 13$\n\nNow we can simplify these expressions and then find the greatest common divisor. Let's start by substituting $a = 1183 \\cdot \\text{odd number}$ into the expressions.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 26?: To find the greatest common divisor, first we need to find the value of $a$. We know that $a$ is an odd multiple of $1183$. So we can write $a$ as $1183 \\cdot \\text{odd number}$. \n\nNow let's substitute $a = 1183 \\cdot \\text{odd number}$ into $2a^2+29a+65$ and $a+13$ to simplify.\n\nFor $2a^2+29a+65$, we get:\n$2(1183 \\cdot \\text{odd number})^2 + 29(1183 \\cdot \\text{odd number}) + 65$\n\nAnd for $a+13$, we get:\n$1183 \\cdot \\text{odd number} + 13$\n\nNow we can simplify these expressions and then find the greatest common divisor. Let's start by substituting $a = 1183 \\cdot \\text{odd number}$ into the expressions.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "9",
+    "difficulty_value": "9"
+}

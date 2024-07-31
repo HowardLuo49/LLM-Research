@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. What multiple of 15 is closest to 2009?",
+    "solution": "An integer is a multiple of 15 if and only if it is a multiple of both 3 and 5.  The multiple of 5 closest to 2009 is 2010, and since $2+0+1+0$ is divisible by 3, $\\boxed{2010}$ is divisible by 15.",
+    "gpt_response": "To find the multiple of 15 that is closest to 2009, we need to divide 2009 by 15.\n\n2009 \u00f7 15 = 133.93\n\nSince we can't have a fraction of a multiple, we need to round to the nearest whole number. In this case, it would be 134.\n\nSo, the multiple of 15 that is closest to 2009 is 15 x 134 = 2010.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 2010?: To find the multiple of 15 that is closest to 2009, we need to divide 2009 by 15.\n\n2009 \u00f7 15 = 133.93\n\nSince we can't have a fraction of a multiple, we need to round to the nearest whole number. In this case, it would be 134.\n\nSo, the multiple of 15 that is closest to 2009 is 15 x 134 = 2010.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

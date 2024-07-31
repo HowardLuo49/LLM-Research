@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. Grady distributed $x$ pieces of candy evenly among nine Halloween bags such that every bag received the greatest possible number of whole pieces of candy, but some candy was left over. What is the greatest possible number of pieces that could have been left over?",
+    "solution": "Grady distributes his candy in groups of 9 until he no longer has any groups left.  The largest number of possible pieces left is $\\boxed{8},$ since if he has more than 8 he can distribute another group of 9.",
+    "gpt_response": "Okay, so Grady gave out some candy to nine Halloween bags. He made sure each bag got the most whole pieces of candy possible, but there was some candy left over. We want to know how many pieces of candy could have been left over. \n\nTo figure this out, we need to think about how we can divide up the candy evenly among the nine bags. Let's say Grady had 30 pieces of candy. If he gave each bag 3 pieces, that would be 27 pieces in total. That would leave 3 pieces left over. But if he gave each bag 4 pieces, that would be 36 pieces in total, which is too much. So the greatest possible number of pieces that could have been left over is 3.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 8?: Okay, so Grady gave out some candy to nine Halloween bags. He made sure each bag got the most whole pieces of candy possible, but there was some candy left over. We want to know how many pieces of candy could have been left over. \n\nTo figure this out, we need to think about how we can divide up the candy evenly among the nine bags. Let's say Grady had 30 pieces of candy. If he gave each bag 3 pieces, that would be 27 pieces in total. That would leave 3 pieces left over. But if he gave each bag 4 pieces, that would be 36 pieces in total, which is too much. So the greatest possible number of pieces that could have been left over is 3.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

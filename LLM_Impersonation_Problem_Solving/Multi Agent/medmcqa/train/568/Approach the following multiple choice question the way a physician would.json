@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Gastrinoma a/w\n1: Diarrhoea\n2: Constipation\n3: Achlorhydria\n4: Multiple superficial gastric ulcers",
+    "solution": 1,
+    "gpt_response": "The correct answer is 1: Diarrhoea. Gastrinomas, also known as Zollinger-Ellison syndrome, are associated with excessive production of gastrin by tumors in the pancreas or duodenum. This leads to gastric acid hypersecretion, which can result in diarrhea due to increased acid production and stimulation of intestinal motility.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: The correct answer is 1: Diarrhoea. Gastrinomas, also known as Zollinger-Ellison syndrome, are associated with excessive production of gastrin by tumors in the pancreas or duodenum. This leads to gastric acid hypersecretion, which can result in diarrhea due to increased acid production and stimulation of intestinal motility.",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

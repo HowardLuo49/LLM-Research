@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. During cardiac imaging the phase of minimum motion of hea is:\n1: Late systole\n2: Mid systole\n3: Late diastole\n4: Mid diastole",
+    "solution": 4,
+    "gpt_response": "The phase of minimum motion of the heart during cardiac imaging typically occurs during mid diastole when the heart is in a state of relaxation. This is when the heart is filling with blood and there is minimal movement of the heart muscle. Therefore, the answer would be option 4: Mid diastole.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 4?: The phase of minimum motion of the heart during cardiac imaging typically occurs during mid diastole when the heart is in a state of relaxation. This is when the heart is filling with blood and there is minimal movement of the heart muscle. Therefore, the answer would be option 4: Mid diastole.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

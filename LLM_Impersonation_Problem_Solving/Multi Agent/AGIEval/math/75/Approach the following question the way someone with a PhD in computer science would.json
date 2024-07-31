@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in computer science would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in computer science would. Find the $3 \\times 3$ matrix $\\mathbf{M}$ such that\n\\[\\mathbf{M} \\begin{pmatrix} x \\\\ y \\\\ z \\end{pmatrix} = \\begin{pmatrix} y \\\\ z \\\\ x + y + z \\end{pmatrix}\\]for all real numbers $x,$ $y,$ and $z.$",
+    "solution": "\\begin{pmatrix} 0 & 1 & 0 \\\\ 0 & 0 & 1 \\\\ 1 & 1 & 1 \\end{pmatrix}",
+    "gpt_response": "Let $\\begin{pmatrix} x \\\\ y \\\\ z \\end{pmatrix} = \\begin{pmatrix} 1 \\\\ 0 \\\\ 0 \\end{pmatrix},$ so\n\\[\\mathbf{M} \\begin{pmatrix} 1 \\\\ 0 \\\\ 0 \\end{pmatrix} = \\begin{pmatrix} 0 \\\\ 0 \\\\ 1 \\end{pmatrix}.\\]Then $\\mathbf{M} = \\begin{pmatrix} 0 & 0 & 1 \\\\ 0 & 0 & 0 \\\\ 1 & 0 & 1 \\end{pmatrix}.$\n\nIn general, then, we can write\n\\[\\mathbf{M} = \\boxed{\\begin{pmatrix} 0 & 0 & 1 \\\\ 0 & 0 & 0 \\\\ 1 & 0 & 1 \\end{pmatrix}}.\\]",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response \\begin{pmatrix} 0 & 1 & 0 \\\\ 0 & 0 & 1 \\\\ 1 & 1 & 1 \\end{pmatrix}?: Let $\\begin{pmatrix} x \\\\ y \\\\ z \\end{pmatrix} = \\begin{pmatrix} 1 \\\\ 0 \\\\ 0 \\end{pmatrix},$ so\n\\[\\mathbf{M} \\begin{pmatrix} 1 \\\\ 0 \\\\ 0 \\end{pmatrix} = \\begin{pmatrix} 0 \\\\ 0 \\\\ 1 \\end{pmatrix}.\\]Then $\\mathbf{M} = \\begin{pmatrix} 0 & 0 & 1 \\\\ 0 & 0 & 0 \\\\ 1 & 0 & 1 \\end{pmatrix}.$\n\nIn general, then, we can write\n\\[\\mathbf{M} = \\boxed{\\begin{pmatrix} 0 & 0 & 1 \\\\ 0 & 0 & 0 \\\\ 1 & 0 & 1 \\end{pmatrix}}.\\]",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

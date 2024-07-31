@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Statement 1 | If a and b are elements of a group and a is not equal to b, then a^2 is not equal to b^2. Statement 2 | The set of rotations in a dihedral group form a cyclic subgroup.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "D",
+    "gpt_response": "Hmm... Let's see. If a and b are not the same in our group, then when we square them, they won't be the same either. That sounds right! And the rotations in a dihedral group form a circle-y... um, I mean, a cyclic subgroup. So that means both statements are true, right? So I think the answer is A: True, True!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: Hmm... Let's see. If a and b are not the same in our group, then when we square them, they won't be the same either. That sounds right! And the rotations in a dihedral group form a circle-y... um, I mean, a cyclic subgroup. So that means both statements are true, right? So I think the answer is A: True, True!",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. Let x and y be positive integers such that 3x + 7y is divisible by 11. Which of the following must also be divisible by 11?\nA: 4x + 6y\nB: x + y + 5\nC: 9x + 4y\nD: 4x - 9y",
+    "solution": "D",
+    "gpt_response": "As someone with a PhD in biology, I would approach this question by recognizing that in order for 3x + 7y to be divisible by 11, the sum of the coefficients of x and y must also be divisible by 11. In this case, 3 + 7 = 10, which is not divisible by 11. Therefore, none of the given expressions must be divisible by 11 based on the information provided.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: As someone with a PhD in biology, I would approach this question by recognizing that in order for 3x + 7y to be divisible by 11, the sum of the coefficients of x and y must also be divisible by 11. In this case, 3 + 7 = 10, which is not divisible by 11. Therefore, none of the given expressions must be divisible by 11 based on the information provided.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

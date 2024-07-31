@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. A patient with cushinoid features presents with hemoptysis; he shows no response to dexamethasone suppression test; most likely diagnosis here is:\n1: Adrenal hyperplasia\n2: Adrenal adenoma\n3: Ca lung with ectopic ACTH production\n4: Pituitary microadenoma",
+    "solution": 3,
+    "gpt_response": "As a doctor, I would approach this question by considering the patient's symptoms and test results. The patient presenting with Cushingoid features along with hemoptysis and a lack of response to dexamethasone suppression test suggests an ectopic source of ACTH production. Given this information, the most likely diagnosis would be Ca lung with ectopic ACTH production (option 3). Ectopic ACTH production can result in increased cortisol levels and subsequent Cushingoid features, as well as symptoms such as hemoptysis. The lack of response to the dexamethasone suppression test further supports this diagnosis.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: As a doctor, I would approach this question by considering the patient's symptoms and test results. The patient presenting with Cushingoid features along with hemoptysis and a lack of response to dexamethasone suppression test suggests an ectopic source of ACTH production. Given this information, the most likely diagnosis would be Ca lung with ectopic ACTH production (option 3). Ectopic ACTH production can result in increased cortisol levels and subsequent Cushingoid features, as well as symptoms such as hemoptysis. The lack of response to the dexamethasone suppression test further supports this diagnosis.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

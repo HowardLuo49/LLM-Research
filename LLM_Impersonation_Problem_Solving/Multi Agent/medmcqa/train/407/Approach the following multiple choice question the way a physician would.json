@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Starvation and diabetes mellitus can lead on to ketoacidosis which of the following features is in our of ketoacidosis due to diabetes mellitus.\n1: Increase in glucagon/insulin ratio, increased CAMP and increased blood glucose\n2: Decreased insulin, increased free fatty acid which is equivalent to blood glucose\n3: Decreased insulin, increased free fatty acid which is not equivalent to blood glucose\n4: Elevated insulin and free fatty acid, equivalent to blood glucose",
+    "solution": 1,
+    "gpt_response": "The correct answer is:\n\n2: Decreased insulin, increased free fatty acid which is equivalent to blood glucose\n\nExplanation: In ketoacidosis due to diabetes mellitus, there is a decrease in insulin, which leads to increased free fatty acid levels. The increased free fatty acids are converted to ketones which can lead to the development of ketoacidosis. This is in contrast to option 1, where there is an increase in insulin levels. Option 3 and 4 are also incorrect as they do not accurately describe the pathophysiology of ketoacidosis in diabetes mellitus.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: The correct answer is:\n\n2: Decreased insulin, increased free fatty acid which is equivalent to blood glucose\n\nExplanation: In ketoacidosis due to diabetes mellitus, there is a decrease in insulin, which leads to increased free fatty acid levels. The increased free fatty acids are converted to ketones which can lead to the development of ketoacidosis. This is in contrast to option 1, where there is an increase in insulin levels. Option 3 and 4 are also incorrect as they do not accurately describe the pathophysiology of ketoacidosis in diabetes mellitus.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

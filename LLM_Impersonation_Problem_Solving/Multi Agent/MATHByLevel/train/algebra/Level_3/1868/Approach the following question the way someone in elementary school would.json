@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. Rationalize the denominator of $\\frac{5}{\\sqrt{125}}$.",
+    "solution": "Simplify the denominator first to obtain $\\frac{5}{\\sqrt{125}} = \\frac{5}{5\\sqrt{5}} = \\frac{1}{\\sqrt{5}} = \\boxed{\\frac{\\sqrt{5}}{5}}$.",
+    "gpt_response": "To rationalize the denominator, we need to get rid of the square root in the bottom. The square root of 125 is 25, because 25 times 5 equals 125. So the answer is $\\frac{5}{5}$. Yay! We did it!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to \\frac{\\sqrt{5?: To rationalize the denominator, we need to get rid of the square root in the bottom. The square root of 125 is 25, because 25 times 5 equals 125. So the answer is $\\frac{5}{5}$. Yay! We did it!",
+    "gpt_response_correct_incorrect": "No",
+    "yes_no": "no"
+}

@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Express $(5-4i)-2(3+6i)$ as a complex number.",
+    "solution": "$(5-4i)-2(3+6i) = 5-4i -6 -12i = \\boxed{-1-16i}$.",
+    "gpt_response": "Let's first do the subtraction in the parentheses. So, $5-4i$ minus $2(3+6i)$ is $5-4i-6-12i$. Then we can combine like terms to get $-1-16i$. Yay, we did it! The answer is $-1-16i$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to -1-16i?: Let's first do the subtraction in the parentheses. So, $5-4i$ minus $2(3+6i)$ is $5-4i-6-12i$. Then we can combine like terms to get $-1-16i$. Yay, we did it! The answer is $-1-16i$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

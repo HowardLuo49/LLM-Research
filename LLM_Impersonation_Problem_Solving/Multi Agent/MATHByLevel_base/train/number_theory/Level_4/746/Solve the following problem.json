@@ -1,0 +1,10 @@
+{
+    "prefix": "Solve the following problem. ",
+    "problem_prompt": "Solve the following problem. Find the integer $n$, $0 \\le n \\le 7$, such that \\[n \\equiv -3737 \\pmod{8}.\\]",
+    "solution": "Since $-3737 \\equiv 7 \\pmod{8}$, the integer $n$ we seek is $n = \\boxed{7}$.",
+    "gpt_response": "Since $-3737 \\equiv 7 \\pmod{8}$, the integer $n$ we are looking for is $\\boxed{7}$.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 7?: Since $-3737 \\equiv 7 \\pmod{8}$, the integer $n$ we are looking for is $\\boxed{7}$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes"
+}

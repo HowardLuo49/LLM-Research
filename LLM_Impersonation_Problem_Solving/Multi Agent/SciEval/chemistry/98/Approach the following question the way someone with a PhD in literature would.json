@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in literature would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in literature would. What is the molecular weight of C6H11FO2?\nAnswer (numerical number):",
+    "solution": [
+        "134.15"
+    ],
+    "gpt_response": "The molecular weight of C6H11FO2 can be calculated by adding up the atomic weights of each element in the compound. \n\nCarbon (C): 6 atoms x 12.01 g/mol = 72.06 g/mol\nHydrogen (H): 11 atoms x 1.008 g/mol = 11.088 g/mol\nFluorine (F): 1 atom x 18.998 g/mol = 18.998 g/mol\nOxygen (O): 2 atoms x 15.999 g/mol = 31.998 g/mol\n\nAdding these values together, the molecular weight of C6H11FO2 is approximately 134.142 g/mol.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response ['134.15']?: The molecular weight of C6H11FO2 can be calculated by adding up the atomic weights of each element in the compound. \n\nCarbon (C): 6 atoms x 12.01 g/mol = 72.06 g/mol\nHydrogen (H): 11 atoms x 1.008 g/mol = 11.088 g/mol\nFluorine (F): 1 atom x 18.998 g/mol = 18.998 g/mol\nOxygen (O): 2 atoms x 15.999 g/mol = 31.998 g/mol\n\nAdding these values together, the molecular weight of C6H11FO2 is approximately 134.142 g/mol.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "130",
+    "difficulty_value": "3"
+}

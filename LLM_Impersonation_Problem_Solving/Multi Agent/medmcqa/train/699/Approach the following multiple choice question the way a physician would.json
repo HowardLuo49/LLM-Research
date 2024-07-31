@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. The drug of choice in digitalis induced ventricular arrhythmias is:\n1: I.V. Lignocaine\n2: Phenytoin\n3: Quinidine\n4: Procainamide",
+    "solution": 1,
+    "gpt_response": "In digitalis-induced ventricular arrhythmias, the drug of choice would be Quinidine.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: In digitalis-induced ventricular arrhythmias, the drug of choice would be Quinidine.",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

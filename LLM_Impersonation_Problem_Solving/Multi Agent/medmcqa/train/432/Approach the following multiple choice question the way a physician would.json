@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. In marasmus, which of the following is not seen?\n1: Edema\n2: Voracious appetite\n3: Hepatomegaly not seen\n4: Child is active",
+    "solution": 1,
+    "gpt_response": "In marasmus, the correct answer is 1: Edema. This condition is characterized by severe malnutrition and lack of essential nutrients, leading to gradual weight loss, muscle wasting, and depletion of body fat. Edema is typically not seen in marasmus because there is overall loss of body mass and fluid retention is minimal. The child may also have a voracious appetite, hepatomegaly is not typically seen, and they may still be active due to the body's attempt to conserve energy.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: In marasmus, the correct answer is 1: Edema. This condition is characterized by severe malnutrition and lack of essential nutrients, leading to gradual weight loss, muscle wasting, and depletion of body fat. Edema is typically not seen in marasmus because there is overall loss of body mass and fluid retention is minimal. The child may also have a voracious appetite, hepatomegaly is not typically seen, and they may still be active due to the body's attempt to conserve energy.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

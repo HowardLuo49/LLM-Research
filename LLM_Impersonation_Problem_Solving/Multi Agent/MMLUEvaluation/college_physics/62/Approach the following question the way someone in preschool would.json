@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. An organ pipe, closed at one end and open at the other, is designed to have a fundamental frequency of C (131 Hz). What is the frequency of the next higher harmonic for this pipe?\nA: 44 Hz\nB: 196 Hz\nC: 262 Hz\nD: 393 Hz",
+    "solution": "D",
+    "gpt_response": "Ooh, let's play with our organ pipe! The fundamental frequency is C (131 Hz), so that's our first note. Now, let's find the next higher harmonic. Let me think... hmm... Oh! I remember! It's double the frequency of the fundamental! So, let's do some counting... 131 + 131 = 262 Hz! So, the frequency of the next higher harmonic for this pipe is C (262 Hz)! Yay!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: Ooh, let's play with our organ pipe! The fundamental frequency is C (131 Hz), so that's our first note. Now, let's find the next higher harmonic. Let me think... hmm... Oh! I remember! It's double the frequency of the fundamental! So, let's do some counting... 131 + 131 = 262 Hz! So, the frequency of the next higher harmonic for this pipe is C (262 Hz)! Yay!",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

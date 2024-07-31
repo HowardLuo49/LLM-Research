@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. IgA deposits on skin biopsy\n1: Henoch Schouleiln puspura\n2: Giant cell aeritis\n3: Microscopic polyangitis\n4: Wegener's granulomatosis",
+    "solution": 1,
+    "gpt_response": "Based on the finding of IgA deposits on skin biopsy, the most likely diagnosis would be Henoch Schonlein purpura. This condition is characterized by IgA deposition in small blood vessels, leading to inflammation and symptoms such as purpura (small red or purple spots on the skin), joint pain, and gastrointestinal symptoms. Though microscopic polyangiitis and Wegener's granulomatosis are also associated with vasculitis, they do not typically present with IgA deposits on biopsy. Giant cell arteritis, on the other hand, is a different type of vasculitis that predominantly affects large arteries and is not typically associated with IgA deposits.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: Based on the finding of IgA deposits on skin biopsy, the most likely diagnosis would be Henoch Schonlein purpura. This condition is characterized by IgA deposition in small blood vessels, leading to inflammation and symptoms such as purpura (small red or purple spots on the skin), joint pain, and gastrointestinal symptoms. Though microscopic polyangiitis and Wegener's granulomatosis are also associated with vasculitis, they do not typically present with IgA deposits on biopsy. Giant cell arteritis, on the other hand, is a different type of vasculitis that predominantly affects large arteries and is not typically associated with IgA deposits.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

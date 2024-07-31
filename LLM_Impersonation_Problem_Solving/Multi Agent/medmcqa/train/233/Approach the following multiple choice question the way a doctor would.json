@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Specific poison for succinate dehydrogenase is ?\n1: Cyanide\n2: Malonate\n3: Arsenite\n4: Fluoride",
+    "solution": 2,
+    "gpt_response": "As a doctor, I would approach this question by first understanding the role of succinate dehydrogenase in the body. Succinate dehydrogenase is an enzyme involved in the citric acid cycle, also known as the Krebs cycle, which is responsible for generating energy in the form of ATP. \n\nKnowing this, I would then consider which of the options listed could specifically target and inhibit succinate dehydrogenase. In this case, the correct answer would be 2: Malonate. Malonate is a competitive inhibitor of succinate dehydrogenase, meaning it can directly interfere with the enzyme's activity and function. Cyanide, arsenite, and fluoride are not known to specifically target succinate dehydrogenase in the same way as malonate.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: As a doctor, I would approach this question by first understanding the role of succinate dehydrogenase in the body. Succinate dehydrogenase is an enzyme involved in the citric acid cycle, also known as the Krebs cycle, which is responsible for generating energy in the form of ATP. \n\nKnowing this, I would then consider which of the options listed could specifically target and inhibit succinate dehydrogenase. In this case, the correct answer would be 2: Malonate. Malonate is a competitive inhibitor of succinate dehydrogenase, meaning it can directly interfere with the enzyme's activity and function. Cyanide, arsenite, and fluoride are not known to specifically target succinate dehydrogenase in the same way as malonate.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in computer science would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in computer science would. In triangle $ABC, AB = AC = 10$ and $BC = 12$. Point $D$ lies strictly between $A$ and $B$ on $\\overline{AB}$ and point $E$ lies strictly between $A$ and $C$ on $\\overline{AC}$ so that $AD = DE = EC$.  Find $AD.$",
+    "solution": "\\frac{250}{39}",
+    "gpt_response": "To approach this question, we first recognize that we are dealing with a triangle with two equal sides, which suggests an isosceles triangle. We can then label the unknown length $AD$ as $x$ for convenience.\n\nGiven that $AD = DE = EC$, we can label $AD = x$, $DE = x$, $EC = x$, and $AC = 10$.\n\nSince $AC = 10$ and $DE = EC = x$, we have $10 = x + x = 2x$, so $x = 5$. Therefore, $AD = DE = EC = \\boxed{5}$.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response \\frac{250}{39}?: To approach this question, we first recognize that we are dealing with a triangle with two equal sides, which suggests an isosceles triangle. We can then label the unknown length $AD$ as $x$ for convenience.\n\nGiven that $AD = DE = EC$, we can label $AD = x$, $DE = x$, $EC = x$, and $AC = 10$.\n\nSince $AC = 10$ and $DE = EC = x$, we have $10 = x + x = 2x$, so $x = 5$. Therefore, $AD = DE = EC = \\boxed{5}$.",
+    "gpt_response_correct_incorrect": "No, the final solution obtained is not $\\frac{250}{39}$. The final solution is 5.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

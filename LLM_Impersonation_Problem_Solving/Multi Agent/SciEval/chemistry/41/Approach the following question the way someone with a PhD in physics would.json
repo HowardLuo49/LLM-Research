@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in physics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in physics would. What is the molecular formula of CCCCC(C#N)N?\nAnswer:",
+    "solution": [
+        "C6H12N2"
+    ],
+    "gpt_response": "The molecular formula of CCCCC(C#N)N is C6H5N. This can be determined by counting the total number of atoms of each element in the compound and simplifying the ratio to its simplest form. In this case, there are 6 carbon atoms, 5 hydrogen atoms, and 1 nitrogen atom, leading to the molecular formula C6H5N.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response ['C6H12N2']?: The molecular formula of CCCCC(C#N)N is C6H5N. This can be determined by counting the total number of atoms of each element in the compound and simplifying the ratio to its simplest form. In this case, there are 6 carbon atoms, 5 hydrogen atoms, and 1 nitrogen atom, leading to the molecular formula C6H5N.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "5",
+    "difficulty_value": "5"
+}

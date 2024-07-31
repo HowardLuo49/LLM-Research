@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Renal threshold for serum glucose level-\n1: 100 mg/dl\n2: 200 mg/dl\n3: 300 mg/dl\n4: 400 mg/dl",
+    "solution": 2,
+    "gpt_response": "As a doctor, I would approach this question by considering the normal renal threshold for serum glucose level, which is typically around 180 mg/dl. This is the level at which the kidneys begin to excrete glucose into the urine because they are unable to reabsorb all of it from the filtrate. \n\nGiven the options provided, none of them align exactly with the normal renal threshold for serum glucose level. However, if I had to choose the closest option, I would select option 2: 200 mg/dl as it is the closest to the typical renal threshold level.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: As a doctor, I would approach this question by considering the normal renal threshold for serum glucose level, which is typically around 180 mg/dl. This is the level at which the kidneys begin to excrete glucose into the urine because they are unable to reabsorb all of it from the filtrate. \n\nGiven the options provided, none of them align exactly with the normal renal threshold for serum glucose level. However, if I had to choose the closest option, I would select option 2: 200 mg/dl as it is the closest to the typical renal threshold level.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. Osteoblastic secondaries arises from: March 2003\n1: Renal carcinoma\n2: Thyroid carcinoma\n3: GIT carcinoma\n4: Prostate carcinoma",
+    "solution": 4,
+    "gpt_response": "1: Renal carcinoma",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 4?: 1: Renal carcinoma",
+    "gpt_response_correct_incorrect": "2: Bladder cancer  \n3: Prostate cancer  \n4: Kidney cancer  \n\nYes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

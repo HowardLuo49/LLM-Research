@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in physics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in physics would. Casey's shop class is making a golf trophy.  He has to paint $300$ dimples on a golf ball.  If it takes him $2$ seconds to paint one dimple, how many minutes will he need to do his job?",
+    "solution": "10",
+    "gpt_response": "To solve this problem, we will first calculate the total time Casey needs to paint all 300 dimples on the golf ball. \n\nGiven that Casey takes 2 seconds to paint one dimple, he will take $300 \\times 2 = 600$ seconds to paint all 300 dimples. \n\nNext, we will convert the total time from seconds to minutes by dividing by 60, since there are 60 seconds in one minute. \n\nTherefore, Casey will need $\\frac{600}{60} = 10$ minutes to paint all 300 dimples on the golf ball.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 10?: To solve this problem, we will first calculate the total time Casey needs to paint all 300 dimples on the golf ball. \n\nGiven that Casey takes 2 seconds to paint one dimple, he will take $300 \\times 2 = 600$ seconds to paint all 300 dimples. \n\nNext, we will convert the total time from seconds to minutes by dividing by 60, since there are 60 seconds in one minute. \n\nTherefore, Casey will need $\\frac{600}{60} = 10$ minutes to paint all 300 dimples on the golf ball.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Compute $1011_2 + 101_2 - 1100_2 + 1101_2$.  Express your answer in base 2.",
+    "solution": "$1011_2 + 101_2 - 1100_2 + 1101_2 = (1011_2 + 101_2) + (-1100_2 + 1101_2) = 10000_2 + 1_2 = \\boxed{10001_2}$.",
+    "gpt_response": "Let's count the ones and zeros! \n\n1011 + 101 = 1112 \n1112 - 1100 = 1012 \n1012 + 1101 = 10101 \n\nSo, our final answer is $10101_2$. Yay! Good job!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 10001_2?: Let's count the ones and zeros! \n\n1011 + 101 = 1112 \n1112 - 1100 = 1012 \n1012 + 1101 = 10101 \n\nSo, our final answer is $10101_2$. Yay! Good job!",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

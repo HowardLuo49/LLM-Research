@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. Statement 1 | If a finite group has order n then the group contains a subgroup of order d for every positive divisor d of n. Statement 2 | If a belongs to a finite group then |a| divides |G|.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "D",
+    "gpt_response": "Statement 1 says that if you have a group with n things in it, then you can make a smaller group with d things in it for every number that can divide n. Statement 2 says that if you have a thing called \"a\" in a group, then the number of times you have to do \"a\" before you get back to where you started has to be a number that divides the total number of things in the group. So, yes, both statements are true! So, the answer is A!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: Statement 1 says that if you have a group with n things in it, then you can make a smaller group with d things in it for every number that can divide n. Statement 2 says that if you have a thing called \"a\" in a group, then the number of times you have to do \"a\" before you get back to where you started has to be a number that divides the total number of things in the group. So, yes, both statements are true! So, the answer is A!",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

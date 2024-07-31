@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in physics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in physics would. A three-digit number has the same hundreds, tens and units digit.  The sum of the prime factors of the number is 47. What is the three-digit number?",
+    "solution": "777",
+    "gpt_response": "In order to find the three-digit number that satisfies the given conditions, we can approach this problem by first listing out all possible prime factors that add up to 47. Since the sum of the prime factors is 47, we can list out the prime numbers that add up to 47: 2, 3, 5, 7, 11, 13, 17, and 19.\n\nNext, we can consider all the possible combinations of these prime factors in order to find a three-digit number where the hundreds, tens, and units digit are the same. One such combination that satisfies this condition is 111, as the prime factorization of 111 is 3 x 37. \n\nTherefore, the three-digit number in question is 111.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 777?: In order to find the three-digit number that satisfies the given conditions, we can approach this problem by first listing out all possible prime factors that add up to 47. Since the sum of the prime factors is 47, we can list out the prime numbers that add up to 47: 2, 3, 5, 7, 11, 13, 17, and 19.\n\nNext, we can consider all the possible combinations of these prime factors in order to find a three-digit number where the hundreds, tens, and units digit are the same. One such combination that satisfies this condition is 111, as the prime factorization of 111 is 3 x 37. \n\nTherefore, the three-digit number in question is 111.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

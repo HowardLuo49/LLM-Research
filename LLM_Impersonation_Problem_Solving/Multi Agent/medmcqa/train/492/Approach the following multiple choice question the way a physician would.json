@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. The diameter of Tricuspid orifice is\n1: 2cm\n2: 2.5cm\n3: 3cm\n4: 4cm",
+    "solution": 4,
+    "gpt_response": "As a physician, I would consider the typical range for the diameter of the Tricuspid orifice in a healthy adult. Based on my medical knowledge and experience, I would select option 2: 2.5cm as the most likely correct answer.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 4?: As a physician, I would consider the typical range for the diameter of the Tricuspid orifice in a healthy adult. Based on my medical knowledge and experience, I would select option 2: 2.5cm as the most likely correct answer.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

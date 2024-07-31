@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. What is the value of $c$ if the lines with equations $y = 8x + 2$ and $y = (2c)x - 4$ are parallel?",
+    "solution": "Two lines are parallel if and only if their slopes are equal.  The slope of a line whose equation is $y = mx + b$ is $m$.  Thus $8 = 2c \\Rightarrow c = \\boxed{4}$.",
+    "gpt_response": "To find the value of $c$ when the two lines are parallel, we need to set their slopes equal to each other. The slope of a line in the form $y = mx + b$ is equal to the coefficient of $x$, which is $m$.\n\nSo, for the first line $y = 8x + 2$, the slope is $8$. And for the second line $y = (2c)x - 4$, the slope is $2c$.\n\nSince the lines are parallel, their slopes are equal. Therefore, we have:\n\n$8 = 2c$\n\nSolving for $c$, we get:\n\n$c = \\frac{8}{2} = 4$\n\nSo, the value of $c$ is $4$ when the lines $y = 8x + 2$ and $y = (2c)x - 4$ are parallel.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 4?: To find the value of $c$ when the two lines are parallel, we need to set their slopes equal to each other. The slope of a line in the form $y = mx + b$ is equal to the coefficient of $x$, which is $m$.\n\nSo, for the first line $y = 8x + 2$, the slope is $8$. And for the second line $y = (2c)x - 4$, the slope is $2c$.\n\nSince the lines are parallel, their slopes are equal. Therefore, we have:\n\n$8 = 2c$\n\nSolving for $c$, we get:\n\n$c = \\frac{8}{2} = 4$\n\nSo, the value of $c$ is $4$ when the lines $y = 8x + 2$ and $y = (2c)x - 4$ are parallel.",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

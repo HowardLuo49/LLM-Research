@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Daily maintenance fluid for a child weighing 24 kg is:\n1: 1000 mL/day\n2: 800 mL/day\n3: 1540 mL/day\n4: 1580 mL/day",
+    "solution": 4,
+    "gpt_response": "To determine the daily maintenance fluid for a child weighing 24 kg, we can use the Holliday-Segar method. \n\nAccording to the formula, the daily maintenance fluid requirement for a child weighing 24 kg is calculated as follows: \n- 100 mL/kg for the first 10 kg\n- 50 mL/kg for the second 10 kg\n- 20 mL/kg for every additional kg \n\nSo, for a child weighing 24 kg: \n- 10 kg x 100 mL = 1000 mL\n- 10 kg x 50 mL = 500 mL\n- 4 kg x 20 mL = 80 mL\n\nAdding these together, the total daily maintenance fluid requirement is 1000 mL + 500 mL + 80 mL = 1580 mL\n\nTherefore, the correct answer is 4: 1580 mL/day.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 4?: To determine the daily maintenance fluid for a child weighing 24 kg, we can use the Holliday-Segar method. \n\nAccording to the formula, the daily maintenance fluid requirement for a child weighing 24 kg is calculated as follows: \n- 100 mL/kg for the first 10 kg\n- 50 mL/kg for the second 10 kg\n- 20 mL/kg for every additional kg \n\nSo, for a child weighing 24 kg: \n- 10 kg x 100 mL = 1000 mL\n- 10 kg x 50 mL = 500 mL\n- 4 kg x 20 mL = 80 mL\n\nAdding these together, the total daily maintenance fluid requirement is 1000 mL + 500 mL + 80 mL = 1580 mL\n\nTherefore, the correct answer is 4: 1580 mL/day.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

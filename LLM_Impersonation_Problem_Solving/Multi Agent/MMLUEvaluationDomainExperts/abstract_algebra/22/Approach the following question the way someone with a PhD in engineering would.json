@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in engineering would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in engineering would. Statement 1 | Any set of two vectors in R^2 is linearly independent. Statement 2 | If V = span(v1, ... , vk) and {v1, ... , vk} are linearly independent, then dim(V) = k.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "D",
+    "gpt_response": "Given Statement 1, any set of two vectors in R^2 can be represented as a linear combination of the standard basis vectors. Since these two vectors span R^2, they are linearly independent.\n\nRegarding Statement 2, if V = span(v1, ... , vk) and {v1, ... , vk} are linearly independent, then dim(V) = k. This is true because the dimension of a vector space is equal to the number of vectors in a basis for that vector space, which is equal to the number of linearly independent vectors that span the space.\n\nTherefore, the correct answer is A: True, True.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: Given Statement 1, any set of two vectors in R^2 can be represented as a linear combination of the standard basis vectors. Since these two vectors span R^2, they are linearly independent.\n\nRegarding Statement 2, if V = span(v1, ... , vk) and {v1, ... , vk} are linearly independent, then dim(V) = k. This is true because the dimension of a vector space is equal to the number of vectors in a basis for that vector space, which is equal to the number of linearly independent vectors that span the space.\n\nTherefore, the correct answer is A: True, True.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

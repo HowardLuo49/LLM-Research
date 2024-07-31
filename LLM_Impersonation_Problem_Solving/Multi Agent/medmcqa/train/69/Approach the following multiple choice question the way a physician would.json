@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Which of the following is measured by the device, Bellow's spirometer?\n1: TLC\n2: RV\n3: Closing volume\n4: ERV",
+    "solution": 4,
+    "gpt_response": "Bellow's spirometer is typically used to measure pulmonary volumes and capacities. Therefore, the correct answer would be:\n1: TLC (Total Lung Capacity)",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 4?: Bellow's spirometer is typically used to measure pulmonary volumes and capacities. Therefore, the correct answer would be:\n1: TLC (Total Lung Capacity)",
+    "gpt_response_correct_incorrect": "2: RV (Residual Volume)\n3: FVC (Forced Vital Capacity)\n4: Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

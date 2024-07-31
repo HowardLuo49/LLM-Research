@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. The first five harmonics produced by an organ pipe open at both ends are 50 Hz, 100 Hz, 150 Hz, 200 Hz, and 250 Hz. Which of the harmonics, if any, will survive once the pipe is closed at one end?\nA: 50 Hz, 150 Hz, and 250 Hz only\nB: 100 Hz and 200 Hz only\nC: 150 Hz and 250 Hz only\nD: None",
+    "solution": "D",
+    "gpt_response": "To solve this problem, we need to understand the difference between open and closed organ pipes. Open organ pipes produce odd harmonics, while closed organ pipes produce even harmonics.\n\nFrom the given information, we know that the first five harmonics produced by an open organ pipe are 50 Hz, 100 Hz, 150 Hz, 200 Hz, and 250 Hz. \nWhen the pipe is closed at one end, only the even harmonics will survive. Therefore, the even harmonics from the original set are 100 Hz and 200 Hz. \n\nSo, the correct answer is B: 100 Hz and 200 Hz only.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: To solve this problem, we need to understand the difference between open and closed organ pipes. Open organ pipes produce odd harmonics, while closed organ pipes produce even harmonics.\n\nFrom the given information, we know that the first five harmonics produced by an open organ pipe are 50 Hz, 100 Hz, 150 Hz, 200 Hz, and 250 Hz. \nWhen the pipe is closed at one end, only the even harmonics will survive. Therefore, the even harmonics from the original set are 100 Hz and 200 Hz. \n\nSo, the correct answer is B: 100 Hz and 200 Hz only.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

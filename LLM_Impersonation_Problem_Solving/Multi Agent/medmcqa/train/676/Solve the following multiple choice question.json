@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. 65-year-old man presents with anaemia and posterior column dysfunction, the likely cause is -\n1: B1-deficit\n2: B12-deficit\n3: SSPE\n4: Multiple selerosis",
+    "solution": 2,
+    "gpt_response": "2: B12-deficit\n\nB12-deficiency can lead to pernicious anemia and neurologic symptoms, including posterior column dysfunction. This is a common cause of anemia and neuropathy in older adults.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: 2: B12-deficit\n\nB12-deficiency can lead to pernicious anemia and neurologic symptoms, including posterior column dysfunction. This is a common cause of anemia and neuropathy in older adults.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

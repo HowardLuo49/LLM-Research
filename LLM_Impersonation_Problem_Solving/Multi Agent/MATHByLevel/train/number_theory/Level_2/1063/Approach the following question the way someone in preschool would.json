@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. What is the remainder when the sum $1^2 + 2^2 + 3^2 + \\dots + 10^2$ is divided by 11?",
+    "solution": "Calculate the remainders when $1^2$, $2^2$, ..., $10^2$ are divided by 11 and sum them to find that the remainder when $1^2+2^2+\\cdots+10^2$ is divided by 11 is the same as that of $1+4+9+5+3+3+5+9+4+1=44$, which is $\\boxed{0}$.",
+    "gpt_response": "Let's count and add some numbers together! We can start with 1 + 4 + 9 + ... + 100. When we add them all up, we get a really big number! But when we divide that number by 11, we get a special number that is left over. That special number is called the remainder! Let's find out what that special number is.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 0?: Let's count and add some numbers together! We can start with 1 + 4 + 9 + ... + 100. When we add them all up, we get a really big number! But when we divide that number by 11, we get a special number that is left over. That special number is called the remainder! Let's find out what that special number is.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "5",
+    "difficulty_value": "5"
+}

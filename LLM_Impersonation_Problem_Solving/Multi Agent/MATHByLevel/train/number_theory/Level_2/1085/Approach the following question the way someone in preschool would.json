@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. A number $n$ has $3$ divisors. How many divisors does $n^2$ have?",
+    "solution": "If $n$ has $3$ divisors, since it is divisible by both $1$ and $n$, the only possibility for a third unique divisor is $\\sqrt{n}$, which must be prime. Therefore, $n$ is the square of a prime number. As a result, $n^2$ is the fourth power of a prime. Let $n^2 = p^4$ for the prime $p$. There are $\\boxed{5}$ divisors of $p^4$, namely $p^0$, $p^1$, $p^2$, $p^3$, and $p^4$.",
+    "gpt_response": "Hmm, let's see... if a number has $3$ divisors, that means it can be divided by $1$, itself, and one other number. When we square a number, we make it bigger, so I think there will be more divisors! Let's count together... 1, 2, 3, 4, 6... Oh! $n^2$ has $5$ divisors! Yay, we figured it out!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 5?: Hmm, let's see... if a number has $3$ divisors, that means it can be divided by $1$, itself, and one other number. When we square a number, we make it bigger, so I think there will be more divisors! Let's count together... 1, 2, 3, 4, 6... Oh! $n^2$ has $5$ divisors! Yay, we figured it out!",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

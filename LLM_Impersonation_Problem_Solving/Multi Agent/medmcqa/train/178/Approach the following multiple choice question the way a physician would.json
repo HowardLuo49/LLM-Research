@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. A patient with cushinoid features presents with hemoptysis; he shows no response to dexamethasone suppression test; most likely diagnosis here is:\n1: Adrenal hyperplasia\n2: Adrenal adenoma\n3: Ca lung with ectopic ACTH production\n4: Pituitary microadenoma",
+    "solution": 3,
+    "gpt_response": "As a physician, I would approach this question by considering the patient's symptoms and test results in order to reach the most likely diagnosis. In this case, the patient is presenting with cushingoid features, hemoptysis, and no response to the dexamethasone suppression test. Given these findings, the most likely diagnosis would be option 3: Ca lung with ectopic ACTH production. This is because the symptoms and lack of response to the suppression test suggest an ectopic source of ACTH production, such as a lung cancer. It is important to further investigate and confirm this diagnosis through imaging studies and possibly a biopsy. Option 4, Pituitary microadenoma, would be less likely in this case based on the clinical presentation described.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: As a physician, I would approach this question by considering the patient's symptoms and test results in order to reach the most likely diagnosis. In this case, the patient is presenting with cushingoid features, hemoptysis, and no response to the dexamethasone suppression test. Given these findings, the most likely diagnosis would be option 3: Ca lung with ectopic ACTH production. This is because the symptoms and lack of response to the suppression test suggest an ectopic source of ACTH production, such as a lung cancer. It is important to further investigate and confirm this diagnosis through imaging studies and possibly a biopsy. Option 4, Pituitary microadenoma, would be less likely in this case based on the clinical presentation described.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

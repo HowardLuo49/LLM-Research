@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. A 40-year-old man presents with 5 days of productive cough and fever. Pseudomonas aeruginosa is isolated from a pulmonary abscess. CBC shows an acute effect characterized by marked leukocytosis (50,000/mL) and the differential count reveals shift to left in granulocytes. Which of the following terms best describes these hematologic findings?\n1: Leukemoid reaction\n2: Leukopenia\n3: Myeloid metaplasia\n4: Neutrophilia",
+    "solution": 1,
+    "gpt_response": "1: Leukemoid reaction\n\nThe marked leukocytosis with a left shift in granulocytes is characteristic of a leukemoid reaction, which is a benign condition in response to severe infection or inflammation.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: 1: Leukemoid reaction\n\nThe marked leukocytosis with a left shift in granulocytes is characteristic of a leukemoid reaction, which is a benign condition in response to severe infection or inflammation.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

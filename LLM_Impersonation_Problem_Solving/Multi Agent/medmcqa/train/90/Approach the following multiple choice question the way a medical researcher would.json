@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a medical researcher would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a medical researcher would. Test for diagnosis of pyogenic meningitis is?\n1: Widal\n2: CSF PCR\n3: CSF examination\n4: PET scan",
+    "solution": 3,
+    "gpt_response": "To accurately diagnose pyogenic meningitis, a medical researcher would typically rely on laboratory tests that can detect the presence of specific pathogens in the cerebrospinal fluid (CSF). The most appropriate test for the diagnosis of pyogenic meningitis in this case would be CSF PCR (polymerase chain reaction) test. This test is highly sensitive and specific for identifying DNA or RNA from bacteria causing meningitis in the CSF sample. CSF examination can also be helpful in identifying specific markers of inflammation. Widal test is typically used for diagnosing typhoid fever, while a PET scan is more commonly used for imaging purposes and may not be specific for diagnosing pyogenic meningitis.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: To accurately diagnose pyogenic meningitis, a medical researcher would typically rely on laboratory tests that can detect the presence of specific pathogens in the cerebrospinal fluid (CSF). The most appropriate test for the diagnosis of pyogenic meningitis in this case would be CSF PCR (polymerase chain reaction) test. This test is highly sensitive and specific for identifying DNA or RNA from bacteria causing meningitis in the CSF sample. CSF examination can also be helpful in identifying specific markers of inflammation. Widal test is typically used for diagnosing typhoid fever, while a PET scan is more commonly used for imaging purposes and may not be specific for diagnosing pyogenic meningitis.",
+    "gpt_response_correct_incorrect": "Yes, the final solution obtained in the response is option 3: No.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

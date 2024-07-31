@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Express $(4-5i)(-5+5i)$ in the form $a+bi$, where $a$ and $b$ are integers and $i^2 = -1.$",
+    "solution": "We simplify, bearing in mind that $i^2 = -1$. We get  \\begin{align*}\n(4-5i)(-5+5i) &= 4(-5) + 4(5i) -5i(-5) -5i(5i) \\\\ &= -20 +20i +25i +25 \\\\ &= \\boxed{5 + 45i}.\n\\end{align*}",
+    "gpt_response": "Okay! First, we have to multiply $4$ by $-5$, which is $-20$. Then we multiply $4$ by $5i$, which is $20i$. Next we multiply $-5i$ by $-5$, which is $25i$. Finally, we multiply $-5i$ by $5i$, which is $-25$. Adding these all together, we get $-20 + 20i + 25i - 25$. Combining like terms, we get $-45 + 45i$. So, $(4-5i)(-5+5i)$ in the form $a+bi$ is $-45+45i$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 5 + 45i?: Okay! First, we have to multiply $4$ by $-5$, which is $-20$. Then we multiply $4$ by $5i$, which is $20i$. Next we multiply $-5i$ by $-5$, which is $25i$. Finally, we multiply $-5i$ by $5i$, which is $-25$. Adding these all together, we get $-20 + 20i + 25i - 25$. Combining like terms, we get $-45 + 45i$. So, $(4-5i)(-5+5i)$ in the form $a+bi$ is $-45+45i$.",
+    "gpt_response_correct_incorrect": "No",
+    "yes_no": "no"
+}

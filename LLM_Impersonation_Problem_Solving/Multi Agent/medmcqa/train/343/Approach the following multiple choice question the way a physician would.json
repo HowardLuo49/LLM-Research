@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. In rheumatic heart disease, infective endocarditis is detected by echocardiogram and the largest vegetations seen are due to-\n1: Streptococcus viridans\n2: Staphylococcus aureus\n3: Candida albicans\n4: Salmonella typhi",
+    "solution": 3,
+    "gpt_response": "As a physician, it is important to consider the most likely causative organism for infective endocarditis in a patient with rheumatic heart disease. In this case, the largest vegetations are typically seen in cases of infective endocarditis caused by Staphylococcus aureus. While other organisms such as Streptococcus viridans, Candida albicans, and Salmonella typhi can also cause infective endocarditis, Staphylococcus aureus is known to form larger vegetations in the context of rheumatic heart disease.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: As a physician, it is important to consider the most likely causative organism for infective endocarditis in a patient with rheumatic heart disease. In this case, the largest vegetations are typically seen in cases of infective endocarditis caused by Staphylococcus aureus. While other organisms such as Streptococcus viridans, Candida albicans, and Salmonella typhi can also cause infective endocarditis, Staphylococcus aureus is known to form larger vegetations in the context of rheumatic heart disease.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

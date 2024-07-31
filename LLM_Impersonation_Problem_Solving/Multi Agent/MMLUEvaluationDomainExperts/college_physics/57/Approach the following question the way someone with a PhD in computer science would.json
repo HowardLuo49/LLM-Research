@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in computer science would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in computer science would. If the absolute temperature of a blackbody is increased by a factor of 3, the energy radiated per second per unit area does which of the following?\nA: Decreases by a factor of 81.\nB: Decreases by a factor of 9.\nC: Increases by a factor of 9.\nD: Increases by a factor of 81.",
+    "solution": "D",
+    "gpt_response": "To tackle this question, we can look at the Stefan-Boltzmann law, which states that the total energy radiated per unit surface area of a blackbody is directly proportional to the fourth power of its absolute temperature.\n\nMathematically, we can express this relationship as:\nE \u221d T^4\n\nWhere E is the energy radiated per unit area and T is the absolute temperature.\n\nIf the absolute temperature is increased by a factor of 3, then the new temperature T' = 3T. Substituting this into the Stefan-Boltzmann law, we get:\nE' \u221d (3T)^4 = 81T^4\n\nTherefore, the energy radiated per second per unit area increases by a factor of 81. So the correct answer is:\n\nD: Increases by a factor of 81.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: To tackle this question, we can look at the Stefan-Boltzmann law, which states that the total energy radiated per unit surface area of a blackbody is directly proportional to the fourth power of its absolute temperature.\n\nMathematically, we can express this relationship as:\nE \u221d T^4\n\nWhere E is the energy radiated per unit area and T is the absolute temperature.\n\nIf the absolute temperature is increased by a factor of 3, then the new temperature T' = 3T. Substituting this into the Stefan-Boltzmann law, we get:\nE' \u221d (3T)^4 = 81T^4\n\nTherefore, the energy radiated per second per unit area increases by a factor of 81. So the correct answer is:\n\nD: Increases by a factor of 81.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. What is an ideal method to prevent aspiration pneumonia?\n1: Cuffed endotracheal tube\n2: Inhalational anaesthesia\n3: Increased intra abdominal pressure\n4: Full stomach",
+    "solution": 1,
+    "gpt_response": "As a doctor, the ideal method to prevent aspiration pneumonia would be option 1: Cuffed endotracheal tube. This helps to secure the airway and prevent the aspiration of foreign material into the lungs. Option 2, inhalational anesthesia, may also help prevent aspiration pneumonia during surgery by keeping the patient unconscious and unable to swallow. However, using a cuffed endotracheal tube is a more direct and effective method for preventing aspiration pneumonia. Option 3, increased intra abdominal pressure, and option 4, full stomach, are not appropriate methods for preventing aspiration pneumonia and may actually increase the risk of aspiration.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: As a doctor, the ideal method to prevent aspiration pneumonia would be option 1: Cuffed endotracheal tube. This helps to secure the airway and prevent the aspiration of foreign material into the lungs. Option 2, inhalational anesthesia, may also help prevent aspiration pneumonia during surgery by keeping the patient unconscious and unable to swallow. However, using a cuffed endotracheal tube is a more direct and effective method for preventing aspiration pneumonia. Option 3, increased intra abdominal pressure, and option 4, full stomach, are not appropriate methods for preventing aspiration pneumonia and may actually increase the risk of aspiration.",
+    "gpt_response_correct_incorrect": "Yes, the final solution obtained in the response is option 1: Cuffed endotracheal tube.",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

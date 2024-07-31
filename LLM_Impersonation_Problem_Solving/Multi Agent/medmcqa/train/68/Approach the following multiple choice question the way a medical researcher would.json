@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a medical researcher would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a medical researcher would. Which of the following is the best procedure done for intrapaum fetal monitoring:\n1: Fetal echocardiography\n2: Fetal scalp pH\n3: Continuous electrical fetal hea monitoring\n4: Physical examination",
+    "solution": 3,
+    "gpt_response": "As a medical researcher, I would analyze the options based on the most effective method for intrapartum fetal monitoring. In this case, the best procedure would be continuous electrical fetal heart monitoring (option 3). This method allows for real-time monitoring of the fetal heart rate and can provide valuable information on the well-being of the fetus during labor. Fetal echocardiography (option 1) is typically used for assessing the structure and function of the fetal heart and may not be as suitable for intrapartum monitoring. Fetal scalp pH testing (option 2) can be helpful in certain situations to assess fetal oxygenation, but it is not as comprehensive or continuous as electrical fetal heart monitoring. Physical examination (option 4) alone is not sufficient for accurate intrapartum fetal monitoring.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: As a medical researcher, I would analyze the options based on the most effective method for intrapartum fetal monitoring. In this case, the best procedure would be continuous electrical fetal heart monitoring (option 3). This method allows for real-time monitoring of the fetal heart rate and can provide valuable information on the well-being of the fetus during labor. Fetal echocardiography (option 1) is typically used for assessing the structure and function of the fetal heart and may not be as suitable for intrapartum monitoring. Fetal scalp pH testing (option 2) can be helpful in certain situations to assess fetal oxygenation, but it is not as comprehensive or continuous as electrical fetal heart monitoring. Physical examination (option 4) alone is not sufficient for accurate intrapartum fetal monitoring.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

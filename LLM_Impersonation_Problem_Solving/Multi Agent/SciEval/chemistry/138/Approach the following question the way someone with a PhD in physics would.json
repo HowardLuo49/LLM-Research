@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in physics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in physics would. What is the molecular formula of CCOC(=O)C1CCCCC=CC1?\nAnswer:",
+    "solution": [
+        "C11H18O2"
+    ],
+    "gpt_response": "The molecular formula of CCOC(=O)C1CCCCC=CC1 is C11H16O. This compound contains 11 carbon atoms, 16 hydrogen atoms, and 1 oxygen atom. The structure consists of a central carbon atom doubly bonded to an oxygen atom, which is then bonded to another carbon atom and a chain of five additional carbon atoms forming a cyclohexene ring structure.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response ['C11H18O2']?: The molecular formula of CCOC(=O)C1CCCCC=CC1 is C11H16O. This compound contains 11 carbon atoms, 16 hydrogen atoms, and 1 oxygen atom. The structure consists of a central carbon atom doubly bonded to an oxygen atom, which is then bonded to another carbon atom and a chain of five additional carbon atoms forming a cyclohexene ring structure.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

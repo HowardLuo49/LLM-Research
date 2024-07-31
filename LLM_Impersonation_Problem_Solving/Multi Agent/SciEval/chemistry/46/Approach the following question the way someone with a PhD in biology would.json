@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. What is the SMILES expression of C15H32O2?\nAnswer:",
+    "solution": [
+        "CCCCCCCCCCCCC(C)OOC"
+    ],
+    "gpt_response": "The SMILES expression of C15H32O2, also known as pentadecanolide, is CCCCCCCCCCCCCCCC1COC1=O. SMILES (Simplified Molecular Input Line Entry System) is a notation system that allows the representation of molecular structures using short ASCII strings. In this case, the SMILES expression represents the structural formula of pentadecanolide, a 15-carbon organic compound with a molecular formula of C15H32O2.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response ['CCCCCCCCCCCCC(C)OOC']?: The SMILES expression of C15H32O2, also known as pentadecanolide, is CCCCCCCCCCCCCCCC1COC1=O. SMILES (Simplified Molecular Input Line Entry System) is a notation system that allows the representation of molecular structures using short ASCII strings. In this case, the SMILES expression represents the structural formula of pentadecanolide, a 15-carbon organic compound with a molecular formula of C15H32O2.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

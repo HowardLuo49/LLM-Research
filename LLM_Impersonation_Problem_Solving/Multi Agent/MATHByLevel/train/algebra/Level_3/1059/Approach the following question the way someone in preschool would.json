@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Karen drove continuously from 9:40 a.m. until 1:20 p.m. of the same day and covered a distance of 165 miles. What was her average speed in miles per hour?",
+    "solution": "Average speed is defined as distance traveled divided by time traveled. Karen drove 165 miles in $3\\frac{40}{60}=3\\frac{2}{3}=\\frac{11}{3}$ hours, so her average speed was $\\frac{165}{\\frac{11}{3}}=3\\cdot15=\\boxed{45}$ miles per hour.",
+    "gpt_response": "Let's see... Karen drove for a long time and went 165 miles. Hmm... to find her average speed, we have to divide the distance she traveled by the time she drove. So, we need to think about how many hours she was driving. She started at 9:40 a.m. and drove until 1:20 p.m., so let's count how many hours that is. 9:40, 10:40, 11:40, 12:40... that's 3 hours! So now we take the distance she went, 165 miles, and divide it by the time she drove, 3 hours. \n\n165 miles \u00f7 3 hours = 55 miles per hour\n\nSo Karen's average speed was 55 miles per hour! Yay, we did it! Great job, friends!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 45?: Let's see... Karen drove for a long time and went 165 miles. Hmm... to find her average speed, we have to divide the distance she traveled by the time she drove. So, we need to think about how many hours she was driving. She started at 9:40 a.m. and drove until 1:20 p.m., so let's count how many hours that is. 9:40, 10:40, 11:40, 12:40... that's 3 hours! So now we take the distance she went, 165 miles, and divide it by the time she drove, 3 hours. \n\n165 miles \u00f7 3 hours = 55 miles per hour\n\nSo Karen's average speed was 55 miles per hour! Yay, we did it! Great job, friends!",
+    "gpt_response_correct_incorrect": "No",
+    "yes_no": "no"
+}

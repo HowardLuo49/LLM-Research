@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. What is the remainder when $2007$ is divided by $81$?",
+    "solution": "Dividing using long division, we find that $2007=81\\cdot24 + 63$, so the remainder is $\\boxed{63}$.",
+    "gpt_response": "Let's pretend we have $2007$ cookies and we want to share them with our friends in groups of $81$. When we try to divide $2007$ by $81$, we see that $81$ can fit into $2007$ about $24$ times with $63$ leftover. So the remainder is $63$. Yay! We can share $24$ cookies with our friends and keep the $63$ leftover for ourselves.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 63?: Let's pretend we have $2007$ cookies and we want to share them with our friends in groups of $81$. When we try to divide $2007$ by $81$, we see that $81$ can fit into $2007$ about $24$ times with $63$ leftover. So the remainder is $63$. Yay! We can share $24$ cookies with our friends and keep the $63$ leftover for ourselves.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "9",
+    "difficulty_value": "9"
+}

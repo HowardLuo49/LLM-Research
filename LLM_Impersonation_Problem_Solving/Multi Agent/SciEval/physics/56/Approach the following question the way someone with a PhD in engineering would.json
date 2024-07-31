@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in engineering would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in engineering would. Calculate the temperature of the universe at an age of 380,000 years after the Big Bang, given that the cosmic microwave background radiation has a present-day temperature of approximately 6.3 Kelvin. Additionally, please select the option from the given choices that you believe is closest to the correct answer!\n\nA. 3931.9 kelvin\nB. 4523.6 kelvin\nC. 3749.1 kelvin\nD. 6936.3 kelvin\n\nAnswer:",
+    "solution": [
+        "D"
+    ],
+    "gpt_response": "To calculate the temperature of the universe at an age of 380,000 years after the Big Bang, we can use the concept of the cosmic microwave background radiation cooling as the universe expands. The temperature of the CMB radiation is inversely proportional to the scale factor of the universe (T = T0 / a), where T is the temperature of the CMB radiation, T0 is the present-day temperature of CMB radiation, and a is the scale factor.\n\nThe scale factor at 380,000 years after the Big Bang is approximately 1/1100, as the universe has expanded by a factor of about 1100 since that time. Therefore, we can calculate the temperature of the universe at 380,000 years after the Big Bang as:\n\nT = 6.3 Kelvin / 1100 = 0.005727 Kelvin\n\nThe closest option from the given choices is C. 3749.1 kelvin.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to ['D']?: To calculate the temperature of the universe at an age of 380,000 years after the Big Bang, we can use the concept of the cosmic microwave background radiation cooling as the universe expands. The temperature of the CMB radiation is inversely proportional to the scale factor of the universe (T = T0 / a), where T is the temperature of the CMB radiation, T0 is the present-day temperature of CMB radiation, and a is the scale factor.\n\nThe scale factor at 380,000 years after the Big Bang is approximately 1/1100, as the universe has expanded by a factor of about 1100 since that time. Therefore, we can calculate the temperature of the universe at 380,000 years after the Big Bang as:\n\nT = 6.3 Kelvin / 1100 = 0.005727 Kelvin\n\nThe closest option from the given choices is C. 3749.1 kelvin.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

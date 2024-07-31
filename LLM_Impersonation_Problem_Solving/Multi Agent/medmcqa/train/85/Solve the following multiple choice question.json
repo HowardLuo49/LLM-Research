@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. During extraction of the upper first molar, the mesio buccal root is missing and is suspected to have been pushed into the maxillary sinus.\nThe best position for the patient immediately after the incident is\n1: To position the patient upright\n2: To position the patients in a semi inclined posture to visualize the perforation\n3: Trendelenberg position\n4: Reverse trendelenberg position",
+    "solution": 1,
+    "gpt_response": "2: To position the patients in a semi inclined posture to visualize the perforation\n\nBy positioning the patient in a semi inclined posture, it allows for better visualization of the perforation and can help in determining the exact location of the missing root. This can aid in planning the next steps for treatment and minimizing any potential complications.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: 2: To position the patients in a semi inclined posture to visualize the perforation\n\nBy positioning the patient in a semi inclined posture, it allows for better visualization of the perforation and can help in determining the exact location of the missing root. This can aid in planning the next steps for treatment and minimizing any potential complications.",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

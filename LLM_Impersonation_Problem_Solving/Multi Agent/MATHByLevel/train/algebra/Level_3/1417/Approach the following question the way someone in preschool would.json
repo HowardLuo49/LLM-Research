@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. When Scott completes the square on the quadratic $x^2 + 8x - 1 = 0$, he obtains an equation of the form $(x + a)^2 = b$.  What is $b$?",
+    "solution": "We can square $x + 4$ to get $x^2 + 8x + 16$, so the given equation becomes $x^2 + 8x - 1 = (x^2 + 8x + 16) - 16 - 1 = (x + 4)^2 - 17 = 0$, which means $(x + 4)^2 = 17$.  We see that $b = \\boxed{17}$.",
+    "gpt_response": "Scott has a big square equation with x's and stuff. He wants to make a smaller square with just x and a. So he adds a number to both sides of the equation so it looks like $(x + a)^2 = b$. Scott is very smart and knows that $b$ is the answer to a super hard math question!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 17?: Scott has a big square equation with x's and stuff. He wants to make a smaller square with just x and a. So he adds a number to both sides of the equation so it looks like $(x + a)^2 = b$. Scott is very smart and knows that $b$ is the answer to a super hard math question!",
+    "gpt_response_correct_incorrect": "No",
+    "yes_no": "no"
+}

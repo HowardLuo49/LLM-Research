@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Characteristics of Remifentanyl \u2013 a) Metabolised by plasma esteraseb) Short half lifec) More potent than Alfentanyld) Dose reduced in hepatic and renal diseasee) Duration of action more than Alfentanyl\n1: ab\n2: bc\n3: abc\n4: bcd",
+    "solution": 3,
+    "gpt_response": "The correct answer is 1: ab. Remifentanyl is metabolized by plasma esterase and has a short half life.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: The correct answer is 1: ab. Remifentanyl is metabolized by plasma esterase and has a short half life.",
+    "gpt_response_correct_incorrect": "No, the final solution obtained is not 3.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

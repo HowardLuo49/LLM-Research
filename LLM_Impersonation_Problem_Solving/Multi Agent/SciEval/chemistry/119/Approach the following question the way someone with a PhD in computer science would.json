@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in computer science would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in computer science would. What is the SMILES expression of C7H13F3N2?\nAnswer:",
+    "solution": [
+        "CN1CCNCCC1C(F)(F)F"
+    ],
+    "gpt_response": "The SMILES expression of C7H13F3N2 is CC(C)(C)C(C)N(C)C(F)(F)F. This representation uses a specific notation system to describe the structure of chemical compounds, allowing for easy storage and exchange of molecular information for computational purposes.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response ['CN1CCNCCC1C(F)(F)F']?: The SMILES expression of C7H13F3N2 is CC(C)(C)C(C)N(C)C(F)(F)F. This representation uses a specific notation system to describe the structure of chemical compounds, allowing for easy storage and exchange of molecular information for computational purposes.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

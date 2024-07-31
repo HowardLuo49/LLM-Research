@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. If 15 bahs are equal to 24 rahs, and 9 rahs are equal in value to 15 yahs, how many bahs are equal in value to 1000 yahs?",
+    "solution": "Five yahs are equivalent to 3 rahs, so $5\\cdot 200=1000$ yahs are equivalent to $3\\cdot 200=600$ rahs.  Eight rahs are equivalent to 5 bahs, so $8\\cdot 75=600$ rahs are equivalent to $5\\cdot75=\\boxed{375}$ bahs.",
+    "gpt_response": "Okay, so first we need to figure out how many yahs are equal to one rah. Since 9 rahs are equal to 15 yahs, we can divide 15 yahs by 9 and get 1.66666666667 yahs per rah. \n\nNext, we need to figure out how many rahs are equal to one bah. Since 15 bahs are equal to 24 rahs, we can divide 24 rahs by 15 and get 1.6 rahs per bah. \n\nNow, we can figure out how many bahs are equal to 1000 yahs. First, divide 1000 yahs by 1.66666666667 yahs per rah to get 600 rahs. Then, divide 600 rahs by 1.6 rahs per bah to get 375 bahs. \n\nSo, 375 bahs are equal in value to 1000 yahs.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 375?: Okay, so first we need to figure out how many yahs are equal to one rah. Since 9 rahs are equal to 15 yahs, we can divide 15 yahs by 9 and get 1.66666666667 yahs per rah. \n\nNext, we need to figure out how many rahs are equal to one bah. Since 15 bahs are equal to 24 rahs, we can divide 24 rahs by 15 and get 1.6 rahs per bah. \n\nNow, we can figure out how many bahs are equal to 1000 yahs. First, divide 1000 yahs by 1.66666666667 yahs per rah to get 600 rahs. Then, divide 600 rahs by 1.6 rahs per bah to get 375 bahs. \n\nSo, 375 bahs are equal in value to 1000 yahs.",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. Find the greatest common factor of 5! and 6!.  (Reminder: If $n$ is a positive integer, then $n!$ stands for the product $1\\cdot 2\\cdot 3\\cdot \\cdots \\cdot (n-1)\\cdot n$.)",
+    "solution": "Note that $6!=6\\cdot5!$. Therefore, the greatest common factor must be $5!=\\boxed{120}$.",
+    "gpt_response": "To find the greatest common factor of 5! and 6!, we need to find the biggest number that can divide both 5! and 6!. \n\nFirst, we need to figure out what 5! and 6! are. \n\n5! is 1 x 2 x 3 x 4 x 5 = 120\n6! is 1 x 2 x 3 x 4 x 5 x 6 = 720\n\nNow, we need to find the factors of 120 and 720. \n\nThe factors of 120 are 1, 2, 3, 4, 5, 6, 8, 10, 12, 15, 20, 24, 30, 40, 60, and 120.\n\nThe factors of 720 are 1, 2, 3, 4, 5, 6, 8, 9, 10, 12, 15, 16, 18, 20, 24, 30, 36, 40, 45, 48, 60, 72, 90, 120, 144, 180, 240, 360, and 720.\n\nThe biggest number that can divide both 120 and 720 is 120. So, the greatest common factor of 5! and 6! is 120.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 120?: To find the greatest common factor of 5! and 6!, we need to find the biggest number that can divide both 5! and 6!. \n\nFirst, we need to figure out what 5! and 6! are. \n\n5! is 1 x 2 x 3 x 4 x 5 = 120\n6! is 1 x 2 x 3 x 4 x 5 x 6 = 720\n\nNow, we need to find the factors of 120 and 720. \n\nThe factors of 120 are 1, 2, 3, 4, 5, 6, 8, 10, 12, 15, 20, 24, 30, 40, 60, and 120.\n\nThe factors of 720 are 1, 2, 3, 4, 5, 6, 8, 9, 10, 12, 15, 16, 18, 20, 24, 30, 36, 40, 45, 48, 60, 72, 90, 120, 144, 180, 240, 360, and 720.\n\nThe biggest number that can divide both 120 and 720 is 120. So, the greatest common factor of 5! and 6! is 120.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

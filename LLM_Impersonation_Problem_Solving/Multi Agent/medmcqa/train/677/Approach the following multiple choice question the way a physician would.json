@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Which type of cattle poisoning occurs due to ingestion of LINSEED plant?\n1: Aconite\n2: Atropine\n3: Pilocarpine\n4: Hydrocyanic acid",
+    "solution": 4,
+    "gpt_response": "As a physician, I would rule out options 1, 2, and 3 (Aconite, Atropine, and Pilocarpine) as they are not typically associated with cattle poisoning from ingesting LINSEED plants. The correct answer would be option 4: Hydrocyanic acid, as this compound is known to be present in some plants, including LINSEED, and can cause poisoning in livestock.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 4?: As a physician, I would rule out options 1, 2, and 3 (Aconite, Atropine, and Pilocarpine) as they are not typically associated with cattle poisoning from ingesting LINSEED plants. The correct answer would be option 4: Hydrocyanic acid, as this compound is known to be present in some plants, including LINSEED, and can cause poisoning in livestock.",
+    "gpt_response_correct_incorrect": "Yes, the final solution obtained in the response is option 4: Hydrocyanic acid.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

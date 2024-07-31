@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. What is the sum of the value(s) of $n$ for which $|2n - 7| = 3$?",
+    "solution": "The absolute value of a real number is equal to $3$ if and only if the number is $3$ or $-3$.  Solving $2n-7=3$ and $2n-7=-3$ we find the solutions $n=5$ and $n=2$.  The sum of these solutions is $5+2=\\boxed{7}$.",
+    "gpt_response": "Hmm... so we have to find the number(s) that make 2 times the number minus 7 equal to 3. Let's try some numbers! \n\nIf we put n as 5, then 2 times 5 is 10, minus 7 is 3. So n = 5 is one of the numbers that work!\n\nLet's try n as 10. 2 times 10 is 20, minus 7 is 13. That's not right!\n\nSo we know that n = 5 is the value that makes |2n - 7| = 3. The sum of the value(s) of n is 5. Yay, we did it!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 7?: Hmm... so we have to find the number(s) that make 2 times the number minus 7 equal to 3. Let's try some numbers! \n\nIf we put n as 5, then 2 times 5 is 10, minus 7 is 3. So n = 5 is one of the numbers that work!\n\nLet's try n as 10. 2 times 10 is 20, minus 7 is 13. That's not right!\n\nSo we know that n = 5 is the value that makes |2n - 7| = 3. The sum of the value(s) of n is 5. Yay, we did it!",
+    "gpt_response_correct_incorrect": "No",
+    "yes_no": "no"
+}

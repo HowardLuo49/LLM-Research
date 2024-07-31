@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. A subset H of a group (G,*) is a group if\nA: a,b in H=> a * b in H\nB: a in H => a^-1 in H\nC: a,b in H=> a * b^-1 in H\nD: H contains the identity element",
+    "solution": "C",
+    "gpt_response": "To show that a subset H of a group G is itself a group, we need to check that the subset satisfies four properties. First, if a and b are in H, then their product, a * b, is also in H. Second, if a is in H, then its inverse, a^-1, is also in H. Third, if a and b are in H, then their product with b's inverse, a * b^-1, is also in H. Finally, H must contain the identity element of the group. So, to prove that H is a group, we need to check that all these properties hold true.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to C?: To show that a subset H of a group G is itself a group, we need to check that the subset satisfies four properties. First, if a and b are in H, then their product, a * b, is also in H. Second, if a is in H, then its inverse, a^-1, is also in H. Third, if a and b are in H, then their product with b's inverse, a * b^-1, is also in H. Finally, H must contain the identity element of the group. So, to prove that H is a group, we need to check that all these properties hold true.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

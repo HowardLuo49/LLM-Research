@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. prophylaxis for Pneumocystis carinii is indicated in HIV positive patents When CD4 count is-\n1: <300 cells/mm3\n2: < 200 cells / mm3\n3: < 100 cells/mm3\n4: < 50 cells / mm3",
+    "solution": 2,
+    "gpt_response": "The prophylaxis for Pneumocystis carinii is indicated in HIV positive patients when their CD4 count falls below a certain level in order to prevent opportunistic infections. The appropriate threshold for initiating prophylaxis is when the CD4 count is below <200 cells/mm3. Therefore, the correct answer is option 2: < 200 cells/mm3.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: The prophylaxis for Pneumocystis carinii is indicated in HIV positive patients when their CD4 count falls below a certain level in order to prevent opportunistic infections. The appropriate threshold for initiating prophylaxis is when the CD4 count is below <200 cells/mm3. Therefore, the correct answer is option 2: < 200 cells/mm3.",
+    "gpt_response_correct_incorrect": "Yes. The final solution obtained in the response is 2: < 200 cells/mm3.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

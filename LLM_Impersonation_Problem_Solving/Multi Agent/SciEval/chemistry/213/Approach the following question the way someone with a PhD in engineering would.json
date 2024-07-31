@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in engineering would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in engineering would. What is the molecular formula of CCC(CC)NC1CCCC1C#N?\nAnswer:",
+    "solution": [
+        "C11H20N2"
+    ],
+    "gpt_response": "The molecular formula of CCC(CC)NC1CCCC1C#N is C14H28N2. This can be determined by counting the number of each type of atom present in the compound. In this case, there are 14 carbon atoms, 28 hydrogen atoms, and 2 nitrogen atoms. By simplifying the formula to its simplest ratio, we get C14H28N2.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response ['C11H20N2']?: The molecular formula of CCC(CC)NC1CCCC1C#N is C14H28N2. This can be determined by counting the number of each type of atom present in the compound. In this case, there are 14 carbon atoms, 28 hydrogen atoms, and 2 nitrogen atoms. By simplifying the formula to its simplest ratio, we get C14H28N2.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. A heat pump is to extract heat from an outdoor environment at 7\u00b0C and heat the environment indoors to 27\u00b0C. For each 15,000 J of heat delivered indoors, the smallest amount of work that must be supplied to the heat pump is approximately\nA: 500 J\nB: 1,000 J\nC: 1,100 J\nD: 2,000 J",
+    "solution": "B",
+    "gpt_response": "Hmm... A heat pump is like a magic machine that can make one place warm by taking heat from another place that's already warm. So, if it's 7\u00b0C outside and we want it to be 27\u00b0C inside, the heat pump has to do some work to make that happen. If we want to make 15,000 J of heat go inside, we need to give the heat pump around 1,000 J of work.\n\nSo, I think the answer is B: 1,000 J! But if I'm wrong, that's okay because I'm just learning too. :)",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to B?: Hmm... A heat pump is like a magic machine that can make one place warm by taking heat from another place that's already warm. So, if it's 7\u00b0C outside and we want it to be 27\u00b0C inside, the heat pump has to do some work to make that happen. If we want to make 15,000 J of heat go inside, we need to give the heat pump around 1,000 J of work.\n\nSo, I think the answer is B: 1,000 J! But if I'm wrong, that's okay because I'm just learning too. :)",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

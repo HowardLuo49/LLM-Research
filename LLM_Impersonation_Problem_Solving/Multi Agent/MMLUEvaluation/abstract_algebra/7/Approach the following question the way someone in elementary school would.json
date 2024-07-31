@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. Statement 1 | A ring homomorphism is one to one if and only if the kernel is {0}. Statement 2 | Q is an ideal in R.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "D",
+    "gpt_response": "If a ring homomorphism is one to one, that means that each element in the domain corresponds to only one element in the codomain. This is true if and only if the kernel (the set of elements that get mapped to the identity element) is just {0}. So Statement 1 is saying that if a ring homomorphism is one to one, then its kernel is {0}, which is true!\n\nNow, Statement 2 is saying that Q is an ideal in R. Well, we learned that an ideal is a subset of a ring R that is closed under addition, subtraction, and multiplication by elements in R. Q is the set of rational numbers, and since rationals are closed under addition, subtraction, and multiplication by other rational numbers, Q is indeed an ideal in R. So that statement is true too!\n\nSo the answer is A: True, True.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: If a ring homomorphism is one to one, that means that each element in the domain corresponds to only one element in the codomain. This is true if and only if the kernel (the set of elements that get mapped to the identity element) is just {0}. So Statement 1 is saying that if a ring homomorphism is one to one, then its kernel is {0}, which is true!\n\nNow, Statement 2 is saying that Q is an ideal in R. Well, we learned that an ideal is a subset of a ring R that is closed under addition, subtraction, and multiplication by elements in R. Q is the set of rational numbers, and since rationals are closed under addition, subtraction, and multiplication by other rational numbers, Q is indeed an ideal in R. So that statement is true too!\n\nSo the answer is A: True, True.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

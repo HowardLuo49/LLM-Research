@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. A positive two-digit number is even and is a multiple of 11. The product of its digits is a perfect cube. What is this two-digit number?",
+    "solution": "Let $N$ be the desired two-digit number. $N$ is divisible by 2 and by 11, and $(2,11)=1$, so $N$ is divisible by 22. Thus, $N\\in\\{22, 44, 66, 88\\}$. Only 88 is such that the product of its digits is a perfect cube ($8\\cdot8=64=4^3$), so $N=\\boxed{88}$.",
+    "gpt_response": "Ok, so let's break this down step by step. First, we know that the number is even, which means it must end in 0, 2, 4, 6, or 8. Since it is a multiple of 11, the sum of its digits must be a multiple of 11 as well.\n\nNext, we know that the product of its digits is a perfect cube, which means that the two digits must be perfect cubes themselves. The only perfect cube that is a single digit is 8 (2^3), so the two-digit number must be 88.\n\nTherefore, the two-digit number that is even, a multiple of 11, and has a product of its digits as a perfect cube is 88.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 88?: Ok, so let's break this down step by step. First, we know that the number is even, which means it must end in 0, 2, 4, 6, or 8. Since it is a multiple of 11, the sum of its digits must be a multiple of 11 as well.\n\nNext, we know that the product of its digits is a perfect cube, which means that the two digits must be perfect cubes themselves. The only perfect cube that is a single digit is 8 (2^3), so the two-digit number must be 88.\n\nTherefore, the two-digit number that is even, a multiple of 11, and has a product of its digits as a perfect cube is 88.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

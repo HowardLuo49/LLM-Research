@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Sho structured primi gravida has height less then\n1: 140 cm\n2: 145 cm\n3: 150 cm\n4: 135 cm",
+    "solution": 1,
+    "gpt_response": "As a physician, I would approach this question by considering the normal range of heights for pregnant women. According to standard medical guidelines, the average height of women is around 150 cm. Therefore, a height less than 150 cm in a primigravida may raise concerns about potential complications such as intrauterine growth restriction or other issues that could affect the pregnancy. \n\nBased on this information, the correct answer would be option 3: 150 cm.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: As a physician, I would approach this question by considering the normal range of heights for pregnant women. According to standard medical guidelines, the average height of women is around 150 cm. Therefore, a height less than 150 cm in a primigravida may raise concerns about potential complications such as intrauterine growth restriction or other issues that could affect the pregnancy. \n\nBased on this information, the correct answer would be option 3: 150 cm.",
+    "gpt_response_correct_incorrect": "Option 3: 150 cm",
+    "attempts": 3,
+    "yes_no": "N/A",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

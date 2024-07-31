@@ -1,0 +1,10 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. A Senate committee has 5 Democrats and 5 Republicans. Assuming all politicians are distinguishable, in how many ways can they sit around a circular table without restrictions?  (Two seatings are considered the same if one is a rotation of the other.)",
+    "solution": "There are 10 people to place, so we can place them in $10!$ ways, but this counts each valid arrangement 10 times (once for each rotation of the same arrangement).  So the number of ways to seat them is $\\dfrac{10!}{10} = 9! = \\boxed{362,\\!880}$.",
+    "gpt_response": "Okay, so there are 10 politicians in total - 5 Democrats and 5 Republicans. They are sitting around a circular table. Since it's a circular table, we have to consider rotations.\n\nFirst, we choose one politician to sit in a specific seat. Then, we arrange the other politicians around the table, which can be done in 9! ways.\n\nBut we have to divide by 10 because we are overcounting due to rotations. So, the total number of ways they can sit around the circular table is 9!/10 = 362,880 / 10 = 36,288 ways.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 362,\\!880?: Okay, so there are 10 politicians in total - 5 Democrats and 5 Republicans. They are sitting around a circular table. Since it's a circular table, we have to consider rotations.\n\nFirst, we choose one politician to sit in a specific seat. Then, we arrange the other politicians around the table, which can be done in 9! ways.\n\nBut we have to divide by 10 because we are overcounting due to rotations. So, the total number of ways they can sit around the circular table is 9!/10 = 362,880 / 10 = 36,288 ways.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes"
+}

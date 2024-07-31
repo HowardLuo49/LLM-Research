@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Which of the following bacterial meningitis is associated with sudural effusion?\n1: H. influenza\n2: Neisseria meningitits\n3: Streptococcus pneumonia\n4: Enterococcus",
+    "solution": 1,
+    "gpt_response": "In the context of bacterial meningitis, the most likely answer to the question would be Streptococcus pneumoniae. Streptococcus pneumoniae is known to cause bacterial meningitis and can be associated with subdural effusion as a complication of the infection. Sudural effusion refers to the accumulation of fluid between the dura mater and arachnoid mater layers of the meninges. Therefore, the correct answer is option 3: Streptococcus pneumoniae.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: In the context of bacterial meningitis, the most likely answer to the question would be Streptococcus pneumoniae. Streptococcus pneumoniae is known to cause bacterial meningitis and can be associated with subdural effusion as a complication of the infection. Sudural effusion refers to the accumulation of fluid between the dura mater and arachnoid mater layers of the meninges. Therefore, the correct answer is option 3: Streptococcus pneumoniae.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

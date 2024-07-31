@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. How many positive divisors of $150$ are not divisible by 5?",
+    "solution": "First, we find $150=2\\cdot 3 \\cdot 5^2.$ The prime factorization of a divisor of 150 must take the form $2^m3^n5^p$ for nonnegative integers $m\\leq 1$, $n\\leq 1$, and $p\\leq 2$. The requirement that the divisor is not divisible by 5 means that we must have $p=0$. Therefore, there are $2$ possibilities for $m$ (namely, 0 or 1) and the same for $n$ for a total of $2\\cdot 2=\\boxed{4}$ such factors.",
+    "gpt_response": "To find the number of positive divisors of 150 that are not divisible by 5, we first need to find the prime factorization of 150. \n\n$150 = 2 \\times 3 \\times 5^2$\n\nA positive divisor of 150 will have the form $2^a \\times 3^b \\times 5^c$, where $a$, $b$, and $c$ are non-negative integers. \n\nFor a divisor to not be divisible by 5, the exponent of 5, $c$, must be 0. This means that the divisor can be of the form $2^a \\times 3^b$. \n\nThere are 2 choices for $a$ (0 or 1 if we exclude 5), and 2 choices for $b$ (0 or 1). \n\nTherefore, the total number of positive divisors of 150 that are not divisible by 5 is $2 \\times 2 = 4$. \n\nSo, there are 4 positive divisors of 150 that are not divisible by 5.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 4?: To find the number of positive divisors of 150 that are not divisible by 5, we first need to find the prime factorization of 150. \n\n$150 = 2 \\times 3 \\times 5^2$\n\nA positive divisor of 150 will have the form $2^a \\times 3^b \\times 5^c$, where $a$, $b$, and $c$ are non-negative integers. \n\nFor a divisor to not be divisible by 5, the exponent of 5, $c$, must be 0. This means that the divisor can be of the form $2^a \\times 3^b$. \n\nThere are 2 choices for $a$ (0 or 1 if we exclude 5), and 2 choices for $b$ (0 or 1). \n\nTherefore, the total number of positive divisors of 150 that are not divisible by 5 is $2 \\times 2 = 4$. \n\nSo, there are 4 positive divisors of 150 that are not divisible by 5.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

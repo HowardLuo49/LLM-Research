@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Find a positive integer that is divisible by 14 and has a square root between 25 and 25.3.",
+    "solution": "The second condition tells us that the integer must be between $25^2 = 625$ and $(25.3)^2 \\approx 640$. The only multiple of 14 in this range is $\\boxed{630}.$  (One easy way to find a multiple of 14 is to find a number that is both a multiple of 2 and a multiple of 7.)",
+    "gpt_response": "Okie dokie! Let's try to find a number that is both divisible by 14 and has a square root between 25 and 25.3. \n\nFirst, we know that 14 x 2 = 28, so 28 is divisible by 14. \n\nNext, let's find the square root of 28. The square root of 28 is about 5.29, which is between 5 (25) and 5.3 (25.3). \n\nSo, the positive integer that meets both of these conditions is 28! Yay, we did it!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 630?: Okie dokie! Let's try to find a number that is both divisible by 14 and has a square root between 25 and 25.3. \n\nFirst, we know that 14 x 2 = 28, so 28 is divisible by 14. \n\nNext, let's find the square root of 28. The square root of 28 is about 5.29, which is between 5 (25) and 5.3 (25.3). \n\nSo, the positive integer that meets both of these conditions is 28! Yay, we did it!",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

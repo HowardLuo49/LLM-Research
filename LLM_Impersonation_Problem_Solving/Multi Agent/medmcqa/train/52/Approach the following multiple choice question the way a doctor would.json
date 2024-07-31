@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Pre-exposure prophylaxis for rabies is given on days\n1: 0, 3, 7, 14, 28, 90\n2: 0, 3, 7, 28, 90\n3: 0, 3\n4: 0, 7, 28",
+    "solution": 4,
+    "gpt_response": "As a doctor, the correct choice for pre-exposure prophylaxis for rabies is option 1: 0, 3, 7, 14, 28, 90. This regimen provides the most comprehensive protection against rabies virus exposure. It is important to follow the specific schedule to ensure maximum effectiveness of the vaccine.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 4?: As a doctor, the correct choice for pre-exposure prophylaxis for rabies is option 1: 0, 3, 7, 14, 28, 90. This regimen provides the most comprehensive protection against rabies virus exposure. It is important to follow the specific schedule to ensure maximum effectiveness of the vaccine.",
+    "gpt_response_correct_incorrect": "No, the final solution obtained in the response is not option 4.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "5",
+    "difficulty_value": "5"
+}

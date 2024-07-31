@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. What is the greatest 3-digit base 8 positive integer that is divisible by 5?  (Express your answer in base 8.)",
+    "solution": "The greatest 3-digit base 8 positive integer is $777_8$, which is equal to $7 \\cdot 8^2 + 7 \\cdot 8 + 7 = 511$.  This number leaves a remainder of 1 when divided by 5, so we subtract 1, to get $\\boxed{776_8}$.",
+    "gpt_response": "Okay, so let's think about this. We need to find the greatest 3-digit base 8 number that is divisible by 5. In base 8, the possible digits are 0, 1, 2, 3, 4, 5, 6, and 7. \n\nTo find a number divisible by 5 in base 8, we need to look for a number that ends in 0, because in base 8, numbers divisible by 5 end in 0. \n\nSo, we can start by listing out all the 3-digit numbers in base 8 that end in 0:\n100, 110, 120, 130, 140, 150, 160, 170, 200, 210, 220, 230, 240, 250, 260, 270, 300, 310, 320, 330, 340, 350, 360, 370, 400, 410, 420, 430, 440, 450, 460, 470, 500, 510, 520, 530, 540, 550, 560, 570, 600, 610, 620, 630, 640, 650, 660, 670, 700, 710, 720, 730, 740, 750, 760, 770\n\nOut of these numbers, the greatest 3-digit number is 770. \n\nSo, the greatest 3-digit base 8 positive integer that is divisible by 5 is 770 in base 8.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 776_8?: Okay, so let's think about this. We need to find the greatest 3-digit base 8 number that is divisible by 5. In base 8, the possible digits are 0, 1, 2, 3, 4, 5, 6, and 7. \n\nTo find a number divisible by 5 in base 8, we need to look for a number that ends in 0, because in base 8, numbers divisible by 5 end in 0. \n\nSo, we can start by listing out all the 3-digit numbers in base 8 that end in 0:\n100, 110, 120, 130, 140, 150, 160, 170, 200, 210, 220, 230, 240, 250, 260, 270, 300, 310, 320, 330, 340, 350, 360, 370, 400, 410, 420, 430, 440, 450, 460, 470, 500, 510, 520, 530, 540, 550, 560, 570, 600, 610, 620, 630, 640, 650, 660, 670, 700, 710, 720, 730, 740, 750, 760, 770\n\nOut of these numbers, the greatest 3-digit number is 770. \n\nSo, the greatest 3-digit base 8 positive integer that is divisible by 5 is 770 in base 8.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

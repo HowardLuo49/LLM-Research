@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. Expand $(x-2)(x+2)(x^2+4)$.",
+    "solution": "We see that \\begin{align*}\n(x-2)(x+2)(x^2+4) &= (x^2-4)(x^2+4) \\\\\n&= \\boxed{x^4-16}\n\\end{align*}",
+    "gpt_response": "To expand the expression $(x-2)(x+2)(x^2+4)$ we need to multiply each pair of terms together.\n\nFirst, let's multiply $(x-2)(x+2)$:\n$(x-2)(x+2) = x*x + x*2 - 2*x - 2*2 = x^2 + 2x - 2x - 4 = x^2 - 4$\n\nNow we have $(x^2 - 4)(x^2 + 4)$ to multiply:\n$(x^2 - 4)(x^2 + 4) = x^2*x^2 + x^2*4 - 4*x^2 - 4*4 = x^4 + 4x^2 - 4x^2 - 16 = x^4 - 16$\n\nSo, $(x-2)(x+2)(x^2+4) = x^4 - 16$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to x^4-16?: To expand the expression $(x-2)(x+2)(x^2+4)$ we need to multiply each pair of terms together.\n\nFirst, let's multiply $(x-2)(x+2)$:\n$(x-2)(x+2) = x*x + x*2 - 2*x - 2*2 = x^2 + 2x - 2x - 4 = x^2 - 4$\n\nNow we have $(x^2 - 4)(x^2 + 4)$ to multiply:\n$(x^2 - 4)(x^2 + 4) = x^2*x^2 + x^2*4 - 4*x^2 - 4*4 = x^4 + 4x^2 - 4x^2 - 16 = x^4 - 16$\n\nSo, $(x-2)(x+2)(x^2+4) = x^4 - 16$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. What is the kinetic energy released in a type Ia supernova explosion, assuming the entire mass of a white dwarf star (4.5solar masses) is converted into energy? Please note that the following content involves constants might be used in the calculations : solar mass = 1.989e30 kg ; velocity of light: c = 3e8 m/s. Additionally, please select the option from the given choices that you believe is closest to the correct answer!\n\nA. 2.01e+48 J\nB. 8.06e+47 J\nC. 3.48e+48 J\nD. 8.98e+48 J\n\nAnswer:",
+    "solution": [
+        "B"
+    ],
+    "gpt_response": "In a Type Ia supernova explosion, the entire mass of a white dwarf star (4.5 solar masses) is converted into energy. To calculate the kinetic energy released, we can use the formula E=mc^2, where E is the energy, m is the mass, and c is the speed of light.\n\nFirst, we need to convert the mass of the white dwarf star to kilograms:\n4.5 solar masses * 1.989e30 kg/solar mass = 8.95e30 kg\n\nNext, we can calculate the energy released:\nE = (8.95e30 kg) * (3e8 m/s)^2\nE = 8.05e47 kg m^2/s^2 = 8.05e47 J\n\nTherefore, the closest answer to the correct kinetic energy released in a Type Ia supernova explosion is:\n\nB. 8.06e+47 J",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to ['B']?: In a Type Ia supernova explosion, the entire mass of a white dwarf star (4.5 solar masses) is converted into energy. To calculate the kinetic energy released, we can use the formula E=mc^2, where E is the energy, m is the mass, and c is the speed of light.\n\nFirst, we need to convert the mass of the white dwarf star to kilograms:\n4.5 solar masses * 1.989e30 kg/solar mass = 8.95e30 kg\n\nNext, we can calculate the energy released:\nE = (8.95e30 kg) * (3e8 m/s)^2\nE = 8.05e47 kg m^2/s^2 = 8.05e47 J\n\nTherefore, the closest answer to the correct kinetic energy released in a Type Ia supernova explosion is:\n\nB. 8.06e+47 J",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "9",
+    "difficulty_value": "9"
+}

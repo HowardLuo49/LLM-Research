@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. Following poisoning retards putrefaction: NEET 13\n1: Aluminium phosphide\n2: Lead\n3: Arsenic\n4: Copper",
+    "solution": 3,
+    "gpt_response": "1: Aluminium phosphide",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: 1: Aluminium phosphide",
+    "gpt_response_correct_incorrect": "2: Hydrogen\n\n3: Phosphorus\n\n4: None of the above\n\nNo, the final solution is not obtained in option 3.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

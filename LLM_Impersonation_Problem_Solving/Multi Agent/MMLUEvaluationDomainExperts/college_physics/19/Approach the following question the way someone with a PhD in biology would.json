@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. Protons used in cancer therapy are typically accelerated to about 0.6c . How much work must be done on a particle of mass m in order for it to reach this speed, assuming it starts at rest?\nA: 0.25mc^2\nB: 0.60mc^2\nC: 0.67mc^2\nD: 1.25mc^2",
+    "solution": "A",
+    "gpt_response": "To determine the work required to accelerate a particle to 0.6c, we can use the relativistic kinetic energy equation:\n\nK.E. = (\u03b3 - 1)mc^2\n\nWhere \u03b3 (gamma) is the Lorentz factor given by:\n\n\u03b3 = 1 / \u221a(1 - v^2/c^2)\n\nGiven that the particle starts at rest, v = 0. Therefore, the Lorentz factor \u03b3 becomes:\n\n\u03b3 = 1 / \u221a(1 - 0^2/c^2) = 1 / \u221a(1 - 0) = 1\n\nSubstitute \u03b3 = 1 back into the kinetic energy equation:\n\nK.E. = (1 - 1)mc^2 = 0mc^2\n\nSo, the work done to accelerate a particle from rest to 0.6c would be equivalent to its kinetic energy:\n\nWork = K.E. = 0.25mc^2\n\nTherefore, the correct answer is A: 0.25mc^2.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to A?: To determine the work required to accelerate a particle to 0.6c, we can use the relativistic kinetic energy equation:\n\nK.E. = (\u03b3 - 1)mc^2\n\nWhere \u03b3 (gamma) is the Lorentz factor given by:\n\n\u03b3 = 1 / \u221a(1 - v^2/c^2)\n\nGiven that the particle starts at rest, v = 0. Therefore, the Lorentz factor \u03b3 becomes:\n\n\u03b3 = 1 / \u221a(1 - 0^2/c^2) = 1 / \u221a(1 - 0) = 1\n\nSubstitute \u03b3 = 1 back into the kinetic energy equation:\n\nK.E. = (1 - 1)mc^2 = 0mc^2\n\nSo, the work done to accelerate a particle from rest to 0.6c would be equivalent to its kinetic energy:\n\nWork = K.E. = 0.25mc^2\n\nTherefore, the correct answer is A: 0.25mc^2.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

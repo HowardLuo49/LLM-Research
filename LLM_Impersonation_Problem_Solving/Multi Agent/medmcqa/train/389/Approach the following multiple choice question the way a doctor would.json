@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Not a B cell marker -\n1: CD 19\n2: CD 20\n3: CD 134\n4: CD 10",
+    "solution": 3,
+    "gpt_response": "As a doctor, I would approach this question by first identifying which of these options are potential B cell markers. CD 19 and CD 20 are both known B cell markers, so they can be eliminated as the correct answer. CD 134 and CD 10 are not typically associated with B cells. \n\nTherefore, the correct answer to this question, based on the criteria provided, would be CD 134.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: As a doctor, I would approach this question by first identifying which of these options are potential B cell markers. CD 19 and CD 20 are both known B cell markers, so they can be eliminated as the correct answer. CD 134 and CD 10 are not typically associated with B cells. \n\nTherefore, the correct answer to this question, based on the criteria provided, would be CD 134.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

@@ -1,0 +1,10 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. 2 distinct vertices of an octagon are chosen at random.  What is the probability that they are adjacent?",
+    "solution": "After we choose the first vertex, there are 7 ways to choose the second.  There are only 2 of these that are adjacent to the first vertex, so the probability the two vertices are adjacent is $\\boxed{\\frac{2}{7}}$.",
+    "gpt_response": "To find the probability that two of the vertexes are adjacent in an octagon, we first need to know how many total possible pairs of vertexes there are.\n\nAn octagon has 8 vertexes, so there are a total of 8 choose 2 pairs of vertexes, which is 28 possible pairs.\n\nSince adjacent vertexes are next to each other, each vertex in the octagon has 2 adjacent vertexes.\n\nSo for each vertex we choose, there is a 2 out of 8 chance that the second vertex we choose is adjacent to it.\n\nTherefore, the probability that two vertexes chosen at random are adjacent is 2/8 or 1/4.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to \\frac{2?: To find the probability that two of the vertexes are adjacent in an octagon, we first need to know how many total possible pairs of vertexes there are.\n\nAn octagon has 8 vertexes, so there are a total of 8 choose 2 pairs of vertexes, which is 28 possible pairs.\n\nSince adjacent vertexes are next to each other, each vertex in the octagon has 2 adjacent vertexes.\n\nSo for each vertex we choose, there is a 2 out of 8 chance that the second vertex we choose is adjacent to it.\n\nTherefore, the probability that two vertexes chosen at random are adjacent is 2/8 or 1/4.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes"
+}

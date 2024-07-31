@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. Test used for factor VIII deficiency identification is-\n1: PT\n2: APTT\n3: D dimer\n4: FDP",
+    "solution": 2,
+    "gpt_response": "2: APTT\n\nThe correct test used for factor VIII deficiency identification is the activated partial thromboplastin time (APTT) test. This test measures the time it takes for blood to clot and can help diagnose disorders such as hemophilia A, which is a deficiency in factor VIII.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: 2: APTT\n\nThe correct test used for factor VIII deficiency identification is the activated partial thromboplastin time (APTT) test. This test measures the time it takes for blood to clot and can help diagnose disorders such as hemophilia A, which is a deficiency in factor VIII.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

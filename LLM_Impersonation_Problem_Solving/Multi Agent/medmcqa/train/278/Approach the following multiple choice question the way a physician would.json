@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. 'Patterned' abrasion is variety of:\n1: Linear abrasion\n2: Pressure abrasion\n3: Sliding abrasion\n4: Superficial bruise",
+    "solution": 2,
+    "gpt_response": "Patterned abrasion is a variety of sliding abrasion. It occurs when an object with a specific pattern or texture is dragged across the skin, creating a distinctive patterned injury.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: Patterned abrasion is a variety of sliding abrasion. It occurs when an object with a specific pattern or texture is dragged across the skin, creating a distinctive patterned injury.",
+    "gpt_response_correct_incorrect": "No, the final solution is not obtained in the response given.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

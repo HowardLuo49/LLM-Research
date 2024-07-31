@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. Find the value of $t$ that satisfies $\\frac{1}{t+2} + \\frac{2t}{t+2} - \\frac{3}{t+2} = 3$.",
+    "solution": "Combining the fractions on the left gives $\\dfrac{2t-2}{t+2} = 3$.  Multiplying both sides by $t+2$ gives $2t-2 = 3(t+2)$.  Expanding the right side gives $2t-2 = 3t+6$.  Subtracting $2t$ and 6 from both sides gives $t=\\boxed{-8}$.",
+    "gpt_response": "To find the value of t that satisfies the given equation, we first combine the fractions on the left side of the equation:\n\n$\\frac{1}{t+2} + \\frac{2t}{t+2} - \\frac{3}{t+2} = \\frac{1 + 2t - 3}{t+2} = \\frac{2t - 2}{t+2} = \\frac{2(t-1)}{t+2}$\n\nNow, we equate this expression to 3 and solve for t:\n\n$\\frac{2(t-1)}{t+2} = 3$\n\n$2(t-1) = 3(t+2)$\n\n$2t - 2 = 3t + 6$\n\n$-2 - 6 = 3t - 2t$\n\n$-8 = t$\n\nSo, the value of $t$ that satisfies the equation is $t = -8$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to -8?: To find the value of t that satisfies the given equation, we first combine the fractions on the left side of the equation:\n\n$\\frac{1}{t+2} + \\frac{2t}{t+2} - \\frac{3}{t+2} = \\frac{1 + 2t - 3}{t+2} = \\frac{2t - 2}{t+2} = \\frac{2(t-1)}{t+2}$\n\nNow, we equate this expression to 3 and solve for t:\n\n$\\frac{2(t-1)}{t+2} = 3$\n\n$2(t-1) = 3(t+2)$\n\n$2t - 2 = 3t + 6$\n\n$-2 - 6 = 3t - 2t$\n\n$-8 = t$\n\nSo, the value of $t$ that satisfies the equation is $t = -8$.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "yes_no": "yes"
+}

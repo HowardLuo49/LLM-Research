@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Compute the multiplicative inverse of $201$ modulo $299$. Express your answer as an integer from $0$ to $298$.",
+    "solution": "Let $a$ be the inverse of $201$ modulo $299$. Then, by the definition of the inverse, $201\\cdot a \\equiv 1\\pmod{299}$. We are looking for an integer $a$ that satisfies this congruence.\n\nTo make our task easier, we note that $603\\equiv 5\\pmod{299}$, and so \\begin{align*}\n603\\cdot 60 &\\equiv 5\\cdot 60 \\\\\n&= 300 \\\\\n&\\equiv 1\\pmod{299}.\n\\end{align*}Now we write $603$ as $201\\cdot 3$: $$201\\cdot 3\\cdot 60 \\equiv 1\\pmod{299}.$$Thus, the inverse we seek is $a = 3\\cdot 60 = \\boxed{180}$.",
+    "gpt_response": "Hmm, let's see. To find the multiplicative inverse of $201$ modulo $299$, we need to find a number that when multiplied by $201$ gives us a remainder of $1$ when divided by $299$. So let's try some numbers! Let's start with $1$ times $201$ is $201$, which is not what we want. Let's try $2$ times $201$ is $402$, still not what we want. Let's try $3$ times $201$ is $603$, which is too big. Let's keep trying! Hmm, after a bit of trying, we find that $253$ times $201$ is $50$ when divided by $299$. Yay, we did it! So the multiplicative inverse of $201$ modulo $299$ is $253$. Great job!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 180?: Hmm, let's see. To find the multiplicative inverse of $201$ modulo $299$, we need to find a number that when multiplied by $201$ gives us a remainder of $1$ when divided by $299$. So let's try some numbers! Let's start with $1$ times $201$ is $201$, which is not what we want. Let's try $2$ times $201$ is $402$, still not what we want. Let's try $3$ times $201$ is $603$, which is too big. Let's keep trying! Hmm, after a bit of trying, we find that $253$ times $201$ is $50$ when divided by $299$. Yay, we did it! So the multiplicative inverse of $201$ modulo $299$ is $253$. Great job!",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

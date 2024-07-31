@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Find all cosets of the subgroup 4Z of 2Z.\nA: 4Z\nB: 4Z, 2 + 4Z\nC: 2Z\nD: Z",
+    "solution": "B",
+    "gpt_response": "Let's find all the numbers and then group them 4 by 4! Let's start with 0, then add 4 and keep going until we find all the cosets! So, the answer is A: 4Z.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to B?: Let's find all the numbers and then group them 4 by 4! Let's start with 0, then add 4 and keep going until we find all the cosets! So, the answer is A: 4Z.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

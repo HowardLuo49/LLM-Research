@@ -1,0 +1,10 @@
+{
+    "prefix": "You are an expert in number theory. Solve the following problem. ",
+    "problem_prompt": "You are an expert in number theory. Solve the following problem. What integer $n$ satisfies $0\\le n<19$ and $$-200\\equiv n\\pmod{19}~?$$",
+    "solution": "Noticing that $190\\equiv0\\pmod{19}$ and $-200+190=-10$, we can say that  \\[-200\\equiv n\\pmod{19}\\]if and only if  \\[-10\\equiv n\\pmod{19}.\\]This is not in the range $0\\leq n<19$, but adding 19 again gives \\[9\\equiv n\\pmod{19}.\\]The answer is $n=\\boxed{9}$.",
+    "gpt_response": "We can start by rewriting the given congruence as $-200 \\equiv n \\pmod{19}$ as $n \\equiv -200 \\pmod{19}$. Therefore, we need to find an integer $n$ such that when $-200$ is divided by $19$, the remainder is $n$.\n\nWe can start by finding the remainder when $200$ is divided by $19$. We have $200 = 19 \\cdot 10 + 10$, so the remainder is $10$. Since we are dealing with negative numbers, the remainder would be $19-10=9$. Therefore, $n = 9$ satisfies the given condition.\n\nHence, the integer that satisfies $0 \\leq n < 19$ and $-200 \\equiv n \\pmod{19}$ is $\\boxed{9}$.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 9?: We can start by rewriting the given congruence as $-200 \\equiv n \\pmod{19}$ as $n \\equiv -200 \\pmod{19}$. Therefore, we need to find an integer $n$ such that when $-200$ is divided by $19$, the remainder is $n$.\n\nWe can start by finding the remainder when $200$ is divided by $19$. We have $200 = 19 \\cdot 10 + 10$, so the remainder is $10$. Since we are dealing with negative numbers, the remainder would be $19-10=9$. Therefore, $n = 9$ satisfies the given condition.\n\nHence, the integer that satisfies $0 \\leq n < 19$ and $-200 \\equiv n \\pmod{19}$ is $\\boxed{9}$.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes"
+}

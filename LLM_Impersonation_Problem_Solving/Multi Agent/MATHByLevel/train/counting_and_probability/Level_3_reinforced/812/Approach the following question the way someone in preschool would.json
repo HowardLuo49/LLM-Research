@@ -1,0 +1,10 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. To take quizzes, each of 30 students in a class is paired with another student. If the pairing is done randomly, what is the probability that Margo is paired with her best friend, Irma? Express your answer as a common fraction.",
+    "solution": "Among the 29 equally likely possibilities for Margo's partner, Irma is one of them.  Therefore, the probability that Margo's partner is Irma is $\\boxed{\\frac{1}{29}}$.",
+    "gpt_response": "Hmm, let's see! So there are 30 students in the class, right? And they all need to be paired with another student. Margo is just one of those students. Since the pairing is done randomly, there are 29 other students that she could be paired with. \n\nNow, we know that Margo has a best friend named Irma. So out of those 29 other students, only one of them is Irma. That means there is 1 way for Margo to be paired with Irma out of a total of 29 possible ways for her to be paired with any other student.\n\nSo the probability that Margo is paired with her best friend, Irma, is 1/29. Yay, we did it!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to \\frac{1?: Hmm, let's see! So there are 30 students in the class, right? And they all need to be paired with another student. Margo is just one of those students. Since the pairing is done randomly, there are 29 other students that she could be paired with. \n\nNow, we know that Margo has a best friend named Irma. So out of those 29 other students, only one of them is Irma. That means there is 1 way for Margo to be paired with Irma out of a total of 29 possible ways for her to be paired with any other student.\n\nSo the probability that Margo is paired with her best friend, Irma, is 1/29. Yay, we did it!",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. Statement 1 | Some abelian group of order 45 has a subgroup of order 10. Statement 2 | A subgroup H of a group G is a normal subgroup if and only if thenumber of left cosets of H is equal to the number of right cosets of H.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "B",
+    "gpt_response": "Hmm, let's see... Statement 1 is talking about a group having a subgroup of a certain size. And Statement 2 is talking about the number of left and right cosets in a group. I remember that a normal subgroup is one where the left and right cosets are the same. So, I think Statement 1 is true because an abelian group of order 45 can have a subgroup of order 10. And I think Statement 2 is false because a subgroup being normal doesn't just depend on the number of left and right cosets being equal. So, my answer is C: True, False.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to B?: Hmm, let's see... Statement 1 is talking about a group having a subgroup of a certain size. And Statement 2 is talking about the number of left and right cosets in a group. I remember that a normal subgroup is one where the left and right cosets are the same. So, I think Statement 1 is true because an abelian group of order 45 can have a subgroup of order 10. And I think Statement 2 is false because a subgroup being normal doesn't just depend on the number of left and right cosets being equal. So, my answer is C: True, False.",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

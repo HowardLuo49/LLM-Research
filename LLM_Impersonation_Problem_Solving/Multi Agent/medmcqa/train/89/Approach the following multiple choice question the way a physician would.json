@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Hamartomatous lung tissue is?\n1: Hypoplasia of lung\n2: Congenital cyst\n3: Lobar sequestration\n4: Congenital cystic adenomatoid malformation",
+    "solution": 4,
+    "gpt_response": "4: Congenital cystic adenomatoid malformation",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 4?: 4: Congenital cystic adenomatoid malformation",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

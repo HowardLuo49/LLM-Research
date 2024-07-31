@@ -1,0 +1,10 @@
+{
+    "prefix": "You are an expert in number theory. Solve the following problem. ",
+    "problem_prompt": "You are an expert in number theory. Solve the following problem. How many positive multiples of 5 that are less than 100 have a units digit of 5?",
+    "solution": "Every even multiple of 5 has a units digit of 0 and every odd multiple of 5 has a units digit of 5. There are $100/5=20$ positive multiples of 5 less than or equal to 100. One half of them, $20/2=10$, are odd multiples of 5. Therefore, $\\boxed{10}$ positive multiples of 5 that are less than 100 have a units digit of 5.",
+    "gpt_response": "Since we are looking for positive multiples of 5 with a units digit of 5, we need to find all numbers of the form 5n, where n is a positive integer and the units digit of 5n is 5. To satisfy this condition, n must end in 1 or 6.\n\nThe largest multiple of 5 less than 100 with a units digit of 5 is 95 (since 100 is not less than 100). We can write 95 as 5*19.\n\nTherefore, the positive multiples of 5 less than 100 with a units digit of 5 are 5, 15, 25, 35, 45, 55, 65, 75, 85, and 95. There are a total of 10 such numbers.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 10?: Since we are looking for positive multiples of 5 with a units digit of 5, we need to find all numbers of the form 5n, where n is a positive integer and the units digit of 5n is 5. To satisfy this condition, n must end in 1 or 6.\n\nThe largest multiple of 5 less than 100 with a units digit of 5 is 95 (since 100 is not less than 100). We can write 95 as 5*19.\n\nTherefore, the positive multiples of 5 less than 100 with a units digit of 5 are 5, 15, 25, 35, 45, 55, 65, 75, 85, and 95. There are a total of 10 such numbers.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes"
+}

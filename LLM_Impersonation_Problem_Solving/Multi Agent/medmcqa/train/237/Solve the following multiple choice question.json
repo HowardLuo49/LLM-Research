@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. Inherited hyperammonemia is a result of deficiency of which enzyme of Krebs-Henseleit urea cycle?\n1: Malate dehydrogenase\n2: Isocitrate dehydrogenase\n3: N-acetyl glutamate synthetase\n4: Succinate dehydrogenase",
+    "solution": 3,
+    "gpt_response": "3: N-acetyl glutamate synthetase\n\nInherited hyperammonemia is often caused by a deficiency in N-acetyl glutamate synthetase, which is an enzyme involved in the regulation of the urea cycle.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: 3: N-acetyl glutamate synthetase\n\nInherited hyperammonemia is often caused by a deficiency in N-acetyl glutamate synthetase, which is an enzyme involved in the regulation of the urea cycle.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

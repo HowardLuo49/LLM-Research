@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Triamterene causes\n1: Better glucose tolerance\n2: Muscle cramps\n3: Decrease in urea level\n4: Hypokalemia",
+    "solution": 2,
+    "gpt_response": "As a doctor, when considering the effects of triamterene, it is important to understand its mechanism of action and potential side effects. Triamterene is a diuretic medication that works by inhibiting the reabsorption of sodium in the kidneys, leading to increased excretion of sodium and water.\n\nBased on this mechanism, the most likely effect of triamterene would be:\n\n4: Hypokalemia\n\nThis is because by increasing sodium excretion, potassium levels can also be affected, potentially leading to low potassium levels (hypokalemia). Muscle cramps may also occur as a result of electrolyte imbalances.(_(\"translations\"))",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: As a doctor, when considering the effects of triamterene, it is important to understand its mechanism of action and potential side effects. Triamterene is a diuretic medication that works by inhibiting the reabsorption of sodium in the kidneys, leading to increased excretion of sodium and water.\n\nBased on this mechanism, the most likely effect of triamterene would be:\n\n4: Hypokalemia\n\nThis is because by increasing sodium excretion, potassium levels can also be affected, potentially leading to low potassium levels (hypokalemia). Muscle cramps may also occur as a result of electrolyte imbalances.(_(\"translations\"))",
+    "gpt_response_correct_incorrect": "No, the final solution obtained in the response is 4, not 2.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

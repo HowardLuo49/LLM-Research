@@ -1,0 +1,10 @@
+{
+    "prefix": "Solve the following problem. ",
+    "problem_prompt": "Solve the following problem. How many positive two-digit integers leave a remainder of 2 when divided by 8?",
+    "solution": "Our goal is to count the two-digit integers in the form $8n + 2$ for integer values of $n$.  We examine the inequality, $$ 10 \\le 8n + 2 < 100. $$Subtracting 2 from all parts simplifies things: $$ 8 \\le 8n < 98. $$Dividing everything by 8 isolates the possible values of $n$: $$ 1 \\le n < 12\\, \\frac{1}{4}. $$Since $n$ can be any integer from 1 to 12, there are $\\boxed{12}$ two-digit integers in the form $8n + 2$ (that leave a remainder of 2 when divided by 8).",
+    "gpt_response": "To find the positive two-digit integers that leave a remainder of 2 when divided by 8, we need to find all the numbers that are in the form of 8n + 2, where n is a positive integer.\n\nThe smallest positive two-digit integer that satisfies this condition is 10 (8(1) + 2).\nThe largest positive two-digit integer that satisfies this condition is 98 (8(12) + 2).\n\nTherefore, there are 12 positive two-digit integers that leave a remainder of 2 when divided by 8: 10, 18, 26, 34, 42, 50, 58, 66, 74, 82, 90, and 98.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 12?: To find the positive two-digit integers that leave a remainder of 2 when divided by 8, we need to find all the numbers that are in the form of 8n + 2, where n is a positive integer.\n\nThe smallest positive two-digit integer that satisfies this condition is 10 (8(1) + 2).\nThe largest positive two-digit integer that satisfies this condition is 98 (8(12) + 2).\n\nTherefore, there are 12 positive two-digit integers that leave a remainder of 2 when divided by 8: 10, 18, 26, 34, 42, 50, 58, 66, 74, 82, 90, and 98.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes"
+}

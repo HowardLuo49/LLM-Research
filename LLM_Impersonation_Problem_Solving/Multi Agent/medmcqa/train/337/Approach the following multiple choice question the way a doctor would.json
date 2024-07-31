@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Reversible cause of dementia is -\n1: Alzheimer's disease\n2: Parkinsonism\n3: Hypothyroidism\n4: Vascular dementia",
+    "solution": 3,
+    "gpt_response": "Based on the information provided, a doctor would select option 3: Hypothyroidism as the reversible cause of dementia. It is important to consider and investigate potentially reversible causes of dementia before reaching a definitive diagnosis.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: Based on the information provided, a doctor would select option 3: Hypothyroidism as the reversible cause of dementia. It is important to consider and investigate potentially reversible causes of dementia before reaching a definitive diagnosis.",
+    "gpt_response_correct_incorrect": "No, the final solution obtained in the response is not a definite \"yes\" or \"no\" answer, but rather a recommendation to consider and investigate hypothyroidism as a potentially reversible cause of dementia.",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

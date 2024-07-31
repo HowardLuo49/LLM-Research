@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. What is the greatest three-digit number which is a multiple of 13?",
+    "solution": "Since 1001 is $7\\cdot11\\cdot13$, we know that 1001 is a multiple of 13.  The greatest 3-digit multiple of 13 is therefore \\[1001-13=\\boxed{988}.\\]",
+    "gpt_response": "To find the greatest three-digit number that is a multiple of 13, we first need to determine the largest three-digit number and then check if it is divisible by 13. \n\nThe largest three-digit number is 999. \n\nTo check if 999 is a multiple of 13, we can divide 999 by 13 and see if it results in an integer. \n\n999 \u00f7 13 = 76.846...\n\nSince the result is not an integer, 999 is not a multiple of 13. \n\nWe need to find the next lowest three-digit number that is a multiple of 13. \n\nThe largest three-digit number that is a multiple of 13 is 988. \n\nTherefore, the greatest three-digit number which is a multiple of 13 is 988.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 988?: To find the greatest three-digit number that is a multiple of 13, we first need to determine the largest three-digit number and then check if it is divisible by 13. \n\nThe largest three-digit number is 999. \n\nTo check if 999 is a multiple of 13, we can divide 999 by 13 and see if it results in an integer. \n\n999 \u00f7 13 = 76.846...\n\nSince the result is not an integer, 999 is not a multiple of 13. \n\nWe need to find the next lowest three-digit number that is a multiple of 13. \n\nThe largest three-digit number that is a multiple of 13 is 988. \n\nTherefore, the greatest three-digit number which is a multiple of 13 is 988.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "9",
+    "difficulty_value": "9"
+}

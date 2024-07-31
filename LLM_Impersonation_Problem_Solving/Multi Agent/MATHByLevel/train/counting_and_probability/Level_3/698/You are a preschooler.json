@@ -1,0 +1,7 @@
+{
+    "prefix": "You are a preschooler.\n",
+    "problem_prompt": "You are a preschooler.\nA teacher wants to arrange 3 copies of Introduction to Geometry and 4 copies of Introduction to Number Theory on a bookshelf. In how many ways can he do that?",
+    "solution": "There are 7 possible locations for the books. The teacher can select 3 of these and place the copies of Introduction to Geometry in those spots and then place the copies of Introduction to Number Theory in the remaining 4 spots. This is just a combination, so our answer is $\\binom{7}{3}=\\boxed{35}$.",
+    "gpt_response": "ChatCompletion(id='chatcmpl-9A2m08zMAWrctQh352a3pzfsqJP4s', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='The teacher can arrange the books in 7!/(3!4!) = 35 ways.', role='assistant', function_call=None, tool_calls=None))], created=1712180968, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint='fp_b28b39ffa8', usage=CompletionUsage(completion_tokens=20, prompt_tokens=48, total_tokens=68))",
+    "yes_no": "yes"
+}

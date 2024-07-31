@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. There are 54 chips in a box. Each chip is either small or large. If the number of small chips is greater than the number of large chips by a prime number of chips, what is the greatest possible number of large chips?",
+    "solution": "Let $s$ be the number of small chips and $l$ be the number of large chips. From the given information, we have $s+l=54$ and $s=l+p$ for some prime $p$. Thus, $2l+p=54$. We wish to maximize $l$, so we must minimize $p$. Therefore, we set $p=2$ to get $l=\\boxed{26}$.",
+    "gpt_response": "Let's call the number of small chips S and the number of large chips L. We know that S + L = 54, since there are a total of 54 chips in the box.\n\nWe are told that the number of small chips is greater than the number of large chips by a prime number of chips. This means that S = L + P, where P is a prime number.\n\nSubstitute S = L + P into the equation S + L = 54:\n\n(L + P) + L = 54\n2L + P = 54\nP = 54 - 2L\n\nSince P is a prime number, the greatest possible value for P is 47 (the highest prime number less than 54). Substitute P = 47 back into the equation:\n\n47 = 54 - 2L\n2L = 54 - 47\n2L = 7\nL = 3.5\n\nSince we can't have a fraction of a chip, the greatest possible number of large chips in this scenario is 3.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 26?: Let's call the number of small chips S and the number of large chips L. We know that S + L = 54, since there are a total of 54 chips in the box.\n\nWe are told that the number of small chips is greater than the number of large chips by a prime number of chips. This means that S = L + P, where P is a prime number.\n\nSubstitute S = L + P into the equation S + L = 54:\n\n(L + P) + L = 54\n2L + P = 54\nP = 54 - 2L\n\nSince P is a prime number, the greatest possible value for P is 47 (the highest prime number less than 54). Substitute P = 47 back into the equation:\n\n47 = 54 - 2L\n2L = 54 - 47\n2L = 7\nL = 3.5\n\nSince we can't have a fraction of a chip, the greatest possible number of large chips in this scenario is 3.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

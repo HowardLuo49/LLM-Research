@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. Statement 1 | In a finite dimensional vector space every linearly independent set of vectors is contained in a basis. Statement 2 | If B_1 and B_2 are bases for the same vector space, then |B_1| = |B_2|.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "A",
+    "gpt_response": "Statement 1 is true because if a set of vectors is linearly independent in a finite dimensional vector space, then it can be used to create a basis for that space. \n\nStatement 2 is also true because if two sets of vectors are bases for the same vector space, then they must have the same number of vectors in them. \n\nSo, the answer is A: True, True.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to A?: Statement 1 is true because if a set of vectors is linearly independent in a finite dimensional vector space, then it can be used to create a basis for that space. \n\nStatement 2 is also true because if two sets of vectors are bases for the same vector space, then they must have the same number of vectors in them. \n\nSo, the answer is A: True, True.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

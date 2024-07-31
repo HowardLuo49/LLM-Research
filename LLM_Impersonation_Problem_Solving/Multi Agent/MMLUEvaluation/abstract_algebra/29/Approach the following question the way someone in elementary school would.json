@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. Statement 1 | The homomorphic image of a cyclic group is cyclic. Statement 2 | The homomorphic image of an Abelian group is Abelian.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "A",
+    "gpt_response": "Hmm, I remember learning about groups in math class. If something is cyclic, that means you can keep adding the same thing over and over to get all the elements in the group. So, for the first statement, if you take a group that you can keep adding the same thing to get all the elements, and then you make a picture of that group, the picture will also be cyclic. That makes sense to me, so I think that statement is true.\n\nNow, for the second statement, Abelian groups are special because you can switch around the order you multiply things and it doesn't change the answer. So, if you make a picture of an Abelian group, it should still be able to switch things around. That makes sense to me too, so I think that statement is also true. So the answer is A: True, True.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to A?: Hmm, I remember learning about groups in math class. If something is cyclic, that means you can keep adding the same thing over and over to get all the elements in the group. So, for the first statement, if you take a group that you can keep adding the same thing to get all the elements, and then you make a picture of that group, the picture will also be cyclic. That makes sense to me, so I think that statement is true.\n\nNow, for the second statement, Abelian groups are special because you can switch around the order you multiply things and it doesn't change the answer. So, if you make a picture of an Abelian group, it should still be able to switch things around. That makes sense to me too, so I think that statement is also true. So the answer is A: True, True.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "5",
+    "difficulty_value": "5"
+}

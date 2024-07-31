@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. Find $\\csc 330^\\circ.$",
+    "solution": "-2",
+    "gpt_response": "To find $\\csc 330^\\circ$, we can use the fact that $\\csc \\theta = \\frac{1}{\\sin \\theta}$. \n\nFirst, we need to convert 330 degrees to an angle in the first quadrant. Since the sine function has a period of $360^\\circ$, we can subtract multiples of $360^\\circ$ from 330 to get an equivalent angle in the first quadrant. \n\n$330^\\circ - 360^\\circ = -30^\\circ$\n\nSince the sine function is an odd function, we have $\\sin(-30^\\circ) = -\\sin(30^\\circ) = -\\frac{1}{2}$.\n\nThus, $\\csc 330^\\circ = \\frac{1}{\\sin 330^\\circ} = \\frac{1}{-\\frac{1}{2}} = -2$.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response -2?: To find $\\csc 330^\\circ$, we can use the fact that $\\csc \\theta = \\frac{1}{\\sin \\theta}$. \n\nFirst, we need to convert 330 degrees to an angle in the first quadrant. Since the sine function has a period of $360^\\circ$, we can subtract multiples of $360^\\circ$ from 330 to get an equivalent angle in the first quadrant. \n\n$330^\\circ - 360^\\circ = -30^\\circ$\n\nSince the sine function is an odd function, we have $\\sin(-30^\\circ) = -\\sin(30^\\circ) = -\\frac{1}{2}$.\n\nThus, $\\csc 330^\\circ = \\frac{1}{\\sin 330^\\circ} = \\frac{1}{-\\frac{1}{2}} = -2$.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

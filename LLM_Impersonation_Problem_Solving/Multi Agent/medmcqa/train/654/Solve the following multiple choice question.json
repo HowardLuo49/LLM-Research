@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. Features of shock\n1: Decreased GFR\n2: Increased renin\n3: Decreased rennin\n4: Decreased Coisol",
+    "solution": 1,
+    "gpt_response": "The correct features of shock are:\n\n1: Decreased GFR\n2: Increased renin\n\nTherefore, the answer is that feature 3: Decreased rennin is not characteristic of shock.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: The correct features of shock are:\n\n1: Decreased GFR\n2: Increased renin\n\nTherefore, the answer is that feature 3: Decreased rennin is not characteristic of shock.",
+    "gpt_response_correct_incorrect": "Yes, the final solution obtained in the response is option 1: Decreased GFR.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Maternal moality rate is -\n1: Maternal deaths / 100000 live bihs\n2: Maternal death /100 live bihs\n3: Maternal death /1000 bihs\n4: Maternal death /1000 live bihs",
+    "solution": 1,
+    "gpt_response": "The correct answer is: 1: Maternal deaths / 100000 live births\n\nThis is the standard way to calculate the maternal mortality rate, as it gives a more accurate representation of the risk of maternal death during childbirth.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: The correct answer is: 1: Maternal deaths / 100000 live births\n\nThis is the standard way to calculate the maternal mortality rate, as it gives a more accurate representation of the risk of maternal death during childbirth.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

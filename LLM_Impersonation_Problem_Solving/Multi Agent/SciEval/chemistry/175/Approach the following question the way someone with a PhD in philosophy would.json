@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in philosophy would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in philosophy would. What is the SMILES expression of C8H18N2?\nAnswer:",
+    "solution": [
+        "CC1C(NC(C(N1)C)C)C"
+    ],
+    "gpt_response": "The SMILES expression for a molecule is a linear notation used to represent the structure of a chemical compound. In the case of C8H18N2, the SMILES expression would be \"CCCCCCCCN(C)C\". This notation provides a simple, compact way to represent the connectivity of atoms within a molecule, allowing for easy comparison and analysis of chemical structures.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response ['CC1C(NC(C(N1)C)C)C']?: The SMILES expression for a molecule is a linear notation used to represent the structure of a chemical compound. In the case of C8H18N2, the SMILES expression would be \"CCCCCCCCN(C)C\". This notation provides a simple, compact way to represent the connectivity of atoms within a molecule, allowing for easy comparison and analysis of chemical structures.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

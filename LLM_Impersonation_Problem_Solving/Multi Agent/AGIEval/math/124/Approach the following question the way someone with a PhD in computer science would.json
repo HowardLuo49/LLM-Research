@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in computer science would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in computer science would. One ticket to a show costs $\\$20$ at full price. Susan buys $4$ tickets using a coupon that gives her a $25\\%$ discount. Pam buys $5$ tickets using a coupon that gives her a $30\\%$ discount. How many more dollars does Pam pay than Susan?",
+    "solution": "10",
+    "gpt_response": "To solve this problem, we first calculate the discounted price for each ticket purchased by Susan and Pam.\n\nFor Susan:\nDiscounted price per ticket = $20 - 0.25 \\times 20 = 15$\nTotal cost for Susan = $4 \\times 15 = 60$\n\nFor Pam:\nDiscounted price per ticket = $20 - 0.30 \\times 20 = 14$\nTotal cost for Pam = $5 \\times 14 = 70$\n\nTo find the difference in amount paid by Pam and Susan, we subtract the total cost paid by Susan from the total cost paid by Pam:\n$70 - 60 = 10$\n\nTherefore, Pam pays \\$10 more than Susan.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 10?: To solve this problem, we first calculate the discounted price for each ticket purchased by Susan and Pam.\n\nFor Susan:\nDiscounted price per ticket = $20 - 0.25 \\times 20 = 15$\nTotal cost for Susan = $4 \\times 15 = 60$\n\nFor Pam:\nDiscounted price per ticket = $20 - 0.30 \\times 20 = 14$\nTotal cost for Pam = $5 \\times 14 = 70$\n\nTo find the difference in amount paid by Pam and Susan, we subtract the total cost paid by Susan from the total cost paid by Pam:\n$70 - 60 = 10$\n\nTherefore, Pam pays \\$10 more than Susan.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "5",
+    "difficulty_value": "5"
+}

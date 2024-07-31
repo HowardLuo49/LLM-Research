@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. Evaluate $\\lceil-2.4\\rceil$.",
+    "solution": "The smallest integer that is greater than or equal to $-2.4$ is $-2$. Therefore, $\\lceil-2.4\\rceil=\\boxed{-2}$.",
+    "gpt_response": "To evaluate the ceiling function of $-2.4$, we first note that the ceiling function of a real number $x$, denoted as $\\lceil x \\rceil$, is the smallest integer greater than or equal to $x$. In this case, the smallest integer greater than or equal to $-2.4$ is $-2$. \n\nTherefore, we have $\\lceil -2.4 \\rceil = -2$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to -2?: To evaluate the ceiling function of $-2.4$, we first note that the ceiling function of a real number $x$, denoted as $\\lceil x \\rceil$, is the smallest integer greater than or equal to $x$. In this case, the smallest integer greater than or equal to $-2.4$ is $-2$. \n\nTherefore, we have $\\lceil -2.4 \\rceil = -2$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

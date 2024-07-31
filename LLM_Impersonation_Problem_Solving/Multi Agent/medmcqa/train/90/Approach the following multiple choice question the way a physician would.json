@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Test for diagnosis of pyogenic meningitis is?\n1: Widal\n2: CSF PCR\n3: CSF examination\n4: PET scan",
+    "solution": 3,
+    "gpt_response": "As a physician, the appropriate test for the diagnosis of pyogenic meningitis would be CSF examination. This involves analyzing the cerebrospinal fluid obtained through a lumbar puncture for presence of white blood cells, bacteria, and other abnormalities characteristic of meningitis. CSF PCR can also be helpful in detecting specific pathogens causing the infection. Widal test and PET scan are not typically used for the diagnosis of pyogenic meningitis.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: As a physician, the appropriate test for the diagnosis of pyogenic meningitis would be CSF examination. This involves analyzing the cerebrospinal fluid obtained through a lumbar puncture for presence of white blood cells, bacteria, and other abnormalities characteristic of meningitis. CSF PCR can also be helpful in detecting specific pathogens causing the infection. Widal test and PET scan are not typically used for the diagnosis of pyogenic meningitis.",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

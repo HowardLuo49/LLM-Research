@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. A patient with cushinoid features presents with hemoptysis; he shows no response to dexamethasone suppression test; most likely diagnosis here is:\n1: Adrenal hyperplasia\n2: Adrenal adenoma\n3: Ca lung with ectopic ACTH production\n4: Pituitary microadenoma",
+    "solution": 3,
+    "gpt_response": "The most likely diagnosis in this case is option 3: Ca lung with ectopic ACTH production. \n\nPatients with cushingoid features and hemoptysis may have an underlying malignancy such as lung cancer that is producing ectopic adrenocorticotropic hormone (ACTH), leading to adrenal hyperplasia and Cushing's syndrome. The lack of response to the dexamethasone suppression test is also indicative of an ectopic source of ACTH production.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: The most likely diagnosis in this case is option 3: Ca lung with ectopic ACTH production. \n\nPatients with cushingoid features and hemoptysis may have an underlying malignancy such as lung cancer that is producing ectopic adrenocorticotropic hormone (ACTH), leading to adrenal hyperplasia and Cushing's syndrome. The lack of response to the dexamethasone suppression test is also indicative of an ectopic source of ACTH production.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

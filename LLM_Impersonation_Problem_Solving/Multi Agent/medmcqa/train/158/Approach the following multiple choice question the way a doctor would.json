@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Sho structured primi gravida has height less then\n1: 140 cm\n2: 145 cm\n3: 150 cm\n4: 135 cm",
+    "solution": 1,
+    "gpt_response": "Based on the information provided, I would first take note that the patient is a primi gravida, meaning this is her first pregnancy. Given that she has a height less than 150 cm, I would need to consider the potential impact of her height on her pregnancy and delivery. \n\nDuring the prenatal care appointments, I would monitor the patient closely for any signs of complications related to her height, such as increased risk of preterm labor or intrauterine growth restriction. I would also discuss with the patient the importance of proper nutrition and weight gain during pregnancy to support the developing fetus.\n\nIn terms of the multiple choice question, I would select option 3: 150 cm, as this is the highest height listed and therefore the most likely to be above the patient's actual height.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: Based on the information provided, I would first take note that the patient is a primi gravida, meaning this is her first pregnancy. Given that she has a height less than 150 cm, I would need to consider the potential impact of her height on her pregnancy and delivery. \n\nDuring the prenatal care appointments, I would monitor the patient closely for any signs of complications related to her height, such as increased risk of preterm labor or intrauterine growth restriction. I would also discuss with the patient the importance of proper nutrition and weight gain during pregnancy to support the developing fetus.\n\nIn terms of the multiple choice question, I would select option 3: 150 cm, as this is the highest height listed and therefore the most likely to be above the patient's actual height.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

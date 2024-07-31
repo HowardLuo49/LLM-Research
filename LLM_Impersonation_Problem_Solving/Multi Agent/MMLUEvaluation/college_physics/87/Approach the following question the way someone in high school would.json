@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Unpolarized light is incident on a pair of ideal linear polarizers whose transmission axes make an angle of 45q with each other. The transmitted light intensity through both polarizers is what percentage of the incident intensity?\nA: 100%\nB: 75%\nC: 50%\nD: 25%",
+    "solution": "D",
+    "gpt_response": "The correct answer is C: 50%. This is because when unpolarized light passes through an ideal polarizer, half of the light is absorbed or reflected, leaving only half of the original intensity. When this polarized light then passes through another ideal polarizer with its transmission axis at a 45 degree angle, half of that remaining intensity is transmitted, resulting in a total transmitted intensity of 50% of the incident intensity.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: The correct answer is C: 50%. This is because when unpolarized light passes through an ideal polarizer, half of the light is absorbed or reflected, leaving only half of the original intensity. When this polarized light then passes through another ideal polarizer with its transmission axis at a 45 degree angle, half of that remaining intensity is transmitted, resulting in a total transmitted intensity of 50% of the incident intensity.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in literature would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in literature would. How many atoms are there in C8H12O2?\nAnswer (numerical number):",
+    "solution": [
+        22
+    ],
+    "gpt_response": "There are 22 atoms in C8H12O2. \n\nExplanation: In the molecule C8H12O2, there are 8 carbon atoms, 12 hydrogen atoms, and 2 oxygen atoms. To calculate the total number of atoms in the molecule, we simply add these numbers together: 8 + 12 + 2 = 22 atoms.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response [22]?: There are 22 atoms in C8H12O2. \n\nExplanation: In the molecule C8H12O2, there are 8 carbon atoms, 12 hydrogen atoms, and 2 oxygen atoms. To calculate the total number of atoms in the molecule, we simply add these numbers together: 8 + 12 + 2 = 22 atoms.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "22",
+    "difficulty_value": "2"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Specific poison for succinate dehydrogenase is ?\n1: Cyanide\n2: Malonate\n3: Arsenite\n4: Fluoride",
+    "solution": 2,
+    "gpt_response": "As a physician, I would approach this question by looking at the different chemical compounds listed and their known effects on succinate dehydrogenase. Succinate dehydrogenase is an enzyme involved in the citric acid cycle and the electron transport chain, making it essential for cellular respiration.\n\nMalonate is a known inhibitor of succinate dehydrogenase, blocking its activity in the citric acid cycle. Therefore, the correct answer to the question would be 2: Malonate.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: As a physician, I would approach this question by looking at the different chemical compounds listed and their known effects on succinate dehydrogenase. Succinate dehydrogenase is an enzyme involved in the citric acid cycle and the electron transport chain, making it essential for cellular respiration.\n\nMalonate is a known inhibitor of succinate dehydrogenase, blocking its activity in the citric acid cycle. Therefore, the correct answer to the question would be 2: Malonate.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

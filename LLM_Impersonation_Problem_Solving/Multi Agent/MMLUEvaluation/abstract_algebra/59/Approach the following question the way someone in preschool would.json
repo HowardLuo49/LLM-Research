@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Statement 1 | If H and K are subgroups of G and one of H or K is normal subgroup of G, then HK is a subgroup of G. Statement 2 | All groups of order p^2 where p is prime are Abelian.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "A",
+    "gpt_response": "Statement 1: If H and K are subgroups of G and one of H or K is \"special\" in a way, then HK is also a \"special\" group in G. \nStatement 2: All groups with a certain number are called Abelian. \nTrue!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to A?: Statement 1: If H and K are subgroups of G and one of H or K is \"special\" in a way, then HK is also a \"special\" group in G. \nStatement 2: All groups with a certain number are called Abelian. \nTrue!",
+    "gpt_response_correct_incorrect": "The final solution is not equal to A as provided in the statements.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

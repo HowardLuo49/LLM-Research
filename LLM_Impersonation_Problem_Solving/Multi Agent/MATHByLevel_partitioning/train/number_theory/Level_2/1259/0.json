@@ -1,0 +1,8 @@
+{
+    "problem_prompt": "Your job is to consider a number theory problem, and leave a plan for the next person to solve it. The problem will be revealed one sentence at a time. You do not have the entire problem yet, thus just do whatever calcluations/planning you think will be useful for the next person. If you don't think you can make any progress, say so. The following is a portion of the entire problem, and the work/progress/message the previous person left for you. There may be errors in the provided work that was previously done and left for you, so check and fix them if necessary.\nFind the greatest common factor of 5!\n",
+    "solution": "Note that $6!=6\\cdot5!$. Therefore, the greatest common factor must be $5!=\\boxed{120}$.",
+    "gpt_response": "Let's start by finding the prime factorization of 5!, which is 5 factorial.\n5! = 5 x 4 x 3 x 2 x 1 = 120\n\nNext, let's find the prime factors of 120 to determine the greatest common factor. \nPrime factorization of 120: 120 = 2^3 * 3 * 5\n\nNow, we need to find the prime factors of the greatest common factor of 5!",
+    "solution_prompt": "Question partition not complete yet",
+    "gpt_response_correct_incorrect": "Question partition not complete yet",
+    "yes_no": "Question partition not complete yet"
+}

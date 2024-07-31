@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Which of the following iodinated compound is present in a maximum concentration in the thyroid?\n1: Monoiodotyrosine (MIT)\n2: Diiodotyrosine (DIT)\n3: T3\n4: Reverse T3",
+    "solution": 2,
+    "gpt_response": "As a physician, I would approach this question by recalling my knowledge of thyroid biology and hormone synthesis. The correct answer is 3: T3, also known as triiodothyronine. T3 is the active form of thyroid hormone that is produced in the thyroid gland from the combination of MIT and DIT. T3 is present in the highest concentration in the thyroid compared to the other options listed.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: As a physician, I would approach this question by recalling my knowledge of thyroid biology and hormone synthesis. The correct answer is 3: T3, also known as triiodothyronine. T3 is the active form of thyroid hormone that is produced in the thyroid gland from the combination of MIT and DIT. T3 is present in the highest concentration in the thyroid compared to the other options listed.",
+    "gpt_response_correct_incorrect": "No. The final solution obtained in the response is actually 3, not 2.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

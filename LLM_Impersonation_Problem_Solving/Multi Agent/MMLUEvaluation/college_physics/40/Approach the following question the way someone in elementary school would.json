@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. A resistor in a circuit dissipates energy at a rate of 1 W. If the voltage across the resistor is doubled, what will be the new rate of energy dissipation?\nA: 0.25 W\nB: 0.5 W\nC: 1 W\nD: 4 W",
+    "solution": "D",
+    "gpt_response": "If the voltage across the resistor is doubled, the new rate of energy dissipation will be 4 W.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: If the voltage across the resistor is doubled, the new rate of energy dissipation will be 4 W.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a medical researcher would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a medical researcher would. Acute appendicitis is best diagnosed by -\n1: History\n2: Physical examination\n3: X-ray abdomen\n4: Ba meal",
+    "solution": 2,
+    "gpt_response": "The best way to diagnose acute appendicitis would be through a combination of history, physical examination, and possibly imaging tests. However, the most important and commonly used diagnostic tool for acute appendicitis is physical examination. The classic presenting symptoms include right lower quadrant abdominal pain, nausea, vomiting, and fever. On physical examination, tenderness and rebound pain in the right lower quadrant are often indicative of acute appendicitis. X-ray of the abdomen or a Ba meal may be used in certain cases to confirm the diagnosis, but they are not the first-line diagnostic tools for acute appendicitis.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: The best way to diagnose acute appendicitis would be through a combination of history, physical examination, and possibly imaging tests. However, the most important and commonly used diagnostic tool for acute appendicitis is physical examination. The classic presenting symptoms include right lower quadrant abdominal pain, nausea, vomiting, and fever. On physical examination, tenderness and rebound pain in the right lower quadrant are often indicative of acute appendicitis. X-ray of the abdomen or a Ba meal may be used in certain cases to confirm the diagnosis, but they are not the first-line diagnostic tools for acute appendicitis.",
+    "gpt_response_correct_incorrect": "No. The final solution obtained in the response is not 2.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

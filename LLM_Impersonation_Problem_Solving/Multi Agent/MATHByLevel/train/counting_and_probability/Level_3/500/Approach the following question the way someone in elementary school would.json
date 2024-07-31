@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. How many ways are there to put 4 balls in 3 boxes if the balls are distinguishable and the boxes are distinguishable?",
+    "solution": "There are 3 options (boxes) for each of the 4 balls, so the number of ways is $3^4 = \\boxed{81}$.",
+    "gpt_response": "To find out how many ways we can put 4 balls in 3 boxes, let's try out different ways. \n\nFirst, we can put all 4 balls in the first box. This is one way.\n\nSecond, we can put 3 balls in the first box and 1 ball in the second box. This is another way.\n\nThird, we can put 2 balls in the first box and 2 balls in the second box. This is yet another way.\n\nFinally, we can put 1 ball in the first box, 2 balls in the second box, and 1 ball in the third box. This is the last way.\n\nSo, there are 4 different ways to put 4 balls in 3 boxes if the balls and boxes are distinguishable.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 81?: To find out how many ways we can put 4 balls in 3 boxes, let's try out different ways. \n\nFirst, we can put all 4 balls in the first box. This is one way.\n\nSecond, we can put 3 balls in the first box and 1 ball in the second box. This is another way.\n\nThird, we can put 2 balls in the first box and 2 balls in the second box. This is yet another way.\n\nFinally, we can put 1 ball in the first box, 2 balls in the second box, and 1 ball in the third box. This is the last way.\n\nSo, there are 4 different ways to put 4 balls in 3 boxes if the balls and boxes are distinguishable.",
+    "gpt_response_correct_incorrect": "No",
+    "yes_no": "no"
+}

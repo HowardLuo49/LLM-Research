@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Which of the following ions CANNOT be used as a dopant in germanium to make an n-type semiconductor?\nA: As\nB: P\nC: Sb\nD: B",
+    "solution": "D",
+    "gpt_response": "Hmm, let's see! So, we know that when we add certain ions to germanium, it can change the way it conducts electricity. We want to make an n-type semiconductor, which means we need to add an ion that has an extra electron to give to the germanium. Let's look at our options:\n\nA: As - this ion has an extra electron, so it could work!\nB: P - this ion also has an extra electron, so it could work too!\nC: Sb - this ion has an extra electron, so it could work as well!\nD: B - hmmm, this ion doesn't have an extra electron, so I don't think it will work for making an n-type semiconductor.\n\nSo, the answer is D: B!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: Hmm, let's see! So, we know that when we add certain ions to germanium, it can change the way it conducts electricity. We want to make an n-type semiconductor, which means we need to add an ion that has an extra electron to give to the germanium. Let's look at our options:\n\nA: As - this ion has an extra electron, so it could work!\nB: P - this ion also has an extra electron, so it could work too!\nC: Sb - this ion has an extra electron, so it could work as well!\nD: B - hmmm, this ion doesn't have an extra electron, so I don't think it will work for making an n-type semiconductor.\n\nSo, the answer is D: B!",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

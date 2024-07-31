@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Jason borrowed money from his parents to buy a new surfboard. His parents have agreed to let him work off his debt by babysitting under the following conditions: his first hour of babysitting is worth $\\$1$, the second hour worth $\\$2$, the third hour $\\$3$, the fourth hour $\\$4$, the fifth hour $\\$5$, the sixth hour $\\$6$, the seventh hour $\\$1$, the eighth hour $\\$2$, etc. If he repays his debt by babysitting for 39 hours, how many dollars did he borrow?",
+    "solution": "Every $6$ hours, Jason earns $1+2+3+4+5+6=\\$21$. Since $39=6(6)+3$, he earns $6\\cdot 21=\\$126$ from $36$ hours, and in the next $3$ hours, he earns $1+2+3=\\$6$. So he borrowed $126+6=\\boxed{\\$132}$.",
+    "gpt_response": "Jason borrowed $\\$1$ for the first hour, $\\$2$ for the second hour, $\\$3$ for the third hour, $\\$4$ for the fourth hour, $\\$5$ for the fifth hour, $\\$6$ for the sixth hour, $\\$1$ for the seventh hour, $\\$2$ for the eighth hour, $\\$3$ for the ninth hour, and so on. \n\nAdding up all the amounts gives us:\n\n$\\$1 + \\$2 + \\$3 + \\$4 + \\$5 + \\$6 + \\$1 + \\$2 + \\$3 + ... + \\$6 =$\n\n$ (1 + 2 + 3 + 4 + 5 + 6) \\times 4 + 1 = 21 \\times 4 + 1 = 84 + 1 = 85$\n\nSo, Jason borrowed $\\$85$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to \\$132?: Jason borrowed $\\$1$ for the first hour, $\\$2$ for the second hour, $\\$3$ for the third hour, $\\$4$ for the fourth hour, $\\$5$ for the fifth hour, $\\$6$ for the sixth hour, $\\$1$ for the seventh hour, $\\$2$ for the eighth hour, $\\$3$ for the ninth hour, and so on. \n\nAdding up all the amounts gives us:\n\n$\\$1 + \\$2 + \\$3 + \\$4 + \\$5 + \\$6 + \\$1 + \\$2 + \\$3 + ... + \\$6 =$\n\n$ (1 + 2 + 3 + 4 + 5 + 6) \\times 4 + 1 = 21 \\times 4 + 1 = 84 + 1 = 85$\n\nSo, Jason borrowed $\\$85$.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

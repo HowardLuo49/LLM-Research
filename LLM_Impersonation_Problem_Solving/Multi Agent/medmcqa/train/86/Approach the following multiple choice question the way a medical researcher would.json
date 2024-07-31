@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a medical researcher would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a medical researcher would. Rescue P.C.I is done for which of the following?\n1: Persistent chest pain with ST elevation > 60 min after thrombolysis\n2: Persistent chest pain with ST elevation > 30 min after thrombolysis\n3: Persistent Chest pain with ST elevation >90 min after thrombolysis\n4: Pain with ST elevation for >120minutes after thrombolysis",
+    "solution": 3,
+    "gpt_response": "As a medical researcher, I would approach this question recognizing that Rescue P.C.I (percutaneous coronary intervention) is a procedure done in patients who have received thrombolysis (medication to break down blood clots in the arteries) for a heart attack, but still have persistent chest pain and ST elevation on an ECG.\n\nBased on this understanding, the correct answer would be:\n\n1: Persistent chest pain with ST elevation > 60 min after thrombolysis\n\nThis is because Rescue P.C.I is typically done in patients who have persistent symptoms despite thrombolysis, and waiting for longer periods of time (such as >90 minutes or >120 minutes) could result in worsening of the patient's condition and poorer outcomes.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: As a medical researcher, I would approach this question recognizing that Rescue P.C.I (percutaneous coronary intervention) is a procedure done in patients who have received thrombolysis (medication to break down blood clots in the arteries) for a heart attack, but still have persistent chest pain and ST elevation on an ECG.\n\nBased on this understanding, the correct answer would be:\n\n1: Persistent chest pain with ST elevation > 60 min after thrombolysis\n\nThis is because Rescue P.C.I is typically done in patients who have persistent symptoms despite thrombolysis, and waiting for longer periods of time (such as >90 minutes or >120 minutes) could result in worsening of the patient's condition and poorer outcomes.",
+    "gpt_response_correct_incorrect": "Yes, the final solution obtained in the response is option 1.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

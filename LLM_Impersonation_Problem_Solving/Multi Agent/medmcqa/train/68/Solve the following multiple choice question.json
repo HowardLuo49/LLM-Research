@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. Which of the following is the best procedure done for intrapaum fetal monitoring:\n1: Fetal echocardiography\n2: Fetal scalp pH\n3: Continuous electrical fetal hea monitoring\n4: Physical examination",
+    "solution": 3,
+    "gpt_response": "3: Continuous electrical fetal heart monitoring\n\nContinuous electrical fetal heart monitoring is the best procedure for intrapartum fetal monitoring as it allows for the continuous tracking of the baby's heart rate during labor and delivery to ensure the baby is tolerating the process well. This can help detect any signs of distress and guide medical interventions if necessary.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: 3: Continuous electrical fetal heart monitoring\n\nContinuous electrical fetal heart monitoring is the best procedure for intrapartum fetal monitoring as it allows for the continuous tracking of the baby's heart rate during labor and delivery to ensure the baby is tolerating the process well. This can help detect any signs of distress and guide medical interventions if necessary.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

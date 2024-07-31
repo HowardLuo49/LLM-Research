@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. Most dangerous paicles causing pneumoconiosis are of size\n1: A. 1-5 micron\n2: B. <1 micron\n3: C. 5-15 micron\n4: D. 10-20 micron",
+    "solution": 1,
+    "gpt_response": "1: A. 1-5 micron",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: 1: A. 1-5 micron",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

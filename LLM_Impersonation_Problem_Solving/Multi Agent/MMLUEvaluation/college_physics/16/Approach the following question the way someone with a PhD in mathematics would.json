@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. Excited states of the helium atom can be characterized as para- (antiparallel electron spins) and ortho- (parallel electron spins). The observation that an ortho- state has lower energy than the corresponding para- state can be understood in terms of which of the following?\nA: The Heisenberg uncertainty principle\nB: The Pauli exclusion principle\nC: The Bohr model of the atom\nD: Nuclear hyperfine coupling",
+    "solution": "B",
+    "gpt_response": "The observation that an ortho- state of the helium atom has lower energy than the corresponding para- state can be understood in terms of the Pauli exclusion principle. According to the Pauli exclusion principle, no two electrons in an atom can have the same set of quantum numbers. In the case of helium, when the electron spins are parallel (ortho- state), the electrons have different quantum numbers and are therefore allowed to occupy the same energy level. However, when the electron spins are antiparallel (para- state), the electrons must have the same quantum numbers and hence must occupy different energy levels, leading to higher energy for the para- state.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to B?: The observation that an ortho- state of the helium atom has lower energy than the corresponding para- state can be understood in terms of the Pauli exclusion principle. According to the Pauli exclusion principle, no two electrons in an atom can have the same set of quantum numbers. In the case of helium, when the electron spins are parallel (ortho- state), the electrons have different quantum numbers and are therefore allowed to occupy the same energy level. However, when the electron spins are antiparallel (para- state), the electrons must have the same quantum numbers and hence must occupy different energy levels, leading to higher energy for the para- state.",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

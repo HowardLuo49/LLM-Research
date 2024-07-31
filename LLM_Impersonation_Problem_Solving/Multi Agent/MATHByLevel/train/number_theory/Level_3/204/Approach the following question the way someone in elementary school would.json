@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. Jo is thinking of a positive integer less than 100. It is one less than a multiple of 8, and it is three less than a multiple of 7. What is the greatest possible integer Jo could be thinking of?",
+    "solution": "Let $n$ be the greatest possible integer Jo could be thinking of. We know $n<100$ and $n=8k-1=7l-3$ for some positive integers $k$ and $l$. From this we see that $7l=8k+2=2(4k+1)$, so $7l$ is a multiple of 14. List some multiples of 14, in decreasing order: 112, 98, 84, 70, .... Since $n<100$, 112 is too large, but 98 works: $7k=98\\Rightarrow n=98-3=95=8(12)-1$. Thus, $n=\\boxed{95}$.",
+    "gpt_response": "Let's start by finding a multiple of 8 that is one more than Jo's number. The first few multiples of 8 are 8, 16, 24, 32, 40, 48, 56, 64, 72, 80, 88, and 96. Jo's number must be one less than one of these multiples.\n\nNext, let's find a multiple of 7 that is three more than Jo's number. The first few multiples of 7 are 7, 14, 21, 28, 35, 42, 49, 56, 63, 70, 77, 84, and 91. Jo's number must be three less than one of these multiples.\n\nThe greatest possible number that fits both of these conditions is 56, which is one less than a multiple of 8 (57) and three less than a multiple of 7 (59).\n\nSo, the greatest possible integer Jo could be thinking of is 56.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 95?: Let's start by finding a multiple of 8 that is one more than Jo's number. The first few multiples of 8 are 8, 16, 24, 32, 40, 48, 56, 64, 72, 80, 88, and 96. Jo's number must be one less than one of these multiples.\n\nNext, let's find a multiple of 7 that is three more than Jo's number. The first few multiples of 7 are 7, 14, 21, 28, 35, 42, 49, 56, 63, 70, 77, 84, and 91. Jo's number must be three less than one of these multiples.\n\nThe greatest possible number that fits both of these conditions is 56, which is one less than a multiple of 8 (57) and three less than a multiple of 7 (59).\n\nSo, the greatest possible integer Jo could be thinking of is 56.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. For how many integer values of $n$ between 1 and 349 inclusive does the decimal representation of $\\frac{n}{350}$ terminate?",
+    "solution": "Recall that the decimal representation of a simplified fraction terminates if and only if the denominator is divisible by no primes other than 2 and 5. Prime factorizing 350 as $2\\cdot 5^2\\cdot 7$, we see that $n/350$ terminates if and only if $n$ is divisible by 7. There are 49 multiples of 7 from 1 to 349, so there are $\\boxed{49}$ possible values of $n$ that make $\\frac{n}{350}$ a terminating decimal.",
+    "gpt_response": "To determine how many integer values of $n$ between 1 and 349 make the decimal representation of $\\frac{n}{350}$ terminate, we need to see if the denominator, 350, can be expressed as $2^a \\cdot 5^b$ for some nonnegative integers $a$ and $b$. If it can, then the decimal will terminate; if it can't, then it won't.\n\nWe can see that $350 = 2 \\cdot 5^2 \\cdot 7$. Since 7 is a prime factor of 350 but not a factor of 10, the decimal will not terminate for any $n$.\n\nTherefore, none of the integer values of $n$ between 1 and 349 will make the decimal representation of $\\frac{n}{350}$ terminate.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 49?: To determine how many integer values of $n$ between 1 and 349 make the decimal representation of $\\frac{n}{350}$ terminate, we need to see if the denominator, 350, can be expressed as $2^a \\cdot 5^b$ for some nonnegative integers $a$ and $b$. If it can, then the decimal will terminate; if it can't, then it won't.\n\nWe can see that $350 = 2 \\cdot 5^2 \\cdot 7$. Since 7 is a prime factor of 350 but not a factor of 10, the decimal will not terminate for any $n$.\n\nTherefore, none of the integer values of $n$ between 1 and 349 will make the decimal representation of $\\frac{n}{350}$ terminate.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

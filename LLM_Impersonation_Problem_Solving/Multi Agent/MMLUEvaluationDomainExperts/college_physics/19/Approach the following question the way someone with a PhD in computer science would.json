@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in computer science would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in computer science would. Protons used in cancer therapy are typically accelerated to about 0.6c . How much work must be done on a particle of mass m in order for it to reach this speed, assuming it starts at rest?\nA: 0.25mc^2\nB: 0.60mc^2\nC: 0.67mc^2\nD: 1.25mc^2",
+    "solution": "A",
+    "gpt_response": "To calculate the work done on a particle to accelerate it to a speed of 0.6c, we need to consider the relativistic energy-momentum relation. The total energy of a particle with mass m moving at speed v is given by:\n\nE = \u03b3mc^2,\n\nwhere \u03b3 is the Lorentz factor, which is defined as \u03b3 = 1 / sqrt(1 - (v^2/c^2)).\n\nFor a particle starting at rest (v = 0), the initial total energy is just mc^2. To calculate the total energy of the particle after it has been accelerated to a speed of 0.6c, we can use the Lorentz factor:\n\n\u03b3 = 1 / sqrt(1 - (0.6)^2) = 1.25.\n\nTherefore, the total energy of the particle after acceleration is:\n\nE = 1.25mc^2.\n\nThe work done on the particle is equal to the change in energy, so:\n\nWork = 1.25mc^2 - mc^2 = 0.25mc^2.\n\nTherefore, the correct answer is option A: 0.25mc^2.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to A?: To calculate the work done on a particle to accelerate it to a speed of 0.6c, we need to consider the relativistic energy-momentum relation. The total energy of a particle with mass m moving at speed v is given by:\n\nE = \u03b3mc^2,\n\nwhere \u03b3 is the Lorentz factor, which is defined as \u03b3 = 1 / sqrt(1 - (v^2/c^2)).\n\nFor a particle starting at rest (v = 0), the initial total energy is just mc^2. To calculate the total energy of the particle after it has been accelerated to a speed of 0.6c, we can use the Lorentz factor:\n\n\u03b3 = 1 / sqrt(1 - (0.6)^2) = 1.25.\n\nTherefore, the total energy of the particle after acceleration is:\n\nE = 1.25mc^2.\n\nThe work done on the particle is equal to the change in energy, so:\n\nWork = 1.25mc^2 - mc^2 = 0.25mc^2.\n\nTherefore, the correct answer is option A: 0.25mc^2.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. If the ratio of $b$ to $a$ is 3, then what is the value of $a$ when $b=12-5a$?",
+    "solution": "The given ratio tells us that $\\frac{b}{a}=3$ or that $b=3a$. We substitute this value for $b$ so we have an equation with only one variable. We find  \\begin{align*}\n3a&=12-5a \\\\\n\\Rightarrow \\quad 8a&=12 \\\\\n\\Rightarrow \\quad a &= 12/8 \\\\\n\\Rightarrow \\quad a &= \\boxed{\\frac{3}{2}}.\n\\end{align*}",
+    "gpt_response": "To find the value of $a$, we first need to understand the ratio of $b$ to $a$. The ratio of $b$ to $a$ is given as 3, which means that $b$ is 3 times $a$.\n\nNext, we substitute $b$ in the equation $b=12-5a$ with $3a$ (since the ratio of $b$ to $a$ is given as 3). This gives us $3a=12-5a$.\n\nNext, we simplify the equation by adding $5a$ to both sides, which gives us $8a=12$. To solve for $a$, we divide both sides by 8, which gives us $a=12/8=1.5$. \n\nTherefore, the value of $a$ is 1.5 when $b=12-5a$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to \\frac{3?: To find the value of $a$, we first need to understand the ratio of $b$ to $a$. The ratio of $b$ to $a$ is given as 3, which means that $b$ is 3 times $a$.\n\nNext, we substitute $b$ in the equation $b=12-5a$ with $3a$ (since the ratio of $b$ to $a$ is given as 3). This gives us $3a=12-5a$.\n\nNext, we simplify the equation by adding $5a$ to both sides, which gives us $8a=12$. To solve for $a$, we divide both sides by 8, which gives us $a=12/8=1.5$. \n\nTherefore, the value of $a$ is 1.5 when $b=12-5a$.",
+    "gpt_response_correct_incorrect": "No. The final solution obtained is not equal to \\frac{3.",
+    "yes_no": "no"
+}

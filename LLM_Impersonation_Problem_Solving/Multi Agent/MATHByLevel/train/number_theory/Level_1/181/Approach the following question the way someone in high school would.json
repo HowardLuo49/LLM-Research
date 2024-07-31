@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. The number $n$ is a prime number between 20 and 30. If you divide $n$ by 8, the remainder is 5. What is the value of $n$?",
+    "solution": "We look at multiples of 8 greater than 15 and less than 25 (since adding 5 should make the number between 20 and 30). So the multiples of 8 that we consider are 16 and 24. Adding 5, we get 21 and 29. Only 29 is a prime number so $n=\\boxed{29}$.\n\nOR\n\nWhen we divide 20 by 8, we get a remainder of 4. That means 21 will have a remainder of 5. The next number with a remainder of 5 would be $21+8=29$. When we consider 21 and 29, $\\boxed{29}$ is the prime number.",
+    "gpt_response": "Ok, so we know that the number is between 20 and 30 and when you divide it by 8, the remainder is 5. Let's start by checking each number between 20 and 30 when divided by 8 to see if the remainder is 5.\n\n20 divided by 8 = 2 remainder 4\n21 divided by 8 = 2 remainder 5\n22 divided by 8 = 2 remainder 6\n23 divided by 8 = 2 remainder 7\n24 divided by 8 = 3 remainder 0\n25 divided by 8 = 3 remainder 1\n26 divided by 8 = 3 remainder 2\n27 divided by 8 = 3 remainder 3\n28 divided by 8 = 3 remainder 4\n29 divided by 8 = 3 remainder 5\n\nSo, the prime number between 20 and 30 when divided by 8 gives a remainder of 5 is 29. Therefore, the value of $n$ is 29.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 29?: Ok, so we know that the number is between 20 and 30 and when you divide it by 8, the remainder is 5. Let's start by checking each number between 20 and 30 when divided by 8 to see if the remainder is 5.\n\n20 divided by 8 = 2 remainder 4\n21 divided by 8 = 2 remainder 5\n22 divided by 8 = 2 remainder 6\n23 divided by 8 = 2 remainder 7\n24 divided by 8 = 3 remainder 0\n25 divided by 8 = 3 remainder 1\n26 divided by 8 = 3 remainder 2\n27 divided by 8 = 3 remainder 3\n28 divided by 8 = 3 remainder 4\n29 divided by 8 = 3 remainder 5\n\nSo, the prime number between 20 and 30 when divided by 8 gives a remainder of 5 is 29. Therefore, the value of $n$ is 29.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Most common organism causing ventilator associated pneumonia -\n1: Legionella\n2: Pneumococcus\n3: Pseudomonas\n4: Coagulase negative staphylococcus",
+    "solution": 3,
+    "gpt_response": "As a doctor, I would approach this question by considering the typical pathogens that are known to cause ventilator associated pneumonia. In this case, the most common organism associated with ventilator associated pneumonia is often Pseudomonas. Therefore, my answer would be:\n\n3: Pseudomonas",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: As a doctor, I would approach this question by considering the typical pathogens that are known to cause ventilator associated pneumonia. In this case, the most common organism associated with ventilator associated pneumonia is often Pseudomonas. Therefore, my answer would be:\n\n3: Pseudomonas",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

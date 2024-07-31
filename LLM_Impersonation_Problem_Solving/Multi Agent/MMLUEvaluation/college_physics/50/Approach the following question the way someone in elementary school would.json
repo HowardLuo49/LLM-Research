@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. A grating spectrometer can just barely resolve two wavelengths of 500 nm and 502 nm, respectively. Which of the following gives the resolving power of the spectrometer?\nA: 2\nB: 250\nC: 5,000\nD: 10,000",
+    "solution": "B",
+    "gpt_response": "Well, to answer this question, we need to figure out the difference between the two wavelengths that can be resolved. The difference is 2 nm (502 nm - 500 nm). \n\nSo, the resolving power of the spectrometer is the smallest change in wavelength that it can detect. It can just barely resolve a 2 nm difference. \n\nSo, the answer is A: 2.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to B?: Well, to answer this question, we need to figure out the difference between the two wavelengths that can be resolved. The difference is 2 nm (502 nm - 500 nm). \n\nSo, the resolving power of the spectrometer is the smallest change in wavelength that it can detect. It can just barely resolve a 2 nm difference. \n\nSo, the answer is A: 2.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "5",
+    "difficulty_value": "5"
+}

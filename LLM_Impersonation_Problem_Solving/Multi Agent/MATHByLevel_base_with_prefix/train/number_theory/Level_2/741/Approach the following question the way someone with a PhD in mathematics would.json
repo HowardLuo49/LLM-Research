@@ -1,0 +1,10 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. What is the largest three-digit multiple of 9 whose digits' sum is 18?",
+    "solution": "We note that any integer whose digits' sum is $18=2\\cdot9$ is divisible by 9. Therefore, we need to find the largest three-digit number whose digits' sum is 18. That number is $\\boxed{990}$.",
+    "gpt_response": "Let us denote the three-digit number as 100a + 10b + c, where a, b, and c are the hundreds, tens, and ones digits, respectively. Since the number is a multiple of 9, we must have a + b + c = 9. Additionally, the sum of the digits must be 18, so we have a + b + c = 18.\n\nNow, we need to find the largest three-digit multiple of 9 satisfying these conditions. Since the number must be a multiple of 9, the sum of its digits must also be a multiple of 9. The largest three-digit number multiple of 9 is 999, whose digits sum to 27. To find a number whose digits sum to 18, we need to subtract 9 from the hundreds digit of 999. \n\nTherefore, the largest three-digit multiple of 9 whose digits' sum is 18 is 990.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 990?: Let us denote the three-digit number as 100a + 10b + c, where a, b, and c are the hundreds, tens, and ones digits, respectively. Since the number is a multiple of 9, we must have a + b + c = 9. Additionally, the sum of the digits must be 18, so we have a + b + c = 18.\n\nNow, we need to find the largest three-digit multiple of 9 satisfying these conditions. Since the number must be a multiple of 9, the sum of its digits must also be a multiple of 9. The largest three-digit number multiple of 9 is 999, whose digits sum to 27. To find a number whose digits sum to 18, we need to subtract 9 from the hundreds digit of 999. \n\nTherefore, the largest three-digit multiple of 9 whose digits' sum is 18 is 990.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes"
+}

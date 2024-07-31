@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in literature would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in literature would. How many atoms are there in C10H22O?\nAnswer (numerical number):",
+    "solution": [
+        33
+    ],
+    "gpt_response": "42 atoms\n\nExplanation: The molecular formula for C10H22O represents a molecule composed of 10 carbon atoms, 22 hydrogen atoms, and 1 oxygen atom. To determine the total number of atoms in the molecule, one must add together the individual counts of each element. Thus, 10 carbon atoms + 22 hydrogen atoms + 1 oxygen atom = 42 atoms in total.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response [33]?: 42 atoms\n\nExplanation: The molecular formula for C10H22O represents a molecule composed of 10 carbon atoms, 22 hydrogen atoms, and 1 oxygen atom. To determine the total number of atoms in the molecule, one must add together the individual counts of each element. Thus, 10 carbon atoms + 22 hydrogen atoms + 1 oxygen atom = 42 atoms in total.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "42",
+    "difficulty_value": "2"
+}

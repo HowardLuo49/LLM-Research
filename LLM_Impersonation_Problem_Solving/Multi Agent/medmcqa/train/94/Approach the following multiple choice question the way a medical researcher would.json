@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a medical researcher would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a medical researcher would. A 12-year-old girl presents to the casualty with symptoms of fever, shoness of breath, and cough. A chest X-ray reveals complete consolidation of the lower lobe of the left lung. Cultures of the lower lobe of the left lung would most likely reveal which organism?\n1: Streptococcus pneumoniae\n2: Staphylococcus aureus\n3: Klebsiella pneumoniae\n4: Pseudomonas aeruginosa",
+    "solution": 1,
+    "gpt_response": "To determine the likely organism causing the pneumonia in the 12-year-old girl, we would consider the clinical presentation and the findings on the chest X-ray. In this case, the complete consolidation of the lower lobe of the left lung suggests a lobar pneumonia, which is commonly caused by Streptococcus pneumoniae.\n\nTherefore, the most likely organism that would be revealed on cultures of the lower lobe of the left lung in this case is 1: Streptococcus pneumoniae.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: To determine the likely organism causing the pneumonia in the 12-year-old girl, we would consider the clinical presentation and the findings on the chest X-ray. In this case, the complete consolidation of the lower lobe of the left lung suggests a lobar pneumonia, which is commonly caused by Streptococcus pneumoniae.\n\nTherefore, the most likely organism that would be revealed on cultures of the lower lobe of the left lung in this case is 1: Streptococcus pneumoniae.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

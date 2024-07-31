@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Schizophrenia is treated by:\n1: Anti depressants\n2: Anti psychotics\n3: Anti epileptics\n4: Mood stabilizers",
+    "solution": 2,
+    "gpt_response": "As a doctor, I would approach this multiple choice question by first assessing the symptoms and severity of the patient's schizophrenia. In general, the mainstay of treatment for schizophrenia is anti psychotics, as they target the positive symptoms such as hallucinations and delusions. However, additional medications such as mood stabilizers or anti epileptics may be added if the patient is experiencing mood swings or seizures. Anti depressants are generally not recommended as a first-line treatment for schizophrenia. Therefore, the most appropriate answer for the treatment of schizophrenia in this case would be 2: Anti psychotics.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: As a doctor, I would approach this multiple choice question by first assessing the symptoms and severity of the patient's schizophrenia. In general, the mainstay of treatment for schizophrenia is anti psychotics, as they target the positive symptoms such as hallucinations and delusions. However, additional medications such as mood stabilizers or anti epileptics may be added if the patient is experiencing mood swings or seizures. Anti depressants are generally not recommended as a first-line treatment for schizophrenia. Therefore, the most appropriate answer for the treatment of schizophrenia in this case would be 2: Anti psychotics.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

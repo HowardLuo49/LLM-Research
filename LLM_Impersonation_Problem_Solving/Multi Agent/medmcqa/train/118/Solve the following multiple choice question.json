@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. Antiboiotic Prophylaxis for infective endocarditis is indicated in:\n1: Isolated secundum ASD\n2: Mitral valve prolapse without regurgitation\n3: Prior coronary aery bypass graft\n4: Coarctation of aoa",
+    "solution": 4,
+    "gpt_response": "The correct answer is: 4: Coarctation of aorta\n\nAntibiotic prophylaxis for infective endocarditis is indicated in patients with certain congenital heart defects, including coarctation of the aorta. Antibiotic prophylaxis is not indicated for isolated secundum ASD, mitral valve prolapse without regurgitation, or prior coronary artery bypass graft.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 4?: The correct answer is: 4: Coarctation of aorta\n\nAntibiotic prophylaxis for infective endocarditis is indicated in patients with certain congenital heart defects, including coarctation of the aorta. Antibiotic prophylaxis is not indicated for isolated secundum ASD, mitral valve prolapse without regurgitation, or prior coronary artery bypass graft.",
+    "gpt_response_correct_incorrect": "Yes. The final solution obtained in the response is 4: Coarctation of aorta.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

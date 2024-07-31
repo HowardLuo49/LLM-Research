@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. When a child is not able to perform the following motor functions such as skipping, walking on heels, hopping in place or going forwards in tandem gati, his motor development is considered to be below ?\n1: 3 years\n2: 4 years\n3: 6 years\n4: 8 years",
+    "solution": 2,
+    "gpt_response": "Based on typical motor development milestones, if a child is not able to perform these motor functions, his motor development is considered to be below the expected level for his age. In this case, the correct answer would be:\n\n4: 8 years\n\nIt is important to assess and monitor a child's motor development to identify any delays or issues that may require further evaluation and intervention.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: Based on typical motor development milestones, if a child is not able to perform these motor functions, his motor development is considered to be below the expected level for his age. In this case, the correct answer would be:\n\n4: 8 years\n\nIt is important to assess and monitor a child's motor development to identify any delays or issues that may require further evaluation and intervention.",
+    "gpt_response_correct_incorrect": "No. The correct answer is not 2. The response provided is option 4: 8 years.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

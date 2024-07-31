@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Statement 1 | If H is a subgroup of G and a belongs to G then |aH| = |Ha|. Statement 2 | If H is a subgroup of G and a and b belong to G, then aH and Hb are identical or disjoint.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "C",
+    "gpt_response": "Hmm, let's see. If we have a group G and a subgroup H, and a belongs to G, then the number of elements in the set aH is the same as the number of elements in the set Ha. That sounds true! Oh, and if a and b are in G and H is a subgroup, then the sets aH and Hb could be the same or they could have no elements in common. So, that could be true or false. So, maybe the answer is A: True, True?",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to C?: Hmm, let's see. If we have a group G and a subgroup H, and a belongs to G, then the number of elements in the set aH is the same as the number of elements in the set Ha. That sounds true! Oh, and if a and b are in G and H is a subgroup, then the sets aH and Hb could be the same or they could have no elements in common. So, that could be true or false. So, maybe the answer is A: True, True?",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

@@ -1,0 +1,10 @@
+{
+    "prefix": "Solve the following problem. ",
+    "problem_prompt": "Solve the following problem. Karlanna places 600 marbles into $m$ total boxes such that each box contains an equal number of marbles.  There is more than one box, and each box contains more than one marble.  For how many values of $m$ can this be done?",
+    "solution": "If the number of marbles in each box is $n$, then $mn = 600$, so $m$ and $n$ are both divisors of 600. $$ 600 = 2^3 \\cdot 3^1 \\cdot 5^2 \\qquad \\Rightarrow \\qquad t(600) = (3 + 1)(1 + 1)(2 + 1) = 24. $$However, $m > 1$ and $n > 1$, so $m$ can be neither 1 nor 600.  This leaves $24 - 2 = \\boxed{22}$ possible values for $m$.",
+    "gpt_response": "Let $x$ be the number of marbles in each box. Since each box contains more than one marble, $x>1$. Because there are 600 marbles in total, we have $mx=600$. Since $x>1$, we know that $m<600$.\n\nThus, we are looking for the number of positive divisors of 600 that are greater than 1. Since $600=2^3 \\cdot 3 \\cdot 5^2$, the number of positive divisors of 600 is $(3+1)(1+1)(2+1)=24$. However, we need to exclude 1 and 600 since they do not satisfy the given conditions. Therefore, the total number of values for $m$ is $24-2=\\boxed{22}$.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 22?: Let $x$ be the number of marbles in each box. Since each box contains more than one marble, $x>1$. Because there are 600 marbles in total, we have $mx=600$. Since $x>1$, we know that $m<600$.\n\nThus, we are looking for the number of positive divisors of 600 that are greater than 1. Since $600=2^3 \\cdot 3 \\cdot 5^2$, the number of positive divisors of 600 is $(3+1)(1+1)(2+1)=24$. However, we need to exclude 1 and 600 since they do not satisfy the given conditions. Therefore, the total number of values for $m$ is $24-2=\\boxed{22}$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes"
+}

@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. The teacher asks Bill to calculate $a-b-c$, but Bill mistakenly calculates $a-(b-c)$ and gets an answer of 11. If the correct answer was 3, what is the value of $a-b$?",
+    "solution": "Instead of calculating $a - b - c$, Bill calculated $a - b + c$.  Therefore, the value of $a - b$ is simply the average of the two, making for $\\frac{11+3}{2} = \\boxed{7}$.",
+    "gpt_response": "Okay, so the teacher asked for $a-b-c$, but Bill calculated $a-(b-c)$ instead. He got 11 as his answer, but the correct answer was 3. We need to find the value of $a-b$. \n\nLet's break down Bill's calculation: \n$a-(b-c) = a-b+c = 11$\n\nSo, if the correct answer was 3, we can set up the equation:\n\n$a-b+c=11$\n$c=11-3$\n\nWe don't know the value of $a$ or $b$, but we know that $c = 8$. Let's substitute $c=8$ back into the initial equation:\n\n$a-b+8=11$\n$a-b=3$\n\nTherefore, the value of $a-b$ is 3.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 7?: Okay, so the teacher asked for $a-b-c$, but Bill calculated $a-(b-c)$ instead. He got 11 as his answer, but the correct answer was 3. We need to find the value of $a-b$. \n\nLet's break down Bill's calculation: \n$a-(b-c) = a-b+c = 11$\n\nSo, if the correct answer was 3, we can set up the equation:\n\n$a-b+c=11$\n$c=11-3$\n\nWe don't know the value of $a$ or $b$, but we know that $c = 8$. Let's substitute $c=8$ back into the initial equation:\n\n$a-b+8=11$\n$a-b=3$\n\nTherefore, the value of $a-b$ is 3.",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

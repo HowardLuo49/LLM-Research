@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. How many different counting numbers will each leave a remainder of 5 when divided into 47?",
+    "solution": "For a number to leave a remainder of 5 when divided into 47, it must satisfy two conditions:\n\n1. it must divide exactly into $47 - 5$, or 42, and\n\n2. it must be greater than 5, because the divisor is always greater than the remainder.\n\nWe list all divisors of 42 in pairs. They are 1 and 42, 2 and 21, 3 and 14, 6 and 7. Of these, only 42, 21, 14, 6, and 7 are greater than 5. There are $\\boxed{5}$ different counting numbers that will leave a remainder of 5 when divided into 47.",
+    "gpt_response": "Let's count and find out how many counting numbers leave a remainder of 5 when we divide them into 47. We can start with 1, then go to 2, 3, and so on. Let's keep counting until we find the numbers that leave a remainder of 5 when divided into 47. Let's use our fingers to help us keep track!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 5?: Let's count and find out how many counting numbers leave a remainder of 5 when we divide them into 47. We can start with 1, then go to 2, 3, and so on. Let's keep counting until we find the numbers that leave a remainder of 5 when divided into 47. Let's use our fingers to help us keep track!",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "9",
+    "difficulty_value": "9"
+}

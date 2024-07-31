@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Let $p$ and $q$ be the two distinct solutions to the equation $$(x-3)(x+3) = 21x - 63.$$If $p > q$, what is the value of $p - q$?",
+    "solution": "Factoring the right side, we can see that $(x-3)(x+3) = 21(x-3)$. Simplifying, we have $(x-3)(x+3) - 21(x-3) = (x-3)(x-18),$ and therefore our $p$ and $q$ are 18 and 3. Therefore, $p - q = \\boxed{15}.$",
+    "gpt_response": "To find the two solutions $p$ and $q$, we first expand the left side of the equation to get $x^2 - 9 = 21x - 63$. \nNext, we rearrange the equation to get $x^2 - 21x + 54 = 0$. \nTo find the solutions, we can factor the quadratic to get $(x-6)(x-9) = 0$. \nThis means $x=6$ or $x=9$. \nSince $p > q$, we have $p=9$ and $q=6$. \nTherefore, $p-q = 9-6 = 3$. \n\nSo, the value of $p - q$ is $\\boxed{3}$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 15?: To find the two solutions $p$ and $q$, we first expand the left side of the equation to get $x^2 - 9 = 21x - 63$. \nNext, we rearrange the equation to get $x^2 - 21x + 54 = 0$. \nTo find the solutions, we can factor the quadratic to get $(x-6)(x-9) = 0$. \nThis means $x=6$ or $x=9$. \nSince $p > q$, we have $p=9$ and $q=6$. \nTherefore, $p-q = 9-6 = 3$. \n\nSo, the value of $p - q$ is $\\boxed{3}$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

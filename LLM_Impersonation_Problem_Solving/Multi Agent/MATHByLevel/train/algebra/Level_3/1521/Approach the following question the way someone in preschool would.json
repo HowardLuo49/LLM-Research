@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Solve for $x$: $2^{x-3}=4^{x+1}$",
+    "solution": "\\begin{align*}\n2^{x-3} &= 4^{x+1} \\\\\n2^{x-3} &= (2^2)^{x+1} \\\\\n2^{x-3} &= 2^{2x+2} \\\\\nx-3 &= 2x+2 \\\\\nx &= \\boxed{-5}\n\\end{align*}",
+    "gpt_response": "Let's count the numbers first. We have 2 number 2's in the first part and 2 number 4's in the second part. The rule is bigger is 4, so 4 is bigger than 2. So $x-3$ must be greater than $x+1$. Let's see, 3 is bigger than 1, so that means $x-3$ must be bigger than $x+1$ which means $x$ must be smaller than $-2$. So the answer is $x<-2$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to -5?: Let's count the numbers first. We have 2 number 2's in the first part and 2 number 4's in the second part. The rule is bigger is 4, so 4 is bigger than 2. So $x-3$ must be greater than $x+1$. Let's see, 3 is bigger than 1, so that means $x-3$ must be bigger than $x+1$ which means $x$ must be smaller than $-2$. So the answer is $x<-2$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

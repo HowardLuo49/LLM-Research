@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Convert $1011001_2$ to base 4.",
+    "solution": "Since $2^2 = 4$, we can convert directly to base 4 by pairing digits together starting from the right side of our base 2 integer:  \\begin{align*} 01_2 &= 1_4\n\\\\ 01_2 &= 1_4\n\\\\ 10_2 &= 2_4\n\\\\ 01_2 &= 1_4\n\\end{align*}  Putting the base 4 digits together, we get $1011001_2 = \\boxed{1121_4}$.",
+    "gpt_response": "Let's count the numbers on our fingers like this: 0, 1, 2, 3, and then start over from the beginning. \n\nWe have the number $1011001_2$. Let's look at each digit and see how many groups of 4 we can make.\n\nStarting from the right, we have the number 1, which is just 1. Then we have 0, which is also just 0. Next we have 0, which is still just 0. Then we have 1, which is also just 1. After that, we have 0, which is still just 0. Then we have 1, which is also just 1. Finally, we have 1, which is still just 1.\n\nSo when we count all our groups of 4, we have: 10001 in base 4. \n\nYay, we did it! Great job!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 1121_4?: Let's count the numbers on our fingers like this: 0, 1, 2, 3, and then start over from the beginning. \n\nWe have the number $1011001_2$. Let's look at each digit and see how many groups of 4 we can make.\n\nStarting from the right, we have the number 1, which is just 1. Then we have 0, which is also just 0. Next we have 0, which is still just 0. Then we have 1, which is also just 1. After that, we have 0, which is still just 0. Then we have 1, which is also just 1. Finally, we have 1, which is still just 1.\n\nSo when we count all our groups of 4, we have: 10001 in base 4. \n\nYay, we did it! Great job!",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

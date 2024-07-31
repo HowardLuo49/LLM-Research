@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. The most impoant indication for surgical repair of a Bicornuate Uterus is -\n1: Infeility\n2: Dysmenorrhoea\n3: Menorrhagia\n4: Recurrent aboions",
+    "solution": 4,
+    "gpt_response": "4: Recurrent abortions\n\nRecurrent abortions are the most important indication for surgical repair of a Bicornuate Uterus. This condition can increase the risk of pregnancy loss and complications, so surgical repair may be necessary to improve the chances of a successful pregnancy. Infertility, dysmenorrhoea, and menorrhagia may also be issues associated with a Bicornuate Uterus, but recurrent abortions are the most concerning complication.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 4?: 4: Recurrent abortions\n\nRecurrent abortions are the most important indication for surgical repair of a Bicornuate Uterus. This condition can increase the risk of pregnancy loss and complications, so surgical repair may be necessary to improve the chances of a successful pregnancy. Infertility, dysmenorrhoea, and menorrhagia may also be issues associated with a Bicornuate Uterus, but recurrent abortions are the most concerning complication.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

@@ -1,0 +1,10 @@
+{
+    "prefix": "You are an expert in number theory. Solve the following problem. ",
+    "problem_prompt": "You are an expert in number theory. Solve the following problem. Find the largest integer less than 80 that leaves a remainder of 3 when divided by 5.",
+    "solution": "An integer that leaves a remainder of 3 when divided by 5 can be written as $5n + 3$ for some whole number $n$.  The largest permissible value of $n$ will lead us to the largest value of $5n + 3$ less than 80, so we solve the inequality. $$ 5n + 3 < 80. $$Subtracting 3 from both sides gives $5n < 77$.  Dividing both sides by 5, we have $$ n < 15\\, \\frac{2}{5}, $$so the largest permissible value of $n$ is 15 and the largest integer less than 80 that leaves a remainder of 3 when divided by 5 is $5 \\cdot 15 + 3 = \\boxed{78}$.",
+    "gpt_response": "To find the largest integer less than 80 that leaves a remainder of 3 when divided by 5, we can test multiples of 5 until we find one that leaves a remainder of 3 when divided by 5.\n\nWhen we divide 80 by 5, we get a quotient of 16 and a remainder of 0. Therefore, the largest integer less than 80 that leaves a remainder of 3 when divided by 5 is 80 - 2 = 78.\n\nSo the largest integer less than 80 that leaves a remainder of 3 when divided by 5 is 78.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 78?: To find the largest integer less than 80 that leaves a remainder of 3 when divided by 5, we can test multiples of 5 until we find one that leaves a remainder of 3 when divided by 5.\n\nWhen we divide 80 by 5, we get a quotient of 16 and a remainder of 0. Therefore, the largest integer less than 80 that leaves a remainder of 3 when divided by 5 is 80 - 2 = 78.\n\nSo the largest integer less than 80 that leaves a remainder of 3 when divided by 5 is 78.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes"
+}

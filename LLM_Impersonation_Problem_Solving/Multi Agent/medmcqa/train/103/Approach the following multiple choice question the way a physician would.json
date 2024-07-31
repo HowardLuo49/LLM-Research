@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Potter syndrome is not assoiated with\n1: Bilateral renal agenesis\n2: Bilateral multicystic kidney disease\n3: oligohydromnios\n4: Polyhydromnios",
+    "solution": 1,
+    "gpt_response": "To approach this question as a physician, I would first eliminate options based on my medical knowledge. Potter syndrome is a condition characterized by a typical physical appearance in newborns due to severe oligohydramnios and includes features such as flattened nose, recessed chin, and limb deformities.\n\nBilateral renal agenesis, bilateral multicystic kidney disease, and oligohydramnios are all associated with Potter syndrome. However, polyhydramnios is not typically associated with Potter syndrome.\n\nTherefore, as a physician, I would select option 4: Polyhydramnios as the correct answer, as it is not associated with Potter syndrome.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: To approach this question as a physician, I would first eliminate options based on my medical knowledge. Potter syndrome is a condition characterized by a typical physical appearance in newborns due to severe oligohydramnios and includes features such as flattened nose, recessed chin, and limb deformities.\n\nBilateral renal agenesis, bilateral multicystic kidney disease, and oligohydramnios are all associated with Potter syndrome. However, polyhydramnios is not typically associated with Potter syndrome.\n\nTherefore, as a physician, I would select option 4: Polyhydramnios as the correct answer, as it is not associated with Potter syndrome.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

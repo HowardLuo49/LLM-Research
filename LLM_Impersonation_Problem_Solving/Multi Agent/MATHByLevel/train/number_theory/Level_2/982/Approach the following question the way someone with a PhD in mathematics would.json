@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. To prepare for her half-marathon, Mary ran a total of $2847_9$ miles. How many miles (in base ten) did Mary run?",
+    "solution": "$2847_9=2\\cdot9^3+8\\cdot9^2+4\\cdot9^1+7\\cdot9^0=1458+648+36+7=\\boxed{2149}$ miles.",
+    "gpt_response": "In base $9$, the number $2847_9$ is equal to $2\\cdot9^3 + 8\\cdot9^2 + 4\\cdot9^1 + 7\\cdot9^0 = 2\\cdot729 + 8\\cdot81 + 4\\cdot9 + 7\\cdot1 = 1458 + 648 + 36 + 7 = 2149$. Therefore, Mary ran a total of $2149$ miles in base ten.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 2149?: In base $9$, the number $2847_9$ is equal to $2\\cdot9^3 + 8\\cdot9^2 + 4\\cdot9^1 + 7\\cdot9^0 = 2\\cdot729 + 8\\cdot81 + 4\\cdot9 + 7\\cdot1 = 1458 + 648 + 36 + 7 = 2149$. Therefore, Mary ran a total of $2149$ miles in base ten.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

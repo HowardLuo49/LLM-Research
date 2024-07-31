@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. A 70 - year- old man was administered penicilline intravenously. Within 5 minutes, he developed genralised urticaria, swelling of lips, hypotension and bronchospasm. The first choice of treatment is to administer:\n1: chlorphenitramine inj.\n2: Epinephrine inj.\n3: High dose hydrocortisone tablet\n4: nebulised salbutamol",
+    "solution": 2,
+    "gpt_response": "As a doctor, when a patient develops symptoms of an immediate allergic reaction such as generalized urticaria, swelling of lips, hypotension, and bronchospasm after administering penicillin intravenously, the first choice of treatment would be to administer epinephrine intravenously. Epinephrine is the mainstay of treatment for anaphylaxis and can help to quickly reverse the symptoms and stabilize the patient. Chlorpheniramine, high dose hydrocortisone, and nebulized salbutamol may also be used as adjunct therapies, but epinephrine is the most urgently needed in this situation.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: As a doctor, when a patient develops symptoms of an immediate allergic reaction such as generalized urticaria, swelling of lips, hypotension, and bronchospasm after administering penicillin intravenously, the first choice of treatment would be to administer epinephrine intravenously. Epinephrine is the mainstay of treatment for anaphylaxis and can help to quickly reverse the symptoms and stabilize the patient. Chlorpheniramine, high dose hydrocortisone, and nebulized salbutamol may also be used as adjunct therapies, but epinephrine is the most urgently needed in this situation.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

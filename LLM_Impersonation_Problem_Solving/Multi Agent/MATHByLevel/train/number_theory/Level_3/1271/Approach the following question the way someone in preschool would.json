@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Convert $\\rm{A}03_{16}$ to a base 10 integer, where the 'digits' A through F represent the values 10, 11, 12, 13, 14, and 15 in order.",
+    "solution": "In base 16, $A = 10$, $B = 11$, $C = 12$, $D = 13$, $E = 14$, and $F = 15$. So $A03 = 10\\cdot16^2 + 0\\cdot16 + 3 = \\boxed{2563}.$",
+    "gpt_response": "Let's count together!\n\nA is ten, so we write down 10.\n0 is zero, so we don't need to do anything.\n3 is three, so we write down 3.\n\nNow let's add them up: 10 + 0 + 3 = 13\n\nSo, $\\rm{A}03_{16}$ in base 10 is equal to 13. Yay!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 2563?: Let's count together!\n\nA is ten, so we write down 10.\n0 is zero, so we don't need to do anything.\n3 is three, so we write down 3.\n\nNow let's add them up: 10 + 0 + 3 = 13\n\nSo, $\\rm{A}03_{16}$ in base 10 is equal to 13. Yay!",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

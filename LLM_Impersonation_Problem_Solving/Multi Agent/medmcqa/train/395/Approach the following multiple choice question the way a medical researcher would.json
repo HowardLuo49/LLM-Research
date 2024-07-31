@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a medical researcher would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a medical researcher would. Vitamin B12 intrinsic factor absorption occurs in\n1: Duodenum\n2: Ileum\n3: Jejunum\n4: Colon",
+    "solution": 2,
+    "gpt_response": "In order to answer this question, a medical researcher would review the current literature on the absorption of Vitamin B12 intrinsic factor. Based on current research, Vitamin B12 intrinsic factor absorption primarily occurs in the ileum of the small intestine. Therefore, the correct answer would be 2: Ileum.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: In order to answer this question, a medical researcher would review the current literature on the absorption of Vitamin B12 intrinsic factor. Based on current research, Vitamin B12 intrinsic factor absorption primarily occurs in the ileum of the small intestine. Therefore, the correct answer would be 2: Ileum.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

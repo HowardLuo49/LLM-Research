@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. Vaccine administered by following route is\n1: Typhoral live\n2: H1n1 killed\n3: H1n1 live\n4: Yellow fever live",
+    "solution": 3,
+    "gpt_response": "The vaccine administered by following route is option 3: H1n1 live.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: The vaccine administered by following route is option 3: H1n1 live.",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

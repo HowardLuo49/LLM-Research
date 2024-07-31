@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. Kate has saved up $4444_8$ dollars for a trip to France. A round-trip airline ticket costs $1000_{10}$ dollars. In base ten, how many dollars will she have left for lodging and food?",
+    "solution": "$4444_8=4\\cdot8^3+4\\cdot8^2+4\\cdot8^1+4\\cdot8^0=2048+256+32+4=2340_{10}$. Therefore, Kate will have $2340-1000=\\boxed{1340}$ dollars for lodging and food.",
+    "gpt_response": "First, let's convert the amount Kate saved up to base ten. In base eight, $4444_8$ is $4\\times8^3 + 4\\times8^2 + 4\\times8^1 + 4\\times8^0 = 2048 + 256 + 32 + 4 = 2340$ in base ten.\n\nNow, we know that a round-trip airline ticket costs $1000_{10}$ dollars. To find out how much Kate will have left for lodging and food, we need to subtract the cost of the ticket from the total amount she saved up. \n\n$2340 - 1000 = 1340$ dollars\n\nTherefore, Kate will have $1340 in base ten for lodging and food.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 1340?: First, let's convert the amount Kate saved up to base ten. In base eight, $4444_8$ is $4\\times8^3 + 4\\times8^2 + 4\\times8^1 + 4\\times8^0 = 2048 + 256 + 32 + 4 = 2340$ in base ten.\n\nNow, we know that a round-trip airline ticket costs $1000_{10}$ dollars. To find out how much Kate will have left for lodging and food, we need to subtract the cost of the ticket from the total amount she saved up. \n\n$2340 - 1000 = 1340$ dollars\n\nTherefore, Kate will have $1340 in base ten for lodging and food.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

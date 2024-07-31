@@ -1,0 +1,10 @@
+{
+    "prefix": "You are an expert in number theory. Solve the following problem. ",
+    "problem_prompt": "You are an expert in number theory. Solve the following problem. When $n$ is divided by 3, the remainder is 2. What is the remainder when $5n$ is divided by 3?",
+    "solution": "Since $n \\equiv 2 \\pmod{3}$, $5n \\equiv 5 \\cdot 2 \\equiv 10 \\equiv \\boxed{1} \\pmod{3}$.",
+    "gpt_response": "Let $n = 3k + 2$ for some integer $k$. Then $5n = 15k + 10 = 3(5k + 3) + 1$, which leaves a remainder of 1 when divided by 3.\n\nTherefore, the remainder when $5n$ is divided by 3 is $\\boxed{1}$.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 1?: Let $n = 3k + 2$ for some integer $k$. Then $5n = 15k + 10 = 3(5k + 3) + 1$, which leaves a remainder of 1 when divided by 3.\n\nTherefore, the remainder when $5n$ is divided by 3 is $\\boxed{1}$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes"
+}

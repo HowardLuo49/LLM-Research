@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Following are fibrous joints :\n1: Pubic symphysis\n2: Fronto parietal suture\n3: Manubrio sternal joint\n4: Inf. radio ulnar joint",
+    "solution": 2,
+    "gpt_response": "As a physician, I would evaluate each option in the context of fibrous joints, which are characterized by dense connective tissue holding the bones together. \n\n1: Pubic symphysis - This is a cartilaginous joint, not a fibrous joint. \n2: Frontoparietal suture - This is a fibrous joint between the frontal and parietal bones of the skull. \n3: Manubriosternal joint - This is also a fibrous joint between the manubrium and sternum. \n4: Inferior radioulnar joint - This is a synovial joint, not a fibrous joint. \n\nBased on this evaluation, options 2 and 3 are fibrous joints, while options 1 and 4 are not.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: As a physician, I would evaluate each option in the context of fibrous joints, which are characterized by dense connective tissue holding the bones together. \n\n1: Pubic symphysis - This is a cartilaginous joint, not a fibrous joint. \n2: Frontoparietal suture - This is a fibrous joint between the frontal and parietal bones of the skull. \n3: Manubriosternal joint - This is also a fibrous joint between the manubrium and sternum. \n4: Inferior radioulnar joint - This is a synovial joint, not a fibrous joint. \n\nBased on this evaluation, options 2 and 3 are fibrous joints, while options 1 and 4 are not.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

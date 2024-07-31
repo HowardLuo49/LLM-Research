@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Household insectiside used for malaria-\n1: Malathion\n2: Pyrethrum\n3: Paris green\n4: Permethrin",
+    "solution": 1,
+    "gpt_response": "As a doctor, I would recommend Permethrin as the most effective household insecticide for treating and preventing malaria. Permethrin is commonly used for treating mosquito nets and clothing to repel and kill mosquitoes that transmit malaria. It is safe for use around the home and has been shown to be effective in reducing the spread of malaria.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: As a doctor, I would recommend Permethrin as the most effective household insecticide for treating and preventing malaria. Permethrin is commonly used for treating mosquito nets and clothing to repel and kill mosquitoes that transmit malaria. It is safe for use around the home and has been shown to be effective in reducing the spread of malaria.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in physics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in physics would. Let $\\mathbf{u}$ and $\\mathbf{v}$ be vectors such that $\\|\\mathbf{u}\\| = \\|\\mathbf{v}\\| = 2$ and $\\mathbf{u} \\cdot \\mathbf{v} = -1.$  If $\\theta$ is the angle between the vectors $\\mathbf{u} + \\mathbf{v}$ and $2 \\mathbf{u} - \\mathbf{v},$ then find $\\cos \\theta.$",
+    "solution": "\\frac{1}{4}",
+    "gpt_response": "First, let's find the angle between the vectors $\\mathbf{u} + \\mathbf{v}$ and $2\\mathbf{u} - \\mathbf{v}.$  We have that\n\\[\\cos \\theta = \\frac{(\\mathbf{u} + \\mathbf{v}) \\cdot (2 \\mathbf{u} - \\mathbf{v})}{\\| \\mathbf{u} + \\mathbf{v} \\| \\|2 \\mathbf{u} - \\mathbf{v} \\|}.\\]Expanding, we get\n\\begin{align*}\n(\\mathbf{u} + \\mathbf{v}) \\cdot (2 \\mathbf{u} - \\mathbf{v}) &= 2 \\mathbf{u} \\cdot \\mathbf{u} + 2 \\mathbf{u} \\cdot (-\\mathbf{v}) + \\mathbf{v} \\cdot \\mathbf{u} - \\mathbf{v} \\cdot \\mathbf{v} \\\\\n&= 2 \\|\\mathbf{u}\\|^2 - 2 \\mathbf{u} \\cdot \\mathbf{v} + 0 - \\|\\mathbf{v}\\|^2 \\\\\n&= 2(4) - 2(-1) - 4 = 6,\n\\end{align*}and $\\| \\mathbf{u} + \\mathbf{v} \\| \\|2 \\mathbf{u} - \\mathbf{v} \\| = 2 \\cdot 3 = 6,$ so\n\\[\\cos \\theta = \\frac{6}{6} = 1.\\]Thus, $\\cos \\theta = \\boxed{1}.$",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response \\frac{1}{4}?: First, let's find the angle between the vectors $\\mathbf{u} + \\mathbf{v}$ and $2\\mathbf{u} - \\mathbf{v}.$  We have that\n\\[\\cos \\theta = \\frac{(\\mathbf{u} + \\mathbf{v}) \\cdot (2 \\mathbf{u} - \\mathbf{v})}{\\| \\mathbf{u} + \\mathbf{v} \\| \\|2 \\mathbf{u} - \\mathbf{v} \\|}.\\]Expanding, we get\n\\begin{align*}\n(\\mathbf{u} + \\mathbf{v}) \\cdot (2 \\mathbf{u} - \\mathbf{v}) &= 2 \\mathbf{u} \\cdot \\mathbf{u} + 2 \\mathbf{u} \\cdot (-\\mathbf{v}) + \\mathbf{v} \\cdot \\mathbf{u} - \\mathbf{v} \\cdot \\mathbf{v} \\\\\n&= 2 \\|\\mathbf{u}\\|^2 - 2 \\mathbf{u} \\cdot \\mathbf{v} + 0 - \\|\\mathbf{v}\\|^2 \\\\\n&= 2(4) - 2(-1) - 4 = 6,\n\\end{align*}and $\\| \\mathbf{u} + \\mathbf{v} \\| \\|2 \\mathbf{u} - \\mathbf{v} \\| = 2 \\cdot 3 = 6,$ so\n\\[\\cos \\theta = \\frac{6}{6} = 1.\\]Thus, $\\cos \\theta = \\boxed{1}.$",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Urine osmolality in Diabetes insipidus is\n1: <150 mmol/L\n2: <300 mmol/L\n3: <600 mmol/L\n4: <900 mmol/L",
+    "solution": 1,
+    "gpt_response": "As a doctor, I would approach this question by determining the normal range for urine osmolality and then analyzing the options provided. In normal circumstances, urine osmolality typically ranges from 300-900 mmol/L. Therefore, in Diabetes insipidus, where there is impaired concentration of urine leading to excessive dilute urine production, the urine osmolality would be expected to be lower than normal.\n\nGiven the options provided, the correct answer would be:\n\n2: <300 mmol/L - as this option falls within the expected lower range of urine osmolality in Diabetes insipidus.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: As a doctor, I would approach this question by determining the normal range for urine osmolality and then analyzing the options provided. In normal circumstances, urine osmolality typically ranges from 300-900 mmol/L. Therefore, in Diabetes insipidus, where there is impaired concentration of urine leading to excessive dilute urine production, the urine osmolality would be expected to be lower than normal.\n\nGiven the options provided, the correct answer would be:\n\n2: <300 mmol/L - as this option falls within the expected lower range of urine osmolality in Diabetes insipidus.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

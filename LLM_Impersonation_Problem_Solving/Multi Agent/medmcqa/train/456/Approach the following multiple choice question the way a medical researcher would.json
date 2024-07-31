@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a medical researcher would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a medical researcher would. Bacteriostatic antitubercular drug among the following is :\n1: Isoniazid\n2: Rifampicin\n3: Streptomycin\n4: Ethambutol",
+    "solution": 4,
+    "gpt_response": "To determine which of the following drugs is a bacteriostatic antitubercular drug, a medical researcher would need to consider the mechanism of action of each drug.\n\n1: Isoniazid - This drug inhibits the synthesis of mycolic acids in Mycobacterium tuberculosis, making it bacteriostatic.\n\n2: Rifampicin - This drug inhibits RNA synthesis in bacteria, including Mycobacterium tuberculosis, making it bactericidal rather than bacteriostatic.\n\n3: Streptomycin - This drug inhibits protein synthesis in bacteria and is considered bactericidal rather than bacteriostatic.\n\n4: Ethambutol - This drug inhibits the synthesis of the cell wall in Mycobacterium tuberculosis, making it bacteriostatic.\n\nBased on this information, the correct answer to the question is:\n1: Isoniazid",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 4?: To determine which of the following drugs is a bacteriostatic antitubercular drug, a medical researcher would need to consider the mechanism of action of each drug.\n\n1: Isoniazid - This drug inhibits the synthesis of mycolic acids in Mycobacterium tuberculosis, making it bacteriostatic.\n\n2: Rifampicin - This drug inhibits RNA synthesis in bacteria, including Mycobacterium tuberculosis, making it bactericidal rather than bacteriostatic.\n\n3: Streptomycin - This drug inhibits protein synthesis in bacteria and is considered bactericidal rather than bacteriostatic.\n\n4: Ethambutol - This drug inhibits the synthesis of the cell wall in Mycobacterium tuberculosis, making it bacteriostatic.\n\nBased on this information, the correct answer to the question is:\n1: Isoniazid",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

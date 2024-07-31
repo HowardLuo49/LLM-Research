@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in computer science would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in computer science would. The set of all nth roots of unity under multiplication of complex numbers form a/an\nA: semi group with identity\nB: commutative semigroups with identity\nC: group\nD: abelian group",
+    "solution": "D",
+    "gpt_response": "The set of all nth roots of unity under multiplication of complex numbers form a group. This is because the set satisfies the four group axioms: closure, associativity, identity, and inverse. Specifically, the identity element is 1, every element has an inverse, and the operation is commutative. Thus, the correct answer is C: group.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: The set of all nth roots of unity under multiplication of complex numbers form a group. This is because the set satisfies the four group axioms: closure, associativity, identity, and inverse. Specifically, the identity element is 1, every element has an inverse, and the operation is commutative. Thus, the correct answer is C: group.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "C: 7",
+    "difficulty_value": "7"
+}

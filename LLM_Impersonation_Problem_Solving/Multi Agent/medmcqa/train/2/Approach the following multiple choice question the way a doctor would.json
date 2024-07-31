@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Which vitamin is supplied from only animal source:\n1: Vitamin C\n2: Vitamin B7\n3: Vitamin B12\n4: Vitamin D",
+    "solution": 3,
+    "gpt_response": "As a doctor, I would approach this question by identifying that Vitamin B12 is supplied exclusively from animal sources, such as meat, fish, eggs, and dairy products. This essential vitamin is important for neurological function, red blood cell formation, and DNA synthesis. It is particularly important for individuals following a vegetarian or vegan diet to ensure they are getting enough Vitamin B12 through supplementation or fortified foods.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: As a doctor, I would approach this question by identifying that Vitamin B12 is supplied exclusively from animal sources, such as meat, fish, eggs, and dairy products. This essential vitamin is important for neurological function, red blood cell formation, and DNA synthesis. It is particularly important for individuals following a vegetarian or vegan diet to ensure they are getting enough Vitamin B12 through supplementation or fortified foods.",
+    "gpt_response_correct_incorrect": "No, the final solution obtained in the response is not 3.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

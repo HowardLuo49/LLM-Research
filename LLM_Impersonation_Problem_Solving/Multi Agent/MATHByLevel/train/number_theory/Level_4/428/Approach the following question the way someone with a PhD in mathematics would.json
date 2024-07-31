@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. When the two-digit integer $MM$, with equal digits, is multiplied by the one-digit integer $M$, the result is the three-digit integer $NPM$. What is the greatest possible value of $NPM$?",
+    "solution": "$M=1$, $5$, or $6$ since no other digits have the property that the units digit of $M\\times M$ is $M$. Therefore, the greatest possible value of $MM\\times M=NPM$ is $66\\times6=\\boxed{396}$.",
+    "gpt_response": "To maximize the value of $NPM$, we need to maximize the value of $MM$. Since $MM$ is a two-digit integer with equal digits, the largest possible value for $MM$ is $99$. \n\nNow, we multiply $99$ by a one-digit integer $M$ to get the three-digit integer $NPM$. The largest possible value for $M$ would be $9$ in order to maximize $NPM$.\n\nTherefore, $NPM = 99 \\times 9 = 891$ is the greatest possible value.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 396?: To maximize the value of $NPM$, we need to maximize the value of $MM$. Since $MM$ is a two-digit integer with equal digits, the largest possible value for $MM$ is $99$. \n\nNow, we multiply $99$ by a one-digit integer $M$ to get the three-digit integer $NPM$. The largest possible value for $M$ would be $9$ in order to maximize $NPM$.\n\nTherefore, $NPM = 99 \\times 9 = 891$ is the greatest possible value.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. What is the greatest integer less than or equal to\\[\\frac{3^{100}+2^{100}}{3^{96}+2^{96}}?\\]\n$\\textbf{(A) }80\\qquad \\textbf{(B) }81 \\qquad \\textbf{(C) }96 \\qquad \\textbf{(D) }97 \\qquad \\textbf{(E) }625\\qquad$\n",
+    "solution": "We write\\[\\frac{3^{100}+2^{100}}{3^{96}+2^{96}}=\\frac{3^{96}}{3^{96}+2^{96}}\\cdot\\frac{3^{100}}{3^{96}}+\\frac{2^{96}}{3^{96}+2^{96}}\\cdot\\frac{2^{100}}{2^{96}}=\\frac{3^{96}}{3^{96}+2^{96}}\\cdot 81+\\frac{2^{96}}{3^{96}+2^{96}}\\cdot 16.\\]Hence we see that our number is a weighted average of 81 and 16, extremely heavily weighted toward 81. Hence the number is ever so slightly less than 81, so the answer is $\\boxed{80}$.",
+    "gpt_response": "Hmm, let's add 3 apples and 2 apples together and see how many apples we have. If we have 3 oranges and 2 oranges, we can also add them together to see how many oranges we have. Let's start by counting! 3 + 2 = 5 apples. 3^96 + 2^96 is probably going to be a super big number! Let's ask a grown-up to help us figure it out.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 80?: Hmm, let's add 3 apples and 2 apples together and see how many apples we have. If we have 3 oranges and 2 oranges, we can also add them together to see how many oranges we have. Let's start by counting! 3 + 2 = 5 apples. 3^96 + 2^96 is probably going to be a super big number! Let's ask a grown-up to help us figure it out.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

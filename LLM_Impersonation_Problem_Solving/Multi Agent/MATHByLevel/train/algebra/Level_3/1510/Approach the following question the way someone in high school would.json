@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Compute $\\frac{x^6-16x^3+64}{x^3-8}$ when $x=6$.",
+    "solution": "Note that $\\left(x^3-8\\right)^2=x^6-16x^3+64$. So $\\frac{x^6-16x^3+64}{x^3-8}=\\frac{\\left(x^3-8\\right)^2}{x^3-8}=x^3-8$. So, the answer is $6^3-8=216-8=\\boxed{208}$.",
+    "gpt_response": "To find the value of $\\frac{x^6-16x^3+64}{x^3-8}$ when $x=6$, we can substitute $x$ with $6$ in the expression. \n\nSo, we have $\\frac{6^6-16(6)^3+64}{6^3-8} = \\frac{46656-16(216)+64}{216-8} = \\frac{46656-3456+64}{208} = \\frac{43264}{208} = 208$. \n\nTherefore, when $x=6$, the value of $\\frac{x^6-16x^3+64}{x^3-8}$ is $208$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 208?: To find the value of $\\frac{x^6-16x^3+64}{x^3-8}$ when $x=6$, we can substitute $x$ with $6$ in the expression. \n\nSo, we have $\\frac{6^6-16(6)^3+64}{6^3-8} = \\frac{46656-16(216)+64}{216-8} = \\frac{46656-3456+64}{208} = \\frac{43264}{208} = 208$. \n\nTherefore, when $x=6$, the value of $\\frac{x^6-16x^3+64}{x^3-8}$ is $208$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

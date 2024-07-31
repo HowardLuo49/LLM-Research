@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a medical researcher would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a medical researcher would. Polymorphic ventricular tachycardia can occur when terfenadine(antihistaminic):\n1: Is coadministrator with azithromycin\n2: Is coadministrator with fluconazole\n3: Is given in higher doses\n4: Reduces QT interval",
+    "solution": 3,
+    "gpt_response": "A medical researcher would approach this multiple choice question by reviewing relevant literature and conducting studies to determine the potential interactions and risks associated with terfenadine and the listed options. They would evaluate the pharmacokinetics and pharmacodynamics of terfenadine, azithromycin, fluconazole, and their potential effects on the QT interval. Additionally, they may consider conducting in vitro and in vivo experiments to assess the likelihood of polymorphic ventricular tachycardia occurring in these scenarios. Ultimately, the researcher would need to gather enough evidence to make an informed decision on which option(s) may increase the risk of polymorphic ventricular tachycardia when coadministered with terfenadine.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: A medical researcher would approach this multiple choice question by reviewing relevant literature and conducting studies to determine the potential interactions and risks associated with terfenadine and the listed options. They would evaluate the pharmacokinetics and pharmacodynamics of terfenadine, azithromycin, fluconazole, and their potential effects on the QT interval. Additionally, they may consider conducting in vitro and in vivo experiments to assess the likelihood of polymorphic ventricular tachycardia occurring in these scenarios. Ultimately, the researcher would need to gather enough evidence to make an informed decision on which option(s) may increase the risk of polymorphic ventricular tachycardia when coadministered with terfenadine.",
+    "gpt_response_correct_incorrect": "Option 3 is not a definitive \"yes\" or \"no\" response. The final solution obtained in the response is not explicitly stated as being option 3.",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

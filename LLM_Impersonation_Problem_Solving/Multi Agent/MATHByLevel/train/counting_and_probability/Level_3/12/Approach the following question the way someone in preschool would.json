@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. What is the coefficient of $x^8$ in the expansion of $(x-1)^9$?",
+    "solution": "By the Binomial Theorem applied to $(x+(-1))^9$, this term is $\\binom98x^8(-1)^1=-9x^8$.  The coefficient of this term is $\\boxed{-9}$.",
+    "gpt_response": "Let's play with the numbers! If we have x-1, and we want to find the coefficient of $x^8$ in the expansion of $(x-1)^9, we can try to make groups of x's and -1's to see what happens! Let's start by expanding $(x-1)^9$:\n\n$(x-1)^9 = x^9 - 9x^8 + 36x^7 - 84x^6 + 126x^5 - 126x^4 + 84x^3 - 36x^2 + 9x - 1$\n\nSo the coefficient of $x^8$ is -9! Yay, we found it! Good job everyone!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to -9?: Let's play with the numbers! If we have x-1, and we want to find the coefficient of $x^8$ in the expansion of $(x-1)^9, we can try to make groups of x's and -1's to see what happens! Let's start by expanding $(x-1)^9$:\n\n$(x-1)^9 = x^9 - 9x^8 + 36x^7 - 84x^6 + 126x^5 - 126x^4 + 84x^3 - 36x^2 + 9x - 1$\n\nSo the coefficient of $x^8$ is -9! Yay, we found it! Good job everyone!",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

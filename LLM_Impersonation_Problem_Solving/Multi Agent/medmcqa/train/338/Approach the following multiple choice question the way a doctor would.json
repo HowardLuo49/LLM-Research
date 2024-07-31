@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. A obese female having hirsutism on laboratory investigation has high level of LH and androgens. Likely cause is-\n1: PCOS\n2: Exogenous steroid ingestion\n3: Turner syndrome\n4: Kleinfelter syndrome",
+    "solution": 1,
+    "gpt_response": "Based on the clinical presentation of an obese female with hirsutism and laboratory findings of high levels of LH and androgens, the likely cause would be Polycystic Ovary Syndrome (PCOS). PCOS is a common endocrine disorder in women of reproductive age that is characterized by elevated levels of androgens, irregular menstrual cycles, and often associated with obesity and hirsutism.\n\nTherefore, the most likely answer would be option 1: PCOS.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: Based on the clinical presentation of an obese female with hirsutism and laboratory findings of high levels of LH and androgens, the likely cause would be Polycystic Ovary Syndrome (PCOS). PCOS is a common endocrine disorder in women of reproductive age that is characterized by elevated levels of androgens, irregular menstrual cycles, and often associated with obesity and hirsutism.\n\nTherefore, the most likely answer would be option 1: PCOS.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

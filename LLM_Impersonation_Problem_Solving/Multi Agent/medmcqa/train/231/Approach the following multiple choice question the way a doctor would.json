@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Trendlenburg's test done for varicose veins is for detection of:\n1: Perforator in competency\n2: Deep veins patency\n3: Saphenofemoral incompetency\n4: Site of perforators",
+    "solution": 3,
+    "gpt_response": "As a doctor, when performing Trendlenburg's test for varicose veins, we are looking for the detection of saphenofemoral incompetency. This test is used to assess the competency of the saphenofemoral junction, which is a common site for varicose veins to develop. Therefore, the correct answer is:\n\n3: Saphenofemoral incompetency",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: As a doctor, when performing Trendlenburg's test for varicose veins, we are looking for the detection of saphenofemoral incompetency. This test is used to assess the competency of the saphenofemoral junction, which is a common site for varicose veins to develop. Therefore, the correct answer is:\n\n3: Saphenofemoral incompetency",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

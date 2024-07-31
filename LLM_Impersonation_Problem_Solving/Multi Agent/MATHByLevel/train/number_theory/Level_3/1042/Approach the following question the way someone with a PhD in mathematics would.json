@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. The positive integer divisors of 175, except 1, are arranged around a circle so that every pair of adjacent integers has a common factor greater than 1. What is the sum of the two integers adjacent to 7?",
+    "solution": "$175=5^2\\cdot7^1$. To arrange the divisors of 175, we can (conveniently) start with the divisor 7. Since $\\gcd(5,7)=1$, the two divisors that are adjacent to 7 must be multiples of 7, which means they have to be $5^1\\cdot7=35$ and $5^2\\cdot7=175$. Thus, the sum of the two integers adjacent to 7 is $35+175=\\boxed{210}$.",
+    "gpt_response": "To find the sum of the two integers adjacent to 7, we first need to find the divisors of 175. The prime factorization of 175 is 5*5*7. Therefore, the divisors of 175 are 5, 7, 25, and 175.\n\nWe arrange these divisors around a circle, such that every pair of adjacent integers has a common factor greater than 1. Since the only pairs that meet this condition are (5,25) and (7,175), we can deduce that 5 and 25 must be adjacent to 7.\n\nTherefore, the sum of the two integers adjacent to 7 is 5 + 25 = 30.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 210?: To find the sum of the two integers adjacent to 7, we first need to find the divisors of 175. The prime factorization of 175 is 5*5*7. Therefore, the divisors of 175 are 5, 7, 25, and 175.\n\nWe arrange these divisors around a circle, such that every pair of adjacent integers has a common factor greater than 1. Since the only pairs that meet this condition are (5,25) and (7,175), we can deduce that 5 and 25 must be adjacent to 7.\n\nTherefore, the sum of the two integers adjacent to 7 is 5 + 25 = 30.",
+    "gpt_response_correct_incorrect": "No. The final solution obtained is equal to 30, not 210.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

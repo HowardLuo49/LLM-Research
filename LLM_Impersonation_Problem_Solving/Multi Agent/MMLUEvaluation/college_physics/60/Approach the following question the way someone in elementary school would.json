@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. The first five harmonics produced by an organ pipe open at both ends are 50 Hz, 100 Hz, 150 Hz, 200 Hz, and 250 Hz. Which of the harmonics, if any, will survive once the pipe is closed at one end?\nA: 50 Hz, 150 Hz, and 250 Hz only\nB: 100 Hz and 200 Hz only\nC: 150 Hz and 250 Hz only\nD: None",
+    "solution": "D",
+    "gpt_response": "Well, once the pipe is closed at one end, only the odd harmonics will survive. So that means the 1st, 3rd, and 5th harmonics will still be heard. In this case, that would be 50 Hz, 150 Hz, and 250 Hz. So the answer is A: 50 Hz, 150 Hz, and 250 Hz only.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: Well, once the pipe is closed at one end, only the odd harmonics will survive. So that means the 1st, 3rd, and 5th harmonics will still be heard. In this case, that would be 50 Hz, 150 Hz, and 250 Hz. So the answer is A: 50 Hz, 150 Hz, and 250 Hz only.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

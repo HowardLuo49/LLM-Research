@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. According to Spetzler-Main criteria, how much score is given for a 5 cm nidus with AV malformation?\n1: 3\n2: 4\n3: 2\n4: 5",
+    "solution": 3,
+    "gpt_response": "4: 5",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: 4: 5",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

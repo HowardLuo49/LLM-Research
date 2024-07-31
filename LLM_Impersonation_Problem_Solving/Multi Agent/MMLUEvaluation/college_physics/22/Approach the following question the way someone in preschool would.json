@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Light from a laser falls on a pair of very narrow slits separated by 0.5 micrometer, and bright fringes separated by 1.0 millimeter are observed on a distant screen. If the frequency of the laser light is doubled, what will be the separation of the bright fringes?\nA: 0.25 mm\nB: 0.5 mm\nC: 1.0 mm\nD: 2.0 mm",
+    "solution": "B",
+    "gpt_response": "Oooh, let's play with light and fringes! So, we have a laser that shines through two tiny slits. The light makes pretty lines on a faraway screen. The lines are 1.0 millimeter apart. Now, if we make the laser go faster and double its frequency, what will happen to the lines on the screen? Will they be closer together, farther apart, or stay the same distance? Let's see...if we double the frequency, the lines will be closer together! So, the new separation will be 0.5 mm, which is answer B! Yay, we solved the puzzle!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to B?: Oooh, let's play with light and fringes! So, we have a laser that shines through two tiny slits. The light makes pretty lines on a faraway screen. The lines are 1.0 millimeter apart. Now, if we make the laser go faster and double its frequency, what will happen to the lines on the screen? Will they be closer together, farther apart, or stay the same distance? Let's see...if we double the frequency, the lines will be closer together! So, the new separation will be 0.5 mm, which is answer B! Yay, we solved the puzzle!",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6.",
+    "difficulty_value": "6"
+}

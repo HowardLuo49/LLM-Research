@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Which of the following drug crosses placenta\n1: Heparin\n2: Warfarin\n3: Dicumarol\n4: Nicoumalone",
+    "solution": 2,
+    "gpt_response": "As a doctor, when considering which drug crosses the placenta, it is important to understand the pharmacokinetics of each drug. \n\nHeparin is a large molecule that does not cross the placenta easily, making it a safer choice during pregnancy.\n\nWarfarin, dicumarol, and nicoumalone are all vitamin K antagonists that do cross the placenta and can potentially harm the developing fetus. \n\nTherefore, the correct answer to the question is 2: Warfarin.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: As a doctor, when considering which drug crosses the placenta, it is important to understand the pharmacokinetics of each drug. \n\nHeparin is a large molecule that does not cross the placenta easily, making it a safer choice during pregnancy.\n\nWarfarin, dicumarol, and nicoumalone are all vitamin K antagonists that do cross the placenta and can potentially harm the developing fetus. \n\nTherefore, the correct answer to the question is 2: Warfarin.",
+    "gpt_response_correct_incorrect": "No. The final solution obtained in the response is not 2, but actually option 4: Warfarin, dicumarol, and nicoumalone.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

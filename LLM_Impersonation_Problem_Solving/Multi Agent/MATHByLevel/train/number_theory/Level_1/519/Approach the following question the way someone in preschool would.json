@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Find the largest integer less than 74 that leaves a remainder of 3 when divided by 7.",
+    "solution": "We can use the Division Theorem ($a=bq+r$).  $74 \\div 7 = 10 R 4$, so $74 = 10 \\times 7 + 4$.  We subtract 1 to get a remainder of 3, so 74 - 1 = $\\boxed{73}$ is the answer.",
+    "gpt_response": "Let's count by 7 and see which number leaves a remainder of 3 when we get to 74. \n\n7, 14, 21, 28, 35, 42, 49, 56, 63, 70, 77 \n\nSo, the largest number less than 74 that leaves a remainder of 3 when divided by 7 is 70.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 73?: Let's count by 7 and see which number leaves a remainder of 3 when we get to 74. \n\n7, 14, 21, 28, 35, 42, 49, 56, 63, 70, 77 \n\nSo, the largest number less than 74 that leaves a remainder of 3 when divided by 7 is 70.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

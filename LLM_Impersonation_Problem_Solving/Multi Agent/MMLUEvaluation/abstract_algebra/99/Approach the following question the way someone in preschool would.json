@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Statement 1 | Every ideal in a ring is a subring of the ring. Statement 2 | Every subring of every ring is an ideal of the ring.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "C",
+    "gpt_response": "Hmm, let's see... statement 1 says that every ideal is a subring, that sounds right! And statement 2 says that every subring is an ideal, that also sounds right! So both statements are true! A: True, True!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to C?: Hmm, let's see... statement 1 says that every ideal is a subring, that sounds right! And statement 2 says that every subring is an ideal, that also sounds right! So both statements are true! A: True, True!",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. What is the greatest multiple of 3 that is less than 500 and is also a multiple of 4?",
+    "solution": "Since 3 and 4 are relatively prime, the problem amounts to finding the greatest multiple of $3\\cdot4=12$ less than 500. Since $500\\div12=41R8$, our answer is $12\\cdot41=\\boxed{492}$.",
+    "gpt_response": "To find the answer, we need to first list out the multiples of 3 and 4 and then see which number is less than 500.\n\nMultiples of 3: 3, 6, 9, 12, 15, 18, 21, 24, 27, 30, ...\nMultiples of 4: 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, ...\n\nIf we look at the list of multiples above, we can see that the greatest multiple of 3 that is also a multiple of 4 and less than 500 is 492. \n\nSo, the answer is 492.\n\nI hope that helps! Let me know if you have more questions.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 492?: To find the answer, we need to first list out the multiples of 3 and 4 and then see which number is less than 500.\n\nMultiples of 3: 3, 6, 9, 12, 15, 18, 21, 24, 27, 30, ...\nMultiples of 4: 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, ...\n\nIf we look at the list of multiples above, we can see that the greatest multiple of 3 that is also a multiple of 4 and less than 500 is 492. \n\nSo, the answer is 492.\n\nI hope that helps! Let me know if you have more questions.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

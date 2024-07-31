@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Which one of the following is a malignant bone tumour?\n1: Osteoid osteoma\n2: Chondroma\n3: Chondrosarcoma\n4: Osteochondroma",
+    "solution": 3,
+    "gpt_response": "As a physician, when approaching this question, I would first eliminate the benign tumours listed (osteoid osteoma, chondroma, osteochondroma) and focus on the malignant tumour, which is chondrosarcoma (option 3). Chondrosarcoma is a type of cancer that originates in cartilage cells and has the potential to spread to other parts of the body, making it a malignant bone tumour.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: As a physician, when approaching this question, I would first eliminate the benign tumours listed (osteoid osteoma, chondroma, osteochondroma) and focus on the malignant tumour, which is chondrosarcoma (option 3). Chondrosarcoma is a type of cancer that originates in cartilage cells and has the potential to spread to other parts of the body, making it a malignant bone tumour.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

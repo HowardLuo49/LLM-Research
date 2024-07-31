@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. Which of the following clinical situations is associated with an increase in predominantly conjugated (\"direct\") bilirubin?\n1: Physiologic jaundice of the neonate\n2: Kernicterus Following Rhesus Incompatibility\n3: Gilbe's Syndrome\n4: Pancreatic head tumor",
+    "solution": 4,
+    "gpt_response": "4: Pancreatic head tumor\n\nIncreased predominantly conjugated bilirubin levels are associated with conditions affecting the liver's ability to process and excrete bilirubin, such as biliary obstruction caused by a pancreatic head tumor. Physiologic jaundice of the neonate, Kernicterus following Rhesus incompatibility, and Gilbert's Syndrome are associated with an increase in unconjugated bilirubin levels.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 4?: 4: Pancreatic head tumor\n\nIncreased predominantly conjugated bilirubin levels are associated with conditions affecting the liver's ability to process and excrete bilirubin, such as biliary obstruction caused by a pancreatic head tumor. Physiologic jaundice of the neonate, Kernicterus following Rhesus incompatibility, and Gilbert's Syndrome are associated with an increase in unconjugated bilirubin levels.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

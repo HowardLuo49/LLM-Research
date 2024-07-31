@@ -1,0 +1,10 @@
+{
+    "prefix": "You are an expert in number theory. Solve the following problem. ",
+    "problem_prompt": "You are an expert in number theory. Solve the following problem. To prepare for her half-marathon, Mary ran a total of $2847_9$ miles. How many miles (in base ten) did Mary run?",
+    "solution": "$2847_9=2\\cdot9^3+8\\cdot9^2+4\\cdot9^1+7\\cdot9^0=1458+648+36+7=\\boxed{2149}$ miles.",
+    "gpt_response": "To convert $2847_9$ to base ten, we can use the following formula:\n\n\\[\n2847_9 = 2 \\times 9^3 + 8 \\times 9^2 + 4 \\times 9 + 7 = 2 \\times 729 + 8 \\times 81 + 4 \\times 9 + 7 = 1458 + 648 + 36 + 7 =  2149\n\\]\n\nTherefore, Mary ran a total of $\\boxed{2149}$ miles.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 2149?: To convert $2847_9$ to base ten, we can use the following formula:\n\n\\[\n2847_9 = 2 \\times 9^3 + 8 \\times 9^2 + 4 \\times 9 + 7 = 2 \\times 729 + 8 \\times 81 + 4 \\times 9 + 7 = 1458 + 648 + 36 + 7 =  2149\n\\]\n\nTherefore, Mary ran a total of $\\boxed{2149}$ miles.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes"
+}

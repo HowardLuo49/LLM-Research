@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. What two-digit positive integer is one more than a multiple of 2, 3, 4, 5 and 6?",
+    "solution": "The least common multiple of these integers is $4\\cdot3\\cdot5=60$. Thus, a positive integer that is one more than a multiple of all the given integers is $60+1=\\boxed{61}$.",
+    "gpt_response": "To find a number that is one more than a multiple of 2, 3, 4, 5, and 6, we need to find the least common multiple (LCM) of these numbers and add 1 to it. \n\nLet's find the LCM of 2, 3, 4, 5, and 6:\nLCM(2, 3, 4, 5, 6) = 60\n\nNow, add 1 to the LCM:\n60 + 1 = 61\n\nTherefore, the two-digit positive integer that is one more than a multiple of 2, 3, 4, 5, and 6 is 61.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 61?: To find a number that is one more than a multiple of 2, 3, 4, 5, and 6, we need to find the least common multiple (LCM) of these numbers and add 1 to it. \n\nLet's find the LCM of 2, 3, 4, 5, and 6:\nLCM(2, 3, 4, 5, 6) = 60\n\nNow, add 1 to the LCM:\n60 + 1 = 61\n\nTherefore, the two-digit positive integer that is one more than a multiple of 2, 3, 4, 5, and 6 is 61.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

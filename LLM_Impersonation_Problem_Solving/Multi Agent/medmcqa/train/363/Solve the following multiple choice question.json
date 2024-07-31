@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. Vitamin K is ivolved in the posttranslational modification?\n1: Glutamate\n2: Aspartate\n3: Leucine\n4: Lysine",
+    "solution": 1,
+    "gpt_response": "The correct answer is 1: Glutamate. Vitamin K is involved in the posttranslational modification of glutamate residues in certain proteins, specifically in the process of gamma-carboxylation. This modification is essential for the activation of clotting factors in the blood.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: The correct answer is 1: Glutamate. Vitamin K is involved in the posttranslational modification of glutamate residues in certain proteins, specifically in the process of gamma-carboxylation. This modification is essential for the activation of clotting factors in the blood.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

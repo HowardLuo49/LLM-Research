@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. What is the largest four-digit number whose digits add up to 16?",
+    "solution": "For the number to be as large as possible, the leftmost digit should be as large as possible. Therefore, the thousandth digit should be $9$. The other three digits would have to add up to $16-9=7$. The leftmost digit is now the hundredth digit, which should be the largest number possible, $7$. Therefore, the largest four-digit number possible is $\\boxed{9700}$.",
+    "gpt_response": "To find the largest four-digit number whose digits add up to 16, we need to start with the biggest digit possible. The biggest digit we can use is 9, because if we try to use 10, it would be a five-digit number.\n\nSo we can start with 9 as the first digit, then we have 16-9=7 left for the other three digits. To make the number as large as possible, we will want to put the next biggest digit, which is 7, in the second place.\n\nSo now we have 97_ so far. We have 7 left for the last two digits, and we should put the biggest digit, which is 7, in the third place. That leaves 7 for the last digit, so the largest four-digit number whose digits add up to 16 is 9773.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 9700?: To find the largest four-digit number whose digits add up to 16, we need to start with the biggest digit possible. The biggest digit we can use is 9, because if we try to use 10, it would be a five-digit number.\n\nSo we can start with 9 as the first digit, then we have 16-9=7 left for the other three digits. To make the number as large as possible, we will want to put the next biggest digit, which is 7, in the second place.\n\nSo now we have 97_ so far. We have 7 left for the last two digits, and we should put the biggest digit, which is 7, in the third place. That leaves 7 for the last digit, so the largest four-digit number whose digits add up to 16 is 9773.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

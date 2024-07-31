@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. How many ways are there to put 5 balls in 2 boxes if the balls are distinguishable and the boxes are distinguishable?",
+    "solution": "There are 2 different boxes, so each of the 5 balls can be placed in two different locations.  So the answer is $2^5 = \\boxed{32}$.",
+    "gpt_response": "To figure this out, we can use a method called the \"balls and boxes\" method. Since both the balls and boxes are distinguishable, we can think of each ball being placed in a specific box individually.\n\nFor the first ball, we have 2 choices of which box to put it in. The same goes for the second ball, third ball, fourth ball, and fifth ball. So we have 2 choices for each of the 5 balls.\n\nTo find the total number of ways to place the balls in the boxes, we multiply the number of choices for each ball together: 2 x 2 x 2 x 2 x 2 = 2^5 = 32.\n\nTherefore, there are 32 ways to put 5 distinguishable balls in 2 distinguishable boxes.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 32?: To figure this out, we can use a method called the \"balls and boxes\" method. Since both the balls and boxes are distinguishable, we can think of each ball being placed in a specific box individually.\n\nFor the first ball, we have 2 choices of which box to put it in. The same goes for the second ball, third ball, fourth ball, and fifth ball. So we have 2 choices for each of the 5 balls.\n\nTo find the total number of ways to place the balls in the boxes, we multiply the number of choices for each ball together: 2 x 2 x 2 x 2 x 2 = 2^5 = 32.\n\nTherefore, there are 32 ways to put 5 distinguishable balls in 2 distinguishable boxes.",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

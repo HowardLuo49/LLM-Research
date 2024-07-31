@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Kaleb defined a $\\emph{clever integer}$ as an even integer that is greater than 20, less than 120, and such that the sum of its digits is 9. What fraction of all clever integers is divisible by 27? Express your answer as a common fraction.",
+    "solution": "You can easily list out the numbers between 20 and 120 that have digits that add to 9: 27, 36, 45, 54, 63, 72, 81, 90, 108, 117.\n\nTo be a $\\emph{clever integer}$ the number must be even, which leaves us with 36, 54, 72, 90, and 108, a total of 5 numbers.\n\nThe problem asks which fraction of these five clever integers are divisible by 27. Only two, 54 and 108 are divisible by 27, thus the total fraction is $\\boxed{\\frac{2}{5}}$.",
+    "gpt_response": "Ok so first let's find all the clever integers that satisfy the conditions. Since it has to be greater than 20 and less than 120, we have the possibilities: 24, 26, 28, ..., 118. \nTo find which of these numbers have a sum of digits equal to 9, we can list them out: 27, 36, 45, 54, 63, 72, 81, 90, 108, 117. \nNow we need to find out how many of these numbers are divisible by 27. \nThe numbers that are divisible by 27 are 27, 54, 81, 108. \nSo the fraction of clever integers that are divisible by 27 is $\\frac{4}{10} = \\boxed{\\frac{2}{5}}$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to \\frac{2?: Ok so first let's find all the clever integers that satisfy the conditions. Since it has to be greater than 20 and less than 120, we have the possibilities: 24, 26, 28, ..., 118. \nTo find which of these numbers have a sum of digits equal to 9, we can list them out: 27, 36, 45, 54, 63, 72, 81, 90, 108, 117. \nNow we need to find out how many of these numbers are divisible by 27. \nThe numbers that are divisible by 27 are 27, 54, 81, 108. \nSo the fraction of clever integers that are divisible by 27 is $\\frac{4}{10} = \\boxed{\\frac{2}{5}}$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

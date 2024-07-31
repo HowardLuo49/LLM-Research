@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. A whole number is said to be ''9-heavy'' if the remainder when the number is divided by 9 is greater than 5. What is the least three-digit 9-heavy whole number?",
+    "solution": "We begin by computing the residue of the smallest three digit number modulo 9.  We have \\[100\\equiv1\\pmod9.\\] Therefore 100 is not 9-heavy.  Counting up from 100 we notice that the first 9-heavy three-digit number is $\\boxed{105}$, since it has a remainder of 6 when divided by 9.",
+    "gpt_response": "To find the least three-digit 9-heavy whole number, we first need to understand the properties of divisibility by 9. A number is divisible by 9 if the sum of its digits is divisible by 9.\n\nLet's consider the three-digit numbers starting from 100. The first three-digit number is 100. The remainder when 100 is divided by 9 is 1, which is less than 5. The next three-digit number is 101. The remainder when 101 is divided by 9 is 2, which is still less than 5. \n\nMoving on to 102, the remainder is 3; 103, the remainder is 4; 104, the remainder is 5; 105, the remainder is 6. Therefore, the least three-digit 9-heavy whole number is 105, as the remainder when divided by 9 is greater than 5.\n\nHence, the least three-digit 9-heavy whole number is 105.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 105?: To find the least three-digit 9-heavy whole number, we first need to understand the properties of divisibility by 9. A number is divisible by 9 if the sum of its digits is divisible by 9.\n\nLet's consider the three-digit numbers starting from 100. The first three-digit number is 100. The remainder when 100 is divided by 9 is 1, which is less than 5. The next three-digit number is 101. The remainder when 101 is divided by 9 is 2, which is still less than 5. \n\nMoving on to 102, the remainder is 3; 103, the remainder is 4; 104, the remainder is 5; 105, the remainder is 6. Therefore, the least three-digit 9-heavy whole number is 105, as the remainder when divided by 9 is greater than 5.\n\nHence, the least three-digit 9-heavy whole number is 105.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

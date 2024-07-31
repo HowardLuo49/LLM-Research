@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. Calcium silicate based material is:\n1: MTA\n2: Geristore\n3: Dieket\n4: Retroplast",
+    "solution": 1,
+    "gpt_response": "1: MTA",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: 1: MTA",
+    "gpt_response_correct_incorrect": "Yes, the final solution obtained in the response is 1: MTA.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

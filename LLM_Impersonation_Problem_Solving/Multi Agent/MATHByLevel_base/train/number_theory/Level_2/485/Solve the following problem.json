@@ -1,0 +1,10 @@
+{
+    "prefix": "Solve the following problem. ",
+    "problem_prompt": "Solve the following problem. Express .$\\overline{28}$ as a common fraction.",
+    "solution": "If $x=.\\overline{28}$, then $100x=28.\\overline{28}$. Notice that we can eliminate the repeating decimal by subtracting $.\\overline{28}$ from $28.\\overline{28}$. We have $100x-x=99x=28$, so $x=\\frac{28}{99}$. The repeating decimal can be expressed as the fraction $\\boxed{\\frac{28}{99}}$.",
+    "gpt_response": "Let's represent the repeating decimal $\\overline{28}$ as $x$.\n\nThus, we have:\n\n$x = 28.282828...$\n\nMultiplying both sides of the equation by 100 to remove the decimal:\n\n$100x = 2828.2828...$\n\nSubtract the original equation from the multiplied equation to eliminate the decimal:\n\n$100x - x = 2828 - 28$\n\n$99x = 2800$\n\nDivide both sides by 99 to solve for $x$:\n\n$x = \\frac{2800}{99}$\n\nTherefore, $\\overline{28} = \\frac{2800}{99}$.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response \\frac{28?: Let's represent the repeating decimal $\\overline{28}$ as $x$.\n\nThus, we have:\n\n$x = 28.282828...$\n\nMultiplying both sides of the equation by 100 to remove the decimal:\n\n$100x = 2828.2828...$\n\nSubtract the original equation from the multiplied equation to eliminate the decimal:\n\n$100x - x = 2828 - 28$\n\n$99x = 2800$\n\nDivide both sides by 99 to solve for $x$:\n\n$x = \\frac{2800}{99}$\n\nTherefore, $\\overline{28} = \\frac{2800}{99}$.",
+    "gpt_response_correct_incorrect": "Yes. The final solution is obtained in the response.",
+    "attempts": 1,
+    "yes_no": "yes"
+}

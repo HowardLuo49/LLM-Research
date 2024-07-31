@@ -1,0 +1,10 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. When $n$ is divided by 3, the remainder is 2. What is the remainder when $5n$ is divided by 3?",
+    "solution": "Since $n \\equiv 2 \\pmod{3}$, $5n \\equiv 5 \\cdot 2 \\equiv 10 \\equiv \\boxed{1} \\pmod{3}$.",
+    "gpt_response": "To solve this problem, we can represent $n$ as $n = 3q + 2$, where $q$ is an integer representing the quotient. \n\nWe can then multiply both sides of the equation by 5 to find $5n = 15q + 10$. \n\nNow, when $15q + 10$ is divided by 3, we can see that the remainder will be 1, as $15q$ is divisible by 3 and the remainder comes solely from the 10 term. \n\nTherefore, the remainder when $5n$ is divided by 3 is $\\boxed{1}$.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 1?: To solve this problem, we can represent $n$ as $n = 3q + 2$, where $q$ is an integer representing the quotient. \n\nWe can then multiply both sides of the equation by 5 to find $5n = 15q + 10$. \n\nNow, when $15q + 10$ is divided by 3, we can see that the remainder will be 1, as $15q$ is divisible by 3 and the remainder comes solely from the 10 term. \n\nTherefore, the remainder when $5n$ is divided by 3 is $\\boxed{1}$.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 2,
+    "yes_no": "yes"
+}

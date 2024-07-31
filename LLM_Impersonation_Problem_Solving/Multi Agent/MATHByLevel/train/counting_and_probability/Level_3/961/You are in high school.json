@@ -1,0 +1,7 @@
+{
+    "prefix": "You are in high school.\n",
+    "problem_prompt": "You are in high school.\nOur school's girls volleyball team has 14 players, including a set of 3 triplets: Alicia, Amanda, and Anna.  In how many ways can we choose 6 starters with no restrictions? (The triplets are treated as distinguishable.)",
+    "solution": "We are choosing 6 starters from 14 players, which can be done in $\\binom{14}{6} = \\boxed{3003}$ ways.",
+    "gpt_response": "ChatCompletion(id='chatcmpl-9A2VRzlIJ1fCkmAArj7jqn4uj8YXZ', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='To choose 6 starters from the 14 players, we can use combinations. \\n\\nThe total number of ways to choose 6 starters from 14 players is:\\n\\n14 choose 6 = 14! / (6! * 8!) = 3003\\n\\nTherefore, there are 3003 ways to choose 6 starters from the 14 players with no restrictions.', role='assistant', function_call=None, tool_calls=None))], created=1712179941, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint='fp_b28b39ffa8', usage=CompletionUsage(completion_tokens=76, prompt_tokens=65, total_tokens=141))",
+    "yes_no": "yes"
+}

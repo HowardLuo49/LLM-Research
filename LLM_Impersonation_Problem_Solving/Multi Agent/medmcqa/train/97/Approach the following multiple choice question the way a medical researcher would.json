@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a medical researcher would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a medical researcher would. Which of the following hormonal activity is expected immediately prior to Ovulation?\n1: LH surge\n2: FSH surge\n3: Progestrone surge\n4: Estrogen surge",
+    "solution": 1,
+    "gpt_response": "The correct answer is 1: LH surge. \n\nIn the menstrual cycle, ovulation is triggered by a surge in luteinizing hormone (LH) from the pituitary gland. This surge occurs approximately 24-36 hours before ovulation. FSH (follicle-stimulating hormone) plays a role in stimulating the growth of ovarian follicles, but it peaks earlier in the cycle. Progesterone and estrogen levels also increase during the menstrual cycle, but they are not directly responsible for triggering ovulation.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: The correct answer is 1: LH surge. \n\nIn the menstrual cycle, ovulation is triggered by a surge in luteinizing hormone (LH) from the pituitary gland. This surge occurs approximately 24-36 hours before ovulation. FSH (follicle-stimulating hormone) plays a role in stimulating the growth of ovarian follicles, but it peaks earlier in the cycle. Progesterone and estrogen levels also increase during the menstrual cycle, but they are not directly responsible for triggering ovulation.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

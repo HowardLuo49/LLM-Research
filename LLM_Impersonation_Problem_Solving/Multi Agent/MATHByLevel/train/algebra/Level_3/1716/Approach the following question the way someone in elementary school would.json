@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. Find the value of $t$ that satisfies $\\frac{1}{t+2} + \\frac{2t}{t+2} - \\frac{3}{t+2} = 3$.",
+    "solution": "Combining the fractions on the left gives $\\dfrac{2t-2}{t+2} = 3$.  Multiplying both sides by $t+2$ gives $2t-2 = 3(t+2)$.  Expanding the right side gives $2t-2 = 3t+6$.  Subtracting $2t$ and 6 from both sides gives $t=\\boxed{-8}$.",
+    "gpt_response": "First, let's simplify the equation by combining the fractions with the same denominator of $t+2$:\n\n$\\frac{1 + 2t - 3}{t+2} = 3$\n\nNow, combine the terms in the numerator:\n\n$\\frac{2t - 2}{t+2} = 3$\n\nNext, we need to get rid of the denominator by multiplying both sides of the equation by $t+2$:\n\n$2t - 2 = 3(t+2)$\n\nNow, distribute the 3 on the right side:\n\n$2t - 2 = 3t + 6$\n\nLet's isolate $t$ on one side by subtracting $2t$ on both sides:\n\n$-2 = t + 6$\n\nSubtract 6 on both sides:\n\n$t = -8$\n\nSo, the value of $t$ that satisfies the equation is $-8$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to -8?: First, let's simplify the equation by combining the fractions with the same denominator of $t+2$:\n\n$\\frac{1 + 2t - 3}{t+2} = 3$\n\nNow, combine the terms in the numerator:\n\n$\\frac{2t - 2}{t+2} = 3$\n\nNext, we need to get rid of the denominator by multiplying both sides of the equation by $t+2$:\n\n$2t - 2 = 3(t+2)$\n\nNow, distribute the 3 on the right side:\n\n$2t - 2 = 3t + 6$\n\nLet's isolate $t$ on one side by subtracting $2t$ on both sides:\n\n$-2 = t + 6$\n\nSubtract 6 on both sides:\n\n$t = -8$\n\nSo, the value of $t$ that satisfies the equation is $-8$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

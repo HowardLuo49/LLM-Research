@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Adder Head\" appearance is found in:\n1: X-ray\n2: USG\n3: IVP\n4: CT",
+    "solution": 3,
+    "gpt_response": "In diagnostic medicine, the term \"Adder Head\" appearance typically refers to a specific radiologic finding. Doctors often use imaging modalities such as X-ray, CT scan, ultrasound (USG), and intravenous pyelogram (IVP) to identify such appearances in patients. In this case, the most appropriate imaging modality to detect an \"Adder Head\" appearance would be a CT scan. This high-resolution imaging technique can provide detailed information and clear visualization of anatomical structures, allowing doctors to accurately identify any abnormal findings such as the \"Adder Head\" appearance.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: In diagnostic medicine, the term \"Adder Head\" appearance typically refers to a specific radiologic finding. Doctors often use imaging modalities such as X-ray, CT scan, ultrasound (USG), and intravenous pyelogram (IVP) to identify such appearances in patients. In this case, the most appropriate imaging modality to detect an \"Adder Head\" appearance would be a CT scan. This high-resolution imaging technique can provide detailed information and clear visualization of anatomical structures, allowing doctors to accurately identify any abnormal findings such as the \"Adder Head\" appearance.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

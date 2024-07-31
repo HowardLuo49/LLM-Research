@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. An integer greater than 9 and less than 100 is randomly chosen. What is the probability that its digits are different?",
+    "solution": "We calculate the probability that the digits are the same, and subtract from 1. From the 90 integers to be chosen from, only 9 have the same digits: 11, 22, 33, ..., 99. Therefore, the probability that the digits are the same is $\\frac{9}{90} = \\frac{1}{10}$, so the probability that the digits are different is $1-\\frac{1}{10}= \\boxed{\\frac{9}{10}}$.",
+    "gpt_response": "Ok so first, let's think about how many integers are between 10 and 99. There are 90 integers in total.\n\nNext, let's think about how many integers have the same digits (like 11, 22, 33, etc.). There are 9 of these integers in total: 11, 22, 33, 44, 55, 66, 77, 88, 99.\n\nSo, the probability that the digits are different is the total number of integers minus the number of integers with the same digits (81) divided by the total number of integers (90).\n\nTherefore, the probability that the digits are different is 81/90 or 9/10.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to \\frac{9?: Ok so first, let's think about how many integers are between 10 and 99. There are 90 integers in total.\n\nNext, let's think about how many integers have the same digits (like 11, 22, 33, etc.). There are 9 of these integers in total: 11, 22, 33, 44, 55, 66, 77, 88, 99.\n\nSo, the probability that the digits are different is the total number of integers minus the number of integers with the same digits (81) divided by the total number of integers (90).\n\nTherefore, the probability that the digits are different is 81/90 or 9/10.",
+    "gpt_response_correct_incorrect": "No",
+    "yes_no": "no"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in physics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in physics would. A three-dimensional harmonic oscillator is in thermal equilibrium with a temperature reservoir at temperature T. The average total energy of the oscillator is\nA: (1/2) k T\nB: kT\nC: (3/2) k T\nD: 3kT",
+    "solution": "D",
+    "gpt_response": "To find the average total energy of a three-dimensional harmonic oscillator in thermal equilibrium with a temperature reservoir at temperature T, we must consider the equipartition theorem. This theorem states that for each degree of freedom an oscillator has, it will have an average energy of (1/2) k T, where k is the Boltzmann constant and T is the temperature.\n\nIn a three-dimensional system, there are three degrees of freedom corresponding to the three spatial dimensions. Therefore, the average total energy of a three-dimensional harmonic oscillator in thermal equilibrium with a temperature reservoir at temperature T is given by:\n\nE = 3 * (1/2) k T = (3/2) k T\n\nTherefore, the correct answer is C: (3/2) k T.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: To find the average total energy of a three-dimensional harmonic oscillator in thermal equilibrium with a temperature reservoir at temperature T, we must consider the equipartition theorem. This theorem states that for each degree of freedom an oscillator has, it will have an average energy of (1/2) k T, where k is the Boltzmann constant and T is the temperature.\n\nIn a three-dimensional system, there are three degrees of freedom corresponding to the three spatial dimensions. Therefore, the average total energy of a three-dimensional harmonic oscillator in thermal equilibrium with a temperature reservoir at temperature T is given by:\n\nE = 3 * (1/2) k T = (3/2) k T\n\nTherefore, the correct answer is C: (3/2) k T.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "C: 3",
+    "difficulty_value": "3"
+}

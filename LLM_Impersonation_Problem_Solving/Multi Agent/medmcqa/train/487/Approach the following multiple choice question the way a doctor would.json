@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. An adult male sustained accidental burns and died 1 hour later. Which of the following enzymes will be increased in the burn area?\n1: ATPase\n2: Aminopeptidase\n3: Acid phosphatase\n4: Alkaline phosphatase",
+    "solution": 1,
+    "gpt_response": "In a burn injury, the release of various enzymes occurs due to cell damage. One of the primary enzymes that will be increased in the burn area is acid phosphatase. This enzyme is released from lysosomes following cell damage and can be used as a marker of tissue injury. Other enzymes like ATPase, aminopeptidase, and alkaline phosphatase may also be present, but acid phosphatase is most likely to be increased in this scenario.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: In a burn injury, the release of various enzymes occurs due to cell damage. One of the primary enzymes that will be increased in the burn area is acid phosphatase. This enzyme is released from lysosomes following cell damage and can be used as a marker of tissue injury. Other enzymes like ATPase, aminopeptidase, and alkaline phosphatase may also be present, but acid phosphatase is most likely to be increased in this scenario.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

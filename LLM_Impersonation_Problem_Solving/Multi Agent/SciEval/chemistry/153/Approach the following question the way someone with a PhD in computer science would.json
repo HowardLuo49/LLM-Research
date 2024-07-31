@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in computer science would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in computer science would. What is the molecular weight of (1S,2S)-2-aminocycloheptane-1-carboxamide?\nAnswer (numerical number):",
+    "solution": [
+        "156.23"
+    ],
+    "gpt_response": "The molecular weight of (1S,2S)-2-aminocycloheptane-1-carboxamide is approximately 140.23 g/mol.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response ['156.23']?: The molecular weight of (1S,2S)-2-aminocycloheptane-1-carboxamide is approximately 140.23 g/mol.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "160",
+    "difficulty_value": "6"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. Fish tank granuloma is seen in -\n1: Mfortuitum\n2: Mkansasi\n3: Mmarinum\n4: M leprosy",
+    "solution": 3,
+    "gpt_response": "The correct answer is:\n\n3: M marinum\n\nFish tank granuloma is caused by Mycobacterium marinum, a bacteria found in contaminated water sources such as fish tanks.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: The correct answer is:\n\n3: M marinum\n\nFish tank granuloma is caused by Mycobacterium marinum, a bacteria found in contaminated water sources such as fish tanks.",
+    "gpt_response_correct_incorrect": "Yes, the final solution obtained in the response is 3: M marinum.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

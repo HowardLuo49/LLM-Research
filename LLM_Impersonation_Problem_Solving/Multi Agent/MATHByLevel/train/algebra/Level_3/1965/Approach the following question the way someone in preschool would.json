@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Sean adds up all the even integers from 2 to 500, inclusive. Julie adds up all the integers from 1 to 250, inclusive. What is Sean's sum divided by Julie's sum?",
+    "solution": "Note that if we factor out a 2, then Sean's sum is $2 + 4 + \\cdots + 500 = 2(1 + 2 + \\cdots + 250)$. Julie's sum is $1 + 2 + \\cdots + 250$. So Sean's sum divided by Julie's sum is $$\n\\frac{2(1 + 2 + \\cdots + 250)}{(1 + 2 + \\cdots + 250)} = \\boxed{2}.\n$$",
+    "gpt_response": "Let's count together and add up all the numbers!\nSean adds 2 + 4 + 6 + 8 + ... all the way to 500.\nJulie adds 1 + 2 + 3 + 4 + ... all the way to 250.\n\nNow, let's add them up and see what we get! After we add them up, we can divide Sean's sum by Julie's sum to find the answer. Let's count together and have fun with numbers!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 2?: Let's count together and add up all the numbers!\nSean adds 2 + 4 + 6 + 8 + ... all the way to 500.\nJulie adds 1 + 2 + 3 + 4 + ... all the way to 250.\n\nNow, let's add them up and see what we get! After we add them up, we can divide Sean's sum by Julie's sum to find the answer. Let's count together and have fun with numbers!",
+    "gpt_response_correct_incorrect": "No, the final solution will not be 2.",
+    "yes_no": "no"
+}

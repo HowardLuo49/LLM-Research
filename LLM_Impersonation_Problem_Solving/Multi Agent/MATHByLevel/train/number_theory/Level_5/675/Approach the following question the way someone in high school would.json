@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. The sum of two positive integers $a$ and $b$ is 1001.  What is the largest possible value of $\\gcd(a,b)$?",
+    "solution": "Note that $\\gcd(a,b)$ divides both $a$ and $b$, so $\\gcd(a,b)$ must also divide $a + b = 1001$.  Clearly, $\\gcd(a,b)$ cannot be equal to 1001 (because both $a$ and $b$ must be less than 1001).  The next-largest divisor of 1001 is 143.  If $a = 143$ and $b = 1001 - 143 = 858$, then $\\gcd(a,b) = \\gcd(143,858) = 143$.  Therefore, the largest possible value of $\\gcd(a,b)$ is $\\boxed{143}$.",
+    "gpt_response": "Since the sum of the two numbers is 1001, we want to find the largest possible greatest common divisor (gcd) of two numbers that add up to 1001.\n\nTo maximize the gcd, we want to make the two numbers as close as possible to each other. The closest two positive integers that add up to 1001 are 500 and 501. \n\nTherefore, the largest possible value of gcd(a, b) when a + b = 1001 is 1, since 500 and 501 do not share any common factors other than 1.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 143?: Since the sum of the two numbers is 1001, we want to find the largest possible greatest common divisor (gcd) of two numbers that add up to 1001.\n\nTo maximize the gcd, we want to make the two numbers as close as possible to each other. The closest two positive integers that add up to 1001 are 500 and 501. \n\nTherefore, the largest possible value of gcd(a, b) when a + b = 1001 is 1, since 500 and 501 do not share any common factors other than 1.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

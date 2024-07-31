@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. In the diamond structure of elemental carbon, the nearest neighbors of each C atom lie at the corners of a\nA: square\nB: hexagon\nC: cube\nD: tetrahedron",
+    "solution": "D",
+    "gpt_response": "In the diamond structure of elemental carbon, the nearest neighbors of each C atom lie at the corners of a tetrahedron. This is because each carbon atom is covalently bonded to four other carbon atoms, forming a three-dimensional network known as a tetrahedral lattice. This arrangement allows for the strong and stable structure of diamond, as each carbon atom is bonded to its nearest neighbors in a tetrahedral configuration, resulting in a highly symmetrical and coordinated arrangement of atoms within the crystal lattice.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: In the diamond structure of elemental carbon, the nearest neighbors of each C atom lie at the corners of a tetrahedron. This is because each carbon atom is covalently bonded to four other carbon atoms, forming a three-dimensional network known as a tetrahedral lattice. This arrangement allows for the strong and stable structure of diamond, as each carbon atom is bonded to its nearest neighbors in a tetrahedral configuration, resulting in a highly symmetrical and coordinated arrangement of atoms within the crystal lattice.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

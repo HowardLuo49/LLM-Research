@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Without using a calculator, compute $1003^2-997^2-1001^2+999^2$.",
+    "solution": "Applying the difference of squares factorization individually to the first pair of terms and the last pair of terms, we have  \\begin{align*}\n1003^2&-997^2-1001^2+999^2\\\\\n&= (1003+997)(1003-997)-(1001+999)(1001-999) \\\\\n&= 2000(6)-2000(2) \\\\\n&= \\boxed{8000}.\n\\end{align*}",
+    "gpt_response": "Hmm let's see... I know that adding and subtracting numbers is like putting blocks together and taking some away. So let's start by putting some blocks together in a row, like this:\n\n1003 + 997 + 1001 + 999 = ?\n\nNow let's see, I know that 1003 is 3 more than 1000, and 997 is 3 less than 1000, so they can cancel each other out. Same with 1001 and 999. So the answer is just the middle number, which is 1003 + 997! \n\nSo $1003^2-997^2-1001^2+999^2$ is 1003 + 997 = 2000!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 8000?: Hmm let's see... I know that adding and subtracting numbers is like putting blocks together and taking some away. So let's start by putting some blocks together in a row, like this:\n\n1003 + 997 + 1001 + 999 = ?\n\nNow let's see, I know that 1003 is 3 more than 1000, and 997 is 3 less than 1000, so they can cancel each other out. Same with 1001 and 999. So the answer is just the middle number, which is 1003 + 997! \n\nSo $1003^2-997^2-1001^2+999^2$ is 1003 + 997 = 2000!",
+    "gpt_response_correct_incorrect": "No. The final solution obtained is 2000, not 8000.",
+    "yes_no": "no"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. If a drug is active against the pre-erythrocytic stage of the malarial parasite it will be useful as a:\n1: Suppressive prophylactic\n2: Causal prophylactic\n3: Clinical curative\n4: Radical curative",
+    "solution": 2,
+    "gpt_response": "As a physician, I would approach this question by considering the different stages of the malarial parasite's life cycle and how the drug in question affects each stage.\n\nThe pre-erythrocytic stage of the malarial parasite occurs before the parasite infects the red blood cells. A drug that is active against this stage would be most useful as a causal prophylactic, as it would prevent the infection from progressing to the symptomatic erythrocytic stage.\n\nTherefore, the correct answer is:\n\n2: Causal prophylactic",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: As a physician, I would approach this question by considering the different stages of the malarial parasite's life cycle and how the drug in question affects each stage.\n\nThe pre-erythrocytic stage of the malarial parasite occurs before the parasite infects the red blood cells. A drug that is active against this stage would be most useful as a causal prophylactic, as it would prevent the infection from progressing to the symptomatic erythrocytic stage.\n\nTherefore, the correct answer is:\n\n2: Causal prophylactic",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

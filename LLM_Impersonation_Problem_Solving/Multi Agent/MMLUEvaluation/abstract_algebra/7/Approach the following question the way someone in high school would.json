@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Statement 1 | A ring homomorphism is one to one if and only if the kernel is {0}. Statement 2 | Q is an ideal in R.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "D",
+    "gpt_response": "\"I remember learning about ring homomorphisms in my math class. If a ring homomorphism is one to one, then the kernel has to be {0}. So Statement 1 is true. But about Statement 2, I don't think Q can be an ideal in R. So maybe it's false. So I think the answer is C: True, False.\"",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: \"I remember learning about ring homomorphisms in my math class. If a ring homomorphism is one to one, then the kernel has to be {0}. So Statement 1 is true. But about Statement 2, I don't think Q can be an ideal in R. So maybe it's false. So I think the answer is C: True, False.\"",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

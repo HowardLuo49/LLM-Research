@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in physics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in physics would. For a positive constant $c,$ in cylindrical coordinates $(r,\\theta,z),$ find the shape described by the equation\n\\[r = c.\\](A) Line\n(B) Circle\n(C) Plane\n(D) Sphere\n(E) Cylinder\n(F) Cone\n\nEnter the letter of the correct option.",
+    "solution": "\\text{(E)}",
+    "gpt_response": "In cylindrical coordinates, the equation $r = c$ describes a circle in the z = 0 plane with radius $c$ centered at the origin. Therefore, the correct answer is (B) Circle.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response \\text{(E)}?: In cylindrical coordinates, the equation $r = c$ describes a circle in the z = 0 plane with radius $c$ centered at the origin. Therefore, the correct answer is (B) Circle.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

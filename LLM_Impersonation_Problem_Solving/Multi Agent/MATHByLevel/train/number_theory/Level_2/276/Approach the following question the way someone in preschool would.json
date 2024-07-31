@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. What is the smallest four-digit positive integer that is divisible by 47?",
+    "solution": "We divide 1000 by 47 and get a remainder of 13. Therefore, if we subtract 13 from 1000, we should get an integer divisible by 47. Since $1000-13 = 987$ and 987 is divisible by 47, we can then add 47 to 987 to get the smallest four-digit integer that is divisible by 47, namely $987+47 = \\boxed{1034}$.",
+    "gpt_response": "Hmm, well let's see. Four-digit numbers start from 1000 and go up to 9999. So first, I have to remember how to count to 47. Okay, 1-47, 1-47, 1-47. Let's see if I can find a number that is divisible by 47 between 1000 and 9999. Hmm, this is tricky. Maybe I can ask a grown-up for help!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 1034?: Hmm, well let's see. Four-digit numbers start from 1000 and go up to 9999. So first, I have to remember how to count to 47. Okay, 1-47, 1-47, 1-47. Let's see if I can find a number that is divisible by 47 between 1000 and 9999. Hmm, this is tricky. Maybe I can ask a grown-up for help!",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Which of the following drugs can be administered by subcutaneous route?\n1: Albuterol\n2: Metaproterenol\n3: Terbutaline\n4: Pirbuterol",
+    "solution": 3,
+    "gpt_response": "In order to determine which of these drugs can be administered subcutaneously, we must first assess their pharmacological properties and route of administration. Albuterol, Metaproterenol, Terbutaline, and Pirbuterol are all beta-2 adrenergic agonists commonly used for the treatment of asthma and other respiratory conditions. \n\nAmong these drugs, Terbutaline is the only medication that can be administered subcutaneously. This route of administration allows for the drug to be injected into the layer of tissue just below the skin, providing a relatively rapid onset of action. Albuterol, Metaproterenol, and Pirbuterol are typically administered via inhalation or oral routes. \n\nTherefore, the correct answer is:\n3: Terbutaline",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: In order to determine which of these drugs can be administered subcutaneously, we must first assess their pharmacological properties and route of administration. Albuterol, Metaproterenol, Terbutaline, and Pirbuterol are all beta-2 adrenergic agonists commonly used for the treatment of asthma and other respiratory conditions. \n\nAmong these drugs, Terbutaline is the only medication that can be administered subcutaneously. This route of administration allows for the drug to be injected into the layer of tissue just below the skin, providing a relatively rapid onset of action. Albuterol, Metaproterenol, and Pirbuterol are typically administered via inhalation or oral routes. \n\nTherefore, the correct answer is:\n3: Terbutaline",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

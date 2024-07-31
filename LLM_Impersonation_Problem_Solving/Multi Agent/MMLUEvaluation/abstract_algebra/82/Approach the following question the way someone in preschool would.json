@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Statement 1 | For every positive integer n there is a cyclic group of order n. Statement 2 | Every finite cyclic group contains an element of every order that divides the order of the group.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "A",
+    "gpt_response": "C: True, False\n\nStatement 1 is true because for every positive integer n, there is a cyclic group of order n. But statement 2 is false because not every finite cyclic group contains an element of every order that divides the order of the group.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to A?: C: True, False\n\nStatement 1 is true because for every positive integer n, there is a cyclic group of order n. But statement 2 is false because not every finite cyclic group contains an element of every order that divides the order of the group.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

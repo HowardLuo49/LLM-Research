@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. For a positive constant $c,$ in cylindrical coordinates $(r,\\theta,z),$ find the shape described by the equation\n\\[r = c.\\](A) Line\n(B) Circle\n(C) Plane\n(D) Sphere\n(E) Cylinder\n(F) Cone\n\nEnter the letter of the correct option.",
+    "solution": "\\text{(E)}",
+    "gpt_response": "Since $r = c$ in cylindrical coordinates, this means that for any point on the shape described by this equation, the distance from the z-axis is always equal to $c$. In other words, all points on this shape lie on a circle of radius $c$ in the plane perpendicular to the z-axis. Therefore, the correct answer is (B) Circle.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response \\text{(E)}?: Since $r = c$ in cylindrical coordinates, this means that for any point on the shape described by this equation, the distance from the z-axis is always equal to $c$. In other words, all points on this shape lie on a circle of radius $c$ in the plane perpendicular to the z-axis. Therefore, the correct answer is (B) Circle.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

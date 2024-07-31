@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. In Familial hypercholesterolemia there is deficiency of\n1: LDL receptor\n2: Apoprotein A\n3: Apo protein C\n4: Lipoprotein lipase",
+    "solution": 1,
+    "gpt_response": "1: LDL receptor",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: 1: LDL receptor",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

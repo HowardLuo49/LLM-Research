@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. What is the largest order of an element in the group of permutations of 5 objects?\nA: 5\nB: 6\nC: 12\nD: 15",
+    "solution": "B",
+    "gpt_response": "The largest order of an element in the group of permutations of 5 objects is 6! which is 720. So the answer is B.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to B?: The largest order of an element in the group of permutations of 5 objects is 6! which is 720. So the answer is B.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "5",
+    "difficulty_value": "5"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. Muscle relaxant used in renal failure -\n1: Ketamine\n2: Atracurium\n3: Pancuronium\n4: Fentanyl",
+    "solution": 2,
+    "gpt_response": "2: Atracurium\n\nAtracurium is a muscle relaxant that is commonly used in patients with renal failure, as it is primarily metabolized by Hofmann elimination and does not rely on renal excretion for clearance. This makes it a safer option for patients with impaired kidney function.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: 2: Atracurium\n\nAtracurium is a muscle relaxant that is commonly used in patients with renal failure, as it is primarily metabolized by Hofmann elimination and does not rely on renal excretion for clearance. This makes it a safer option for patients with impaired kidney function.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

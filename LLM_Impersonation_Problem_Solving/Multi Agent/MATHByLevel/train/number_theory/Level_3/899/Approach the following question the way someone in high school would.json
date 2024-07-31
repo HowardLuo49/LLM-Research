@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Solve the congruence $11n \\equiv 7 \\pmod{43}$, as a residue modulo 43.  (Give an answer between 0 and 42.)",
+    "solution": "Note that 43 is a close to a multiple of 11, namely 44.  Multiplying both sides of the given congruence by 4, we get $44n \\equiv 28 \\pmod{43}$, which reduces to $n \\equiv \\boxed{28} \\pmod{43}$.",
+    "gpt_response": "To solve $11n \\equiv 7 \\pmod{43}$, we need to find a number $n$ such that when you multiply it by 11 and take the remainder when dividing by 43, you get 7.\n\nFirst, let's see if we can simplify this congruence by finding the multiplicative inverse of 11 modulo 43. The multiplicative inverse of 11 modulo 43 is 4, because $11 \\cdot 4 \\equiv 1 \\pmod{43}$. So we can multiply both sides of the congruence by 4:\n\n$11n \\equiv 7 \\pmod{43}$\n$11n \\cdot 4 \\equiv 7 \\cdot 4 \\pmod{43}$\n$n \\equiv 28 \\pmod{43}$\n\nTherefore, the solution to $11n \\equiv 7 \\pmod{43}$ is $n \\equiv 28 \\pmod{43}$. So the residue modulo 43 is 28.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 28?: To solve $11n \\equiv 7 \\pmod{43}$, we need to find a number $n$ such that when you multiply it by 11 and take the remainder when dividing by 43, you get 7.\n\nFirst, let's see if we can simplify this congruence by finding the multiplicative inverse of 11 modulo 43. The multiplicative inverse of 11 modulo 43 is 4, because $11 \\cdot 4 \\equiv 1 \\pmod{43}$. So we can multiply both sides of the congruence by 4:\n\n$11n \\equiv 7 \\pmod{43}$\n$11n \\cdot 4 \\equiv 7 \\cdot 4 \\pmod{43}$\n$n \\equiv 28 \\pmod{43}$\n\nTherefore, the solution to $11n \\equiv 7 \\pmod{43}$ is $n \\equiv 28 \\pmod{43}$. So the residue modulo 43 is 28.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "5",
+    "difficulty_value": "5"
+}

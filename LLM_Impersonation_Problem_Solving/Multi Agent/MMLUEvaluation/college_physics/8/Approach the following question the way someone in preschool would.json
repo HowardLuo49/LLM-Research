@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. De Broglie hypothesized that the linear momentum and wavelength of a free massive particle are related by which of the following constants?\nA: Planck\u2019s constant\nB: Boltzmann\u2019s constant\nC: The Rydberg constant\nD: The speed of light",
+    "solution": "A",
+    "gpt_response": "If you have a free massive particle, Broglie said that its momentum and wavelength are related. Is it related to Planck's constant, Boltzmann's constant, the Rydberg constant, or the speed of light? Let's see... I think it's Planck's constant! Yay, we did it!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to A?: If you have a free massive particle, Broglie said that its momentum and wavelength are related. Is it related to Planck's constant, Boltzmann's constant, the Rydberg constant, or the speed of light? Let's see... I think it's Planck's constant! Yay, we did it!",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

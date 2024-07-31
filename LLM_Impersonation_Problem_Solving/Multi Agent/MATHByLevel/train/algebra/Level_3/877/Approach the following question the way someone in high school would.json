@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. If $f(x)$ and $g(x)$ are polynomials such that $f(x) + g(x) = -2 + x,$ then what is $g(x)$ if $f(x) = x^3 - 2x - 2$?",
+    "solution": "We substitute $f(x) = x^3 - 2x - 2$ into $f(x) + g(x) = -2 + x$ to find that $(x^3 - 2x - 2) + g(x) = -2 + x.$ Then, $g(x) = -2 + x - (x^3 - 2x - 2).$ Distributing, we find $g(x) = -2 + x - x^3 + 2x + 2 = \\boxed{-x^3 + 3x}.$",
+    "gpt_response": "To find $g(x)$, we first must add $f(x)$ and $g(x)$. Since $f(x) + g(x) = -2 + x$, we know that the like terms must cancel out. \n\nFirst, let's rewrite $f(x)$ as $x^3 - 2x - 2$:\n$f(x) = x^3 - 2x - 2$\n\nNow, let's rewrite the given equation $f(x) + g(x) = -2 + x$ with $f(x)$ plugged in:\n$x^3 - 2x - 2 + g(x) = -2 + x$\n\nBecause $f(x) + g(x)$ equals $-2 + x$, we can simplify the equation to solve for $g(x):\n\n$x^3 - 2x - 2 + g(x) = -2 + x$\n\nNow, by simplifying the equation further:\n$g(x) = x$\n\nSo, $g(x)$ is equal to x.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to -x^3 + 3x?: To find $g(x)$, we first must add $f(x)$ and $g(x)$. Since $f(x) + g(x) = -2 + x$, we know that the like terms must cancel out. \n\nFirst, let's rewrite $f(x)$ as $x^3 - 2x - 2$:\n$f(x) = x^3 - 2x - 2$\n\nNow, let's rewrite the given equation $f(x) + g(x) = -2 + x$ with $f(x)$ plugged in:\n$x^3 - 2x - 2 + g(x) = -2 + x$\n\nBecause $f(x) + g(x)$ equals $-2 + x$, we can simplify the equation to solve for $g(x):\n\n$x^3 - 2x - 2 + g(x) = -2 + x$\n\nNow, by simplifying the equation further:\n$g(x) = x$\n\nSo, $g(x)$ is equal to x.",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

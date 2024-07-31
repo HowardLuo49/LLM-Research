@@ -1,0 +1,7 @@
+{
+    "prefix": "You are in high school.\n",
+    "problem_prompt": "You are in high school.\nHow many different four-digit numbers can be formed by arranging the four digits in 2004?",
+    "solution": "To form a four-digit number using 2, 0, 0 and 4, the digit in the thousands place must be 2 or 4. There are three places available for the remaining nonzero digit, whether it is 4 or 2. So the final answer is $\\boxed{6}$.",
+    "gpt_response": "ChatCompletion(id='chatcmpl-9A2X7uu0uULKcZRaPpBwFMlRFENr4', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='There are 4 digits in 2004: 2, 0, 0, and 4.\\nTo find the number of different four-digit numbers that can be formed by arranging these digits, we can use the formula for permutations of n objects taken r at a time:\\n\\nnPr = n! / (n - r)!\\n\\nIn this case, we have 4 digits and we are arranging all of them, so n = 4 and r = 4.\\n\\n4P4 = 4! / (4 - 4)!\\n4P4 = 4! / 0!\\n4P4 = 4! / 1\\n4P4 = 4 x 3 x 2 x 1 / 1\\n4P4 = 24\\n\\nTherefore, there are 24 different four-digit numbers that can be formed by arranging the digits in 2004.', role='assistant', function_call=None, tool_calls=None))], created=1712180045, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint='fp_b28b39ffa8', usage=CompletionUsage(completion_tokens=182, prompt_tokens=32, total_tokens=214))",
+    "yes_no": "no"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. Under ideal conditions, the electric and magnetic fields inside a superconductor are zero. Maxwell\u2019s equations imply that which of the following must be true just outside the surface of the superconductor?\nA: B = 0\nB: B is perpendicular to the surface.\nC: B is tangential to the surface.\nD: B is time independent.",
+    "solution": "C",
+    "gpt_response": "As a PhD in biology, I am not an expert in electromagnetism and superconductors. However, based on my understanding of physics principles, Maxwell's equations dictate that the magnetic field lines must be continuous and closed, which implies that the magnetic field (B) is tangential to the surface of the superconductor just outside it. Therefore, I would choose option C: B is tangential to the surface.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to C?: As a PhD in biology, I am not an expert in electromagnetism and superconductors. However, based on my understanding of physics principles, Maxwell's equations dictate that the magnetic field lines must be continuous and closed, which implies that the magnetic field (B) is tangential to the surface of the superconductor just outside it. Therefore, I would choose option C: B is tangential to the surface.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

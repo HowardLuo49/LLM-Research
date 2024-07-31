@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. In a young female of reproductive age an absolute contraindication for prescribing oral contraceptive pills is:\n1: Diabetes\n2: Hypertension\n3: Obesity\n4: Impaired liver function",
+    "solution": 4,
+    "gpt_response": "As a doctor, when considering prescribing oral contraceptive pills to a young female of reproductive age, it is important to assess for any absolute contraindications. In this case, impaired liver function would be an absolute contraindication for prescribing oral contraceptive pills. This is because the liver metabolizes oral contraceptives, and if the liver is not functioning properly, it can lead to potential complications and risks for the patient. Therefore, the correct answer is 4: Impaired liver function.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 4?: As a doctor, when considering prescribing oral contraceptive pills to a young female of reproductive age, it is important to assess for any absolute contraindications. In this case, impaired liver function would be an absolute contraindication for prescribing oral contraceptive pills. This is because the liver metabolizes oral contraceptives, and if the liver is not functioning properly, it can lead to potential complications and risks for the patient. Therefore, the correct answer is 4: Impaired liver function.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

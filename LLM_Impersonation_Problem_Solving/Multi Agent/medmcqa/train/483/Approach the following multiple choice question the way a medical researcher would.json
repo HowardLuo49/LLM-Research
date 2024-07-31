@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a medical researcher would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a medical researcher would. More than 90% patients of CREST syndrome with the limited cutaneous form of this disorder make which of the following autoantibodies?\n1: Anti-centromere\n2: Anti-DNA topoisomerase l\n3: Anti-double-stranded DNA\n4: Anti-Golgi",
+    "solution": 1,
+    "gpt_response": "As a medical researcher studying CREST syndrome, it is important to analyze the existing literature and clinical data to determine the most likely autoantibody present in patients with the limited cutaneous form of the disorder. In this case, more than 90% of patients with CREST syndrome are known to produce anti-centromere antibodies. Therefore, the correct answer would be:\n\n1: Anti-centromere",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: As a medical researcher studying CREST syndrome, it is important to analyze the existing literature and clinical data to determine the most likely autoantibody present in patients with the limited cutaneous form of the disorder. In this case, more than 90% of patients with CREST syndrome are known to produce anti-centromere antibodies. Therefore, the correct answer would be:\n\n1: Anti-centromere",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

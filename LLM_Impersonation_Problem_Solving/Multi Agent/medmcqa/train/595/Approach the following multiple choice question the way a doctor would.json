@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. A 47-year-old man suddenly develops high fever and hypotension. He has a generalized erythematous macular rash, and over the next day, develops gangrene of his left leg. Which of the following is the most likely organism?\n1: Corynebacterium diphtheriae\n2: Streptococcus group C\n3: Neisseria gonorrhoeae\n4: Streptococcus group A",
+    "solution": 4,
+    "gpt_response": "Based on the symptoms described, the most likely organism causing the infection in this patient is Streptococcus group A. Streptococcus group A is known to cause severe infections such as necrotizing fasciitis, which can lead to gangrene of the affected limb. Additionally, the presence of a high fever, hypotension, and a macular rash are common symptoms of a systemic infection caused by Streptococcus group A. It is important to promptly identify and treat this infection to prevent further complications and tissue damage.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 4?: Based on the symptoms described, the most likely organism causing the infection in this patient is Streptococcus group A. Streptococcus group A is known to cause severe infections such as necrotizing fasciitis, which can lead to gangrene of the affected limb. Additionally, the presence of a high fever, hypotension, and a macular rash are common symptoms of a systemic infection caused by Streptococcus group A. It is important to promptly identify and treat this infection to prevent further complications and tissue damage.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

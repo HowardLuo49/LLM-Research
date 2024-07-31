@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a medical researcher would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a medical researcher would. Flipped LDH indicating Myocardial Infarction is represented by:\n1: LDH-1> LDH-2\n2: LDH-2 > LDH-1\n3: LDH-4 > LDH-5\n4: LDH-5 > LDH-4",
+    "solution": 1,
+    "gpt_response": "In evaluating this question as a medical researcher, we know that LDH-1 is specific to the heart, while LDH-2 is specific to the lungs. Flipped LDH indicating Myocardial Infarction would result in LDH-2 levels being higher than LDH-1 levels. Therefore, the correct answer would be:\n\n2: LDH-2 > LDH-1",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: In evaluating this question as a medical researcher, we know that LDH-1 is specific to the heart, while LDH-2 is specific to the lungs. Flipped LDH indicating Myocardial Infarction would result in LDH-2 levels being higher than LDH-1 levels. Therefore, the correct answer would be:\n\n2: LDH-2 > LDH-1",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

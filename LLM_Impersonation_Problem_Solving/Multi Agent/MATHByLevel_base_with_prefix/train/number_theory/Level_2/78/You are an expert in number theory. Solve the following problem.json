@@ -1,0 +1,10 @@
+{
+    "prefix": "You are an expert in number theory. Solve the following problem. ",
+    "problem_prompt": "You are an expert in number theory. Solve the following problem. There are 54 chips in a box. Each chip is either small or large. If the number of small chips is greater than the number of large chips by a prime number of chips, what is the greatest possible number of large chips?",
+    "solution": "Let $s$ be the number of small chips and $l$ be the number of large chips. From the given information, we have $s+l=54$ and $s=l+p$ for some prime $p$. Thus, $2l+p=54$. We wish to maximize $l$, so we must minimize $p$. Therefore, we set $p=2$ to get $l=\\boxed{26}$.",
+    "gpt_response": "Let the number of small chips be x and the number of large chips be y.\n\nAccording to the given information, we have the following system of equations:\nx + y = 54 (total number of chips)\nx = y + p (where p is a prime number)\n\nSubstitute the second equation into the first equation:\ny + p + y = 54\n2y + p = 54\n2y = 54 - p\ny = (54 - p)/2\n\nSince we want to maximize the number of large chips (y), we should choose the smallest possible prime number. The smallest prime number is 2. \n\nTherefore, when p = 2,\ny = (54 - 2)/2\ny = 26\n\nSo, the greatest possible number of large chips is 26.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 26?: Let the number of small chips be x and the number of large chips be y.\n\nAccording to the given information, we have the following system of equations:\nx + y = 54 (total number of chips)\nx = y + p (where p is a prime number)\n\nSubstitute the second equation into the first equation:\ny + p + y = 54\n2y + p = 54\n2y = 54 - p\ny = (54 - p)/2\n\nSince we want to maximize the number of large chips (y), we should choose the smallest possible prime number. The smallest prime number is 2. \n\nTherefore, when p = 2,\ny = (54 - 2)/2\ny = 26\n\nSo, the greatest possible number of large chips is 26.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 3,
+    "yes_no": "yes"
+}

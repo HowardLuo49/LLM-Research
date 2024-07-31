@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Iodine RDA is -\n1: 300 microgram\n2: 500 microgram\n3: 150 microgram\n4: 50microgram",
+    "solution": 3,
+    "gpt_response": "As a doctor, I would choose option 1: 300 micrograms as the Recommended Dietary Allowance (RDA) for iodine. This is the amount needed to prevent iodine deficiency in most healthy individuals. It is important for thyroid function and overall health.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: As a doctor, I would choose option 1: 300 micrograms as the Recommended Dietary Allowance (RDA) for iodine. This is the amount needed to prevent iodine deficiency in most healthy individuals. It is important for thyroid function and overall health.",
+    "gpt_response_correct_incorrect": "No, the final solution is not option 3.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

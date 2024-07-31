@@ -1,0 +1,10 @@
+{
+    "prefix": "You are an expert in number theory. Solve the following problem. ",
+    "problem_prompt": "You are an expert in number theory. Solve the following problem. The time right now is exactly midnight. What time will it be in 1234 minutes?",
+    "solution": "There are $60$ minutes in an hour. When $1234$ is divided by $60$, you get $20$ with a remainder of $34$. Therefore, the time in $1234$ minutes will be $\\boxed{20\\!:\\!34}$ or $\\boxed{8\\!:\\!34 \\text{ p.m.}}$.",
+    "gpt_response": "To find out the time in 1234 minutes from now, we need to convert 1234 minutes to hours. \n\n1234 minutes = 1234 / 60 = 20 hours and 34 minutes\n\nAdding 20 hours to midnight brings us to 8:00 PM, and then adding an additional 34 minutes brings us to 8:34 PM. \n\nTherefore, the time will be 8:34 PM in 1234 minutes from midnight.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 20\\!:\\!34?: To find out the time in 1234 minutes from now, we need to convert 1234 minutes to hours. \n\n1234 minutes = 1234 / 60 = 20 hours and 34 minutes\n\nAdding 20 hours to midnight brings us to 8:00 PM, and then adding an additional 34 minutes brings us to 8:34 PM. \n\nTherefore, the time will be 8:34 PM in 1234 minutes from midnight.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes"
+}

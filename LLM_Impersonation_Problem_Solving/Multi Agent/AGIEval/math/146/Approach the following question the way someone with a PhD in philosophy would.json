@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in philosophy would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in philosophy would. 25 students average 84 on a test. Another group of 20 students averages 66. Find the overall average.",
+    "solution": "76",
+    "gpt_response": "To calculate the overall average of the total 45 students, we must first determine the total sum of scores achieved by all students. The sum of scores for the first group of 25 students can be calculated by multiplying the average score by the number of students: 84 * 25 = 2100. Similarly, the sum of scores for the second group of 20 students can be found by multiplying the average score by the number of students: 66 * 20 = 1320. Adding these two sums together, we get a total sum of scores of 2100 + 1320 = 3420. \n\nTo find the overall average, we divide the total sum of scores by the total number of students. In this case, the total number of students is 45. Therefore, the overall average can be calculated by dividing the total sum of scores by the total number of students: 3420 / 45 = 76.\n\nTherefore, the overall average score for the 45 students is 76.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 76?: To calculate the overall average of the total 45 students, we must first determine the total sum of scores achieved by all students. The sum of scores for the first group of 25 students can be calculated by multiplying the average score by the number of students: 84 * 25 = 2100. Similarly, the sum of scores for the second group of 20 students can be found by multiplying the average score by the number of students: 66 * 20 = 1320. Adding these two sums together, we get a total sum of scores of 2100 + 1320 = 3420. \n\nTo find the overall average, we divide the total sum of scores by the total number of students. In this case, the total number of students is 45. Therefore, the overall average can be calculated by dividing the total sum of scores by the total number of students: 3420 / 45 = 76.\n\nTherefore, the overall average score for the 45 students is 76.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

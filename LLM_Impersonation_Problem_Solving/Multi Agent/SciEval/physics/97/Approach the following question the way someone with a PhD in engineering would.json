@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in engineering would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in engineering would. Calculate the rotational velocity of the Milky Way's galactic disk at a distance of 78935 light-years from the galactic center, given that the observed radial velocity of a star at that distance is 239 km/s and the average rotational velocity of the galactic disk at that distance is 297 km/s. Additionally, please select the option from the given choices that you believe is closest to the correct answer!\n\nA. 297.0 km/s\nB. 203.91 km/s\nC. 205.49 km/s\nD. 202.34 km/s\n\nAnswer:",
+    "solution": [
+        "A"
+    ],
+    "gpt_response": "To calculate the rotational velocity of the Milky Way's galactic disk at a distance of 78935 light-years from the galactic center, we can use the formula for determining rotational velocity:\n\nV_rot = sqrt((V_obs)^2 + (V_avg)^2)\n\nWhere:\nV_rot = rotational velocity\nV_obs = observed radial velocity of a star at that distance = 239 km/s\nV_avg = average rotational velocity of the galactic disk at that distance = 297 km/s\n\nPlugging in the values:\n\nV_rot = sqrt((239)^2 + (297)^2)\nV_rot = sqrt(57121 + 88209)\nV_rot = sqrt(145330)\nV_rot \u2248 381.409 km/s\n\nThe closest option to the correct answer is B. 203.91 km/s.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to ['A']?: To calculate the rotational velocity of the Milky Way's galactic disk at a distance of 78935 light-years from the galactic center, we can use the formula for determining rotational velocity:\n\nV_rot = sqrt((V_obs)^2 + (V_avg)^2)\n\nWhere:\nV_rot = rotational velocity\nV_obs = observed radial velocity of a star at that distance = 239 km/s\nV_avg = average rotational velocity of the galactic disk at that distance = 297 km/s\n\nPlugging in the values:\n\nV_rot = sqrt((239)^2 + (297)^2)\nV_rot = sqrt(57121 + 88209)\nV_rot = sqrt(145330)\nV_rot \u2248 381.409 km/s\n\nThe closest option to the correct answer is B. 203.91 km/s.",
+    "gpt_response_correct_incorrect": "No. The final solution obtained is not equal to ['A'].",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Given points $P(-2,7)$ and $Q(4,y)$ in a coordinate plane, for what value of $y$ is the slope of the line through $P$ and $Q$ equal to $\\frac{-3}{2}$?",
+    "solution": "The slope of a line through points $(x_1,y_1)$ and $(x_2,y_2)$  is: $$\\frac{y_2-y_1}{x_2-x_1}=\\text{slope}$$ In this case, we have: $$\\frac{y-7}{4-(-2)}=\\frac{-3}{2}$$ $$2y-14=-18$$ $$2y=-4$$ $$y=\\boxed{-2}$$",
+    "gpt_response": "First, let's find the slope using the formula $\\frac{y_2 - y_1}{x_2 - x_1}$. \n\nBy plugging in the coordinates, we get \nslope = $\\frac{y - 7}{4 - (-2)}$\n\nThis simplifies to $\\frac{y - 7}{6}$.\n\nWe want this slope to be equal to $\\frac{-3}{2}$, so:\n$\\frac{y - 7}{6} = \\frac{-3}{2}$\n\nNow we just need to solve for y:\n$2(y-7) = -3*6$\n\n$2y - 14 = -18$\n\n$2y = -4$\n\n$y = -2$\n\nTherefore, for the slope of the line passing through points $P(-2,7)$ and $Q(4,y)$ to be $\\frac{-3}{2}$, y must equal -2.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to -2?: First, let's find the slope using the formula $\\frac{y_2 - y_1}{x_2 - x_1}$. \n\nBy plugging in the coordinates, we get \nslope = $\\frac{y - 7}{4 - (-2)}$\n\nThis simplifies to $\\frac{y - 7}{6}$.\n\nWe want this slope to be equal to $\\frac{-3}{2}$, so:\n$\\frac{y - 7}{6} = \\frac{-3}{2}$\n\nNow we just need to solve for y:\n$2(y-7) = -3*6$\n\n$2y - 14 = -18$\n\n$2y = -4$\n\n$y = -2$\n\nTherefore, for the slope of the line passing through points $P(-2,7)$ and $Q(4,y)$ to be $\\frac{-3}{2}$, y must equal -2.",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

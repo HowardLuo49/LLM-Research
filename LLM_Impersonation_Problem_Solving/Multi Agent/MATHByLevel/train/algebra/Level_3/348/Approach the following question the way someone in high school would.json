@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. The roots of the equation $2x^2 - 5x - 4 = 0$ can be written in the form $x = \\frac{m \\pm \\sqrt{n}}{p}$, where $m$, $n$, and $p$ are positive integers with a greatest common divisor of 1. What is the value of $n$?",
+    "solution": "This problem is an application of the quadratic formula $x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}$. Using the quadratic formula, we find that $x = \\frac{5 \\pm \\sqrt{25 +32}}{4} = \\frac{5 \\pm \\sqrt{57}}{4}$. Since $4$ and $57$ are relatively prime, $n = \\boxed{57}$.",
+    "gpt_response": "To find the roots of the equation, we can use the quadratic formula which states that for an equation in the form $ax^2 + bx + c = 0$, the roots can be found using the formula:\n\n$x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}$\n\nIn this case, $a = 2$, $b = -5$, and $c = -4$. Substituting these values into the formula, we get:\n\n$x = \\frac{5 \\pm \\sqrt{(-5)^2 - 4(2)(-4)}}{2(2)}$\n\nSimplifying further, we get:\n\n$x = \\frac{5 \\pm \\sqrt{25 + 32}}{4}$\n$x = \\frac{5 \\pm \\sqrt{57}}{4}$\n\nTherefore, the value of $n$ is $\\boxed{57}$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 57?: To find the roots of the equation, we can use the quadratic formula which states that for an equation in the form $ax^2 + bx + c = 0$, the roots can be found using the formula:\n\n$x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}$\n\nIn this case, $a = 2$, $b = -5$, and $c = -4$. Substituting these values into the formula, we get:\n\n$x = \\frac{5 \\pm \\sqrt{(-5)^2 - 4(2)(-4)}}{2(2)}$\n\nSimplifying further, we get:\n\n$x = \\frac{5 \\pm \\sqrt{25 + 32}}{4}$\n$x = \\frac{5 \\pm \\sqrt{57}}{4}$\n\nTherefore, the value of $n$ is $\\boxed{57}$.",
+    "gpt_response_correct_incorrect": "No",
+    "yes_no": "no"
+}

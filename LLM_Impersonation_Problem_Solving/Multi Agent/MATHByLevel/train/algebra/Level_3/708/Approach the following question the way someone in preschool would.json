@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. The square root of $2x$ is greater than 3 and less than 4. How many integer values of $x$ satisfy this condition?",
+    "solution": "We have: $$3 < \\sqrt{2x} < 4 $$$$\\Rightarrow 9 < 2x < 16 $$$$\\Rightarrow 4.5 < x < 8$$The integers from 5 to 7 inclusive satisfy this inequality, so there are $\\boxed{3}$ integers that satisfy the condition.",
+    "gpt_response": "The square root of $2x$ is between 3 and 4. So, if we square both 3 and 4, we get 9 and 16. That means 2x is between 9 and 16. \n\nTo find the possible values of x, we divide both sides by 2 to get x is between 4.5 and 8. That means there are 3 integer values of x that satisfy this condition: 5, 6, and 7.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 3?: The square root of $2x$ is between 3 and 4. So, if we square both 3 and 4, we get 9 and 16. That means 2x is between 9 and 16. \n\nTo find the possible values of x, we divide both sides by 2 to get x is between 4.5 and 8. That means there are 3 integer values of x that satisfy this condition: 5, 6, and 7.",
+    "gpt_response_correct_incorrect": "No",
+    "yes_no": "no"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a medical researcher would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a medical researcher would. Factor V Leiden is caused due to a mutation that results in a substitution at position 506 glutamine to which of the following:\n1: Alanine\n2: Arginine\n3: Glycine\n4: Glutamine",
+    "solution": 2,
+    "gpt_response": "As a medical researcher, I would approach this question by first understanding the normal amino acid present at position 506 in Factor V. Since the mutation results in a substitution at this position, it is important to determine the specific amino acid that is being substituted.\n\nIn this case, the normal amino acid at position 506 in Factor V is glutamine. The mutation results in a substitution at this position, so we need to determine which amino acid replaces glutamine in Factor V Leiden.\n\nTherefore, the correct answer to the question is:\n2: Arginine\n\nThis substitution of glutamine to arginine at position 506 in Factor V is characteristic of Factor V Leiden.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: As a medical researcher, I would approach this question by first understanding the normal amino acid present at position 506 in Factor V. Since the mutation results in a substitution at this position, it is important to determine the specific amino acid that is being substituted.\n\nIn this case, the normal amino acid at position 506 in Factor V is glutamine. The mutation results in a substitution at this position, so we need to determine which amino acid replaces glutamine in Factor V Leiden.\n\nTherefore, the correct answer to the question is:\n2: Arginine\n\nThis substitution of glutamine to arginine at position 506 in Factor V is characteristic of Factor V Leiden.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. The sum of a negative integer $N$ and its square is 6. What is the value of $N$?",
+    "solution": "We are given that $N^2 + N = 6$.  Rearranging gives $N^2 + N - 6 =0$, and factoring the quadratic on the left gives $(N+3)(N-2) = 0$.  The only negative solution to this equation is $N = \\boxed{-3}$.",
+    "gpt_response": "To find the value of N, we can set up an equation using the information given. We know that the sum of a negative integer N and its square is 6, which we can translate into the equation N + N^2 = 6.\n\nNow we can solve this quadratic equation by setting it equal to zero: N^2 + N - 6 = 0.\n\nWe can factor this equation to get (N + 3)(N - 2) = 0.\n\nThis means that N = -3 or N = 2.\n\nSince we are looking for a negative integer, the value of N is -3.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to -3?: To find the value of N, we can set up an equation using the information given. We know that the sum of a negative integer N and its square is 6, which we can translate into the equation N + N^2 = 6.\n\nNow we can solve this quadratic equation by setting it equal to zero: N^2 + N - 6 = 0.\n\nWe can factor this equation to get (N + 3)(N - 2) = 0.\n\nThis means that N = -3 or N = 2.\n\nSince we are looking for a negative integer, the value of N is -3.",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

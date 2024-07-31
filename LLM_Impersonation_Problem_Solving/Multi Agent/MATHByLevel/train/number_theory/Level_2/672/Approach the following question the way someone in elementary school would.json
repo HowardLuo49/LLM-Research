@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. What is the least prime factor of $7^4 - 7^3$?",
+    "solution": "Factor out $7^3$ in the given expression $7^4-7^3=7^3(7-1)=7^3\\cdot6=2\\cdot3\\cdot7^3$. Thus, the least prime factor of $7^4-7^3$ is $\\boxed{2}$.",
+    "gpt_response": "To find the least prime factor of $7^4 - 7^3, we can first factor out a $7^3$ from both terms to get $7^3(7 - 1)$. Then we simplify to get $7^3(6)$. The least prime factor of $7^3(6)$ is 2 because 6 can be divided by 2. So, the least prime factor of $7^4 - 7^3$ is 2.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 2?: To find the least prime factor of $7^4 - 7^3, we can first factor out a $7^3$ from both terms to get $7^3(7 - 1)$. Then we simplify to get $7^3(6)$. The least prime factor of $7^3(6)$ is 2 because 6 can be divided by 2. So, the least prime factor of $7^4 - 7^3$ is 2.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

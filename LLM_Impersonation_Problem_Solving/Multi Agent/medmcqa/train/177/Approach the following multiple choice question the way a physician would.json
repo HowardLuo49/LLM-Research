@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Carcinoma of the prostate arise from -\n1: Central zone\n2: Peripheral zone\n3: Transitional zone\n4: Periurethral zone",
+    "solution": 2,
+    "gpt_response": "As a physician, I would approach this question by considering my knowledge of prostate anatomy and cancer development. Carcinoma of the prostate most commonly arises from the peripheral zone, which is where the majority of prostate cancers originate. Therefore, my answer would be:\n\n2: Peripheral zone",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: As a physician, I would approach this question by considering my knowledge of prostate anatomy and cancer development. Carcinoma of the prostate most commonly arises from the peripheral zone, which is where the majority of prostate cancers originate. Therefore, my answer would be:\n\n2: Peripheral zone",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

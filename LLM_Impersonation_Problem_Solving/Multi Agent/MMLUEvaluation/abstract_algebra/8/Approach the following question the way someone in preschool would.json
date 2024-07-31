@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Find the degree for the given field extension Q(sqrt(2) + sqrt(3)) over Q.\nA: 0\nB: 4\nC: 2\nD: 6",
+    "solution": "B",
+    "gpt_response": "Hmm, let's see! We have the numbers 2 and 3, and we're adding square roots to them. So that means we have to count how many square roots we're adding in total. \n\nWe have sqrt(2) and sqrt(3), which makes 2 square roots in total! So that means the degree for the field extension Q(sqrt(2) + sqrt(3)) over Q is 2. \n\nSo the answer is C: 2! Yay, we did it!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to B?: Hmm, let's see! We have the numbers 2 and 3, and we're adding square roots to them. So that means we have to count how many square roots we're adding in total. \n\nWe have sqrt(2) and sqrt(3), which makes 2 square roots in total! So that means the degree for the field extension Q(sqrt(2) + sqrt(3)) over Q is 2. \n\nSo the answer is C: 2! Yay, we did it!",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

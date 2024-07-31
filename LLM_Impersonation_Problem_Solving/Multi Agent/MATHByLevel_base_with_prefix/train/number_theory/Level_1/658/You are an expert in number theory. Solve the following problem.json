@@ -1,0 +1,10 @@
+{
+    "prefix": "You are an expert in number theory. Solve the following problem. ",
+    "problem_prompt": "You are an expert in number theory. Solve the following problem. If 25,197,624 hot dogs are packaged in sets of 4, how many will be left over?",
+    "solution": "We look for the remainder when $25,197,624$ is divided by $4$. We could manually divide to see that $4$ divides evenly into $25,197,624$ for a remainder of $0$, but the quicker way is to know the divisibility rule for $4$. If the last two digits of the number form a multiple of $4$, then the number itself is divisible by $4$.  In this case, $24$ is a multiple of $4$, so $25,197,624$ is also a multiple of $4$. That means $\\boxed{0}$ hot dogs will be left over.",
+    "gpt_response": "To find out how many hot dogs will be left over when 25,197,624 hot dogs are packaged in sets of 4, we need to divide the total number of hot dogs by 4 and find the remainder.\n\n25,197,624 \u00f7 4 = 6,299,406 remainder 0\n\nTherefore, when 25,197,624 hot dogs are packaged in sets of 4, there will be 0 hot dogs left over.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 0?: To find out how many hot dogs will be left over when 25,197,624 hot dogs are packaged in sets of 4, we need to divide the total number of hot dogs by 4 and find the remainder.\n\n25,197,624 \u00f7 4 = 6,299,406 remainder 0\n\nTherefore, when 25,197,624 hot dogs are packaged in sets of 4, there will be 0 hot dogs left over.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 2,
+    "yes_no": "yes"
+}

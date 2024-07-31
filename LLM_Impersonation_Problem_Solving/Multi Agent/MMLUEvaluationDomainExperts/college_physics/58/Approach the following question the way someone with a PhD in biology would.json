@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. A magnetic field is directed perpendicular to the plane of a circular coil of area 0.2 m^2 and 250 turns. If the magnetic field is increased from 0.01 T to 0.06 T during a time interval of 0.25 s, the average induced EMF in the coil is\nA: 0.04 V\nB: 0.1 V\nC: 2.5 V\nD: 10 V",
+    "solution": "D",
+    "gpt_response": "To calculate the average induced EMF in the coil, we need to use Faraday's Law of electromagnetic induction. The formula is given by:\n\nEMF = -N * A * (\u0394B/\u0394t)\n\nwhere:\nEMF = induced electromotive force\nN = number of turns in the coil (250 turns)\nA = area of the coil (0.2 m^2)\n\u0394B = change in magnetic field strength (0.06 T - 0.01 T = 0.05 T)\n\u0394t = time interval (0.25 seconds)\n\nPlugging in the values:\n\nEMF = -250 * 0.2 * (0.05/0.25) = -250 * 0.2 * 0.2 = -10 V\n\nSince we are looking for the average induced EMF, we need to take the absolute value of the result:\n\nAverage induced EMF = 10 V\n\nTherefore, the correct answer is D: 10 V.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: To calculate the average induced EMF in the coil, we need to use Faraday's Law of electromagnetic induction. The formula is given by:\n\nEMF = -N * A * (\u0394B/\u0394t)\n\nwhere:\nEMF = induced electromotive force\nN = number of turns in the coil (250 turns)\nA = area of the coil (0.2 m^2)\n\u0394B = change in magnetic field strength (0.06 T - 0.01 T = 0.05 T)\n\u0394t = time interval (0.25 seconds)\n\nPlugging in the values:\n\nEMF = -250 * 0.2 * (0.05/0.25) = -250 * 0.2 * 0.2 = -10 V\n\nSince we are looking for the average induced EMF, we need to take the absolute value of the result:\n\nAverage induced EMF = 10 V\n\nTherefore, the correct answer is D: 10 V.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

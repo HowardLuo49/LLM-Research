@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Josef and Timothy play a game in which Josef picks an integer between 1 and 1000 inclusive and Timothy divides 1000 by that integer and states whether or not the quotient is an integer.  How many integers could Josef pick such that Timothy's quotient is an integer?",
+    "solution": "Timothy's quotient is an integer if and only if Josef's number is a divisor of 1000.  Our goal is to count the positive divisors of $1000 = 2^3 \\cdot 5^3$. We see that 1000 has $(3 + 1)(3+1) = 16$ positive divisors, hence there are $\\boxed{16}$ integers Josef could pick to make Timothy's number an integer.",
+    "gpt_response": "Timothy and Josef are playing a fun game with numbers! Josef can choose any number between 1 and 1000. Then Timothy divides 1000 by the number Josef picked. If the answer is a whole number, they win! \n\nLet's count together how many numbers Josef can pick to make Timothy win. Josef can pick 1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 125, 200, 250, 500, or 1000. That's 16 numbers! \n\nSo, Timothy can win if Josef picks any of those 16 special numbers. Yay for numbers!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 16?: Timothy and Josef are playing a fun game with numbers! Josef can choose any number between 1 and 1000. Then Timothy divides 1000 by the number Josef picked. If the answer is a whole number, they win! \n\nLet's count together how many numbers Josef can pick to make Timothy win. Josef can pick 1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 125, 200, 250, 500, or 1000. That's 16 numbers! \n\nSo, Timothy can win if Josef picks any of those 16 special numbers. Yay for numbers!",
+    "gpt_response_correct_incorrect": "Yes, the final solution obtained is equal to 16.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "0",
+    "difficulty_value": "N/A"
+}

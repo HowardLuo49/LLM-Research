@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Shock causes:\n1: Stagnant hypoxia\n2: Anemic hypoxia\n3: Hypoxic hypoxia\n4: Histotoxic hypoxia",
+    "solution": 1,
+    "gpt_response": "As a doctor, when considering the effects of shock on a patient, it is important to understand the underlying mechanisms that contribute to the development of hypoxia. Shock can lead to tissue hypoxia through various pathways. Stagnant hypoxia occurs when there is impaired blood flow to tissues, leading to decreased oxygen delivery. Anemic hypoxia occurs when there is a decrease in the oxygen-carrying capacity of the blood, such as in cases of severe bleeding or anemia. Hypoxic hypoxia occurs when there is a decrease in the partial pressure of oxygen in the blood, which can occur in conditions like high altitude or respiratory failure. Histotoxic hypoxia occurs when there is an inability of tissues to use oxygen effectively, as seen in cases of cyanide poisoning. In the context of shock, all of these types of hypoxia may be present to varying degrees depending on the underlying cause and severity of the shock.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: As a doctor, when considering the effects of shock on a patient, it is important to understand the underlying mechanisms that contribute to the development of hypoxia. Shock can lead to tissue hypoxia through various pathways. Stagnant hypoxia occurs when there is impaired blood flow to tissues, leading to decreased oxygen delivery. Anemic hypoxia occurs when there is a decrease in the oxygen-carrying capacity of the blood, such as in cases of severe bleeding or anemia. Hypoxic hypoxia occurs when there is a decrease in the partial pressure of oxygen in the blood, which can occur in conditions like high altitude or respiratory failure. Histotoxic hypoxia occurs when there is an inability of tissues to use oxygen effectively, as seen in cases of cyanide poisoning. In the context of shock, all of these types of hypoxia may be present to varying degrees depending on the underlying cause and severity of the shock.",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

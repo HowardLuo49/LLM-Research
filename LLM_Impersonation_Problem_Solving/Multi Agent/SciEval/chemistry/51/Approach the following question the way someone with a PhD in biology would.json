@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. What is the molecular formula of CN1N=C(N=N1)CC(CO)CO?\nAnswer:",
+    "solution": [
+        "C6H12N4O2"
+    ],
+    "gpt_response": "The molecular formula of the compound CN1N=C(N=N1)CC(CO)CO is C8H13N3O3. This compound contains 8 carbon atoms, 13 hydrogen atoms, 3 nitrogen atoms, and 3 oxygen atoms. The molecular formula represents the exact number of each type of atom in a compound, providing valuable information about its composition and structure. Further analysis, such as determining the connectivity of atoms and the arrangement of bonds, would be necessary to fully understand the chemical properties and behavior of this compound.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response ['C6H12N4O2']?: The molecular formula of the compound CN1N=C(N=N1)CC(CO)CO is C8H13N3O3. This compound contains 8 carbon atoms, 13 hydrogen atoms, 3 nitrogen atoms, and 3 oxygen atoms. The molecular formula represents the exact number of each type of atom in a compound, providing valuable information about its composition and structure. Further analysis, such as determining the connectivity of atoms and the arrangement of bonds, would be necessary to fully understand the chemical properties and behavior of this compound.",
+    "gpt_response_correct_incorrect": "No. The final solution obtained is not ['C6H12N4O2'] in the given response.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. Which of the following is true?\nA: Every compact space is complete\nB: Every complete space is compact\nC: Neither (a) nor (b).\nD:  Both (a) and (b).",
+    "solution": "A",
+    "gpt_response": "Hmm, let me think like a little kid... \nWell, I remember that my teacher said compact spaces are not always complete, so that means A is not true. \nI also remember that my teacher said complete spaces are not always compact either, so that means B is not true.\nSo, I think the answer is C: Neither (a) nor (b).",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to A?: Hmm, let me think like a little kid... \nWell, I remember that my teacher said compact spaces are not always complete, so that means A is not true. \nI also remember that my teacher said complete spaces are not always compact either, so that means B is not true.\nSo, I think the answer is C: Neither (a) nor (b).",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

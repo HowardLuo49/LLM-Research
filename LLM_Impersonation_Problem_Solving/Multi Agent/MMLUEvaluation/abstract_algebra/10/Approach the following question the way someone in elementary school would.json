@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. Statement 1 | If H is a subgroup of G and a belongs to G then |aH| = |Ha|. Statement 2 | If H is a subgroup of G and a and b belong to G, then aH and Hb are identical or disjoint.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "C",
+    "gpt_response": "Basically, if we have a group G and a subgroup H, and we pick any element a from G, then the number of elements in the set aH (where we multiply every element in H by a) is the same as the number of elements in the set Ha.  So, the first statement is true because the two sets have the same number of elements.\n\nHowever, the second statement is false. It says that if we pick two elements a and b from G, then the sets aH and Hb are either the same or have no elements in common. But that's not always true because there can be overlap in the elements of the sets aH and Hb.\n\nSo, the answer is C: True, False.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to C?: Basically, if we have a group G and a subgroup H, and we pick any element a from G, then the number of elements in the set aH (where we multiply every element in H by a) is the same as the number of elements in the set Ha.  So, the first statement is true because the two sets have the same number of elements.\n\nHowever, the second statement is false. It says that if we pick two elements a and b from G, then the sets aH and Hb are either the same or have no elements in common. But that's not always true because there can be overlap in the elements of the sets aH and Hb.\n\nSo, the answer is C: True, False.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

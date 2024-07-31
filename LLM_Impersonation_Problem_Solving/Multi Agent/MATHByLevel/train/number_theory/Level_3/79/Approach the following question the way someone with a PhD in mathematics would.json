@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. What is the sum of the whole-number factors of 24?",
+    "solution": "The sum of the whole-number factors of 24 is $1+24+2+12+3+8+4+6=\\boxed{60}$.",
+    "gpt_response": "To find the sum of the whole-number factors of 24, we first need to determine all the factors of 24. The factors of 24 are 1, 2, 3, 4, 6, 8, 12, and 24. \n\nThe sum of these factors is 1 + 2 + 3 + 4 + 6 + 8 + 12 + 24 = 60. \n\nTherefore, the sum of the whole-number factors of 24 is 60.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 60?: To find the sum of the whole-number factors of 24, we first need to determine all the factors of 24. The factors of 24 are 1, 2, 3, 4, 6, 8, 12, and 24. \n\nThe sum of these factors is 1 + 2 + 3 + 4 + 6 + 8 + 12 + 24 = 60. \n\nTherefore, the sum of the whole-number factors of 24 is 60.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

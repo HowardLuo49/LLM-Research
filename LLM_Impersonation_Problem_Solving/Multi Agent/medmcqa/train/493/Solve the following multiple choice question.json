@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. Most common cause of hirsutism in a teenage girl:\n1: Ovarian disease\n2: Pheochromocytoma\n3: Obesity\n4: Adrenogenital syndrome",
+    "solution": 1,
+    "gpt_response": "4: Adrenogenital syndrome",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: 4: Adrenogenital syndrome",
+    "gpt_response_correct_incorrect": "No, the final solution obtained is 4, Adrenogenital syndrome.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

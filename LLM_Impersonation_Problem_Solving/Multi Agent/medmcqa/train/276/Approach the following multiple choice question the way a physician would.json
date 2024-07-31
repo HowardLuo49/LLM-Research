@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Which of the following events is involved in cleavage of the zygote during week 1 of development?\n1: A series of meiotic divisions forming blastomeres\n2: Production of highly differentiated blastomeres\n3: An increased cytoplasmic content of blastomeres\n4: A decrease in size of blastomeres",
+    "solution": 4,
+    "gpt_response": "1: A series of meiotic divisions forming blastomeres\n\nAs a physician, I would choose option 1 because cleavage of the zygote involves a series of rapid mitotic divisions, not meiotic divisions, which form blastomeres. Meiotic divisions only occur during the formation of gametes, not during the cleavage of the zygote.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 4?: 1: A series of meiotic divisions forming blastomeres\n\nAs a physician, I would choose option 1 because cleavage of the zygote involves a series of rapid mitotic divisions, not meiotic divisions, which form blastomeres. Meiotic divisions only occur during the formation of gametes, not during the cleavage of the zygote.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

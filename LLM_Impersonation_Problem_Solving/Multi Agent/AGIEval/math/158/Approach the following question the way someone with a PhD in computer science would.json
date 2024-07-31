@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in computer science would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in computer science would. Find the integer $n,$ $-90 \\le n \\le 90,$ such that $\\sin n^\\circ = \\sin 1021^\\circ.$",
+    "solution": "-59",
+    "gpt_response": "To find the integer $n$ satisfying $\\sin n^\\circ = \\sin 1021^\\circ,$ we can use the fact that sine is periodic with period $360^\\circ.$ Specifically, we have $\\sin n^\\circ = \\sin (n + 360k)^\\circ$ for any integer $k.$\n\nSince $\\sin 1021^\\circ = \\sin (1021 - 360 \\times 2)^\\circ = \\sin 301^\\circ,$ we are looking for $n$ such that $\\sin n^\\circ = \\sin 301^\\circ.$\n\nFrom the properties of the sine function, we know that $\\sin x = \\sin y$ if and only if $x = y + 360k$ or $x = 180 - y + 360k$ for some integer $k.$ Thus, in our case, $n = 301$ or $n = 180 - 301 = -121.$ Since we want $-90 \\le n \\le 90,$ the only valid solution is $n = 301.$\n\nTherefore, the integer $n$ such that $\\sin n^\\circ = \\sin 1021^\\circ$ is $n = \\boxed{301}.$",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response -59?: To find the integer $n$ satisfying $\\sin n^\\circ = \\sin 1021^\\circ,$ we can use the fact that sine is periodic with period $360^\\circ.$ Specifically, we have $\\sin n^\\circ = \\sin (n + 360k)^\\circ$ for any integer $k.$\n\nSince $\\sin 1021^\\circ = \\sin (1021 - 360 \\times 2)^\\circ = \\sin 301^\\circ,$ we are looking for $n$ such that $\\sin n^\\circ = \\sin 301^\\circ.$\n\nFrom the properties of the sine function, we know that $\\sin x = \\sin y$ if and only if $x = y + 360k$ or $x = 180 - y + 360k$ for some integer $k.$ Thus, in our case, $n = 301$ or $n = 180 - 301 = -121.$ Since we want $-90 \\le n \\le 90,$ the only valid solution is $n = 301.$\n\nTherefore, the integer $n$ such that $\\sin n^\\circ = \\sin 1021^\\circ$ is $n = \\boxed{301}.$",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "5",
+    "difficulty_value": "5"
+}

@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. The roots of the equation $2x^2 - 5x - 4 = 0$ can be written in the form $x = \\frac{m \\pm \\sqrt{n}}{p}$, where $m$, $n$, and $p$ are positive integers with a greatest common divisor of 1. What is the value of $n$?",
+    "solution": "This problem is an application of the quadratic formula $x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}$. Using the quadratic formula, we find that $x = \\frac{5 \\pm \\sqrt{25 +32}}{4} = \\frac{5 \\pm \\sqrt{57}}{4}$. Since $4$ and $57$ are relatively prime, $n = \\boxed{57}$.",
+    "gpt_response": "To find the roots of the quadratic equation $2x^2 - 5x - 4 = 0$, we can use the quadratic formula: $x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}$.\n\nHere, $a = 2$, $b = -5$, and $c = -4$. Plugging these values into the formula, we get:\n$x = \\frac{5 \\pm \\sqrt{(-5)^2 - 4*2*(-4)}}{2*2}$\n$x = \\frac{5 \\pm \\sqrt{25 + 32}}{4}$\n$x = \\frac{5 \\pm \\sqrt{57}}{4}$\n\nTherefore, $m = 5$, $n = 57$, and $p = 4$, with a greatest common divisor of 1. So, the value of $n$ is 57.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 57?: To find the roots of the quadratic equation $2x^2 - 5x - 4 = 0$, we can use the quadratic formula: $x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}$.\n\nHere, $a = 2$, $b = -5$, and $c = -4$. Plugging these values into the formula, we get:\n$x = \\frac{5 \\pm \\sqrt{(-5)^2 - 4*2*(-4)}}{2*2}$\n$x = \\frac{5 \\pm \\sqrt{25 + 32}}{4}$\n$x = \\frac{5 \\pm \\sqrt{57}}{4}$\n\nTherefore, $m = 5$, $n = 57$, and $p = 4$, with a greatest common divisor of 1. So, the value of $n$ is 57.",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

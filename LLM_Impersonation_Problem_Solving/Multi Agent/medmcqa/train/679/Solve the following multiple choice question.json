@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. Which of the following induction agent produce cardiac stability-\n1: Ketamine\n2: Etomidate\n3: Propofol\n4: Midazolam",
+    "solution": 2,
+    "gpt_response": "2: Etomidate\n\nEtomidate is known for producing cardiac stability compared to other induction agents such as Ketamine, Propofol, and Midazolam.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: 2: Etomidate\n\nEtomidate is known for producing cardiac stability compared to other induction agents such as Ketamine, Propofol, and Midazolam.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

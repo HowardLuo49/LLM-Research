@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. Intrinsic factor of castle is secreted by which of the following cells in gastric glands\n1: Chief cells\n2: Parietal cells\n3: Enterochromaffin cells\n4: B cells",
+    "solution": 2,
+    "gpt_response": "2: Parietal cells",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: 2: Parietal cells",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

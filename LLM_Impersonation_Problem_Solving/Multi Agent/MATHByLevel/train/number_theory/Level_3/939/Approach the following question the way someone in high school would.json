@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. How many prime numbers are divisible by $39$ ?",
+    "solution": "A prime number is a number whose only divisors are $1$ and itself. If a prime were divisible by $39$, it would have to be divisible by $3$ and $13$ as well since $3$ and $13$ are factors of $39$. Thus the \"prime\" would have too many factors and wouldn't be a prime! Thus there are $\\boxed{0}$ primes which are divisible by $39$.",
+    "gpt_response": "To determine how many prime numbers are divisible by $39, we first need to find the prime factorization of 39. \n\n39 = 3 * 13\n\nSince 39 is divisible by both 3 and 13, it cannot be a prime number. Therefore, there are 0 prime numbers that are divisible by 39.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 0?: To determine how many prime numbers are divisible by $39, we first need to find the prime factorization of 39. \n\n39 = 3 * 13\n\nSince 39 is divisible by both 3 and 13, it cannot be a prime number. Therefore, there are 0 prime numbers that are divisible by 39.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

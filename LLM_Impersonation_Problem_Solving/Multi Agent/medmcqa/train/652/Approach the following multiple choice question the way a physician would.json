@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Which of  the following has strongest association with osteosarcoma?\n1: Wilms tumor\n2: Retinoblastoma\n3: Rhabdomyosarcoma\n4: Ewings tumor",
+    "solution": 2,
+    "gpt_response": "As a physician, I would approach this question by recalling my knowledge of common associated conditions and risk factors for osteosarcoma. The strongest association with osteosarcoma is typically seen in patients with retinoblastoma. Therefore, the correct answer is 2: Retinoblastoma.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: As a physician, I would approach this question by recalling my knowledge of common associated conditions and risk factors for osteosarcoma. The strongest association with osteosarcoma is typically seen in patients with retinoblastoma. Therefore, the correct answer is 2: Retinoblastoma.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

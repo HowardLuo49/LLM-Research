@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. How many two-digit positive integers are congruent to 1 (mod 3)?",
+    "solution": "If an integer is congruent to 1 mod 3, then it can be written in the form $3k+1$. Therefore, we have two inequalities: $3k+1 \\ge 10$, and $3k+1 \\le 99$. The inequality $3k+1 \\ge 10$ has solution $k\\ge3$, and the inequality $3k+1 \\le 99$ has solution $k \\le 32 \\frac{2}{3}$. Therefore, $k$ must be an integer between $3$ and $32$. There are $\\boxed{30}$ such integers.",
+    "gpt_response": "To find the two-digit positive integers that are congruent to 1 (mod 3), we need to look for numbers that leave a remainder of 1 when divided by 3. \n\nThe two-digit numbers that are congruent to 1 (mod 3) are: 10, 13, 16, 19, 22, 25, 28, 31, 34, 37, 40, 43, 46, 49, 52, 55, 58, 61, 64, 67, 70, 73, 76, 79, 82, 85, 88, 91, 94, 97.\n\nThere are a total of 30 two-digit positive integers that are congruent to 1 (mod 3).",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 30?: To find the two-digit positive integers that are congruent to 1 (mod 3), we need to look for numbers that leave a remainder of 1 when divided by 3. \n\nThe two-digit numbers that are congruent to 1 (mod 3) are: 10, 13, 16, 19, 22, 25, 28, 31, 34, 37, 40, 43, 46, 49, 52, 55, 58, 61, 64, 67, 70, 73, 76, 79, 82, 85, 88, 91, 94, 97.\n\nThere are a total of 30 two-digit positive integers that are congruent to 1 (mod 3).",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

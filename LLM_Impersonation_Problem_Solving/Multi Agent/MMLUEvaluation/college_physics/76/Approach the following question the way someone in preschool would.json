@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. A 10 kg box slides horizontally without friction at a speed of 1 m/s. At one point, a constant force is applied to the box in the direction of its motion. The box travels 5 m with the constant force applied. The force is then removed, leaving the box with a speed of 2 m/s. Which of the following gives the magnitude of the applied force?\nA: 1 N\nB: 2 N\nC: 3 N\nD: 4 N",
+    "solution": "C",
+    "gpt_response": "Wheee! The box is sliding and sliding! Wee! Someone pushes it with a force! It keeps going and going! Wheee! Then the force is gone, but it still moves! Yay! How much force was that? Hmm, maybe it was 2 N. Yay!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to C?: Wheee! The box is sliding and sliding! Wee! Someone pushes it with a force! It keeps going and going! Wheee! Then the force is gone, but it still moves! Yay! How much force was that? Hmm, maybe it was 2 N. Yay!",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

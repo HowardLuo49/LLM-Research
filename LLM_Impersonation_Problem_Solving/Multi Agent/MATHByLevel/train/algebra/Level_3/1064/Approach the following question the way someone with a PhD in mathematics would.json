@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. A line has a slope of $-7$ and contains the point $(3,0)$. The equation of this line can be written in the form $y = mx+b$. What is the value of $m+b$?",
+    "solution": "First, remember that the slope of a line in the form of $y=mx+b$ is equal to $m$.  So, the line must take the form $y=-7x+b$.  Next, substitute the point $(3,0)$ and solve for $b$: \\begin{align*}\n0&=-7(3)+b\\\\\n\\Rightarrow\\qquad 0&=-21+b\\\\\n\\Rightarrow\\qquad 21&=b\n\\end{align*} Therefore, the value of $m+b$ is $-7+21=\\boxed{14}$.",
+    "gpt_response": "To find the equation of a line with a given slope and passing through a given point, we can use the point-slope form of a linear equation: $y-y_1=m(x-x_1)$ where $(x_1, y_1)$ is the given point and $m$ is the slope.\n\nIn this case, the slope $m = -7$ and the point $(3,0)$ is given. Plugging these values into the point-slope form, we get:\n\n$y-0 = -7(x-3)$\n\nSimplifying this, we get:\n\n$y = -7x + 21$\n\nThis is in the form $y = mx + b$ where $m = -7$ and $b=21$. \n\nTherefore, the value of $m+b$ is $-7 + 21 = 14$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 14?: To find the equation of a line with a given slope and passing through a given point, we can use the point-slope form of a linear equation: $y-y_1=m(x-x_1)$ where $(x_1, y_1)$ is the given point and $m$ is the slope.\n\nIn this case, the slope $m = -7$ and the point $(3,0)$ is given. Plugging these values into the point-slope form, we get:\n\n$y-0 = -7(x-3)$\n\nSimplifying this, we get:\n\n$y = -7x + 21$\n\nThis is in the form $y = mx + b$ where $m = -7$ and $b=21$. \n\nTherefore, the value of $m+b$ is $-7 + 21 = 14$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

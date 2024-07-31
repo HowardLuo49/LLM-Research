@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in engineering would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in engineering would. What is the molecular formula of CCC1=CSC(=N1)CC(C)O?\nAnswer:",
+    "solution": [
+        "C8H13NOS"
+    ],
+    "gpt_response": "The molecular formula of CCC1=CSC(=N1)CC(C)O is C9H15NOS. This can be determined by calculating the total number of carbon, hydrogen, nitrogen, and sulfur atoms in the compound.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response ['C8H13NOS']?: The molecular formula of CCC1=CSC(=N1)CC(C)O is C9H15NOS. This can be determined by calculating the total number of carbon, hydrogen, nitrogen, and sulfur atoms in the compound.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

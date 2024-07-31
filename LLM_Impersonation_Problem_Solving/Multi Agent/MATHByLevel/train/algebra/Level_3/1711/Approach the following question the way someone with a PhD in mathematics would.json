@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. Find the ordered pair $(x,y)$ if\n\n\\begin{align*}\nx+y&=(5-x)+(5-y),\\\\\nx-y&=(x-1)+(y-1).\n\\end{align*}",
+    "solution": "Adding the equations, we get\n\n$$2x=8\\Rightarrow x=4.$$Substituting this into the first equation, we get\n\n$$4+y=1+5-y\\Rightarrow y=1.$$Thus the ordered pair is $\\boxed{(4,1)}$.",
+    "gpt_response": "To solve the given system of equations, we can first simplify them:\n\nFrom the first equation, we have:\n$$x+y = 10-x-y$$\nwhich simplifies to:\n$$2x + 2y = 10$$\nDividing by 2:\n$$x+y = 5$$\n\nFrom the second equation, we have:\n$$x-y = x+y-2$$\nwhich simplifies to:\n$$-2y = -2$$\nDividing by -2:\n$$y = 1$$\n\nNow we can substitute $y=1$ into the equation $x+y=5$:\n$$x+1=5$$\n$$x=4$$\n\nTherefore, the ordered pair $(x,y)$ is $\\boxed{(4,1)}$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to (4,1)?: To solve the given system of equations, we can first simplify them:\n\nFrom the first equation, we have:\n$$x+y = 10-x-y$$\nwhich simplifies to:\n$$2x + 2y = 10$$\nDividing by 2:\n$$x+y = 5$$\n\nFrom the second equation, we have:\n$$x-y = x+y-2$$\nwhich simplifies to:\n$$-2y = -2$$\nDividing by -2:\n$$y = 1$$\n\nNow we can substitute $y=1$ into the equation $x+y=5$:\n$$x+1=5$$\n$$x=4$$\n\nTherefore, the ordered pair $(x,y)$ is $\\boxed{(4,1)}$.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "yes_no": "yes"
+}

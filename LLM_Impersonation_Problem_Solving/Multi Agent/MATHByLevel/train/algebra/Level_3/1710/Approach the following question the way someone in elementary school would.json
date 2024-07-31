@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. Evaluate $\\lfloor 3.2\\rfloor$.",
+    "solution": "Since $3$ is the greatest integer that is less than or equal to $3.2,$ we have that $\\lfloor 3.2\\rfloor = \\boxed{3}.$",
+    "gpt_response": "To solve this problem, first we look at the number 3.2. The $\\lfloor$ symbol means we have to find the greatest whole number less than or equal to 3.2. Since 3 is the greatest whole number that is less than or equal to 3.2, the answer is 3.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 3?: To solve this problem, first we look at the number 3.2. The $\\lfloor$ symbol means we have to find the greatest whole number less than or equal to 3.2. Since 3 is the greatest whole number that is less than or equal to 3.2, the answer is 3.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "yes_no": "yes"
+}

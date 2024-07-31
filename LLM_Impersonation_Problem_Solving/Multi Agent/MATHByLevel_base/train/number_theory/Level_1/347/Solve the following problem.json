@@ -1,0 +1,10 @@
+{
+    "prefix": "Solve the following problem. ",
+    "problem_prompt": "Solve the following problem. What is the greatest possible three-digit number that is divisible by 3 and divisible by 6?",
+    "solution": "The number must be even and divisible by 3. Counting down from 999, the first number that satisfies both these properties is $\\boxed{996}$.",
+    "gpt_response": "To find the greatest possible three-digit number that is divisible by both 3 and 6, we need to find the highest common multiple of these two numbers. The highest common multiple of 3 and 6 is their least common multiple, which is 6.\n\nTo find the greatest three-digit number that is divisible by 6, we need to find the highest three-digit multiple of 6. We start by dividing 999 by 6 to find the highest multiple of 6 that is less than 999:\n\n999 / 6 = 166 with a remainder of 3\n\nSo, the highest three-digit multiple of 6 is 996.\n\nTherefore, the greatest possible three-digit number that is divisible by both 3 and 6 is 996.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 996?: To find the greatest possible three-digit number that is divisible by both 3 and 6, we need to find the highest common multiple of these two numbers. The highest common multiple of 3 and 6 is their least common multiple, which is 6.\n\nTo find the greatest three-digit number that is divisible by 6, we need to find the highest three-digit multiple of 6. We start by dividing 999 by 6 to find the highest multiple of 6 that is less than 999:\n\n999 / 6 = 166 with a remainder of 3\n\nSo, the highest three-digit multiple of 6 is 996.\n\nTherefore, the greatest possible three-digit number that is divisible by both 3 and 6 is 996.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes"
+}

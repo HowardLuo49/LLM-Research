@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Rationalize the denominator: $\\frac{1}{\\sqrt{2}-1}$. Express your answer in simplest form.",
+    "solution": "To get the square root out of the denominator, we can multiply the numerator and denominator by $(\\sqrt{2}+1)$ so that the $\\sqrt{2}$ is squared and $\\sqrt{2}$ and $-\\sqrt{2}$ cancel each other out.  $$\\frac{1}{\\sqrt{2}-1}\\cdot\\frac{\\sqrt{2}+1}{\\sqrt{2}+1}=\\frac{\\sqrt{2}+1}{2-\\sqrt{2}+\\sqrt{2}-1}=\\frac{\\sqrt{2}+1}{1}=\\boxed{\\sqrt{2}+1}$$",
+    "gpt_response": "To rationalize the denominator of $\\frac{1}{\\sqrt{2}-1}$, we multiply both the numerator and denominator by the conjugate of the denominator, which is $\\sqrt{2}+1$.\n\nWhen we do this, we get:\n\n$\\frac{1}{\\sqrt{2}-1} \\cdot \\frac{\\sqrt{2}+1}{\\sqrt{2}+1} = \\frac{\\sqrt{2}+1}{(\\sqrt{2}-1)(\\sqrt{2}+1)} = \\frac{\\sqrt{2}+1}{2-1} = \\sqrt{2} + 1$\n\nTherefore, the rationalized form of $\\frac{1}{\\sqrt{2}-1}$ is $\\sqrt{2}+1$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to \\sqrt{2?: To rationalize the denominator of $\\frac{1}{\\sqrt{2}-1}$, we multiply both the numerator and denominator by the conjugate of the denominator, which is $\\sqrt{2}+1$.\n\nWhen we do this, we get:\n\n$\\frac{1}{\\sqrt{2}-1} \\cdot \\frac{\\sqrt{2}+1}{\\sqrt{2}+1} = \\frac{\\sqrt{2}+1}{(\\sqrt{2}-1)(\\sqrt{2}+1)} = \\frac{\\sqrt{2}+1}{2-1} = \\sqrt{2} + 1$\n\nTherefore, the rationalized form of $\\frac{1}{\\sqrt{2}-1}$ is $\\sqrt{2}+1$.",
+    "gpt_response_correct_incorrect": "No. The final solution obtained is not equal to $\\sqrt{2}$.",
+    "yes_no": "no"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Assume that the solar flux at Earth\u2019s surface is 1,000 W/m^2 and that the sunlight is normal to a completely reflecting surface with an area of 3 m^2. What is the total radiation force exerted on the surface?\nA: 2 x 10^-6 N\nB: 1 x 10^-5 N\nC: 2 x 10^-5 N\nD: 3 N",
+    "solution": "C",
+    "gpt_response": "Let's see, when the sun shines on the wall and reflects, it pushes the wall a little bit. We have to find out how much it pushes! The sun's power is 1,000 W for every square meter, and the wall has 3 square meters. So we take 1,000 and multiply it by 3 to get 3,000 W. But we have to change it to Newtons because that's how we measure force. So we divide by the speed of light, which is 3 x 10^8 meters per second, to get 1 x 10^-5 N. That's how much the sun pushes on the wall! So the answer is B: 1 x 10^-5 N. Yay! \ud83c\udf1e\ud83c\udf1f",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to C?: Let's see, when the sun shines on the wall and reflects, it pushes the wall a little bit. We have to find out how much it pushes! The sun's power is 1,000 W for every square meter, and the wall has 3 square meters. So we take 1,000 and multiply it by 3 to get 3,000 W. But we have to change it to Newtons because that's how we measure force. So we divide by the speed of light, which is 3 x 10^8 meters per second, to get 1 x 10^-5 N. That's how much the sun pushes on the wall! So the answer is B: 1 x 10^-5 N. Yay! \ud83c\udf1e\ud83c\udf1f",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

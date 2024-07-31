@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. Samson derives utility according the relation  $$\\text{Utility} = \\text{hours of math done} \\times \\text{hours of frisbee played}.$$On Monday he plays $t$ hours of frisbee and spends $8 - t$ hours doing math.  On Tuesday, he ends up getting the same amount of utility as Monday while spending $2-t$ hours playing frisbee and $t+3$ hours on math.  Find $t$.  Answer as a fraction in lowest terms.",
+    "solution": "Since he derived equal utility from both days, we have $$t (8 - t) = (2 - t)(t + 3),$$so $$8t - t^2 = -t^2 -t + 6.$$Simplifying gives $t = \\boxed{\\frac{2}{3}}$.",
+    "gpt_response": "To find $t$, we need to set up an equation. On Monday, his utility is $t \\times (8-t)$ hours. On Tuesday, his utility is $(2-t) \\times (t+3)$ hours. Since we know these utilities are the same, we can set them equal to each other and solve for $t$.\n\n$$t(8-t) = (2-t)(t+3)$$\n$$8t - t^2 = 2t + 6 - t^2 - 3t$$\n$$8t - 2t = 6 - 3t$$\n$$6t = 6$$\n$$t = \\frac{6}{6} = 1$$\n\nTherefore, $t = \\frac{1}{1}$ or $t = 1$. So, Samson played $1$ hour of frisbee on Monday.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to \\frac{2?: To find $t$, we need to set up an equation. On Monday, his utility is $t \\times (8-t)$ hours. On Tuesday, his utility is $(2-t) \\times (t+3)$ hours. Since we know these utilities are the same, we can set them equal to each other and solve for $t$.\n\n$$t(8-t) = (2-t)(t+3)$$\n$$8t - t^2 = 2t + 6 - t^2 - 3t$$\n$$8t - 2t = 6 - 3t$$\n$$6t = 6$$\n$$t = \\frac{6}{6} = 1$$\n\nTherefore, $t = \\frac{1}{1}$ or $t = 1$. So, Samson played $1$ hour of frisbee on Monday.",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

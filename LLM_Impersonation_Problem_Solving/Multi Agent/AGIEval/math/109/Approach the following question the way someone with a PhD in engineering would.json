@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in engineering would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in engineering would. Which type of conic section is described by the equation \\[x^2 = 2x + 2y - 3?\\]Enter \"C\" for circle, \"P\" for parabola, \"E\" for ellipse, \"H\" for hyperbola, and \"N\" for none of the above.",
+    "solution": "\\text{(P)}",
+    "gpt_response": "To determine the type of conic section represented by the given equation, we need to analyze the coefficients of the terms involved. The general equation of a conic section is Ax^2 + Bxy + Cy^2 + Dx + Ey + F = 0. Comparing this general form with the given equation x^2 = 2x + 2y - 3, we see that A=1, B=0, C=0, D=-2, E=-2, F=3.\n\nFor a conic section to be a circle, ellipse, parabola, or hyperbola, the discriminant \u0394 = det \\[ \\begin{bmatrix} A & B/2 \\\\ B/2 & C \\end{bmatrix} \\] should be non-zero. In this case, \u0394 = -1 is non-zero, indicating that the conic section is not a degenerate case.\n\nTherefore, the type of conic section described by the given equation is a parabola. In general, the equation of a parabola is of the form y = ax^2 + bx + c or x = ay^2 + by + c.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response \\text{(P)}?: To determine the type of conic section represented by the given equation, we need to analyze the coefficients of the terms involved. The general equation of a conic section is Ax^2 + Bxy + Cy^2 + Dx + Ey + F = 0. Comparing this general form with the given equation x^2 = 2x + 2y - 3, we see that A=1, B=0, C=0, D=-2, E=-2, F=3.\n\nFor a conic section to be a circle, ellipse, parabola, or hyperbola, the discriminant \u0394 = det \\[ \\begin{bmatrix} A & B/2 \\\\ B/2 & C \\end{bmatrix} \\] should be non-zero. In this case, \u0394 = -1 is non-zero, indicating that the conic section is not a degenerate case.\n\nTherefore, the type of conic section described by the given equation is a parabola. In general, the equation of a parabola is of the form y = ax^2 + bx + c or x = ay^2 + by + c.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "P",
+    "difficulty_value": "N/A"
+}

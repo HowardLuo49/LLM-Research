@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. The mean kinetic energy of the conduction electrons in metals is ordinarily much higher than kT because\nA: electrons have many more degrees of freedom than atoms do\nB: the electrons and the lattice are not in thermal equilibrium\nC: the electrons form a degenerate Fermi gas\nD: electrons in metals are highly relativistic",
+    "solution": "C",
+    "gpt_response": "Well, I think the answer is A: electrons have many more degrees of freedom than atoms do. This means that electrons can move around more freely and have more energy compared to atoms.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to C?: Well, I think the answer is A: electrons have many more degrees of freedom than atoms do. This means that electrons can move around more freely and have more energy compared to atoms.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. What is the molecular formula of 4-ethenoxybutyl formate?\nAnswer:",
+    "solution": [
+        "C7H12O3"
+    ],
+    "gpt_response": "The molecular formula of 4-ethenoxybutyl formate is C8H14O3. This compound contains an ethenoxy (CH2CH-O-) group attached to a butyl chain, with a formate functional group (HCOO-) at one end. The molecular formula represents the total number of atoms of each element present in the compound.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response ['C7H12O3']?: The molecular formula of 4-ethenoxybutyl formate is C8H14O3. This compound contains an ethenoxy (CH2CH-O-) group attached to a butyl chain, with a formate functional group (HCOO-) at one end. The molecular formula represents the total number of atoms of each element present in the compound.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

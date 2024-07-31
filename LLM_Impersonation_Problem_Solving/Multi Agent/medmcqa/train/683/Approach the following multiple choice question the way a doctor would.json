@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. A 52 year old male presents to his physician with a chief complaint of a substantial increase in the size of his breasts over the past few months. Three months ago he was diagnosed with hypeension, and placed on antihypeensive medication. Which of the following medications was most likely prescribed?\n1: Captopril\n2: Furosemide\n3: Hydrochlorothiazide\n4: Spironolactone",
+    "solution": 4,
+    "gpt_response": "Based on the patient's presenting symptoms of gynecomastia (enlarged breast tissue), the most likely medication prescribed that could cause this side effect is Spironolactone. Spironolactone is a potassium-sparing diuretic commonly used to treat hypertension and heart failure, but can also cause hormonal imbalances leading to breast enlargement in men as a side effect.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 4?: Based on the patient's presenting symptoms of gynecomastia (enlarged breast tissue), the most likely medication prescribed that could cause this side effect is Spironolactone. Spironolactone is a potassium-sparing diuretic commonly used to treat hypertension and heart failure, but can also cause hormonal imbalances leading to breast enlargement in men as a side effect.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

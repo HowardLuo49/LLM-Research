@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. HIV can -\n1: Cross blood brain barrier\n2: RNA virus\n3: Inhibited by 0.3% H2O2\n4: Thermostable",
+    "solution": 1,
+    "gpt_response": "As a doctor, I would approach this question by considering the characteristics of HIV and how they relate to the options provided.\n\n1: HIV can cross the blood brain barrier, allowing it to enter the central nervous system and potentially cause neurological complications in infected individuals.\n\n2: HIV is a retrovirus, meaning it contains RNA as its genetic material. This is a characteristic of the virus.\n\n3: HIV is not easily inactivated by 0.3% hydrogen peroxide (H2O2). It typically requires more potent disinfectants to effectively kill the virus.\n\n4: HIV is not thermostable, meaning it is not resistant to heat. High temperatures can effectively inactivate the virus.\n\nTherefore, based on my medical knowledge, I would choose option 1 as the correct answer: HIV can cross the blood brain barrier.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: As a doctor, I would approach this question by considering the characteristics of HIV and how they relate to the options provided.\n\n1: HIV can cross the blood brain barrier, allowing it to enter the central nervous system and potentially cause neurological complications in infected individuals.\n\n2: HIV is a retrovirus, meaning it contains RNA as its genetic material. This is a characteristic of the virus.\n\n3: HIV is not easily inactivated by 0.3% hydrogen peroxide (H2O2). It typically requires more potent disinfectants to effectively kill the virus.\n\n4: HIV is not thermostable, meaning it is not resistant to heat. High temperatures can effectively inactivate the virus.\n\nTherefore, based on my medical knowledge, I would choose option 1 as the correct answer: HIV can cross the blood brain barrier.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

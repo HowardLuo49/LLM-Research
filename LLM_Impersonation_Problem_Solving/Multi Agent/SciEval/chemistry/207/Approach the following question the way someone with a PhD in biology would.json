@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. What is the name of C4H13NOP2?\nAnswer:",
+    "solution": [
+        "4-amino-1,1-bis(phosphanyl)butan-1-ol"
+    ],
+    "gpt_response": "The chemical compound C4H13NOP2 is commonly known as choline. Choline is a vital nutrient that is important for various physiological functions, including cell membrane structure, neurotransmitter synthesis, and lipid transport. In the body, choline is converted into acetylcholine, a neurotransmitter that plays a crucial role in cognitive function and muscle control. Choline deficiency can lead to liver and muscle dysfunction, as well as neurological disorders. It is considered an essential nutrient and is found in various foods, such as eggs, meat, and dairy products.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response ['4-amino-1,1-bis(phosphanyl)butan-1-ol']?: The chemical compound C4H13NOP2 is commonly known as choline. Choline is a vital nutrient that is important for various physiological functions, including cell membrane structure, neurotransmitter synthesis, and lipid transport. In the body, choline is converted into acetylcholine, a neurotransmitter that plays a crucial role in cognitive function and muscle control. Choline deficiency can lead to liver and muscle dysfunction, as well as neurological disorders. It is considered an essential nutrient and is found in various foods, such as eggs, meat, and dairy products.",
+    "gpt_response_correct_incorrect": "No, the final solution obtained in the response is not '4-amino-1,1-bis(phosphanyl)butan-1-ol'.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

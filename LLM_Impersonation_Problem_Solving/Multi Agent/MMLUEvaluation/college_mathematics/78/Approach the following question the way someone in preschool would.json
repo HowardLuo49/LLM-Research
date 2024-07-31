@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. A total of x feet of fencing is to form three sides of a level rectangular yard. What is the maximum possible area of the yard, in terms of x ?\nA: x^2/9\nB: x^2/8\nC: x^2/4\nD: x^2",
+    "solution": "B",
+    "gpt_response": "Teacher: Okay class, so we have x feet of fencing to make a rectangle yard with three sides. How can we make the yard as big as possible? Let's think about this together. Let's say one side is x, what about the other two sides? Oh, can someone help me find out the maximum area of the yard in terms of x?",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to B?: Teacher: Okay class, so we have x feet of fencing to make a rectangle yard with three sides. How can we make the yard as big as possible? Let's think about this together. Let's say one side is x, what about the other two sides? Oh, can someone help me find out the maximum area of the yard in terms of x?",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. What is the distance, in units, between the points $(3, -2)$ and $(7, 5)$?",
+    "solution": "We use the distance formula:  $$\\sqrt{(7 - 3)^2 + (5 - (-2))^2} = \\sqrt{4^2 + 7^2} = \\sqrt{16 + 49} = \\boxed{\\sqrt{65}}.$$",
+    "gpt_response": "To find the distance between the points $(3, -2)$ and $(7, 5)$, we need to count how many squares we have to walk on a grid. Let's start at $(3, -2)$ and walk to $(7, 5)$. We go right four squares and up seven squares. So the distance is $4 + 7 = 11$ units. Yay, we did it!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to \\sqrt{65?: To find the distance between the points $(3, -2)$ and $(7, 5)$, we need to count how many squares we have to walk on a grid. Let's start at $(3, -2)$ and walk to $(7, 5)$. We go right four squares and up seven squares. So the distance is $4 + 7 = 11$ units. Yay, we did it!",
+    "gpt_response_correct_incorrect": "No",
+    "yes_no": "no"
+}

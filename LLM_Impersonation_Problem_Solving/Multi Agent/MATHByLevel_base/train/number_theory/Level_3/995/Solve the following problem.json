@@ -1,0 +1,10 @@
+{
+    "prefix": "Solve the following problem. ",
+    "problem_prompt": "Solve the following problem. Find a positive integer that is divisible by 14 and has a square root between 25 and 25.3.",
+    "solution": "The second condition tells us that the integer must be between $25^2 = 625$ and $(25.3)^2 \\approx 640$. The only multiple of 14 in this range is $\\boxed{630}.$  (One easy way to find a multiple of 14 is to find a number that is both a multiple of 2 and a multiple of 7.)",
+    "gpt_response": "To find a positive integer that is divisible by 14 and has a square root between 25 and 25.3, we first need to determine the range of values for the positive integer.\n\nSince the square root of a number is between 25 and 25.3, the number itself must be between 25^2 = 625 and 25.3^2 = 640.09. \n\nNext, we need to find the smallest positive integer in this range that is divisible by 14. \n\nThe smallest multiple of 14 in this range is 630, as 630/14 = 45 and 630 is the next multiple of 14 greater than 625.\n\nTherefore, the positive integer that is divisible by 14 and has a square root between 25 and 25.3 is 630.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 630?: To find a positive integer that is divisible by 14 and has a square root between 25 and 25.3, we first need to determine the range of values for the positive integer.\n\nSince the square root of a number is between 25 and 25.3, the number itself must be between 25^2 = 625 and 25.3^2 = 640.09. \n\nNext, we need to find the smallest positive integer in this range that is divisible by 14. \n\nThe smallest multiple of 14 in this range is 630, as 630/14 = 45 and 630 is the next multiple of 14 greater than 625.\n\nTherefore, the positive integer that is divisible by 14 and has a square root between 25 and 25.3 is 630.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes"
+}

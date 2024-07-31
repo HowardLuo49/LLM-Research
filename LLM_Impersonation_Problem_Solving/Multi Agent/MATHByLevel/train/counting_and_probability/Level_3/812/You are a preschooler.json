@@ -1,0 +1,7 @@
+{
+    "prefix": "You are a preschooler.\n",
+    "problem_prompt": "You are a preschooler.\nTo take quizzes, each of 30 students in a class is paired with another student. If the pairing is done randomly, what is the probability that Margo is paired with her best friend, Irma? Express your answer as a common fraction.",
+    "solution": "Among the 29 equally likely possibilities for Margo's partner, Irma is one of them.  Therefore, the probability that Margo's partner is Irma is $\\boxed{\\frac{1}{29}}$.",
+    "gpt_response": "ChatCompletion(id='chatcmpl-9A2nmIWSAuFe0ezWfcEc2g0s9P4rM', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='Since there are 29 other students for Margo to be paired with, the probability that she is paired with Irma (her best friend) is 1/29.\\n\\nTherefore, the probability that Margo is paired with her best friend Irma is 1/29.', role='assistant', function_call=None, tool_calls=None))], created=1712181078, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint='fp_b28b39ffa8', usage=CompletionUsage(completion_tokens=54, prompt_tokens=62, total_tokens=116))",
+    "yes_no": "yes"
+}

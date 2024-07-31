@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. A patient present with lower gastrointestinal bleed. Sigmoidoscopy shows ulcers inthe sigmoid. Biopsy from this area shows flask-shaped ulcers. Which of the following is the most appropriate treatment -\n1: Intravenous ceftriaxone\n2: Intravenous metronidazole\n3: Intravenous steroids and sulphasalazine\n4: Hydrocoisone enemas",
+    "solution": 2,
+    "gpt_response": "As a doctor, when presented with a patient with lower gastrointestinal bleed, sigmoidoscopy findings of ulcers in the sigmoid, and biopsy findings of flask-shaped ulcers, the most appropriate treatment would be option 3: Intravenous steroids and sulphasalazine. \n\nThis combination therapy is commonly used to treat inflammatory bowel disease, which can cause ulcers in the gastrointestinal tract. Steroids help reduce inflammation and sulphasalazine is a medication that works as an anti-inflammatory and immunosuppressive agent.\n\nOptions 1 and 2 (Intravenous ceftriaxone and metronidazole) are antibiotics and would not be appropriate for treating ulcerative colitis. Option 4 (Hydrocortisone enemas) may help with symptoms but may not address the underlying cause of the ulcers in the sigmoid.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: As a doctor, when presented with a patient with lower gastrointestinal bleed, sigmoidoscopy findings of ulcers in the sigmoid, and biopsy findings of flask-shaped ulcers, the most appropriate treatment would be option 3: Intravenous steroids and sulphasalazine. \n\nThis combination therapy is commonly used to treat inflammatory bowel disease, which can cause ulcers in the gastrointestinal tract. Steroids help reduce inflammation and sulphasalazine is a medication that works as an anti-inflammatory and immunosuppressive agent.\n\nOptions 1 and 2 (Intravenous ceftriaxone and metronidazole) are antibiotics and would not be appropriate for treating ulcerative colitis. Option 4 (Hydrocortisone enemas) may help with symptoms but may not address the underlying cause of the ulcers in the sigmoid.",
+    "gpt_response_correct_incorrect": "No, the final solution obtained in the response is not option 2.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

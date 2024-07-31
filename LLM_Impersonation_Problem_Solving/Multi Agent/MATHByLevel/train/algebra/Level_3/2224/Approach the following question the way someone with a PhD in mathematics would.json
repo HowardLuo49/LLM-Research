@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. Simplify $$(x^3+4x^2-7x+11)+(-4x^4-x^3+x^2+7x+3).$$  Express your answer as a polynomial with the terms in order by decreasing degree.",
+    "solution": "We rearrange the sum to make it easier to collect like terms: \\begin{align*}\n&(x^3+4x^2-7x+11)+(-4x^4-x^3+x^2+7x+3)\\\\\n&\\qquad=-4x^4+(1-1)x^3+(1+4)x^2+(-7+7)x+(11+3)\\\\\n&\\qquad=\\boxed{-4x^4+5x^2+14}.\n\\end{align*}",
+    "gpt_response": "To simplify the expression, we can combine like terms, so we can add the coefficients of the same degree terms. \n\nThe given expression is $$(x^3+4x^2-7x+11)+(-4x^4-x^3+x^2+7x+3).$$\n\nCombining the coefficients:\n- Coefficient of $x^4$ terms: $-4$\n- Coefficient of $x^3$ terms: $1-1=0$\n- Coefficient of $x^2$ terms: $4+1=5$\n- Coefficient of $x$ terms: $-7+7=0$\n- Constant terms: $11+3=14$\n\nThe simplified expression is $$-4x^4+5x^2+14.$$",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to -4x^4+5x^2+14?: To simplify the expression, we can combine like terms, so we can add the coefficients of the same degree terms. \n\nThe given expression is $$(x^3+4x^2-7x+11)+(-4x^4-x^3+x^2+7x+3).$$\n\nCombining the coefficients:\n- Coefficient of $x^4$ terms: $-4$\n- Coefficient of $x^3$ terms: $1-1=0$\n- Coefficient of $x^2$ terms: $4+1=5$\n- Coefficient of $x$ terms: $-7+7=0$\n- Constant terms: $11+3=14$\n\nThe simplified expression is $$-4x^4+5x^2+14.$$",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

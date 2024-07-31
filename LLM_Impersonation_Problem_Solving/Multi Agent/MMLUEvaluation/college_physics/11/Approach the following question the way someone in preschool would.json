@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. The coefficient of static friction between a small coin and the surface of a turntable is 0.30. The turntable rotates at 33.3 revolutions per minute. What is the maximum distance from the center of the turntable at which the coin will not slide?\nA: 0.024 m\nB: 0.048 m\nC: 0.121 m\nD: 0.242 m",
+    "solution": "D",
+    "gpt_response": "Wow, that's a tough question! Let's see... when we spin the turntable really fast, the coin might stay still if the friction is strong enough. So the answer must be where the coin won't slide off. Hmm... I think the answer is B, 0.048 m!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: Wow, that's a tough question! Let's see... when we spin the turntable really fast, the coin might stay still if the friction is strong enough. So the answer must be where the coin won't slide off. Hmm... I think the answer is B, 0.048 m!",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

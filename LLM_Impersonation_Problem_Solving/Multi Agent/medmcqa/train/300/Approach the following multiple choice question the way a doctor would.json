@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Least conduction velocity is seen in:\n1: AV node\n2: Purkinje fibers\n3: Bundle of His\n4: Ventricular myocardial fibres",
+    "solution": 1,
+    "gpt_response": "As a doctor, the correct approach to this question would be to consider the anatomy and physiology of the cardiac conduction system. The conduction velocity of an area is determined by the size and structure of the fibers involved in transmitting electrical impulses. \n\nIn this case, the structure with the least conduction velocity would be one that is smaller and less muscular. Among the options provided, the AV node is known to have the slowest conduction velocity in the heart, as it serves as a natural delay in the transmission of electrical impulses to allow for proper coordination of atrial and ventricular contractions. \n\nTherefore, the correct answer to this question would be option 1: AV node.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: As a doctor, the correct approach to this question would be to consider the anatomy and physiology of the cardiac conduction system. The conduction velocity of an area is determined by the size and structure of the fibers involved in transmitting electrical impulses. \n\nIn this case, the structure with the least conduction velocity would be one that is smaller and less muscular. Among the options provided, the AV node is known to have the slowest conduction velocity in the heart, as it serves as a natural delay in the transmission of electrical impulses to allow for proper coordination of atrial and ventricular contractions. \n\nTherefore, the correct answer to this question would be option 1: AV node.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

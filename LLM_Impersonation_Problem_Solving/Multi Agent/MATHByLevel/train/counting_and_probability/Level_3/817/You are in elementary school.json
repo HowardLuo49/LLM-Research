@@ -1,0 +1,7 @@
+{
+    "prefix": "You are in elementary school.\n",
+    "problem_prompt": "You are in elementary school.\nEight women of different heights are at a party. Each woman decides to only shake hands with women shorter than herself. How many handshakes take place?",
+    "solution": "Because the women are of different heights, any handshake will take place between two people, one of whom is taller than the other. Of course, the shorter of the two will not participate in the handshake because her handshake partner is not shorter than herself. Applying this logic to all of the pairs, there are $\\boxed{0}$ handshakes.",
+    "gpt_response": "ChatCompletion(id='chatcmpl-9A2w5SKGRmwwYg9k6xxuecodb2mW4', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='There would be no handshakes taking place in this scenario, as each woman only shakes hands with women shorter than herself.', role='assistant', function_call=None, tool_calls=None))], created=1712181593, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint='fp_b28b39ffa8', usage=CompletionUsage(completion_tokens=25, prompt_tokens=44, total_tokens=69))",
+    "yes_no": "yes"
+}

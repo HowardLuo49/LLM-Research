@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Which bacteria acts by inhibiting protein synthesis?\n1: Pseudomonas\n2: Staphylococcus\n3: Streptococcus\n4: Klebsiella",
+    "solution": 1,
+    "gpt_response": "The correct choice is 1: Pseudomonas. This bacteria acts by inhibiting protein synthesis.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: The correct choice is 1: Pseudomonas. This bacteria acts by inhibiting protein synthesis.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

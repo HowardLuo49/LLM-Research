@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. What is the SMILES expression of [2-(4-methoxybutylamino)cyclopentyl]methanol?\nAnswer:",
+    "solution": [
+        "COCCCCNC1CCCC1CO"
+    ],
+    "gpt_response": "The SMILES expression of [2-(4-methoxybutylamino)cyclopentyl]methanol can be written as COc1ccc(CCNC(C)CCO)c2CCCC2c1.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response ['COCCCCNC1CCCC1CO']?: The SMILES expression of [2-(4-methoxybutylamino)cyclopentyl]methanol can be written as COc1ccc(CCNC(C)CCO)c2CCCC2c1.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

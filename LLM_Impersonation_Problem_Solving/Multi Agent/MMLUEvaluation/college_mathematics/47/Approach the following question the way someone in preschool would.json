@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. In the xy-plane, the curve with parametric equations x = cos t and y = sin t, 0 <= t <= pi, has length\nA: 3\nB: pi\nC: 3pi\nD: 3/2",
+    "solution": "B",
+    "gpt_response": "Okay, let's imagine there is a little bug walking along a curvy path in the xy-plane. The bug is going around a circle! The x-coordinate of the bug is the cosine of t and the y-coordinate is the sine of t. When t is between 0 and pi, the bug is walking halfway around the circle. So, the length of the curve that the bug walks is half the circumference of the circle. The circumference of a circle is 2 times pi times the radius, and since the radius is 1, the circumference is 2pi. So, our bug walks half of that distance, which is pi. So the answer is B: pi. Yay bug!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to B?: Okay, let's imagine there is a little bug walking along a curvy path in the xy-plane. The bug is going around a circle! The x-coordinate of the bug is the cosine of t and the y-coordinate is the sine of t. When t is between 0 and pi, the bug is walking halfway around the circle. So, the length of the curve that the bug walks is half the circumference of the circle. The circumference of a circle is 2 times pi times the radius, and since the radius is 1, the circumference is 2pi. So, our bug walks half of that distance, which is pi. So the answer is B: pi. Yay bug!",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

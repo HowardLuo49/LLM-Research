@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. What is the sum of all the positive divisors of 91?",
+    "solution": "The prime factorization of $91$ is $7 \\cdot 13$. It follows that the sum of the divisors of $91$ is equal to $(1 + 7)(1 + 13)$, as each factor of $91$ is represented when the product is expanded. It follows that the answer is equal to $(1 + 7)(1 + 13) = (8)(14)$, or $\\boxed{112}$.",
+    "gpt_response": "To find the sum of all positive divisors of 91, we first calculate the prime factorization of 91. \n\n91 can be expressed as 7 * 13. \n\nThe divisors of 91 are 1, 7, 13, and 91. \n\nThe sum of all positive divisors of 91 can be calculated as 1 + 7 + 13 + 91 = 112. \n\nTherefore, the sum of all positive divisors of 91 is 112.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 112?: To find the sum of all positive divisors of 91, we first calculate the prime factorization of 91. \n\n91 can be expressed as 7 * 13. \n\nThe divisors of 91 are 1, 7, 13, and 91. \n\nThe sum of all positive divisors of 91 can be calculated as 1 + 7 + 13 + 91 = 112. \n\nTherefore, the sum of all positive divisors of 91 is 112.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

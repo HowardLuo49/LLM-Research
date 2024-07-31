@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. A large class is to be divided into teams and each student must be a member of exactly one team. However, each student dislikes three of their classmates. Dislike between students need not be mutual. If the teams do not need to be equally sized, how many must be created so that no student is the teammate of someone they dislike?\nA: 4\nB: 7\nC: 10\nD: 13",
+    "solution": "B",
+    "gpt_response": "Let's count how many teams we need! If each student dislikes 3 other students, then we can put them in the same team as 3 students they do like. This means each team will have 4 students. So the answer is 4 teams! So the answer is A: 4. Yay! We did it!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to B?: Let's count how many teams we need! If each student dislikes 3 other students, then we can put them in the same team as 3 students they do like. This means each team will have 4 students. So the answer is 4 teams! So the answer is A: 4. Yay! We did it!",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. Most common organism causing ventilator associated pneumonia -\n1: Legionella\n2: Pneumococcus\n3: Pseudomonas\n4: Coagulase negative staphylococcus",
+    "solution": 3,
+    "gpt_response": "3: Pseudomonas",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: 3: Pseudomonas",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

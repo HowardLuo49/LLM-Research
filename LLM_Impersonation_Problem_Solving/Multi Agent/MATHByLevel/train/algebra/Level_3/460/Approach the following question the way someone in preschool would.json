@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Let \\[f(x) = \\left\\{\n\\begin{array}{cl}\nax+3 & \\text{ if }x>0, \\\\\nab & \\text{ if }x=0, \\\\\nbx+c & \\text{ if }x<0.\n\\end{array}\n\\right.\\]If $f(2)=5$, $f(0)=5$, and $f(-2)=-10$, and $a$, $b$, and $c$ are nonnegative integers, then what is $a+b+c$?",
+    "solution": "Since $2>0$ we know that $f(2)=a(2)+3=5$. Solving for $a$, we get that $a=1$. With $x=0$, we get that $f(0)=ab=5$. We already know that $a=1$, so $b=5$. Because -2 is negative, we know that $f(-2)=b(-2)+c=(5)(-2)+c=-10$. This tells us that $c=0$, so our answer is $a+b+c=1+5+0=\\boxed{6}$.",
+    "gpt_response": "Let's look at the information we have. When $x = 2$, we have $f(2) = 5$. This means $a(2) + 3 = 5$, so $2a + 3 = 5$. Solving this equation, we find that $a = 1$.\n\nNext, when $x = 0$, we have $f(0) = 5$. This means $ab = 5$, and since $a = 1$, we have $b = 5$.\n\nFinally, when $x = -2$, we have $f(-2) = -10$. This means $b(-2) + c = -10$, so $-10 + c = -10$ and $c = 0$.\n\nTherefore, $a + b + c = 1 + 5 + 0 = \\boxed{6}$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 6?: Let's look at the information we have. When $x = 2$, we have $f(2) = 5$. This means $a(2) + 3 = 5$, so $2a + 3 = 5$. Solving this equation, we find that $a = 1$.\n\nNext, when $x = 0$, we have $f(0) = 5$. This means $ab = 5$, and since $a = 1$, we have $b = 5$.\n\nFinally, when $x = -2$, we have $f(-2) = -10$. This means $b(-2) + c = -10$, so $-10 + c = -10$ and $c = 0$.\n\nTherefore, $a + b + c = 1 + 5 + 0 = \\boxed{6}$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. A fair coin is to be tossed 100 times, with each toss resulting in a head or a tail. If H is the total number of heads and T is the total number of tails, which of the following events has the greatest probability?\nA: H = 50\nB: T >= 60\nC: 51 <= H <= 55\nD: H >= 48 and T >= 48",
+    "solution": "D",
+    "gpt_response": "Okay, so we have to figure out which event has the greatest probability! Let's break it down:\n\nA: H = 50. This means there are exactly 50 heads. The probability is 0.08, because there are 100 coin tosses and only one way you can get exactly 50 heads.\n\nB: T >= 60. This means there are 60 or more tails. The probability is 0.009, because there are 100 coin tosses and multiple ways to get 60 or more tails.\n\nC: 51 <= H <= 55. This means there are between 51 and 55 heads. The probability is around 0.22, because there are different ways to get between 51 and 55 heads.\n\nD: H >= 48 and T >= 48. This means there are 48 or more heads and 48 or more tails. The probability is around 0.64, because there are multiple ways to get 48 or more heads and tails.\n\nBased on these probabilities, the event that has the greatest probability is D: H >= 48 and T >= 48.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: Okay, so we have to figure out which event has the greatest probability! Let's break it down:\n\nA: H = 50. This means there are exactly 50 heads. The probability is 0.08, because there are 100 coin tosses and only one way you can get exactly 50 heads.\n\nB: T >= 60. This means there are 60 or more tails. The probability is 0.009, because there are 100 coin tosses and multiple ways to get 60 or more tails.\n\nC: 51 <= H <= 55. This means there are between 51 and 55 heads. The probability is around 0.22, because there are different ways to get between 51 and 55 heads.\n\nD: H >= 48 and T >= 48. This means there are 48 or more heads and 48 or more tails. The probability is around 0.64, because there are multiple ways to get 48 or more heads and tails.\n\nBased on these probabilities, the event that has the greatest probability is D: H >= 48 and T >= 48.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "5",
+    "difficulty_value": "5"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. A three-dimensional harmonic oscillator is in thermal equilibrium with a temperature reservoir at temperature T. The average total energy of the oscillator is\nA: (1/2) k T\nB: kT\nC: (3/2) k T\nD: 3kT",
+    "solution": "D",
+    "gpt_response": "To determine the average total energy of the three-dimensional harmonic oscillator in thermal equilibrium with a temperature reservoir at temperature T, we need to consider the equipartition theorem. According to the equipartition theorem, each quadratic degree of freedom contributes (1/2)kT to the average total energy, where k is the Boltzmann constant.\n\nFor a three-dimensional harmonic oscillator, there are a total of 3 quadratic degrees of freedom (one for each spatial dimension). Thus, the average total energy of the oscillator is given by:\n\nE_avg = (3/2)kT\n\nTherefore, the correct answer is C: (3/2)kT.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: To determine the average total energy of the three-dimensional harmonic oscillator in thermal equilibrium with a temperature reservoir at temperature T, we need to consider the equipartition theorem. According to the equipartition theorem, each quadratic degree of freedom contributes (1/2)kT to the average total energy, where k is the Boltzmann constant.\n\nFor a three-dimensional harmonic oscillator, there are a total of 3 quadratic degrees of freedom (one for each spatial dimension). Thus, the average total energy of the oscillator is given by:\n\nE_avg = (3/2)kT\n\nTherefore, the correct answer is C: (3/2)kT.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "C: 3",
+    "difficulty_value": "3"
+}

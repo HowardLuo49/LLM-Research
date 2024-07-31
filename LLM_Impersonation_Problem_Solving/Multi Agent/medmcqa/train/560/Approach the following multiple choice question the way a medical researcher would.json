@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a medical researcher would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a medical researcher would. Abnormal mousy/mushy odour of urine is associated with\n1: Phenylketonuria\n2: Tyrosinemia\n3: Maple syrup urine disease\n4: Hawkinsuria",
+    "solution": 1,
+    "gpt_response": "As a medical researcher, I would approach this multiple choice question by first considering the known metabolic disorders associated with abnormal odours of urine. In this case, the abnormal mousy/mushy odour of urine is commonly associated with maple syrup urine disease. This disorder affects the metabolism of branched-chain amino acids, leading to the characteristic odour. Therefore, based on this knowledge, I would select option 3: Maple syrup urine disease as the correct answer.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: As a medical researcher, I would approach this multiple choice question by first considering the known metabolic disorders associated with abnormal odours of urine. In this case, the abnormal mousy/mushy odour of urine is commonly associated with maple syrup urine disease. This disorder affects the metabolism of branched-chain amino acids, leading to the characteristic odour. Therefore, based on this knowledge, I would select option 3: Maple syrup urine disease as the correct answer.",
+    "gpt_response_correct_incorrect": "No, the final solution obtained in the response is not option 1.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

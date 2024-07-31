@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. SLE like reaction is caused by\n1: Hydralazine\n2: Rifampicin\n3: Paracetamol\n4: Furosemide",
+    "solution": 1,
+    "gpt_response": "As a physician, I would approach this question by thinking about the medications listed and which ones are known to commonly cause a lupus-like reaction. SLE like reactions are typically associated with medications like hydralazine and procainamide. Therefore, my answer to this question would be:\n\n1: Hydralazine",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: As a physician, I would approach this question by thinking about the medications listed and which ones are known to commonly cause a lupus-like reaction. SLE like reactions are typically associated with medications like hydralazine and procainamide. Therefore, my answer to this question would be:\n\n1: Hydralazine",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

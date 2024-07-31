@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. Serological testing of patient shows HBsAg, IgM Anti-HBc and HBeAg positive . The patient has-\n1: Chronic hepatitis B with low infectivity\n2: Acute hepatitis B with high infectivity\n3: Chronic hepatitis with high in fectivity\n4: Acute on chronic hepatitis",
+    "solution": 2,
+    "gpt_response": "The correct answer is 2: Acute hepatitis B with high infectivity.\n\nThis is because the presence of HBsAg, IgM Anti-HBc and HBeAg positive indicates an acute infection of hepatitis B with high infectivity. HBsAg is the surface antigen of the hepatitis B virus, IgM Anti-HBc indicates recent infection, and HBeAg is a marker of active viral replication.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: The correct answer is 2: Acute hepatitis B with high infectivity.\n\nThis is because the presence of HBsAg, IgM Anti-HBc and HBeAg positive indicates an acute infection of hepatitis B with high infectivity. HBsAg is the surface antigen of the hepatitis B virus, IgM Anti-HBc indicates recent infection, and HBeAg is a marker of active viral replication.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

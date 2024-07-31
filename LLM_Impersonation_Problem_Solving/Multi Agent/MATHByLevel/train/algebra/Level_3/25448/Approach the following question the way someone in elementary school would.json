@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. Compute the sum of all the roots of $(2x+3)(x-4)+(2x+3)(x-6)=0$.",
+    "solution": "The quadratic factors as $(2x + 3)(x - 4 + x - 6) = (2x + 3)(2x - 10) = 2(2x + 3)(x - 5).$  Thus, the roots are $-\\frac{3}{2}$ and 5, and their sum is $\\boxed{\\frac{7}{2}}.$",
+    "gpt_response": "Well first we need to simplify this equation. We can do that by distributing the terms inside the parentheses. So we have $(2x^2-8x+3x-12)+(2x^2-6x+3x-18)=0$. \n\nNow we can combine like terms so we get $4x^2-11x-30=0$. \n\nTo find the sum of the roots, we can use the formula $-b/a$, where $a$ is the coefficient of $x^2$ and $b$ is the coefficient of $x$. \n\nSo, the sum of all the roots is $11/4$ or $2.75$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to \\frac{7?: Well first we need to simplify this equation. We can do that by distributing the terms inside the parentheses. So we have $(2x^2-8x+3x-12)+(2x^2-6x+3x-18)=0$. \n\nNow we can combine like terms so we get $4x^2-11x-30=0$. \n\nTo find the sum of the roots, we can use the formula $-b/a$, where $a$ is the coefficient of $x^2$ and $b$ is the coefficient of $x$. \n\nSo, the sum of all the roots is $11/4$ or $2.75$.",
+    "gpt_response_correct_incorrect": "No",
+    "yes_no": "no"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. In a family, the father has widely spaced eyes, increased facial hair and deafness. One of the three children has deafness with similar facial features. The mother is normal. Which one of the following is most likely pattern of inheritance in this case?\n1: Autosomal dominant\n2: Autosomal recessive\n3: X-linked dominant\n4: X-linked recessive",
+    "solution": 1,
+    "gpt_response": "Based on the symptoms presented in the family members described, the most likely pattern of inheritance in this case is X-linked recessive. The presence of deafness and facial features in the father and one of the children suggest an X-linked trait, as deafness is often associated with X-linked inheritance. The fact that the mother is normal also supports the likelihood of X-linked recessive inheritance, as females would typically be carriers of the trait but not exhibit symptoms themselves.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: Based on the symptoms presented in the family members described, the most likely pattern of inheritance in this case is X-linked recessive. The presence of deafness and facial features in the father and one of the children suggest an X-linked trait, as deafness is often associated with X-linked inheritance. The fact that the mother is normal also supports the likelihood of X-linked recessive inheritance, as females would typically be carriers of the trait but not exhibit symptoms themselves.",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

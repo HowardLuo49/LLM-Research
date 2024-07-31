@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. Factor $9y^2-30y+25$.",
+    "solution": "The quadratic is the square of $3y$,  the constant term is the square of $-5$, and the linear term equals $2(3y)(-5)$, so we have $9y^2 -30y + 25 = \\boxed{(3y - 5)^2}$.",
+    "gpt_response": "To factor the quadratic expression $9y^2 - 30y + 25$, we first observe that the leading coefficient is a perfect square ($3^2 = 9$) and the constant term is also a perfect square ($5^2 = 25$). This suggests that we may be able to factor this expression using a special form known as a perfect square trinomial.\n\nA perfect square trinomial has the form $(a \\pm b)^2 = a^2 \\pm 2ab + b^2$. In this case, $9y^2 - 30y + 25$ fits this form because $9y^2 = (3y)^2$, $25 = 5^2$, and $2 \\cdot 3y \\cdot 5 = 30y$. Therefore, we can rewrite the expression as:\n\n$(3y - 5)^2$\n\nSo, factoring $9y^2 - 30y + 25$ as a perfect square trinomial yields $(3y - 5)^2$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to (3y - 5)^2?: To factor the quadratic expression $9y^2 - 30y + 25$, we first observe that the leading coefficient is a perfect square ($3^2 = 9$) and the constant term is also a perfect square ($5^2 = 25$). This suggests that we may be able to factor this expression using a special form known as a perfect square trinomial.\n\nA perfect square trinomial has the form $(a \\pm b)^2 = a^2 \\pm 2ab + b^2$. In this case, $9y^2 - 30y + 25$ fits this form because $9y^2 = (3y)^2$, $25 = 5^2$, and $2 \\cdot 3y \\cdot 5 = 30y$. Therefore, we can rewrite the expression as:\n\n$(3y - 5)^2$\n\nSo, factoring $9y^2 - 30y + 25$ as a perfect square trinomial yields $(3y - 5)^2$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

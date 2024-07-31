@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. When four positive integers are divided by $11$, the remainders are $2,$ $4,$ $6,$ and $8,$ respectively.\n\nWhen the sum of the four integers is divided by $11$, what is the remainder?",
+    "solution": "We can call the four integers in this problem $a,$ $b,$ $c$, and $d$. Then we have \\begin{align*}\na &\\equiv 2\\pmod{11}, \\\\\nb &\\equiv 4\\pmod{11}, \\\\\nc &\\equiv 6\\pmod{11}, \\\\\nd &\\equiv 8\\pmod{11}.\n\\end{align*}Adding these congruences, we have \\begin{align*}\na+b+c+d &\\equiv 2+4+6+8 \\\\\n&\\equiv 20\\pmod{11}.\n\\end{align*}Therefore, $a+b+c+d$ has the same remainder as $20$ upon division by $11$. This remainder is $\\boxed{9}$.",
+    "gpt_response": "Ok, so we know that the remainders when the four integers are divided by 11 are 2, 4, 6, and 8. That means the four integers must be 11k + 2, 11m + 4, 11n + 6, and 11p + 8, where k, m, n, and p are integers.\n\nTo find the sum of the integers, we add them together: (11k + 2) + (11m + 4) + (11n + 6) + (11p + 8) = 11(k + m + n + p) + 20. \n\nSo the sum of the four integers is of the form 11q + 20, where q is an integer. Therefore, when the sum of the four integers is divided by 11, the remainder is $\\boxed{9}$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 9?: Ok, so we know that the remainders when the four integers are divided by 11 are 2, 4, 6, and 8. That means the four integers must be 11k + 2, 11m + 4, 11n + 6, and 11p + 8, where k, m, n, and p are integers.\n\nTo find the sum of the integers, we add them together: (11k + 2) + (11m + 4) + (11n + 6) + (11p + 8) = 11(k + m + n + p) + 20. \n\nSo the sum of the four integers is of the form 11q + 20, where q is an integer. Therefore, when the sum of the four integers is divided by 11, the remainder is $\\boxed{9}$.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

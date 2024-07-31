@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. If $0.\\overline{42}$ is written as a fraction $\\frac{a}{b}$ where $a$ and $b$ are positive integers with a greatest common divisor of 1, what is $a+b$?",
+    "solution": "Let $x = 0.\\overline{42}$. Multiplying both sides by 100, we get $100x = 42.\\overline{42}$. Subtracting these two equations gives $99x = 42$, so $x = \\frac{42}{99} = \\frac{14}{33}$. Thus $a+b = 14+33 = \\boxed{47}$.",
+    "gpt_response": "To start, let's call $x = 0.\\overline{42}$. This means $x = 0.424242...$\n\nNow, we can write $100x = 42.\\overline{42}$.\n\nSubtracting $x$ from $100x$ gives $99x = 42$.\n\nSo, $x = \\frac{42}{99} = \\frac{14}{33}$.\n\nTherefore, $a=14$ and $b=33$, so $a+b = 14+33 = \\boxed{47}$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 47?: To start, let's call $x = 0.\\overline{42}$. This means $x = 0.424242...$\n\nNow, we can write $100x = 42.\\overline{42}$.\n\nSubtracting $x$ from $100x$ gives $99x = 42$.\n\nSo, $x = \\frac{42}{99} = \\frac{14}{33}$.\n\nTherefore, $a=14$ and $b=33$, so $a+b = 14+33 = \\boxed{47}$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

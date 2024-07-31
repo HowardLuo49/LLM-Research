@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. The emission spectrum of the doubly ionized lithium atom Li++ (Z = 3, A = 7) is identical to that of a hydrogen atom in which all the wavelengths are\nA: decreased by a factor of 9\nB: decreased by a factor of 49\nC: decreased by a factor of 81\nD: increased by a factor of 9",
+    "solution": "A",
+    "gpt_response": "Hmm, let's see. If the emission spectrum of the doubly ionized lithium atom is the same as a hydrogen atom, that means the wavelengths are different. To figure out how much the wavelengths are changed, let's count together: 1, 2, 3, 4, 5, 6, 7, 8, 9! So the answer is... D: increased by a factor of 9! Yay, we did it!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to A?: Hmm, let's see. If the emission spectrum of the doubly ionized lithium atom is the same as a hydrogen atom, that means the wavelengths are different. To figure out how much the wavelengths are changed, let's count together: 1, 2, 3, 4, 5, 6, 7, 8, 9! So the answer is... D: increased by a factor of 9! Yay, we did it!",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

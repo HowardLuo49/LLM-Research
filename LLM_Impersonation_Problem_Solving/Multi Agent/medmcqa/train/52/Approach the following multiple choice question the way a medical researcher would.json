@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a medical researcher would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a medical researcher would. Pre-exposure prophylaxis for rabies is given on days\n1: 0, 3, 7, 14, 28, 90\n2: 0, 3, 7, 28, 90\n3: 0, 3\n4: 0, 7, 28",
+    "solution": 4,
+    "gpt_response": "In order to determine the most effective pre-exposure prophylaxis regimen for rabies, a medical researcher would conduct a clinical trial comparing the outcomes of individuals receiving each of the different regimens listed. The researcher would need to consider factors such as the timing and frequency of doses, potential side effects, and efficacy of each regimen.\n\nThe researcher would likely collect data on the number of rabies cases or exposures in each group, as well as any adverse events experienced by participants. The researcher would then analyze the data to determine which regimen resulted in the lowest incidence of rabies cases and the fewest side effects.\n\nUltimately, the researcher would use this information to make evidence-based recommendations for the most effective pre-exposure prophylaxis regimen for rabies.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 4?: In order to determine the most effective pre-exposure prophylaxis regimen for rabies, a medical researcher would conduct a clinical trial comparing the outcomes of individuals receiving each of the different regimens listed. The researcher would need to consider factors such as the timing and frequency of doses, potential side effects, and efficacy of each regimen.\n\nThe researcher would likely collect data on the number of rabies cases or exposures in each group, as well as any adverse events experienced by participants. The researcher would then analyze the data to determine which regimen resulted in the lowest incidence of rabies cases and the fewest side effects.\n\nUltimately, the researcher would use this information to make evidence-based recommendations for the most effective pre-exposure prophylaxis regimen for rabies.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

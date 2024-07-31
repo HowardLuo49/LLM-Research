@@ -1,0 +1,10 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. In a single-elimination tournament, each game is between two players. Only the winner of each game advances to the next round. In a particular such tournament there are 256 players. How many individual games must be played to determine the champion?",
+    "solution": "A total of 255 players must be eliminated to determine the champion, and one player is eliminated after each game, so it is easy to see that $\\boxed{255}$ games must be played.",
+    "gpt_response": "In a single-elimination tournament with 256 players, each player needs to be eliminated in order to determine the champion. This means that each game played eliminates one player until there is only one left standing. Since there can only be one champion, there will be a total of 255 individual games played to determine the champion in the tournament.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 255?: In a single-elimination tournament with 256 players, each player needs to be eliminated in order to determine the champion. This means that each game played eliminates one player until there is only one left standing. Since there can only be one champion, there will be a total of 255 individual games played to determine the champion in the tournament.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes"
+}

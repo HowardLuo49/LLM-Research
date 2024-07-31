@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. Let A and B be sets, f: A -> B and g: B -> A be functions such that for all a \\in A, g(f(a)) = a. Statement 1 | The function g must necessarily be injective. Statement 2 | The function g must necessarily be surjective.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "D",
+    "gpt_response": "To address this question from a biological perspective, we can analyze the properties of the functions f and g in the context of biological systems and pathways.\n\nStatement 1 is true. If g maps elements from set B back to set A such that g(f(a)) = a for all a in A, then it implies that no two different elements in B can map to the same element in A. This corresponds to the definition of an injective function, where each element in the domain (set B) maps uniquely to an element in the codomain (set A).\n\nStatement 2 is false. The function g does not need to be surjective in this context. While g is required to map elements from set B back to set A in a way that satisfies g(f(a)) = a for all a in A, it does not necessarily mean that every element in set A must have a pre-image in set B for g to be considered valid.\n\nTherefore, the correct answer is A: True, True.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: To address this question from a biological perspective, we can analyze the properties of the functions f and g in the context of biological systems and pathways.\n\nStatement 1 is true. If g maps elements from set B back to set A such that g(f(a)) = a for all a in A, then it implies that no two different elements in B can map to the same element in A. This corresponds to the definition of an injective function, where each element in the domain (set B) maps uniquely to an element in the codomain (set A).\n\nStatement 2 is false. The function g does not need to be surjective in this context. While g is required to map elements from set B back to set A in a way that satisfies g(f(a)) = a for all a in A, it does not necessarily mean that every element in set A must have a pre-image in set B for g to be considered valid.\n\nTherefore, the correct answer is A: True, True.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "5",
+    "difficulty_value": "5"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. Two students perform an experiment in which they drop a ball from rest from a known height above the ground and measure the speed of the ball just before it strikes the ground. From repeated measurement, the students estimate the uncertainty in the measured speed of the ball to be 10 percent. Which of the following gives the uncertainty in the kinetic energy of the ball? (Assume the uncertainty in the ball\u2019s mass is negligibly small.)\nA: 5%\nB: 10%\nC: 15%\nD: 20%",
+    "solution": "D",
+    "gpt_response": "In order to determine the uncertainty in the kinetic energy of the ball, we need to consider the relationship between kinetic energy and speed. The kinetic energy of an object is given by the formula K = 1/2 * m * v^2, where m is the mass of the object and v is the speed of the object.\n\nGiven that the uncertainty in the measured speed of the ball is 10%, we need to determine how this uncertainty propagates to the kinetic energy. Since the kinetic energy is proportional to the square of the speed, the uncertainty in the kinetic energy will be proportional to twice the uncertainty in the speed.\n\nTherefore, the uncertainty in the kinetic energy of the ball will be 2 * 10% = 20%. Therefore, the correct answer is D: 20%.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: In order to determine the uncertainty in the kinetic energy of the ball, we need to consider the relationship between kinetic energy and speed. The kinetic energy of an object is given by the formula K = 1/2 * m * v^2, where m is the mass of the object and v is the speed of the object.\n\nGiven that the uncertainty in the measured speed of the ball is 10%, we need to determine how this uncertainty propagates to the kinetic energy. Since the kinetic energy is proportional to the square of the speed, the uncertainty in the kinetic energy will be proportional to twice the uncertainty in the speed.\n\nTherefore, the uncertainty in the kinetic energy of the ball will be 2 * 10% = 20%. Therefore, the correct answer is D: 20%.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

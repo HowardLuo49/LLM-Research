@@ -1,0 +1,10 @@
+{
+    "prefix": "Solve the following problem. ",
+    "problem_prompt": "Solve the following problem. How many positive two-digit integers have an odd number of positive factors?",
+    "solution": "Only square numbers have an odd number of factors. The $\\boxed{6}$ two-digit squares are 16, 25, 36, 49, 64 and 81.",
+    "gpt_response": "For a positive integer to have an odd number of factors, it must be a perfect square. This is because the factors of a number come in pairs, except for perfect squares which have one extra factor. \n\nThere are 7 perfect squares between 10 and 99: 16, 25, 36, 49, 64, 81, and 100. \n\nTherefore, there are 7 positive two-digit integers that have an odd number of factors.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 6?: For a positive integer to have an odd number of factors, it must be a perfect square. This is because the factors of a number come in pairs, except for perfect squares which have one extra factor. \n\nThere are 7 perfect squares between 10 and 99: 16, 25, 36, 49, 64, 81, and 100. \n\nTherefore, there are 7 positive two-digit integers that have an odd number of factors.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no"
+}

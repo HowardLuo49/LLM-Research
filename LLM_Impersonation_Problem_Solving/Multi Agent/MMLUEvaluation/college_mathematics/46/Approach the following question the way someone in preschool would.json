@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. The region bounded by the curves y = x and y = x^2 in the first quadrant of the xy-plane is rotated about the y-axis. The volume of the resulting solid of revolution is\nA: \u03c0/12\nB: \u03c0/6\nC: \u03c0/3\nD: 2\u03c0/3",
+    "solution": "B",
+    "gpt_response": "Let's imagine we have two lines, one is straight like a stick and the other is curvy like a smile. Now, we're going to spin them around like a merry-go-round! Whee! And when we're done spinning, we'll have a shape that looks like a hat! Now, let's see how much juice we can fill in that hat - hmm, let's try to pour in some apple juice. It looks like we can fill up about \u03c0/3 apple juice in that hat! Yummy! So, the answer is C: \u03c0/3!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to B?: Let's imagine we have two lines, one is straight like a stick and the other is curvy like a smile. Now, we're going to spin them around like a merry-go-round! Whee! And when we're done spinning, we'll have a shape that looks like a hat! Now, let's see how much juice we can fill in that hat - hmm, let's try to pour in some apple juice. It looks like we can fill up about \u03c0/3 apple juice in that hat! Yummy! So, the answer is C: \u03c0/3!",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. What is the value of $c$ if the lines with equations $y = 8x + 2$ and $y = (2c)x - 4$ are parallel?",
+    "solution": "Two lines are parallel if and only if their slopes are equal.  The slope of a line whose equation is $y = mx + b$ is $m$.  Thus $8 = 2c \\Rightarrow c = \\boxed{4}$.",
+    "gpt_response": "In order for two lines to be parallel, their slopes must be equal. The slope of a line is represented by the coefficient of $x$ in the equation of the line.\n\nGiven the equations $y = 8x + 2$ and $y = (2c)x - 4$, we can see that the slope of the first line is 8 and the slope of the second line is $2c$.\n\nFor the lines to be parallel, the slopes must be equal. Therefore, we have the equation:\n\n$8 = 2c$\n\nSolving for $c$, we get:\n\n$c = 4$\n\nTherefore, the value of $c$ that makes the lines $y = 8x + 2$ and $y = (2c)x - 4$ parallel is $c = 4$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 4?: In order for two lines to be parallel, their slopes must be equal. The slope of a line is represented by the coefficient of $x$ in the equation of the line.\n\nGiven the equations $y = 8x + 2$ and $y = (2c)x - 4$, we can see that the slope of the first line is 8 and the slope of the second line is $2c$.\n\nFor the lines to be parallel, the slopes must be equal. Therefore, we have the equation:\n\n$8 = 2c$\n\nSolving for $c$, we get:\n\n$c = 4$\n\nTherefore, the value of $c$ that makes the lines $y = 8x + 2$ and $y = (2c)x - 4$ parallel is $c = 4$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

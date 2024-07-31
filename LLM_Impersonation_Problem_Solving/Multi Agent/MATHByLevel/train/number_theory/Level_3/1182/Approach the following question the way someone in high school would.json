@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Find the residue of $182\\cdot 12 - 15\\cdot 7 + 3\\pmod{14}$.",
+    "solution": "Since $182$ is divisible by 14, the first term does not affect the residue of the whole expression, modulo 14. Since $15\\cdot 7$ is divisible by 7 but not by 14 (since it isn't even), it has a residue of 7. So the residue of the sum is  $$\n182\\cdot 12 - 15\\cdot 7 + 3 \\equiv 0 - 7 + 3 \\equiv -4 \\equiv \\boxed{10} \\pmod{14}.\n$$",
+    "gpt_response": "First, let's simplify the expression inside the parentheses: $182\\cdot 12 = 2184$, $15\\cdot 7=105$, and $3 = 3$. \n\nNow we can rewrite the expression as $2184 - 105 + 3 \\pmod{14}$. \n\nNext, we can simplify further: $2184 - 105 = 2079$. \n\nNow we have $2079 + 3 \\pmod{14}$, which simplifies to $2082 \\pmod{14}$. \n\nFinally, we find the residue by dividing 2082 by 14: $2082 \\div 14 = 148$ with a remainder of $\\boxed{6}$. \n\nSo the residue of $182\\cdot 12 - 15\\cdot 7 + 3\\pmod{14}$ is $\\boxed{6}$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 10?: First, let's simplify the expression inside the parentheses: $182\\cdot 12 = 2184$, $15\\cdot 7=105$, and $3 = 3$. \n\nNow we can rewrite the expression as $2184 - 105 + 3 \\pmod{14}$. \n\nNext, we can simplify further: $2184 - 105 = 2079$. \n\nNow we have $2079 + 3 \\pmod{14}$, which simplifies to $2082 \\pmod{14}$. \n\nFinally, we find the residue by dividing 2082 by 14: $2082 \\div 14 = 148$ with a remainder of $\\boxed{6}$. \n\nSo the residue of $182\\cdot 12 - 15\\cdot 7 + 3\\pmod{14}$ is $\\boxed{6}$.",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

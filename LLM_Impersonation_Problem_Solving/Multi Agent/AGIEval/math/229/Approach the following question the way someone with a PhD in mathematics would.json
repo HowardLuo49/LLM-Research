@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. In Cartesian space, three spheres centered at $(-2,5,4),$ $(2,1,4),$ and $(4,7,5)$ are all tangent to the $xy$-plane.  The $xy$-plane is one of two planes tangent to all three spheres; the second plane can be written as the equation $ax + bx + cz = d$ for some real numbers $a,$ $b,$ $c,$ and $d.$  Find $\\frac{c}{a}.$",
+    "solution": "-\\frac{31}{8}",
+    "gpt_response": "Let $r_1,$ $r_2,$ $r_3$ be the radii of the three spheres centered at $(-2,5,4),$ $(2,1,4),$ and $(4,7,5),$ respectively. Let $h_1,$ $h_2,$ $h_3$ be the distances from the centers of the spheres to the $xy$-plane, respectively.\n\nSince the spheres are tangent to the $xy$-plane, we have $r_1 = h_1,$ $r_2 = h_2,$ $r_3 = h_3.$\n\nThe equation of the plane tangent to the three spheres can be written as\n\\[ax + by + cz = 1r^2 + 2r^2 + 3r^2 = 6r^2.\\]Hence, $\\frac{c}{a} = \\boxed{6}.$",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response -\\frac{31}{8}?: Let $r_1,$ $r_2,$ $r_3$ be the radii of the three spheres centered at $(-2,5,4),$ $(2,1,4),$ and $(4,7,5),$ respectively. Let $h_1,$ $h_2,$ $h_3$ be the distances from the centers of the spheres to the $xy$-plane, respectively.\n\nSince the spheres are tangent to the $xy$-plane, we have $r_1 = h_1,$ $r_2 = h_2,$ $r_3 = h_3.$\n\nThe equation of the plane tangent to the three spheres can be written as\n\\[ax + by + cz = 1r^2 + 2r^2 + 3r^2 = 6r^2.\\]Hence, $\\frac{c}{a} = \\boxed{6}.$",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

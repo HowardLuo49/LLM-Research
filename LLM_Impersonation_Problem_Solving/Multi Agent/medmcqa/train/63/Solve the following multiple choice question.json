@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. Position of limb in posterior dislocation of hip -\n1: Flexion, abduction & external rotation\n2: Flexion, adduction & internal rotation\n3: Flexion, adduction & external rotation\n4: Flexion, abduction & internal rotation",
+    "solution": 2,
+    "gpt_response": "1: Flexion, abduction & external rotation",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: 1: Flexion, abduction & external rotation",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

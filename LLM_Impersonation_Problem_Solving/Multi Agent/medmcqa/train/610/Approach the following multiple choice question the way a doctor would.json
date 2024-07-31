@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Tigroid white matter on MRI is seen in?\n1: Pantothenate kinase deficiency\n2: Pelizaeus-merzbacher disease\n3: Neuroferritinopathy\n4: Aceruloplasminemia",
+    "solution": 2,
+    "gpt_response": "As a doctor, when considering the presence of tigroid white matter on MRI, one should think about demyelinating disorders. In this case, the condition most commonly associated with tigroid white matter on MRI is Pelizaeus-Merzbacher disease, which is a rare X-linked recessive disorder affecting myelination of the central nervous system. Therefore, my answer would be:\n\n2: Pelizaeus-Merzbacher disease",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: As a doctor, when considering the presence of tigroid white matter on MRI, one should think about demyelinating disorders. In this case, the condition most commonly associated with tigroid white matter on MRI is Pelizaeus-Merzbacher disease, which is a rare X-linked recessive disorder affecting myelination of the central nervous system. Therefore, my answer would be:\n\n2: Pelizaeus-Merzbacher disease",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

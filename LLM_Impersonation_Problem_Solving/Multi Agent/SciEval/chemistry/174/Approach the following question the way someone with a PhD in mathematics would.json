@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. What is the SMILES expression of C10H20N2?\nAnswer:",
+    "solution": [
+        "CC(=CCNC1CCCNC1)C"
+    ],
+    "gpt_response": "The SMILES expression of C10H20N2 is CC(C)NCCNCCCCCCN.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response ['CC(=CCNC1CCCNC1)C']?: The SMILES expression of C10H20N2 is CC(C)NCCNCCCCCCN.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

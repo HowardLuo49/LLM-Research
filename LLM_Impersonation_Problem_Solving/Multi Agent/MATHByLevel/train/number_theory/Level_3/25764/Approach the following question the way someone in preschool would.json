@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. How many positive divisors of $150$ are not divisible by 5?",
+    "solution": "First, we find $150=2\\cdot 3 \\cdot 5^2.$ The prime factorization of a divisor of 150 must take the form $2^m3^n5^p$ for nonnegative integers $m\\leq 1$, $n\\leq 1$, and $p\\leq 2$. The requirement that the divisor is not divisible by 5 means that we must have $p=0$. Therefore, there are $2$ possibilities for $m$ (namely, 0 or 1) and the same for $n$ for a total of $2\\cdot 2=\\boxed{4}$ such factors.",
+    "gpt_response": "To find how many numbers are not divisible by 5 when we look at just the divisors of 150, we need to think about which numbers can divide into 150 but don't have a 5 in them. Let's see... we know that 150 equals $2 x 3 x 5 x 5$. To find divisors that don't have a 5 in them, we would need to only include the numbers that have 2's and 3's in them. \n\nSo, for divisors not divisible by 5, we can choose 2 from the 2's (2 choices) and either choose 0, 1, or 2 from the 3's (3 choices). So, the number of positive divisors of 150 that are not divisible by 5 is $2 x 3 = 6$. Yay!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 4?: To find how many numbers are not divisible by 5 when we look at just the divisors of 150, we need to think about which numbers can divide into 150 but don't have a 5 in them. Let's see... we know that 150 equals $2 x 3 x 5 x 5$. To find divisors that don't have a 5 in them, we would need to only include the numbers that have 2's and 3's in them. \n\nSo, for divisors not divisible by 5, we can choose 2 from the 2's (2 choices) and either choose 0, 1, or 2 from the 3's (3 choices). So, the number of positive divisors of 150 that are not divisible by 5 is $2 x 3 = 6$. Yay!",
+    "gpt_response_correct_incorrect": "No. The final solution obtained is 6, not 4.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "5",
+    "difficulty_value": "5"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in computer science would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in computer science would. Six 6-sided dice are rolled.  What is the probability that exactly two of the dice show a 1 and exactly two of the dice show a 2?  Express your answer as a common fraction.",
+    "solution": "\\dfrac{5}{162}",
+    "gpt_response": "To solve this problem, we need to calculate the probability of rolling exactly two 1s and two 2s when rolling six 6-sided dice.\n\nFirst, we need to calculate the total number of ways we can roll the dice, which is 6^6 since each die has 6 sides.\n\nNext, we need to calculate the number of ways we can roll exactly two 1s and two 2s. There are 6 choose 2 ways to choose the positions for the 1s and 2s, and once we have chosen their positions, there are then 4^2 ways to fill in the rest of the dice.\n\nTherefore, the probability of rolling exactly two 1s and two 2s is (6 choose 2) * 4^2 / 6^6.\n\nCalculating this out, we get (15) * 16 / 46656 = 240 / 46656.\n\nSo, the probability of rolling exactly two 1s and two 2s is 240/46656, which simplifies to 10/1941.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response \\dfrac{5}{162}?: To solve this problem, we need to calculate the probability of rolling exactly two 1s and two 2s when rolling six 6-sided dice.\n\nFirst, we need to calculate the total number of ways we can roll the dice, which is 6^6 since each die has 6 sides.\n\nNext, we need to calculate the number of ways we can roll exactly two 1s and two 2s. There are 6 choose 2 ways to choose the positions for the 1s and 2s, and once we have chosen their positions, there are then 4^2 ways to fill in the rest of the dice.\n\nTherefore, the probability of rolling exactly two 1s and two 2s is (6 choose 2) * 4^2 / 6^6.\n\nCalculating this out, we get (15) * 16 / 46656 = 240 / 46656.\n\nSo, the probability of rolling exactly two 1s and two 2s is 240/46656, which simplifies to 10/1941.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

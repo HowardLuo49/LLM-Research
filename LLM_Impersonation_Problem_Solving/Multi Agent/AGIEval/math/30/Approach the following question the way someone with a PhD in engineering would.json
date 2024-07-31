@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in engineering would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in engineering would. Theo has one sphere with radius 5; Akshaj has two spheres with radius 2.  What is the ratio of the surface area of Theo's sphere to the total surface area of Akshaj's spheres?",
+    "solution": "\\frac{25}{8}",
+    "gpt_response": "To solve this problem, we first need to calculate the surface area of the spheres. The surface area of a sphere is given by the formula 4\u03c0r^2, where r is the radius of the sphere. \n\nFor Theo's sphere with a radius of 5:\nSurface area = 4\u03c0(5)^2 = 4\u03c0(25) = 100\u03c0\n\nFor Akshaj's spheres with a radius of 2:\nTotal surface area = 2 * 4\u03c0(2)^2 = 2 * 4\u03c0(4) = 32\u03c0\n\nTherefore, the ratio of the surface area of Theo's sphere to the total surface area of Akshaj's spheres is:\n100\u03c0 / 32\u03c0 = 25/8\n\nIn conclusion, the ratio of the surface area of Theo's sphere to the total surface area of Akshaj's spheres is 25:8.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response \\frac{25}{8}?: To solve this problem, we first need to calculate the surface area of the spheres. The surface area of a sphere is given by the formula 4\u03c0r^2, where r is the radius of the sphere. \n\nFor Theo's sphere with a radius of 5:\nSurface area = 4\u03c0(5)^2 = 4\u03c0(25) = 100\u03c0\n\nFor Akshaj's spheres with a radius of 2:\nTotal surface area = 2 * 4\u03c0(2)^2 = 2 * 4\u03c0(4) = 32\u03c0\n\nTherefore, the ratio of the surface area of Theo's sphere to the total surface area of Akshaj's spheres is:\n100\u03c0 / 32\u03c0 = 25/8\n\nIn conclusion, the ratio of the surface area of Theo's sphere to the total surface area of Akshaj's spheres is 25:8.",
+    "gpt_response_correct_incorrect": "Yes. The final solution obtained in the response is 25/8.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

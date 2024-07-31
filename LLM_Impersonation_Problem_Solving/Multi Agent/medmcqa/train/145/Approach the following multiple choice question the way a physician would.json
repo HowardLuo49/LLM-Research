@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Flipped LDH indicating Myocardial Infarction is represented by:\n1: LDH-1> LDH-2\n2: LDH-2 > LDH-1\n3: LDH-4 > LDH-5\n4: LDH-5 > LDH-4",
+    "solution": 1,
+    "gpt_response": "The correct answer is:\n\n1: LDH-1> LDH-2\n\nIn myocardial infarction, there is a characteristic \"flipped\" pattern of lactate dehydrogenase (LDH) isoenzymes, with LDH-1 (which is predominantly found in the heart) being higher than LDH-2 (which is predominantly found in other tissues). This is often used as a diagnostic marker for myocardial infarction.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: The correct answer is:\n\n1: LDH-1> LDH-2\n\nIn myocardial infarction, there is a characteristic \"flipped\" pattern of lactate dehydrogenase (LDH) isoenzymes, with LDH-1 (which is predominantly found in the heart) being higher than LDH-2 (which is predominantly found in other tissues). This is often used as a diagnostic marker for myocardial infarction.",
+    "gpt_response_correct_incorrect": "Yes, the final solution obtained is 1: LDH-1>LDH-2.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

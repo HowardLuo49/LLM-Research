@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Kate has saved up $4444_8$ dollars for a trip to France. A round-trip airline ticket costs $1000_{10}$ dollars. In base ten, how many dollars will she have left for lodging and food?",
+    "solution": "$4444_8=4\\cdot8^3+4\\cdot8^2+4\\cdot8^1+4\\cdot8^0=2048+256+32+4=2340_{10}$. Therefore, Kate will have $2340-1000=\\boxed{1340}$ dollars for lodging and food.",
+    "gpt_response": "Kate has saved up 4 thousands, 4 hundreds, 4 tens, and 4 ones dollars. She wants to go to France, which costs 1000 dollars in base ten. \n\nTo find out how many dollars she will have left for lodging and food, we need to subtract the cost of the airline ticket from the total money she has saved.\n\n4 thousands + 4 hundreds + 4 tens + 4 ones = 4444\n\n4444 - 1000 = 3444\n\nKate will have 3444 dollars left for lodging and food. Yay, Kate can still have fun in France!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 1340?: Kate has saved up 4 thousands, 4 hundreds, 4 tens, and 4 ones dollars. She wants to go to France, which costs 1000 dollars in base ten. \n\nTo find out how many dollars she will have left for lodging and food, we need to subtract the cost of the airline ticket from the total money she has saved.\n\n4 thousands + 4 hundreds + 4 tens + 4 ones = 4444\n\n4444 - 1000 = 3444\n\nKate will have 3444 dollars left for lodging and food. Yay, Kate can still have fun in France!",
+    "gpt_response_correct_incorrect": "No, the final solution obtained is not equal to 1340. The correct final solution is 3444.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

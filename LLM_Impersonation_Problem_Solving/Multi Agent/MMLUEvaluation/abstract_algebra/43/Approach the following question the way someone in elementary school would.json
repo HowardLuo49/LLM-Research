@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. Statement 1 | Every integral domain with characteristic 0 is infinite. Statement 2 | Every integral domain with prime characteristic is finite.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "C",
+    "gpt_response": "Um, I think the first one is true because if a domain has characteristic 0 that means it has an infinite number of elements. And the second one is false because if a domain has prime characteristic that means it has a specific number of elements, so it could still be infinite. So, um, my answer is C: True, False.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to C?: Um, I think the first one is true because if a domain has characteristic 0 that means it has an infinite number of elements. And the second one is false because if a domain has prime characteristic that means it has a specific number of elements, so it could still be infinite. So, um, my answer is C: True, False.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "5",
+    "difficulty_value": "5"
+}

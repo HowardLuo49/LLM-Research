@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. The expression $12y^2-65y+42$ can be written as $(Ay-14)(By-3),$ where $A$ and $B$ are integers. What is $AB + A$?",
+    "solution": "We see that $12y^2-65y+42=(3y-14)(4y-3)$, thus $A = 3$ and $B = 4$. Hence, $AB + A = \\boxed{15}.$",
+    "gpt_response": "To find the values of $A$ and $B$, we need to first factorize the expression $12y^2-65y+42$. We can do this by looking for two numbers that multiply to $12 \\times 42 = 504$ and add up to $-65$. \n\nThe numbers are $-56$ and $-9$ because $(-56) \\times (-9) = 504$ and $-56 + (-9) = -65$. \n\nSo, our expression becomes $(12y - 56)(y - 9)$. \n\nNow, we can see that $A = 12$ and $B = -9$. So, $AB + A$ is equal to $12 \\times (-9) + 12 = -108 + 12 = \\boxed{-96}$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 15?: To find the values of $A$ and $B$, we need to first factorize the expression $12y^2-65y+42$. We can do this by looking for two numbers that multiply to $12 \\times 42 = 504$ and add up to $-65$. \n\nThe numbers are $-56$ and $-9$ because $(-56) \\times (-9) = 504$ and $-56 + (-9) = -65$. \n\nSo, our expression becomes $(12y - 56)(y - 9)$. \n\nNow, we can see that $A = 12$ and $B = -9$. So, $AB + A$ is equal to $12 \\times (-9) + 12 = -108 + 12 = \\boxed{-96}$.",
+    "gpt_response_correct_incorrect": "No",
+    "yes_no": "no"
+}

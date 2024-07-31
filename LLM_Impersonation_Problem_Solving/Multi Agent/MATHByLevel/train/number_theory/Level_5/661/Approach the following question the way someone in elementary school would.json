@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. Two farmers agree that pigs are worth $\\$300$ and that goats are worth $\\$210$. When one farmer owes the other money, he pays the debt in pigs or goats, with ``change'' received in the form of goats or pigs as necessary. (For example, a $\\$390$ debt could be paid with two pigs, with one goat received in change.) What is the amount of the smallest positive debt that can be resolved in this way?",
+    "solution": "If a debt of $D$ dollars can be resolved in this way, then integers $p$ and $g$ must exist with \\[\nD = 300p + 210g = 30(10p + 7g).\n\\]As a consequence, $D$ must be a multiple of 30, and  no positive debt less than $\\$30$ can be resolved. A debt of  $\\boxed{\\$30}$  can be resolved since \\[\n30 = 300(-2) + 210(3).\n\\]This is  done by giving 3 goats and receiving 2 pigs.",
+    "gpt_response": "To find the smallest debt that can be resolved, we need to figure out the greatest common divisor of 300 and 210. \n\nLet's see if we can divide 300 by 210. \n\n300 divided by 210 is 1 with a remainder of 90. \n\nNow, we need to see if we can divide 210 by the remainder of 90. \n\n210 divided by 90 is 2 with a remainder of 30. \n\nNext, we divide 90 by 30. \n\n90 divided by 30 is 3 with no remainder, so 30 is the greatest common divisor of 300 and 210. \n\nTherefore, the smallest positive debt that can be resolved in this way is $\\$30$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to \\$30?: To find the smallest debt that can be resolved, we need to figure out the greatest common divisor of 300 and 210. \n\nLet's see if we can divide 300 by 210. \n\n300 divided by 210 is 1 with a remainder of 90. \n\nNow, we need to see if we can divide 210 by the remainder of 90. \n\n210 divided by 90 is 2 with a remainder of 30. \n\nNext, we divide 90 by 30. \n\n90 divided by 30 is 3 with no remainder, so 30 is the greatest common divisor of 300 and 210. \n\nTherefore, the smallest positive debt that can be resolved in this way is $\\$30$.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

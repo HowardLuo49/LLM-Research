@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. For Status epilepticus, treatment of choice is: September 2012\n1: Ethosuximide\n2: Sodium valproate\n3: Lamotrigine\n4: Lorazepam",
+    "solution": 4,
+    "gpt_response": "For Status epilepticus, the treatment of choice is Lorazepam. This medication is a benzodiazepine that is commonly used as a first-line treatment to quickly and effectively stop prolonged seizures. It works by enhancing the effect of a neurotransmitter in the brain called gamma-aminobutyric acid (GABA), which helps to calm the excessive electrical activity in the brain that occurs during a seizure. It is important to administer lorazepam promptly in cases of status epilepticus to prevent potential complications and reduce the risk of permanent brain damage.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 4?: For Status epilepticus, the treatment of choice is Lorazepam. This medication is a benzodiazepine that is commonly used as a first-line treatment to quickly and effectively stop prolonged seizures. It works by enhancing the effect of a neurotransmitter in the brain called gamma-aminobutyric acid (GABA), which helps to calm the excessive electrical activity in the brain that occurs during a seizure. It is important to administer lorazepam promptly in cases of status epilepticus to prevent potential complications and reduce the risk of permanent brain damage.",
+    "gpt_response_correct_incorrect": "Yes, the final solution obtained in the provided response is option 4.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "9",
+    "difficulty_value": "9"
+}

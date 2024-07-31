@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. A three-dimensional harmonic oscillator is in thermal equilibrium with a temperature reservoir at temperature T. The average total energy of the oscillator is\nA: (1/2) k T\nB: kT\nC: (3/2) k T\nD: 3kT",
+    "solution": "D",
+    "gpt_response": "Okay, so imagine you have a bouncy ball that goes up and down and side to side. It's like a three-dimensional spring that's bouncing around. Now, if this bouncy ball is hanging out with a group of friends at a temperature T, we want to figure out how much energy it has on average.\n\nSo, the average total energy of the bouncy ball will be (3/2) k T. That means it's bouncing around with 3 times the temperature T. So the answer is C: (3/2) k T. Keep on bouncing, little bouncy ball!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: Okay, so imagine you have a bouncy ball that goes up and down and side to side. It's like a three-dimensional spring that's bouncing around. Now, if this bouncy ball is hanging out with a group of friends at a temperature T, we want to figure out how much energy it has on average.\n\nSo, the average total energy of the bouncy ball will be (3/2) k T. That means it's bouncing around with 3 times the temperature T. So the answer is C: (3/2) k T. Keep on bouncing, little bouncy ball!",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

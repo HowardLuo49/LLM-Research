@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. A patient present with lower gastrointestinal bleed. Sigmoidoscopy shows ulcers inthe sigmoid. Biopsy from this area shows flask-shaped ulcers. Which of the following is the most appropriate treatment -\n1: Intravenous ceftriaxone\n2: Intravenous metronidazole\n3: Intravenous steroids and sulphasalazine\n4: Hydrocoisone enemas",
+    "solution": 2,
+    "gpt_response": "3: Intravenous steroids and sulphasalazine\n\nThe patient is likely suffering from Ulcerative Colitis, which is characterized by inflammation and ulceration in the colon and rectum. Treatment typically involves corticosteroids like prednisone to reduce inflammation and sulphasalazine, which is a combination of 5-aminosalicyclic acid and sulfapyridine, to help reduce symptoms.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: 3: Intravenous steroids and sulphasalazine\n\nThe patient is likely suffering from Ulcerative Colitis, which is characterized by inflammation and ulceration in the colon and rectum. Treatment typically involves corticosteroids like prednisone to reduce inflammation and sulphasalazine, which is a combination of 5-aminosalicyclic acid and sulfapyridine, to help reduce symptoms.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

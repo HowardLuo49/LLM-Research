@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. The greatest integer function of $x$ is expressed as $[x]$ and is defined to be the greatest integer less than or equal to $x$. Find $[\\pi - 4]$",
+    "solution": "Because $\\pi$ is greater than $3$ but less than $4$,\n\n$-1<\\pi - 4<0$.  Therefore, $[\\pi - 4]$ is $\\boxed{-1}$",
+    "gpt_response": "Okay, so the greatest integer function means we need to find the biggest whole number that's less than or equal to the number we're given. \nFor $[\\pi - 4]$, we need to figure out what's the biggest whole number that's less than or equal to $\\pi - 4$. \nSince $\\pi$ is about 3.14, and we're subtracting 4 from that, we're left with a number smaller than 0. \nAnd since there are no whole numbers less than 0, the greatest integer function of $[\\pi - 4]$ is just 0.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to -1?: Okay, so the greatest integer function means we need to find the biggest whole number that's less than or equal to the number we're given. \nFor $[\\pi - 4]$, we need to figure out what's the biggest whole number that's less than or equal to $\\pi - 4$. \nSince $\\pi$ is about 3.14, and we're subtracting 4 from that, we're left with a number smaller than 0. \nAnd since there are no whole numbers less than 0, the greatest integer function of $[\\pi - 4]$ is just 0.",
+    "gpt_response_correct_incorrect": "No",
+    "yes_no": "no"
+}

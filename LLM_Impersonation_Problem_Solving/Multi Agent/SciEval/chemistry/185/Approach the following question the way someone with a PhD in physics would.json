@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in physics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in physics would. What is the SMILES expression of C6H13N3O?\nAnswer:",
+    "solution": [
+        "CC1(CCNC(=O)NC1)N"
+    ],
+    "gpt_response": "The SMILES expression of a molecular structure is a linear representation of the atoms and bonds within the molecule. In the case of C6H13N3O, the SMILES expression would be \"CCCCCNCC(=O)N\". This notation reflects the specific arrangement of carbon, hydrogen, nitrogen, and oxygen atoms in the molecule, as well as the bonding relationships between them.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response ['CC1(CCNC(=O)NC1)N']?: The SMILES expression of a molecular structure is a linear representation of the atoms and bonds within the molecule. In the case of C6H13N3O, the SMILES expression would be \"CCCCCNCC(=O)N\". This notation reflects the specific arrangement of carbon, hydrogen, nitrogen, and oxygen atoms in the molecule, as well as the bonding relationships between them.",
+    "gpt_response_correct_incorrect": "No. The final solution obtained in the response is not 'CC1(CCNC(=O)NC1)N'.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "5",
+    "difficulty_value": "5"
+}

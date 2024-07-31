@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. A net force F_A acts on object A, and a net force F_B acts on object B. The mass of object B is twice the mass of object A, and the acceleration of object B is twice that of object A. Which of the following is true of forces F_A and F_B?\nA: F_B = 1/4 F_A\nB: F_B = 1/2 F_A\nC: F_B = 2F_A\nD: F_B = 4F_A",
+    "solution": "D",
+    "gpt_response": "If you have two objects, object A and object B, object B has twice the mass and twice the acceleration compared to object A. That means object B needs a bigger force to make it go faster. So, the correct answer is C: F_B = 2F_A.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: If you have two objects, object A and object B, object B has twice the mass and twice the acceleration compared to object A. That means object B needs a bigger force to make it go faster. So, the correct answer is C: F_B = 2F_A.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "9",
+    "difficulty_value": "9"
+}

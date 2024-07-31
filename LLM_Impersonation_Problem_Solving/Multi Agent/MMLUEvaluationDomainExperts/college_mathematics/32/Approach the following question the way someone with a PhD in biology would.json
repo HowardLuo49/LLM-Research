@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. For which integers n such that 3 <= n <= 11 is there only one group of order n (up to isomorphism)?\nA: For no such integer n\nB: For 3, 5, 7, and 11 only\nC: For 3, 5, 7, 9, and 11 only\nD: For 4, 6, 8, and 10 only",
+    "solution": "B",
+    "gpt_response": "Based on the classification of finite simple groups, we know that there is only one simple group of order n for primes p where n = p. Therefore, the only possible integers in the given range with only one group of order n are primes. Thus, the correct answer is B: For 3, 5, 7, and 11 only.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to B?: Based on the classification of finite simple groups, we know that there is only one simple group of order n for primes p where n = p. Therefore, the only possible integers in the given range with only one group of order n are primes. Thus, the correct answer is B: For 3, 5, 7, and 11 only.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

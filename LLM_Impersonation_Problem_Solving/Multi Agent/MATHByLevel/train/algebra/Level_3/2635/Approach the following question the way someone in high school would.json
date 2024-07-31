@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. If $A:B:C = 2:1:4$, what is the value of $(3A + 2B) \\div (4C - A)$? Express your answer as a common fraction.",
+    "solution": "Suppose that $B = x$.  Then $A = 2x$ and $C = 4x$.  Thus $(3A + 2B)\\div (4C - A) = \\frac{8x}{14x} = \\frac{8}{14}=\\boxed{\\frac{4}{7}}$.",
+    "gpt_response": "To find the value of $(3A + 2B) \\div (4C - A)$, we first need to find the actual values of A, B, and C.\n\nSince $A:B:C = 2:1:4$, this means that the ratio of A to B to C is 2:1:4. \n\nLet's assign a value to B to make it easier. Let B = 1. \n\nSo, if B = 1, then A = 2 and C = 4.\n\nNow, substitute these values into the expression $(3A + 2B) \\div (4C - A)$.\n\nWe get: $(3(2) + 2(1)) \\div (4(4) - 2)$\n\nSimplify: $(6 + 2) \\div (16 - 2)$\n\n$8 \\div 14$\n\nReducing the fraction, we get $\\frac{4}{7}$.\n\nTherefore, the value of $(3A + 2B) \\div (4C - A)$ is $\\frac{4}{7}$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to \\frac{4?: To find the value of $(3A + 2B) \\div (4C - A)$, we first need to find the actual values of A, B, and C.\n\nSince $A:B:C = 2:1:4$, this means that the ratio of A to B to C is 2:1:4. \n\nLet's assign a value to B to make it easier. Let B = 1. \n\nSo, if B = 1, then A = 2 and C = 4.\n\nNow, substitute these values into the expression $(3A + 2B) \\div (4C - A)$.\n\nWe get: $(3(2) + 2(1)) \\div (4(4) - 2)$\n\nSimplify: $(6 + 2) \\div (16 - 2)$\n\n$8 \\div 14$\n\nReducing the fraction, we get $\\frac{4}{7}$.\n\nTherefore, the value of $(3A + 2B) \\div (4C - A)$ is $\\frac{4}{7}$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

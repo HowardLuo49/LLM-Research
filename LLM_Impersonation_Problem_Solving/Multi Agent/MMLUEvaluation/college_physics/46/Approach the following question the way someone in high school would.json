@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. The driver of a police car hears an echo of the car\u2019s siren from a wall toward which the car is moving with a speed of 3.5 m/s. If the speed of sound is 350 m/s and the frequency of the siren is 600 Hz, the driver hears the echo at a frequency nearest to which of the following?\nA: 600 Hz\nB: 606 Hz\nC: 612 Hz\nD: 618 Hz",
+    "solution": "C",
+    "gpt_response": "Since the police car's siren is moving towards the wall, the frequency of the sound waves will be Doppler shifted. The formula for calculating the frequency when there is a Doppler shift is:\n\nf' = f (v + vo) / (v + vs)\n\nwhere:\nf' = frequency heard by listener\nf = frequency emitted by source\nv = speed of sound\nvo = speed of observer\nvs = speed of source\n\nPlugging in the values:\nf' = 600 Hz * (350 m/s + 3.5 m/s) / (350 m/s - 3.5 m/s)\nf' = 600 Hz * (353.5) / (346.5)\nf' = 612 Hz\n\nTherefore, the driver will hear the echo at a frequency nearest to 612 Hz, which corresponds to answer choice C.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to C?: Since the police car's siren is moving towards the wall, the frequency of the sound waves will be Doppler shifted. The formula for calculating the frequency when there is a Doppler shift is:\n\nf' = f (v + vo) / (v + vs)\n\nwhere:\nf' = frequency heard by listener\nf = frequency emitted by source\nv = speed of sound\nvo = speed of observer\nvs = speed of source\n\nPlugging in the values:\nf' = 600 Hz * (350 m/s + 3.5 m/s) / (350 m/s - 3.5 m/s)\nf' = 600 Hz * (353.5) / (346.5)\nf' = 612 Hz\n\nTherefore, the driver will hear the echo at a frequency nearest to 612 Hz, which corresponds to answer choice C.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

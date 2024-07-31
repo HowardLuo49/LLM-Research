@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Which of the following aminoglycosides has the highest nephrotoxicity?\n1: Paromomycin\n2: Streptomycin\n3: Amikacin\n4: Neomycin",
+    "solution": 4,
+    "gpt_response": "As a doctor, when considering the nephrotoxicity of aminoglycosides, it is important to prioritize patient safety and minimize the risk of kidney damage. In this case, the aminoglycoside with the highest nephrotoxicity would be Neomycin. It is crucial to carefully monitor kidney function in patients receiving Neomycin and consider alternative antibiotics if necessary to protect their renal health.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 4?: As a doctor, when considering the nephrotoxicity of aminoglycosides, it is important to prioritize patient safety and minimize the risk of kidney damage. In this case, the aminoglycoside with the highest nephrotoxicity would be Neomycin. It is crucial to carefully monitor kidney function in patients receiving Neomycin and consider alternative antibiotics if necessary to protect their renal health.",
+    "gpt_response_correct_incorrect": "No. The final solution obtained in the response is not simply \"4\". The response discusses the importance of prioritizing patient safety and minimizing the risk of kidney damage when considering the nephrotoxicity of aminoglycosides, specifically focusing on Neomycin as the most nephrotoxic option. It also emphasizes the need to monitor kidney function closely and consider alternative antibiotics to protect renal health.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Which of the following vessel does not cross the midline of the body:\n1: Left gonadal vein\n2: Left renal vein\n3: Left brachiocephalic vein\n4: Hemiazygous vein",
+    "solution": 1,
+    "gpt_response": "The left brachiocephalic vein does not cross the midline of the body.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: The left brachiocephalic vein does not cross the midline of the body.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

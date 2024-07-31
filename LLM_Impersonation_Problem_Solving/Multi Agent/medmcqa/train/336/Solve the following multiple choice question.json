@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. Five days after an uneventful cholecystectomy, an asymptomatic middle-aged woman is found to have a serum sodium level of 125 mEq/L. Which of the following is the most appropriate management strategy for this patient?\n1: Administration of hypeonic saline solution\n2: Restriction of free water\n3: Plasma ultrafiltration\n4: Hemodialysis",
+    "solution": 2,
+    "gpt_response": "1: Administration of hypertonic saline solution\n\nExplanation: The patient is presenting with hyponatremia, which is a common electrolyte abnormality following surgery. In this case, the most appropriate management strategy would be the administration of hypertonic saline solution to help correct the low sodium levels. This can help prevent neurological manifestations and other complications associated with severe hyponatremia.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: 1: Administration of hypertonic saline solution\n\nExplanation: The patient is presenting with hyponatremia, which is a common electrolyte abnormality following surgery. In this case, the most appropriate management strategy would be the administration of hypertonic saline solution to help correct the low sodium levels. This can help prevent neurological manifestations and other complications associated with severe hyponatremia.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

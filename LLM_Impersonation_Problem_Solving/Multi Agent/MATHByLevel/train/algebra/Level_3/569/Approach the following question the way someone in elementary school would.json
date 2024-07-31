@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. Express $(4-5i)(-5+5i)$ in the form $a+bi$, where $a$ and $b$ are integers and $i^2 = -1.$",
+    "solution": "We simplify, bearing in mind that $i^2 = -1$. We get  \\begin{align*}\n(4-5i)(-5+5i) &= 4(-5) + 4(5i) -5i(-5) -5i(5i) \\\\ &= -20 +20i +25i +25 \\\\ &= \\boxed{5 + 45i}.\n\\end{align*}",
+    "gpt_response": "Okay, so we have to multiply $(4-5i)(-5+5i)$, which means we have to use foil! First, we multiply $4$ and $-5$ to get $-20$. Then we multiply $4$ and $5i$ to get $20i$. Next, we multiply $-5i$ and $-5$ to get $25i$. Finally, we multiply $-5i$ and $5i$ to get $-25i^2$. Remember that $i^2 = -1$, so $-25i^2 = -25(-1)$. That simplifies to $25$.\n\nNow we can add up all our terms: $-20 + 20i + 25i + 25$. Combine like terms to get $5 + 45i$.\n\nSo, $(4-5i)(-5+5i) = 5 + 45i$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 5 + 45i?: Okay, so we have to multiply $(4-5i)(-5+5i)$, which means we have to use foil! First, we multiply $4$ and $-5$ to get $-20$. Then we multiply $4$ and $5i$ to get $20i$. Next, we multiply $-5i$ and $-5$ to get $25i$. Finally, we multiply $-5i$ and $5i$ to get $-25i^2$. Remember that $i^2 = -1$, so $-25i^2 = -25(-1)$. That simplifies to $25$.\n\nNow we can add up all our terms: $-20 + 20i + 25i + 25$. Combine like terms to get $5 + 45i$.\n\nSo, $(4-5i)(-5+5i) = 5 + 45i$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

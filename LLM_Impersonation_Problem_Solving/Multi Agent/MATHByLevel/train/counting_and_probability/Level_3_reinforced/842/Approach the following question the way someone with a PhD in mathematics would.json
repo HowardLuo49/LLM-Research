@@ -1,0 +1,10 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. George has an unfair six-sided die. The probability that it rolls a 6 is $\\frac{1}{2}$, and the probability that it rolls any other number is $\\frac{1}{10}$. What is the expected value of the number shown when this die is rolled? Express your answer as a decimal.",
+    "solution": "The expected value is $$\\frac{1}{10}(1) + \\frac{1}{10}(2) + \\frac{1}{10}(3) + \\frac{1}{10}(4) + \\frac{1}{10}(5) + \\frac{1}{2}(6) = \\frac{15}{10} + 3 = \\boxed{4.5}. $$",
+    "gpt_response": "To find the expected value of the number shown when the die is rolled, we must consider the probabilities of each outcome. Letting $x$ be the number shown, we have:\n\n$P(x=6) = \\frac{1}{2}$\n\n$P(x\\neq 6) = \\frac{1}{10} \\cdot 5 = \\frac{1}{2}$\n\nTherefore, the expected value is:\n$E(x) = 6 \\cdot \\frac{1}{2} + \\frac{1}{2} \\cdot \\frac{1+2+3+4+5}{5}$\n$E(x) = 3 + \\frac{15}{10}$\n$E(x) = 3 + 1.5$\n$E(x) = 4.5$\n\nSo, the expected value of the number shown when this die is rolled is 4.5.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 4.5?: To find the expected value of the number shown when the die is rolled, we must consider the probabilities of each outcome. Letting $x$ be the number shown, we have:\n\n$P(x=6) = \\frac{1}{2}$\n\n$P(x\\neq 6) = \\frac{1}{10} \\cdot 5 = \\frac{1}{2}$\n\nTherefore, the expected value is:\n$E(x) = 6 \\cdot \\frac{1}{2} + \\frac{1}{2} \\cdot \\frac{1+2+3+4+5}{5}$\n$E(x) = 3 + \\frac{15}{10}$\n$E(x) = 3 + 1.5$\n$E(x) = 4.5$\n\nSo, the expected value of the number shown when this die is rolled is 4.5.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes"
+}

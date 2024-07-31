@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Most serious complication seen in other eye after traumatic injury to one eye: March 2005, September 2008\n1: Subconjunctival hemorrhage\n2: Corneal edema\n3: Sympathetic ophthalmia\n4: Sudden loss of vision",
+    "solution": 3,
+    "gpt_response": "The correct answer is 3: Sympathetic ophthalmia. This is a rare but serious complication that can occur in the uninjured eye following a traumatic injury to the other eye. It is characterized by inflammation and damage to the uvea of the uninjured eye, and if not treated promptly, it can lead to permanent vision loss. It is important for doctors to be aware of this complication and monitor patients closely following ocular trauma.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: The correct answer is 3: Sympathetic ophthalmia. This is a rare but serious complication that can occur in the uninjured eye following a traumatic injury to the other eye. It is characterized by inflammation and damage to the uvea of the uninjured eye, and if not treated promptly, it can lead to permanent vision loss. It is important for doctors to be aware of this complication and monitor patients closely following ocular trauma.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

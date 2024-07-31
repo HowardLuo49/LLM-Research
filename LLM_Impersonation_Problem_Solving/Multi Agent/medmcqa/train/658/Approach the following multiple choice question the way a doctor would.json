@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Contraception with increased risk of actinomycosis -\n1: OCPs\n2: Condom\n3: IUCD\n4: Vaginal",
+    "solution": 3,
+    "gpt_response": "Given the options provided, the contraception method with an increased risk of actinomycosis is likely the intrauterine contraceptive device (IUCD). Actinomycosis is a rare bacterial infection that typically affects the cervicofacial region and can potentially be triggered by the insertion of an IUCD, leading to the development of actinomycotic pelvic inflammatory disease. It is important to consider the risks and benefits of each contraceptive method when making a decision with the patient.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: Given the options provided, the contraception method with an increased risk of actinomycosis is likely the intrauterine contraceptive device (IUCD). Actinomycosis is a rare bacterial infection that typically affects the cervicofacial region and can potentially be triggered by the insertion of an IUCD, leading to the development of actinomycotic pelvic inflammatory disease. It is important to consider the risks and benefits of each contraceptive method when making a decision with the patient.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

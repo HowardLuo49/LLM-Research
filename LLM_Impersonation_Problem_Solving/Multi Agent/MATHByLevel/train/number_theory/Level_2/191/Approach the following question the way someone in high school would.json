@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Suppose $77\\cdot 88\\cdot 99 \\equiv n\\pmod{20}$, where $0\\le n<20$.\n\nWhat is the value of $n$?",
+    "solution": "We begin by reducing the factors of the product modulo 20: \\begin{align*}\n77 &\\equiv -3\\pmod{20},\\\\\n88 &\\equiv 8\\pmod{20},\\\\\n99 &\\equiv -1\\pmod{20}.\n\\end{align*}(Note that we could have used the more \"standard\" reductions $77\\equiv 17$ and $99\\equiv 19$, but the reductions above will make our computations easier.)\n\nNow we have \\begin{align*}\n77\\cdot 88\\cdot 99 &\\equiv (-3)\\cdot 8\\cdot(-1) \\\\\n&= 24 \\\\\n&\\equiv \\boxed{4}\\pmod{20}.\n\\end{align*}",
+    "gpt_response": "To figure this out, let's first multiply $77\\cdot 88\\cdot 99$:\n\n$77\\cdot 88\\cdot 99 = 602856$\n\nNow, we need to find the remainder when this number is divided by 20. \n\n$602856\\div20 = 30142$ with a remainder of 16\n\nSo, $n=16$. Therefore, $77\\cdot 88\\cdot 99 \\equiv 16\\pmod{20}$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 4?: To figure this out, let's first multiply $77\\cdot 88\\cdot 99$:\n\n$77\\cdot 88\\cdot 99 = 602856$\n\nNow, we need to find the remainder when this number is divided by 20. \n\n$602856\\div20 = 30142$ with a remainder of 16\n\nSo, $n=16$. Therefore, $77\\cdot 88\\cdot 99 \\equiv 16\\pmod{20}$.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

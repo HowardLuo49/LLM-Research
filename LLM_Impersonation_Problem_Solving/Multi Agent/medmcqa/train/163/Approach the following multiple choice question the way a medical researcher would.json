@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a medical researcher would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a medical researcher would. An athelete presented with red coloured urine after 2 days of history of severe exeion. The most probable cause is?\n1: Hemoglobinuria\n2: Hemosiderinuria\n3: Hematuria\n4: Myoglobinuria",
+    "solution": 4,
+    "gpt_response": "As a medical researcher, we would first consider the clinical presentation of the athlete, which includes red-colored urine after 2 days of severe exertion. Given this history, the most probable cause of red-colored urine in this case would be myoglobinuria. \n\nMyoglobin is a protein found in muscle tissue that can be released into the bloodstream following exertion or injury to the muscles. When high levels of myoglobin are present in the blood, it can be filtered by the kidneys and excreted in the urine, giving it a red or tea-colored appearance.\n\nTherefore, option 4: Myoglobinuria, would be the most probable cause of the athlete's red-colored urine in this scenario.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 4?: As a medical researcher, we would first consider the clinical presentation of the athlete, which includes red-colored urine after 2 days of severe exertion. Given this history, the most probable cause of red-colored urine in this case would be myoglobinuria. \n\nMyoglobin is a protein found in muscle tissue that can be released into the bloodstream following exertion or injury to the muscles. When high levels of myoglobin are present in the blood, it can be filtered by the kidneys and excreted in the urine, giving it a red or tea-colored appearance.\n\nTherefore, option 4: Myoglobinuria, would be the most probable cause of the athlete's red-colored urine in this scenario.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

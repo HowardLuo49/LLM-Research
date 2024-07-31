@@ -1,0 +1,10 @@
+{
+    "prefix": "Solve the following problem. ",
+    "problem_prompt": "Solve the following problem. What is the sum of all positive integer values of $n$ such that $\\frac{n+18}{n}$ is an integer?",
+    "solution": "$\\frac{n+18}{n}=1+\\frac{18}{n}$. Thus, $\\frac{n+18}{n}$ is an integer if and only if $n|18$. The positive factors of 18 are 1, 18, 2, 9, 3, and 6. Their sum is $\\boxed{39}$.",
+    "gpt_response": "We want $\\frac{n+18}{n}$ to be an integer, which means that $n$ must divide $n+18$. \n\nSo, $n \\mid n+18 \\implies n \\mid 18$.\n\nThe positive divisors of $18$ are $1, 2, 3, 6, 9, 18$. \n\nThus, the positive integer values of $n$ that satisfy the condition are $1, 2, 3, 6, 9, 18$. \n\nThe sum of these values is $1 + 2 + 3 + 6 + 9 + 18 = \\boxed{39}$.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 39?: We want $\\frac{n+18}{n}$ to be an integer, which means that $n$ must divide $n+18$. \n\nSo, $n \\mid n+18 \\implies n \\mid 18$.\n\nThe positive divisors of $18$ are $1, 2, 3, 6, 9, 18$. \n\nThus, the positive integer values of $n$ that satisfy the condition are $1, 2, 3, 6, 9, 18$. \n\nThe sum of these values is $1 + 2 + 3 + 6 + 9 + 18 = \\boxed{39}$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes"
+}

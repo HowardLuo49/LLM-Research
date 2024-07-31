@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. A 6 years child has foreign body in trachea .Best initial management is\n1: Heimlich's maneuver\n2: Cardiac massage\n3: Intubation\n4: Oxygen mask with IPPV",
+    "solution": 1,
+    "gpt_response": "In the case of a 6 year old child with a foreign body in the trachea, the best initial management would be option 1: Heimlich's maneuver. This maneuver is used to dislodge a foreign body from the airway and is often the quickest and most effective way to prevent further complications such as airway obstruction. Options 2, 3, and 4 may be necessary depending on the situation, but should only be considered after the foreign body has been successfully removed using the Heimlich's maneuver.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: In the case of a 6 year old child with a foreign body in the trachea, the best initial management would be option 1: Heimlich's maneuver. This maneuver is used to dislodge a foreign body from the airway and is often the quickest and most effective way to prevent further complications such as airway obstruction. Options 2, 3, and 4 may be necessary depending on the situation, but should only be considered after the foreign body has been successfully removed using the Heimlich's maneuver.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

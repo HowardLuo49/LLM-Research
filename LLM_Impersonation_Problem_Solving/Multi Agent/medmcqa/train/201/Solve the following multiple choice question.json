@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. Which of the following is freely filtered by kidney across glomerular capillariesa)  Albumin (across glomerular capillaries)b) Globulinc) Creatinined) HCO3 e)  Glucose\n1: cde\n2: acd\n3: bde\n4: ade",
+    "solution": 1,
+    "gpt_response": "1: cde \n\nThe substances that are freely filtered by the kidney across glomerular capillaries are creatinine, HCO3 (bicarbonate), and glucose. Albumin and globulin are usually not filtered as they are too large to pass through the glomerular capillaries.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: 1: cde \n\nThe substances that are freely filtered by the kidney across glomerular capillaries are creatinine, HCO3 (bicarbonate), and glucose. Albumin and globulin are usually not filtered as they are too large to pass through the glomerular capillaries.",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

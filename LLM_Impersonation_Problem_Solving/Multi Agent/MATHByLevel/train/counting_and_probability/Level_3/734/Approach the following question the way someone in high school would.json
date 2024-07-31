@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Given the equation $a + b = 30$, where $a$ and $b$ are positive integers, how many distinct ordered-pair solutions $(a, b)$ exist?",
+    "solution": "The solutions are $(1,29),(2,28),\\ldots,(28,2),(29,1)$. Each $a$ produces a unique $b$, and since there are 29 possibilities for $a$, there are $\\boxed{29}$ possibilities for $(a,b)$.",
+    "gpt_response": "Alright, so we have the equation $a + b = 30$. We need to find some positive integers that add up to 30. Let's start listing out some possibilities:\n\n(1,29)\n(2,28)\n(3,27)\n...\n(29,1)\n\nIt looks like there is a pattern here - for every positive integer for $a$, there is a corresponding positive integer for $b$ that will make the total 30. Therefore, we have 29 distinct ordered-pair solutions $(a, b)$ that satisfy the equation.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 29?: Alright, so we have the equation $a + b = 30$. We need to find some positive integers that add up to 30. Let's start listing out some possibilities:\n\n(1,29)\n(2,28)\n(3,27)\n...\n(29,1)\n\nIt looks like there is a pattern here - for every positive integer for $a$, there is a corresponding positive integer for $b$ that will make the total 30. Therefore, we have 29 distinct ordered-pair solutions $(a, b)$ that satisfy the equation.",
+    "gpt_response_correct_incorrect": "No",
+    "yes_no": "no"
+}

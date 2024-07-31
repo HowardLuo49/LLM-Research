@@ -1,0 +1,8 @@
+{
+    "problem_prompt": "Your job is to consider a number theory problem, and leave a plan for the next person to solve it. The problem will be revealed one sentence at a time. You do not have the entire problem yet, thus just do whatever calcluations/planning you think will be useful for the next person. If you don't think you can make any progress, say so. The following is a portion of the entire problem, and the work/progress/message the previous person left for you. There may be errors in the provided work that was previously done and left for you, so check and fix them if necessary.\nCompute $1011_2 + 101_2 - 1100_2 + 1101_2$.\n",
+    "solution": "$1011_2 + 101_2 - 1100_2 + 1101_2 = (1011_2 + 101_2) + (-1100_2 + 1101_2) = 10000_2 + 1_2 = \\boxed{10001_2}$.",
+    "gpt_response": "Given:\n$1011_2$\n$+101_2$\n$-1100_2$\n$+1101_2$\nFirst convert these binary numbers to decimal:\n$1011_2 = 1*2^3 + 0*2^2 + 1*2^1 + 1*2^0 = 8+0+2+1 = 11$\n$101_2 = 1*2^2 + 0*2^1 + 1*2^0 = 4+0+1 = 5$\n$1100_2 = 1*2^3 + 1*2^2 + 0*2^1 + 0*2^0 = 8+4+0+0 = 12$\n$1101_2 = 1*2^3 + 1*2^2 + 0*2^1 + 1*2^0 = 8+4+0+1 = 13$",
+    "solution_prompt": "Question partition not complete yet",
+    "gpt_response_correct_incorrect": "Question partition not complete yet",
+    "yes_no": "Question partition not complete yet"
+}

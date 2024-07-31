@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in engineering would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in engineering would. Traditionally art has been defined as _____.\nA: wealth\nB: utility\nC: representation\nD: well being",
+    "solution": "C",
+    "gpt_response": "C: representation\n\nArt has been traditionally defined as a form of representation that captures and conveys ideas, emotions, and experiences through various mediums such as painting, sculpture, music, and literature. This definition emphasizes the expressive and communicative nature of art, highlighting its ability to reflect and interpret the world around us. In engineering, this definition may also be viewed in terms of aesthetic design and visual communication, where art plays a significant role in enhancing the functionality and user experience of engineered products.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to C?: C: representation\n\nArt has been traditionally defined as a form of representation that captures and conveys ideas, emotions, and experiences through various mediums such as painting, sculpture, music, and literature. This definition emphasizes the expressive and communicative nature of art, highlighting its ability to reflect and interpret the world around us. In engineering, this definition may also be viewed in terms of aesthetic design and visual communication, where art plays a significant role in enhancing the functionality and user experience of engineered products.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in engineering would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in engineering would. What is the molecular weight of CC(C)C(CCN)C1=NSC=N1?\nAnswer (numerical number):",
+    "solution": [
+        "185.29"
+    ],
+    "gpt_response": "The molecular weight of CC(C)C(CCN)C1=NSC=N1 is 340.52 g/mol. This is calculated by adding the atomic weights of each atom in the compound, accounting for the number of each element present.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response ['185.29']?: The molecular weight of CC(C)C(CCN)C1=NSC=N1 is 340.52 g/mol. This is calculated by adding the atomic weights of each atom in the compound, accounting for the number of each element present.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "312.44",
+    "difficulty_value": "2"
+}

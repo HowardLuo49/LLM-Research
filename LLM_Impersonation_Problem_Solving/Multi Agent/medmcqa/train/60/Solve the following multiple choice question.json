@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. Which of the following is very difficult to induce antibody -\n1: Polysaccharide\n2: Protein\n3: Antigen\n4: Effector",
+    "solution": 1,
+    "gpt_response": "1: Polysaccharide\n\nPolysaccharides are very difficult to induce antibodies against because of their large size and complex structure. Proteins, antigens, and effectors are all more easily recognized by the immune system and can induce antibody production.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: 1: Polysaccharide\n\nPolysaccharides are very difficult to induce antibodies against because of their large size and complex structure. Proteins, antigens, and effectors are all more easily recognized by the immune system and can induce antibody production.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

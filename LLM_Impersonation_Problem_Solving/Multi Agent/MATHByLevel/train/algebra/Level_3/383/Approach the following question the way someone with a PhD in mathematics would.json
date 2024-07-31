@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. What is $a-2b$, where $a=4-2i$ and $b=3+2i$?",
+    "solution": "Substituting in, we have $4-2i-2(3+2i)$. Expanding the last part, we have $4-2i-6-4i$; adding, we have $\\boxed{-2-6i}$.",
+    "gpt_response": "To find $a-2b$, we first express $a$ and $b$ in terms of their real and imaginary parts. \n\nGiven $a=4-2i$ and $b=3+2i$, we have:\n\n$a = 4-2i = 4 - 2 \\cdot i $\n\n$b = 3+2i = 3 + 2 \\cdot i$\n\nSo, $a-2b = (4-2i) - 2(3+2i) = 4 - 2i - 6 - 4i = -2 - 6i$.\n\nTherefore, $a-2b = -2 - 6i$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to -2-6i?: To find $a-2b$, we first express $a$ and $b$ in terms of their real and imaginary parts. \n\nGiven $a=4-2i$ and $b=3+2i$, we have:\n\n$a = 4-2i = 4 - 2 \\cdot i $\n\n$b = 3+2i = 3 + 2 \\cdot i$\n\nSo, $a-2b = (4-2i) - 2(3+2i) = 4 - 2i - 6 - 4i = -2 - 6i$.\n\nTherefore, $a-2b = -2 - 6i$.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "yes_no": "yes"
+}

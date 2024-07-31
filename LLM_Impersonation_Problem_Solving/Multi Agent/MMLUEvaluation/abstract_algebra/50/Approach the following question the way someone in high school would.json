@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Statement 1 | Every solvable group is of prime-power order. Statement 2 | Every group of prime-power order is solvable.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "D",
+    "gpt_response": "Hmm, I remember learning in math class that solvable groups are of prime-power order and that groups of prime-power order are solvable. So, the answer is D: False, True.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: Hmm, I remember learning in math class that solvable groups are of prime-power order and that groups of prime-power order are solvable. So, the answer is D: False, True.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

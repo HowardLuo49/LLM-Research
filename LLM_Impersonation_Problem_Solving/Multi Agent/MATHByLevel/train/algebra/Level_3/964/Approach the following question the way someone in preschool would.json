@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Find the sum of the values of $x$ which satisfy $x^2 +1992x = 1993$.",
+    "solution": "This problem is immediate once you know the following fact:\n\nFor the equation $ax^2 + bx + c = 0$, the sum of the solutions of the equation is $-b/a$ and the product of the solutions is $c/a$.\n\nIn this case, $b = 1992$ and $a = 1$, so the sum of the solutions is $-b/a = \\boxed{-1992}$.",
+    "gpt_response": "Let's see what happens when $x=1$:\n$1^2 + 1992(1) = 1993$\n\nYay, we found a solution! Let's try $x=1992$:\n$1992^2 + 1992(1992) \\neq 1993$\n\nOh no, that didn't work. Let's try $x=1993$:\n$1993^2 + 1992(1993) \\neq 1993$\n\nThat didn't work either. So the sum of the values of $x$ that satisfy the equation is just 1.\nI did it! Yay!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to -1992?: Let's see what happens when $x=1$:\n$1^2 + 1992(1) = 1993$\n\nYay, we found a solution! Let's try $x=1992$:\n$1992^2 + 1992(1992) \\neq 1993$\n\nOh no, that didn't work. Let's try $x=1993$:\n$1993^2 + 1992(1993) \\neq 1993$\n\nThat didn't work either. So the sum of the values of $x$ that satisfy the equation is just 1.\nI did it! Yay!",
+    "gpt_response_correct_incorrect": "Yes.",
+    "yes_no": "yes"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. You have a number of gold coins that you were going to distribute equally among your 11 best friends. However, after dividing your gold coins into 11 equal piles, you realize that if you give away all your gold coins, 2 people will receive an extra gold coin. You have less than 100 gold coins. What is the largest number of gold coins you could have to cause this to happen?",
+    "solution": "If the two people received one fewer coin, then the number of gold coins you would have would be a multiple of 11. However, there are two extra coins there, so the number of gold coins you have can be written in the form $11k+2$. We have that $11k+2 < 100$, so $k < \\frac{98}{11}$. Since $k$ is the number of gold coins each person is receiving, $k$ must be an integer, so we have that $k = 8$. Therefore, the largest number of gold coins you could have is $11(8) + 2 = \\boxed{90}$.",
+    "gpt_response": "If I have less than 100 gold coins and want to divide them among 11 friends so that 2 friends get an extra coin, I need to find a number that is divisible by 11 and leaves a remainder of 2. I should start by counting by 11 until I find a number that satisfies this condition: \n\n11, 22, 33, 44, 55, 66, 77, 88, 99... \n\nSo the largest number of gold coins I could have to cause this to happen is 99.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 90?: If I have less than 100 gold coins and want to divide them among 11 friends so that 2 friends get an extra coin, I need to find a number that is divisible by 11 and leaves a remainder of 2. I should start by counting by 11 until I find a number that satisfies this condition: \n\n11, 22, 33, 44, 55, 66, 77, 88, 99... \n\nSo the largest number of gold coins I could have to cause this to happen is 99.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "5",
+    "difficulty_value": "5"
+}

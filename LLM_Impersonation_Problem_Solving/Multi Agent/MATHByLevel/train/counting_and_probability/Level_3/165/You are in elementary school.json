@@ -1,0 +1,7 @@
+{
+    "prefix": "You are in elementary school.\n",
+    "problem_prompt": "You are in elementary school.\nOur school's girls volleyball team has 14 players, including a set of 3 triplets: Alicia, Amanda, and Anna.  In how many ways can we choose 6 starters if all three triplets are in the starting lineup?",
+    "solution": "If all triplets are in the starting lineup, we are choosing the 3 remaining starters from 11 players, which can be done in  $\\binom{11}{3} = \\boxed{165}$ ways.",
+    "gpt_response": "ChatCompletion(id='chatcmpl-9A2pix70g2AMo9FQ67ELfOVKaIY21', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='Since all three triplets must be in the starting lineup, we only need to choose 3 more players from the remaining 11 players. \\n\\nThe number of ways to choose 3 players from 11 is given by the combination formula:\\n\\n11C3 = 11! / (3!(11-3)!) = 165\\n\\nTherefore, there are 165 ways to choose 3 more players to start alongside the triplets, making a total of 6 starters.', role='assistant', function_call=None, tool_calls=None))], created=1712181198, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint='fp_b28b39ffa8', usage=CompletionUsage(completion_tokens=96, prompt_tokens=62, total_tokens=158))",
+    "yes_no": "yes"
+}

@@ -1,0 +1,10 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. How many three-digit numbers satisfy the property that the middle digit is the average of the first and the last digits?",
+    "solution": "The first and last digits must be both odd or both even for their average to be an integer.  There are $5\\cdot 5 =25$ odd-odd combinations for the first and last digits.  There are $4\\cdot 5=20$ even-even combinations that do not use zero as the first digit. Hence, the total is $\\boxed{45}$.",
+    "gpt_response": "Hmm, let's see. We need to find three-digit numbers where the middle digit is the average of the first and last digits. So, if we have a number like 123, the middle digit is 2, which is the average of 1 and 3. The numbers we need to find will be like that. Let's think of some examples...maybe 121 or 363. I think we need to find all the numbers like that. Maybe we can count them together!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 45?: Hmm, let's see. We need to find three-digit numbers where the middle digit is the average of the first and last digits. So, if we have a number like 123, the middle digit is 2, which is the average of 1 and 3. The numbers we need to find will be like that. Let's think of some examples...maybe 121 or 363. I think we need to find all the numbers like that. Maybe we can count them together!",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no"
+}

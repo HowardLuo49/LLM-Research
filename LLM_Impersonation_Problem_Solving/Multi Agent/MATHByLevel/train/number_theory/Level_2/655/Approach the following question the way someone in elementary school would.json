@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. A marathon is $26$ miles and $385$ yards. One mile equals $1760$ yards.\n\nLeila has run ten marathons in her life. If the total distance Leila covered in these marathons is $m$ miles and $y$ yards, where $0\\le y<1760$, what is the value of $y$?",
+    "solution": "If one marathon equals $26$ miles and $385$ yards, then ten marathons equal $260$ miles and $3850$ yards. Those $3850$ yards can be broken down as $2$ miles and $3850 - (2\\cdot 1760) = 3850 - 3520 = 330$ yards. Therefore, $y=\\boxed{330}$.",
+    "gpt_response": "Leila has run 10 marathons, and each marathon is 26 miles and 385 yards. To find the total distance Leila covered, we can multiply the number of marathons by the distance of each marathon. \n\nFirst, we find the total miles: $10$ marathons $\\times$ $26$ miles per marathon $= 260$ miles.\nNext, we find the total yards: $10$ marathons $\\times$ $385$ yards per marathon $= 3850$ yards.\n\nSince one mile is equal to 1760 yards, we can convert the yards into miles. So, $3850$ yards $\\div 1760$ yards per mile $= 2$ miles with a remainder of $330$ yards.\n\nTherefore, the total distance Leila covered is $260$ miles and $330$ yards. The value of $y$ is $330$ yards.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 330?: Leila has run 10 marathons, and each marathon is 26 miles and 385 yards. To find the total distance Leila covered, we can multiply the number of marathons by the distance of each marathon. \n\nFirst, we find the total miles: $10$ marathons $\\times$ $26$ miles per marathon $= 260$ miles.\nNext, we find the total yards: $10$ marathons $\\times$ $385$ yards per marathon $= 3850$ yards.\n\nSince one mile is equal to 1760 yards, we can convert the yards into miles. So, $3850$ yards $\\div 1760$ yards per mile $= 2$ miles with a remainder of $330$ yards.\n\nTherefore, the total distance Leila covered is $260$ miles and $330$ yards. The value of $y$ is $330$ yards.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

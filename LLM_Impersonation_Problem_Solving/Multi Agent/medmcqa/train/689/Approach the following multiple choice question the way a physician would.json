@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Bone marrow finding in myelofibrosis-\n1: Dry tap (hypocellular)\n2: Megaloblastic cells\n3: Microcytic cells\n4: Thrombocytosis",
+    "solution": 1,
+    "gpt_response": "The bone marrow finding in myelofibrosis typically includes a dry tap, which is described as hypocellular bone marrow. This is because the bone marrow is replaced by fibrous tissue, leading to difficulty in obtaining a sample during aspiration. Megaloblastic cells, microcytic cells, and thrombocytosis are not typically seen in myelofibrosis.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: The bone marrow finding in myelofibrosis typically includes a dry tap, which is described as hypocellular bone marrow. This is because the bone marrow is replaced by fibrous tissue, leading to difficulty in obtaining a sample during aspiration. Megaloblastic cells, microcytic cells, and thrombocytosis are not typically seen in myelofibrosis.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. If you assume that a set of statements is true, and yet you can deduce a false or absurd statement from it, then the original set of statements as a whole must be false. This kind of argument is known as _____.\nA: modus tollens\nB: modus ponens\nC: hypothetical syllogism\nD: reductio ad absurdum",
+    "solution": "D",
+    "gpt_response": "D: reductio ad absurdum\n\nExplanation: In a reductio ad absurdum argument, one assumes a proposition to be true and then shows that this assumption leads to a contradiction or absurdity, thereby proving the original proposition to be false. This technique is commonly used in mathematics and philosophy to prove the falsity of a statement by showing that its logical consequences are absurd.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: D: reductio ad absurdum\n\nExplanation: In a reductio ad absurdum argument, one assumes a proposition to be true and then shows that this assumption leads to a contradiction or absurdity, thereby proving the original proposition to be false. This technique is commonly used in mathematics and philosophy to prove the falsity of a statement by showing that its logical consequences are absurd.",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "9",
+    "difficulty_value": "9"
+}

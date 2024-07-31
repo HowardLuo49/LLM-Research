@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. In chronic alcoholism the rate limiting component for alcohol metabolism excluding enzymes is/are : (PGI Dec 2008)\n1: NADP\n2: NAD+\n3: NADPH\n4: FADH",
+    "solution": 2,
+    "gpt_response": "As a physician, it is important to understand the metabolic pathways involved in alcohol metabolism in order to effectively manage patients with chronic alcoholism. The rate-limiting component for alcohol metabolism excluding enzymes is the cofactor NAD+. NAD+ is required for the conversion of alcohol to acetaldehyde by alcohol dehydrogenase, and a depletion of NAD+ can slow down the metabolism of alcohol leading to its accumulation in the body. Therefore, the correct answer to this question would be:\n\n2: NAD+",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: As a physician, it is important to understand the metabolic pathways involved in alcohol metabolism in order to effectively manage patients with chronic alcoholism. The rate-limiting component for alcohol metabolism excluding enzymes is the cofactor NAD+. NAD+ is required for the conversion of alcohol to acetaldehyde by alcohol dehydrogenase, and a depletion of NAD+ can slow down the metabolism of alcohol leading to its accumulation in the body. Therefore, the correct answer to this question would be:\n\n2: NAD+",
+    "gpt_response_correct_incorrect": "- Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a medical researcher would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a medical researcher would. Carcinoma of the prostate arise from -\n1: Central zone\n2: Peripheral zone\n3: Transitional zone\n4: Periurethral zone",
+    "solution": 2,
+    "gpt_response": "As a medical researcher, I would approach this multiple choice question by evaluating the anatomical location of prostate carcinoma. Prostate cancer typically arises from the peripheral zone of the prostate gland. Therefore, the correct answer would be option 2: Peripheral zone. This area of the prostate is where the majority of prostate cancers originate and can be detected through various diagnostic methods such as digital rectal exam or imaging studies like MRI. The central zone, transitional zone, and periurethral zone are less common sites for prostate cancer development.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: As a medical researcher, I would approach this multiple choice question by evaluating the anatomical location of prostate carcinoma. Prostate cancer typically arises from the peripheral zone of the prostate gland. Therefore, the correct answer would be option 2: Peripheral zone. This area of the prostate is where the majority of prostate cancers originate and can be detected through various diagnostic methods such as digital rectal exam or imaging studies like MRI. The central zone, transitional zone, and periurethral zone are less common sites for prostate cancer development.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

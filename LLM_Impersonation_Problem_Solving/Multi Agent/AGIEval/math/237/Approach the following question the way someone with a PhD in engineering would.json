@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in engineering would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in engineering would. Suppose $\\cos V = \\frac{2}{3}$ in the diagram below.  What is $TV$?\n\n\n\n[asy]\npair T,U,V;\nV = (0,0);\nT = (0,16);\nU = (17.89,16);\ndraw(V--T--U--V);\ndraw(rightanglemark(V,T,U,23));\nlabel(\"$V$\",V,SW);\nlabel(\"$U$\",U,NE);\nlabel(\"$T$\",T,NW);\nlabel(\"$24$\",(U-V)/2,SE);\n[/asy]",
+    "solution": "16",
+    "gpt_response": "We start by recognizing that this is a right triangle, as evidenced by the right angle mark. We can use the Pythagorean theorem to find the length of $TV$.\n\nLet $x$ be the length of $TV$. Then, using the Pythagorean theorem:\n\n$VT^2 + UT^2 = VU^2$\n\nSubstitute $VT = x$, $UT = 24$, and $VU = 25$ into the equation:\n\n$x^2 + 24^2 = 25^2$\n\n$x^2 + 576 = 625$\n\n$x^2 = 625 - 576$\n\n$x^2 = 49$\n\n$x = \\sqrt{49}$\n\n$x = 7$\n\nTherefore, $TV = 7$.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 16?: We start by recognizing that this is a right triangle, as evidenced by the right angle mark. We can use the Pythagorean theorem to find the length of $TV$.\n\nLet $x$ be the length of $TV$. Then, using the Pythagorean theorem:\n\n$VT^2 + UT^2 = VU^2$\n\nSubstitute $VT = x$, $UT = 24$, and $VU = 25$ into the equation:\n\n$x^2 + 24^2 = 25^2$\n\n$x^2 + 576 = 625$\n\n$x^2 = 625 - 576$\n\n$x^2 = 49$\n\n$x = \\sqrt{49}$\n\n$x = 7$\n\nTherefore, $TV = 7$.",
+    "gpt_response_correct_incorrect": "Yes, the final solution obtained in the response is 16.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

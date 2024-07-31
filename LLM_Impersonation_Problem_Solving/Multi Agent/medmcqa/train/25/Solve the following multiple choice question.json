@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. The most common cause of renal scaring in a 3 year old child is -\n1: Trauma\n2: Tuberculosis\n3: Vesicoureteral reflux induced pyelonephritis\n4: Interstitial nephritis",
+    "solution": 3,
+    "gpt_response": "3: Vesicoureteral reflux induced pyelonephritis\n\nVesicoureteral reflux is a condition in which urine flows backward from the bladder into the ureters and sometimes up to the kidneys. This can lead to recurrent urinary tract infections and ultimately result in pyelonephritis, which is inflammation of the kidney. Over time, this can lead to renal scarring. Vesicoureteral reflux is a common cause of renal scarring in young children.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: 3: Vesicoureteral reflux induced pyelonephritis\n\nVesicoureteral reflux is a condition in which urine flows backward from the bladder into the ureters and sometimes up to the kidneys. This can lead to recurrent urinary tract infections and ultimately result in pyelonephritis, which is inflammation of the kidney. Over time, this can lead to renal scarring. Vesicoureteral reflux is a common cause of renal scarring in young children.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

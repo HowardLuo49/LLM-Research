@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Which bacteria acts by inhibiting protein synthesis?\n1: Pseudomonas\n2: Staphylococcus\n3: Streptococcus\n4: Klebsiella",
+    "solution": 1,
+    "gpt_response": "As a doctor, I would approach this question by analyzing each option based on my knowledge of bacteria and their mechanisms of action. In this case, the bacteria that inhibits protein synthesis is likely to be Pseudomonas. Pseudomonas produces exotoxins that inhibit protein synthesis by disrupting ribosomal function. Staphylococcus and Streptococcus typically do not directly inhibit protein synthesis, and Klebsiella is not known for this mechanism of action. Therefore, I would confidently choose option 1: Pseudomonas as the bacterium that acts by inhibiting protein synthesis.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: As a doctor, I would approach this question by analyzing each option based on my knowledge of bacteria and their mechanisms of action. In this case, the bacteria that inhibits protein synthesis is likely to be Pseudomonas. Pseudomonas produces exotoxins that inhibit protein synthesis by disrupting ribosomal function. Staphylococcus and Streptococcus typically do not directly inhibit protein synthesis, and Klebsiella is not known for this mechanism of action. Therefore, I would confidently choose option 1: Pseudomonas as the bacterium that acts by inhibiting protein synthesis.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

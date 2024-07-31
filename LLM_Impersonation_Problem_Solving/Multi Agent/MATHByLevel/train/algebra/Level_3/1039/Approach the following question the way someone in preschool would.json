@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. What is the positive difference between the two solutions of $|x + 5| = 20$?",
+    "solution": "Let the two solutions to the equation be $x_1$ and $x_2,$ where $x_1>x_2. $ It follows that  \\[x_1 - x_2 = (x_1+5)-(x_2+5) = 20 - (-20) = \\boxed{40}.\\]",
+    "gpt_response": "Hmm, let's see! When we have two solutions for the equation |x + 5| = 20, that means x can be either 15 or -25. The positive difference between these two solutions is 40 (since 25 - (-15) = 40). Yay, we found the positive difference! Good job, everyone!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 40?: Hmm, let's see! When we have two solutions for the equation |x + 5| = 20, that means x can be either 15 or -25. The positive difference between these two solutions is 40 (since 25 - (-15) = 40). Yay, we found the positive difference! Good job, everyone!",
+    "gpt_response_correct_incorrect": "Yes.",
+    "yes_no": "yes"
+}

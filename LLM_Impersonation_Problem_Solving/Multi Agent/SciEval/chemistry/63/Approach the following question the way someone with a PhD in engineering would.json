@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in engineering would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in engineering would. What is the SMILES expression of C6H12N2O?\nAnswer:",
+    "solution": [
+        "C1CCC(C(C1)N)N=O"
+    ],
+    "gpt_response": "The simplified molecular-input line-entry system (SMILES) expression of C6H12N2O is CC(C)CC(N)C(=O)N. This representation is a linear notation for describing the structure of chemical species using short ASCII strings. The C6H12N2O molecule consists of six carbon atoms, twelve hydrogen atoms, two nitrogen atoms, and one oxygen atom arranged in a specific configuration. The SMILES notation provides a compact and easily-readable way to convey the structural information of a molecule, making it convenient for computational analysis and chemical database searching.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response ['C1CCC(C(C1)N)N=O']?: The simplified molecular-input line-entry system (SMILES) expression of C6H12N2O is CC(C)CC(N)C(=O)N. This representation is a linear notation for describing the structure of chemical species using short ASCII strings. The C6H12N2O molecule consists of six carbon atoms, twelve hydrogen atoms, two nitrogen atoms, and one oxygen atom arranged in a specific configuration. The SMILES notation provides a compact and easily-readable way to convey the structural information of a molecule, making it convenient for computational analysis and chemical database searching.",
+    "gpt_response_correct_incorrect": "No. The final solution obtained in the response is 'CC(C)CC(N)C(=O)N', not 'C1CCC(C(C1)N)N=O'.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

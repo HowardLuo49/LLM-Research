@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. What is the SMILES expression of C8H14N2O2?\nAnswer:",
+    "solution": [
+        "C1COCCC1C2CNC(=O)N2"
+    ],
+    "gpt_response": "The SMILES expression of C8H14N2O2, also known as L-Carnitine, is CC(C)CC([NH3+])C(=O)[O-]. It is a quaternary ammonium compound involved in fatty acid metabolism and is essential for the transport of fatty acids into the mitochondria for energy production. Its structure is characterized by a central carbon atom bound to three methyl groups, a primary amine group, and a carboxylic acid moiety. SMILES notation provides a concise and standardized representation of molecular structures for use in computer databases and software algorithms.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response ['C1COCCC1C2CNC(=O)N2']?: The SMILES expression of C8H14N2O2, also known as L-Carnitine, is CC(C)CC([NH3+])C(=O)[O-]. It is a quaternary ammonium compound involved in fatty acid metabolism and is essential for the transport of fatty acids into the mitochondria for energy production. Its structure is characterized by a central carbon atom bound to three methyl groups, a primary amine group, and a carboxylic acid moiety. SMILES notation provides a concise and standardized representation of molecular structures for use in computer databases and software algorithms.",
+    "gpt_response_correct_incorrect": "No. The SMILES expression provided in the response is not the final solution.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

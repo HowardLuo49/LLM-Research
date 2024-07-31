@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in computer science would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in computer science would. How many atoms are there in C6H6N2O?\nAnswer (numerical number):",
+    "solution": [
+        15
+    ],
+    "gpt_response": "15 atoms.\n\nExplanation: \nIn C6H6N2O, there are:\n- 6 carbon atoms (C)\n- 6 hydrogen atoms (H)\n- 2 nitrogen atoms (N)\n- 1 oxygen atom (O)\n\nAdding them up, there are a total of 6 + 6 + 2 + 1 = 15 atoms in C6H6N2O.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response [15]?: 15 atoms.\n\nExplanation: \nIn C6H6N2O, there are:\n- 6 carbon atoms (C)\n- 6 hydrogen atoms (H)\n- 2 nitrogen atoms (N)\n- 1 oxygen atom (O)\n\nAdding them up, there are a total of 6 + 6 + 2 + 1 = 15 atoms in C6H6N2O.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "15",
+    "difficulty_value": "5"
+}

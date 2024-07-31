@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Which category of ICD is associated with schizophrenia\n1: F0\n2: F1\n3: F2\n4: F3",
+    "solution": 3,
+    "gpt_response": "The correct answer is 3: F2. Schizophrenia is classified under the F2 category in the International Classification of Diseases (ICD), which encompasses schizophrenia, schizotypal disorder, and delusional disorders.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: The correct answer is 3: F2. Schizophrenia is classified under the F2 category in the International Classification of Diseases (ICD), which encompasses schizophrenia, schizotypal disorder, and delusional disorders.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

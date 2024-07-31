@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. 50 year old male with positive family history of prostate cancer has come to you for a screening test. The screening test done to pickup prostate cancer is\n1: DRE\n2: PSA\n3: DRE + PSA\n4: Endorectal coil MRI with T1 and T2 W images",
+    "solution": 3,
+    "gpt_response": "3: DRE + PSA\n\nBoth digital rectal examination (DRE) and prostate-specific antigen (PSA) testing are commonly used screening tests for prostate cancer. When used together, they can provide a more accurate picture of a patient's risk for prostate cancer. Endorectal coil MRI with T1 and T2 W images is not typically used as a first-line screening test for prostate cancer.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: 3: DRE + PSA\n\nBoth digital rectal examination (DRE) and prostate-specific antigen (PSA) testing are commonly used screening tests for prostate cancer. When used together, they can provide a more accurate picture of a patient's risk for prostate cancer. Endorectal coil MRI with T1 and T2 W images is not typically used as a first-line screening test for prostate cancer.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

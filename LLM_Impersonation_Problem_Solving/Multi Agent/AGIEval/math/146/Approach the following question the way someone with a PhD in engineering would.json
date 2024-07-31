@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in engineering would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in engineering would. 25 students average 84 on a test. Another group of 20 students averages 66. Find the overall average.",
+    "solution": "76",
+    "gpt_response": "To find the overall average of the two groups of students, we need to calculate the total sum of scores for both groups and then divide by the total number of students. \n\nFirst, we calculate the total sum of scores for the first group of 25 students: \n25 students * 84 average = 2100 total score for group 1 \n\nNext, we calculate the total sum of scores for the second group of 20 students: \n20 students * 66 average = 1320 total score for group 2 \n\nNow, we calculate the total sum of scores for all students: \n2100 total score for group 1 + 1320 total score for group 2 = 3420 total score for all students \n\nFinally, we calculate the overall average by dividing the total sum of scores by the total number of students: \n3420 total score for all students / (25 students + 20 students) = 3420 / 45 = 76 overall average \n\nTherefore, the overall average score for all students is 76.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 76?: To find the overall average of the two groups of students, we need to calculate the total sum of scores for both groups and then divide by the total number of students. \n\nFirst, we calculate the total sum of scores for the first group of 25 students: \n25 students * 84 average = 2100 total score for group 1 \n\nNext, we calculate the total sum of scores for the second group of 20 students: \n20 students * 66 average = 1320 total score for group 2 \n\nNow, we calculate the total sum of scores for all students: \n2100 total score for group 1 + 1320 total score for group 2 = 3420 total score for all students \n\nFinally, we calculate the overall average by dividing the total sum of scores by the total number of students: \n3420 total score for all students / (25 students + 20 students) = 3420 / 45 = 76 overall average \n\nTherefore, the overall average score for all students is 76.",
+    "gpt_response_correct_incorrect": "Yes, the final solution obtained in the response is 76.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

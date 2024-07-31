@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Mucositis is caused by:\n1: 5-Fluorouracil\n2: Methotrexate\n3: Paclitaxel\n4: Cisplatin",
+    "solution": 1,
+    "gpt_response": "As a healthcare professional, I would approach this question by considering the common chemotherapy drugs that are known to cause mucositis. Mucositis is a common side effect of chemotherapy and is often seen with drugs that have a high level of mucosal toxicity. \n\nIn this case, all four options are commonly used chemotherapy drugs. However, based on my medical knowledge, I know that 5-Fluorouracil and Methotrexate are more commonly associated with mucositis compared to Paclitaxel and Cisplatin. Therefore, I would choose options 1 and 2 as the more likely causes of mucositis.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: As a healthcare professional, I would approach this question by considering the common chemotherapy drugs that are known to cause mucositis. Mucositis is a common side effect of chemotherapy and is often seen with drugs that have a high level of mucosal toxicity. \n\nIn this case, all four options are commonly used chemotherapy drugs. However, based on my medical knowledge, I know that 5-Fluorouracil and Methotrexate are more commonly associated with mucositis compared to Paclitaxel and Cisplatin. Therefore, I would choose options 1 and 2 as the more likely causes of mucositis.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

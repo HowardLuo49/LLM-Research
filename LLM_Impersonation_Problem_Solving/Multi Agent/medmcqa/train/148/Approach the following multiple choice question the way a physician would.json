@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Which of the following ultrasound finding has the highest association with aneuploidy?\n1: Choroid plexus cyst\n2: Nuchal translucency\n3: Cystic hygroma\n4: Single umbilical aery",
+    "solution": 3,
+    "gpt_response": "As a physician, when considering ultrasound findings associated with aneuploidy, the most relevant and significant finding would be nuchal translucency measurement. Nuchal translucency is a standard measurement taken during the first trimester ultrasound scan to assess the risk of chromosomal abnormalities, such as aneuploidy. A measurement above a certain threshold is considered a marker for increased risk of aneuploidy, particularly Down syndrome (Trisomy 21). Therefore, in this case, the correct answer would be:\n2: Nuchal translucency",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: As a physician, when considering ultrasound findings associated with aneuploidy, the most relevant and significant finding would be nuchal translucency measurement. Nuchal translucency is a standard measurement taken during the first trimester ultrasound scan to assess the risk of chromosomal abnormalities, such as aneuploidy. A measurement above a certain threshold is considered a marker for increased risk of aneuploidy, particularly Down syndrome (Trisomy 21). Therefore, in this case, the correct answer would be:\n2: Nuchal translucency",
+    "gpt_response_correct_incorrect": "Yes, the final solution obtained in the response is option 3: Nuchal translucency.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

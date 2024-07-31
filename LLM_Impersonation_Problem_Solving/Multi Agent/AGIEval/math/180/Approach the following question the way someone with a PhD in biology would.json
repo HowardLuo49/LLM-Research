@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. Two 6-sided dice, one red and one green, are rolled.  What is the probability that the red die shows a 2 and the green die shows a 5?",
+    "solution": "\\frac{1}{36}",
+    "gpt_response": "To calculate the probability of the red die showing a 2 and the green die showing a 5, we first need to determine the total number of possible outcomes when rolling two 6-sided dice.\n\nEach die has 6 sides, so there are a total of 6 possible outcomes for each die. Therefore, the total number of possible outcomes when rolling two 6-sided dice is 6 x 6 = 36.\n\nOut of these 36 possible outcomes, there is only 1 outcome where the red die shows a 2 and the green die shows a 5. Therefore, the probability of this specific outcome occurring is 1/36.\n\nTherefore, the probability that the red die shows a 2 and the green die shows a 5 when rolling two 6-sided dice is 1/36.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response \\frac{1}{36}?: To calculate the probability of the red die showing a 2 and the green die showing a 5, we first need to determine the total number of possible outcomes when rolling two 6-sided dice.\n\nEach die has 6 sides, so there are a total of 6 possible outcomes for each die. Therefore, the total number of possible outcomes when rolling two 6-sided dice is 6 x 6 = 36.\n\nOut of these 36 possible outcomes, there is only 1 outcome where the red die shows a 2 and the green die shows a 5. Therefore, the probability of this specific outcome occurring is 1/36.\n\nTherefore, the probability that the red die shows a 2 and the green die shows a 5 when rolling two 6-sided dice is 1/36.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. What percent of the positive integers less than or equal to $100$ have no remainders when divided by $5?$",
+    "solution": "The only numbers that leave no remainder when divided by $5$ are those that are divisible by $5$. Starting from $1,$ every five integers is divisible by $5: 5,10,15,\\ldots$ This continues even until the last group of five numbers $96$ through $100$ where $100$ is divisible by $5$. Therefore, since we have a whole number of groups of five and every group has exactly one element that is divisible by $5$, $1/5 = \\boxed{20}$ percent of the integers less than $100$ have no remainders when divided by $5$.",
+    "gpt_response": "To find the percentage of positive integers less than or equal to $100$ that have no remainders when divided by $5$, we need to identify the numbers that are multiples of $5$. \n\nThere are $20$ multiples of $5$ less than or equal to $100$ (i.e., $5, 10, 15, 20, \\ldots, 100$). \n\nTherefore, the total number of positive integers less than or equal to $100$ that have no remainders when divided by $5$ is $20$. \n\nTo find the percentage, we divide $20$ by $100$ and multiply by $100\\%$:\n\n$$\\frac{20}{100} \\times 100\\% = 20\\%$$\n\nTherefore, $20\\%$ of the positive integers less than or equal to $100$ have no remainders when divided by $5$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 20?: To find the percentage of positive integers less than or equal to $100$ that have no remainders when divided by $5$, we need to identify the numbers that are multiples of $5$. \n\nThere are $20$ multiples of $5$ less than or equal to $100$ (i.e., $5, 10, 15, 20, \\ldots, 100$). \n\nTherefore, the total number of positive integers less than or equal to $100$ that have no remainders when divided by $5$ is $20$. \n\nTo find the percentage, we divide $20$ by $100$ and multiply by $100\\%$:\n\n$$\\frac{20}{100} \\times 100\\% = 20\\%$$\n\nTherefore, $20\\%$ of the positive integers less than or equal to $100$ have no remainders when divided by $5$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

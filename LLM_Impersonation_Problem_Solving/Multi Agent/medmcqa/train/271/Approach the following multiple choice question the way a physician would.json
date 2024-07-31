@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. The number of ATPs generated in krebs cycleare ?\n1: 12\n2: 24\n3: 15\n4: 30",
+    "solution": 2,
+    "gpt_response": "The correct answer is 2: 24. In the Krebs cycle, each turn generates 3 NADH, 1 FADH2, and 1 ATP, for a total of 12 ATPs per glucose molecule. Since glycolysis also generates 2 ATPs, the overall total is 24 ATPs.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: The correct answer is 2: 24. In the Krebs cycle, each turn generates 3 NADH, 1 FADH2, and 1 ATP, for a total of 12 ATPs per glucose molecule. Since glycolysis also generates 2 ATPs, the overall total is 24 ATPs.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

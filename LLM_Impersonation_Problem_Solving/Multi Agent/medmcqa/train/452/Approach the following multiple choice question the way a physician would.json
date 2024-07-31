@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Marfans Syndrome affecting eyes, skeletal system, and the cardiovascular system is caued by the mutation in the gene\n1: Fibrillin 1\n2: Fibrillin 2\n3: Fibulin\n4: Elastin",
+    "solution": 1,
+    "gpt_response": "Based on my knowledge of medical genetics and the features of Marfan's Syndrome, the mutation that causes this condition is in the gene Fibrillin 1. So, the correct answer is:\n\n1: Fibrillin 1",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: Based on my knowledge of medical genetics and the features of Marfan's Syndrome, the mutation that causes this condition is in the gene Fibrillin 1. So, the correct answer is:\n\n1: Fibrillin 1",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

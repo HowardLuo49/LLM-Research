@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. Antoni A & Antoni B Pattern's are seen in\n1: Schwannoma\n2: Neurofibroma\n3: Meningioma\n4: Teratoma",
+    "solution": 1,
+    "gpt_response": "The correct answer is 1: Schwannoma. Schwannomas are tumors that arise from Schwann cells, which produce the myelin sheath that covers nerves. Antoni A and Antoni B patterns are characteristic histological features seen in schwannomas.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: The correct answer is 1: Schwannoma. Schwannomas are tumors that arise from Schwann cells, which produce the myelin sheath that covers nerves. Antoni A and Antoni B patterns are characteristic histological features seen in schwannomas.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. How many distinct, positive factors does $1100$ have?",
+    "solution": "The prime factorization of $1100$ is $2^2\\cdot5^2\\cdot11$. To find the number of factors, we consider that each factor has a prime factorization of $2^a\\cdot5^b\\cdot11^c$, where $a$ could be from $0$ to $2$ (3 possible values), $b$ could be from $0$ to $2$ (3 possible values), and $c$ could be $0$ or $1$ (2 possible values). So the number of factors is $3\\cdot3\\cdot2=\\boxed{18}$.",
+    "gpt_response": "Let's count together! \n\n1, 2, 4, 5, 10, 11, 20, 22, 25, 44, 50, 55, 110, 220, 550, 1100 \n\nThere are 15 distinct, positive factors of $1100$! Yay!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 18?: Let's count together! \n\n1, 2, 4, 5, 10, 11, 20, 22, 25, 44, 50, 55, 110, 220, 550, 1100 \n\nThere are 15 distinct, positive factors of $1100$! Yay!",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

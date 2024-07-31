@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. Solve for $x$: $$\\sqrt[3]{3-\\frac{1}{x}}=-4$$",
+    "solution": "We cube both sides to eliminate the cube root: $3-\\frac{1}{x}=-64$.   Simplifying gives $\\frac{1}{x}=67$ and taking the reciprocal of both sides gives $\\boxed{x=\\frac{1}{67}}$.",
+    "gpt_response": "To find $x$, first we need to undo the cube root by cubing both sides. So we have: \n\n$$(\\sqrt[3]{3-\\frac{1}{x}})^3=(-4)^3$$\n\nThis simplifies to: \n\n$$3-\\frac{1}{x}=-64$$\n\nNow, let's solve for $x$. Add $\\frac{1}{x}$ to both sides: \n\n$$3=-64+\\frac{1}{x}$$\n\nThen, add 64 to both sides: \n\n$$67=\\frac{1}{x}$$\n\nLastly, to find $x$, take the reciprocal of both sides: \n\n$$x=\\frac{1}{67}$$\n\nSo, $x=\\frac{1}{67}$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to x=\\frac{1?: To find $x$, first we need to undo the cube root by cubing both sides. So we have: \n\n$$(\\sqrt[3]{3-\\frac{1}{x}})^3=(-4)^3$$\n\nThis simplifies to: \n\n$$3-\\frac{1}{x}=-64$$\n\nNow, let's solve for $x$. Add $\\frac{1}{x}$ to both sides: \n\n$$3=-64+\\frac{1}{x}$$\n\nThen, add 64 to both sides: \n\n$$67=\\frac{1}{x}$$\n\nLastly, to find $x$, take the reciprocal of both sides: \n\n$$x=\\frac{1}{67}$$\n\nSo, $x=\\frac{1}{67}$.",
+    "gpt_response_correct_incorrect": "No",
+    "yes_no": "no"
+}

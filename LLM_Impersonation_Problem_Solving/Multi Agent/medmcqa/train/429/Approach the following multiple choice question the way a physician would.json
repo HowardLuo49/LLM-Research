@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Mad Cow disease (Spongiform disease) occurs due to\n1: C J virus\n2: Arena Virus\n3: Kuru Virus\n4: Parvo Virus",
+    "solution": 1,
+    "gpt_response": "The correct answer is 1: C J virus.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: The correct answer is 1: C J virus.",
+    "gpt_response_correct_incorrect": "No, the final solution is not obtained in the response provided.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

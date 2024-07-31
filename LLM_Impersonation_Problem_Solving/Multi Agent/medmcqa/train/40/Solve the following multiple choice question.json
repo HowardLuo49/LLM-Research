@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. Pearsonian measure of skewness -\n1: Mode - Mean/ SD\n2: Mean - Mode/ SD\n3: SD/Mode - mean\n4: Mean - Mode/ SD",
+    "solution": 2,
+    "gpt_response": "The correct answer is:\n2: Mean - Mode/ SD",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: The correct answer is:\n2: Mean - Mode/ SD",
+    "gpt_response_correct_incorrect": "Yes, the final solution obtained in the response is option 2: Mean - Mode/ SD.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

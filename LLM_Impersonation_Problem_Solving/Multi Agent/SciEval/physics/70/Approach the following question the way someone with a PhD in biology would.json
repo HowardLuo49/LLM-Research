@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. What is the kinetic energy released in a type Ia supernova explosion, assuming the entire mass of a white dwarf star (1.8solar masses) is converted into energy? Please note that the following content involves constants might be used in the calculations : solar mass = 1.989e30 kg ; velocity of light: c = 3e8 m/s. Additionally, please select the option from the given choices that you believe is closest to the correct answer!\n\nA. 6.71e+48 J\nB. 3.68e+48 J\nC. 3.22e+47 J\nD. 6.87e+48 J\n\nAnswer:",
+    "solution": [
+        "C"
+    ],
+    "gpt_response": "The kinetic energy released in a Type Ia supernova explosion can be calculated using the equation E=mc^2, where E is the energy, m is the mass, and c is the speed of light.\n\nGiven that the mass of the white dwarf star is 1.8 solar masses (1.8 * 1.989e30 kg), we can calculate the total mass of the white dwarf star in kg.\n\nTotal mass = 1.8 * 1.989e30 kg = 3.5802e30 kg\n\nNow, we can calculate the energy released in the explosion.\n\nEnergy = (3.5802e30 kg) * (3e8 m/s)^2\nEnergy = 3.22218e47 kg m^2/s^2\n\nNow, we need to convert this energy from kg m^2/s^2 to joules.\n\n1 joule = 1 kg m^2/s^2\n\nTherefore, the energy released in the Type Ia supernova explosion is approximately 3.222e47 J, which is closest to option C.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to ['C']?: The kinetic energy released in a Type Ia supernova explosion can be calculated using the equation E=mc^2, where E is the energy, m is the mass, and c is the speed of light.\n\nGiven that the mass of the white dwarf star is 1.8 solar masses (1.8 * 1.989e30 kg), we can calculate the total mass of the white dwarf star in kg.\n\nTotal mass = 1.8 * 1.989e30 kg = 3.5802e30 kg\n\nNow, we can calculate the energy released in the explosion.\n\nEnergy = (3.5802e30 kg) * (3e8 m/s)^2\nEnergy = 3.22218e47 kg m^2/s^2\n\nNow, we need to convert this energy from kg m^2/s^2 to joules.\n\n1 joule = 1 kg m^2/s^2\n\nTherefore, the energy released in the Type Ia supernova explosion is approximately 3.222e47 J, which is closest to option C.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

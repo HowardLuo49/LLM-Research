@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. Expand $(x^{22}-3x^{5} + x^{-2} - 7)\\cdot(5x^4)$.",
+    "solution": "Using the distributive property, we can expand this to get \\begin{align*}\n(x^{22}&-3x^{5} + x^{-2} - 7)\\cdot(5x^4)\\\\\n&=(x^{22})(5x^4)+(-3x^5)(5x^4)+(x^{-2})(5x^4)-7(5x^4)\\\\\n&=5x^{26}-15x^9+5x^2-35x^4\\\\\n&=\\boxed{5x^{26}-15x^9-35x^4+5x^2}.\n\\end{align*}",
+    "gpt_response": "To expand the given expression, we need to multiply each term in the first expression by each term in the second expression. \n\nThe expanded expression is as follows:\n\n$(x^{22} - 3x^{5} + x^{-2} - 7) \\cdot (5x^4)$\n\n$= x^{22} \\cdot 5x^4 - 3x^5 \\cdot 5x^4 + x^{-2} \\cdot 5x^4 - 7 \\cdot 5x^4$\n\n$= 5x^{26} - 15x^{9} + 5x^2 - 35x^4$\n\nTherefore, the expanded expression is $5x^{26} - 15x^{9} + 5x^2 - 35x^4$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 5x^{26?: To expand the given expression, we need to multiply each term in the first expression by each term in the second expression. \n\nThe expanded expression is as follows:\n\n$(x^{22} - 3x^{5} + x^{-2} - 7) \\cdot (5x^4)$\n\n$= x^{22} \\cdot 5x^4 - 3x^5 \\cdot 5x^4 + x^{-2} \\cdot 5x^4 - 7 \\cdot 5x^4$\n\n$= 5x^{26} - 15x^{9} + 5x^2 - 35x^4$\n\nTherefore, the expanded expression is $5x^{26} - 15x^{9} + 5x^2 - 35x^4$.",
+    "gpt_response_correct_incorrect": "No.",
+    "yes_no": "no"
+}

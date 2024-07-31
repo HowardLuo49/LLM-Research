@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. Lucy was born on Wednesday, December 1st, 2004. That Wednesday was the first day of her life. Her parents held a party for her on the $1000$th day of her life. On which day of the week was the party?",
+    "solution": "Since there are 7 days in a week, Lucy's 1st day, 8th day, 15th day, 22nd day, etc. were on Wednesday. When $1000$ is divided by $7$, the remainder is $6$. Therefore, the 1002nd day was a Wednesday (since 1002 is one more than a multiple of 7).  So the 1000th day, was two days earlier on a $\\boxed{\\text{Monday}}$.",
+    "gpt_response": "To find out which day of the week Lucy's party was on, we need to find out what day of the week December 1, 2004 falls on. \n\nTo do this, we can count the number of days that have passed from December 1, 2004 to the day of the party, which is the 1000th day of Lucy's life.\n\nSince 1000 is divisible by 7, we know that the day of the party is a multiple of 7 days after Lucy was born. \n\nCounting by days, we can see that 1000 days after December 1, 2004 is:\n\n$1000 \\div 7 = 142$ weeks and $6$ days \n\nSince there are 6 days left after 142 weeks, we can count 6 days after Wednesday which brings us to Tuesday.\n\nTherefore, Lucy's party was on a Tuesday.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to \\text{Monday?: To find out which day of the week Lucy's party was on, we need to find out what day of the week December 1, 2004 falls on. \n\nTo do this, we can count the number of days that have passed from December 1, 2004 to the day of the party, which is the 1000th day of Lucy's life.\n\nSince 1000 is divisible by 7, we know that the day of the party is a multiple of 7 days after Lucy was born. \n\nCounting by days, we can see that 1000 days after December 1, 2004 is:\n\n$1000 \\div 7 = 142$ weeks and $6$ days \n\nSince there are 6 days left after 142 weeks, we can count 6 days after Wednesday which brings us to Tuesday.\n\nTherefore, Lucy's party was on a Tuesday.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

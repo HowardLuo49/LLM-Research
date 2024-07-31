@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. Find the slope of the line that is perpendicular to the line $2x + 3y = 6$.",
+    "solution": "The given line has slope $-\\frac{2}{3}$, so the line perpendicular to this line has slope $-\\frac{1}{-2/3} = \\boxed{\\frac{3}{2}}$.",
+    "gpt_response": "To find the slope of the line that is perpendicular to $2x + 3y = 6$, we need to first rewrite the equation in slope-intercept form (y = mx + b), where m is the slope.\n\nLet's solve the equation for y:\n$3y = -2x + 6$\n$y = -\\frac{2}{3}x + 2$\n\nThe slope of the line is -2/3. \n\nNow, to find the slope of the line that is perpendicular to this line, we need to flip the fraction and change the sign. So the slope of the line perpendicular to $2x + 3y = 6$ is 3/2.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to \\frac{3?: To find the slope of the line that is perpendicular to $2x + 3y = 6$, we need to first rewrite the equation in slope-intercept form (y = mx + b), where m is the slope.\n\nLet's solve the equation for y:\n$3y = -2x + 6$\n$y = -\\frac{2}{3}x + 2$\n\nThe slope of the line is -2/3. \n\nNow, to find the slope of the line that is perpendicular to this line, we need to flip the fraction and change the sign. So the slope of the line perpendicular to $2x + 3y = 6$ is 3/2.",
+    "gpt_response_correct_incorrect": "No",
+    "yes_no": "no"
+}

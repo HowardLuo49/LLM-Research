@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. What is the sum of all the integers between -12.1 and 3.3?",
+    "solution": "The problem is asking for the sum of the integers from $-12$ to 3.  The sum of an arithmetic series is equal to the average of the first and last term, multiplied by the number of terms.  The number of integers from $-12$ to 3 is $3 - (-12) + 1 = 16$, so the sum is $(-12 + 3)/2 \\cdot 16 = \\boxed{-72}$.",
+    "gpt_response": "Let's count all the numbers between -12.1 and 3.3! Let's start with -12.1, -11, -10.9, -10, and keep going until we reach 3.3. We can add all those numbers together to find the sum. Let's count together!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to -72?: Let's count all the numbers between -12.1 and 3.3! Let's start with -12.1, -11, -10.9, -10, and keep going until we reach 3.3. We can add all those numbers together to find the sum. Let's count together!",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

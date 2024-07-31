@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in computer science would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in computer science would. What is the SMILES expression of methyl 4-amino-3-(propan-2-ylamino)butanoate?\nAnswer:",
+    "solution": [
+        "CC(C)NC(CC(=O)OC)CN"
+    ],
+    "gpt_response": "The SMILES expression of methyl 4-amino-3-(propan-2-ylamino)butanoate can be represented as CC(C)NC(CCC(N)C(=O)OC)C. This is a linear notation for describing the chemical structure of a molecule using simple and concise alphanumeric strings. In this expression, each letter and symbol represents specific atoms, bonds, and functional groups within the molecule, allowing for easy parsing and comparison of chemical structures in computational chemistry applications.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response ['CC(C)NC(CC(=O)OC)CN']?: The SMILES expression of methyl 4-amino-3-(propan-2-ylamino)butanoate can be represented as CC(C)NC(CCC(N)C(=O)OC)C. This is a linear notation for describing the chemical structure of a molecule using simple and concise alphanumeric strings. In this expression, each letter and symbol represents specific atoms, bonds, and functional groups within the molecule, allowing for easy parsing and comparison of chemical structures in computational chemistry applications.",
+    "gpt_response_correct_incorrect": "No, the final solution is not obtained in the provided response ['CC(C)NC(CC(=O)OC)CN'].",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

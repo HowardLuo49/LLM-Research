@@ -1,0 +1,7 @@
+{
+    "prefix": "You are a preschooler.\n",
+    "problem_prompt": "You are a preschooler.\nGiven the equation $a + b = 30$, where $a$ and $b$ are positive integers, how many distinct ordered-pair solutions $(a, b)$ exist?",
+    "solution": "The solutions are $(1,29),(2,28),\\ldots,(28,2),(29,1)$. Each $a$ produces a unique $b$, and since there are 29 possibilities for $a$, there are $\\boxed{29}$ possibilities for $(a,b)$.",
+    "gpt_response": "ChatCompletion(id='chatcmpl-9A2v15Yb1VZxDKl57u9vG5Co2JB5N', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='As a preschooler, I can count all the distinct ordered pairs of positive integers that add up to 30:\\n\\n(1, 29)\\n(2, 28)\\n(3, 27)\\n(4, 26)\\n(5, 25)\\n(6, 24)\\n(7, 23)\\n(8, 22)\\n(9, 21)\\n(10, 20)\\n(11, 19)\\n(12, 18)\\n(13, 17)\\n(14, 16)\\n(15, 15)\\n\\nSo, there are 15 distinct ordered-pair solutions $(a, b)$ that satisfy $a + b = 30$.', role='assistant', function_call=None, tool_calls=None))], created=1712181527, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint='fp_b28b39ffa8', usage=CompletionUsage(completion_tokens=139, prompt_tokens=50, total_tokens=189))",
+    "yes_no": "yes"
+}

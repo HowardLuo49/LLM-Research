@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in literature would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in literature would. In triangle $ABC, AB = AC = 10$ and $BC = 12$. Point $D$ lies strictly between $A$ and $B$ on $\\overline{AB}$ and point $E$ lies strictly between $A$ and $C$ on $\\overline{AC}$ so that $AD = DE = EC$.  Find $AD.$",
+    "solution": "\\frac{250}{39}",
+    "gpt_response": "In order to find the length of segment $AD$ in triangle $ABC$, we must first apply various geometric and algebraic techniques to derive an expression for it. \n\nSince $AD = DE = EC$, we can denote $AD = x$, $DE = x$, and $EC = x$. Using the triangle angle bisector theorem on triangle $ADE$, we can derive the equation $\\frac{AB}{EB} = \\frac{AD}{ED}$, which simplifies to $\\frac{10}{EB} = \\frac{x}{x}$. Solving for $EB$, we find that $EB = 10$.\n\nNext, let's consider triangle $EBC$. Since $EC = x$ and $BC = 12$, we can use the Pythagorean theorem to obtain the equation $x^2 + 12^2 = 10^2$, which simplifies to $x^2 = 64$. Therefore, $x = 8$.\n\nHence, the length of segment $AD$ in triangle $ABC$ is $\\boxed{8}$.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response \\frac{250}{39}?: In order to find the length of segment $AD$ in triangle $ABC$, we must first apply various geometric and algebraic techniques to derive an expression for it. \n\nSince $AD = DE = EC$, we can denote $AD = x$, $DE = x$, and $EC = x$. Using the triangle angle bisector theorem on triangle $ADE$, we can derive the equation $\\frac{AB}{EB} = \\frac{AD}{ED}$, which simplifies to $\\frac{10}{EB} = \\frac{x}{x}$. Solving for $EB$, we find that $EB = 10$.\n\nNext, let's consider triangle $EBC$. Since $EC = x$ and $BC = 12$, we can use the Pythagorean theorem to obtain the equation $x^2 + 12^2 = 10^2$, which simplifies to $x^2 = 64$. Therefore, $x = 8$.\n\nHence, the length of segment $AD$ in triangle $ABC$ is $\\boxed{8}$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

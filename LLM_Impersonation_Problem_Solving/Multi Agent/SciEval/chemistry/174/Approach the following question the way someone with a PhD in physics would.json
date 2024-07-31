@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in physics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in physics would. What is the SMILES expression of C10H20N2?\nAnswer:",
+    "solution": [
+        "CC(=CCNC1CCCNC1)C"
+    ],
+    "gpt_response": "The SMILES expression of a molecule is a linear notation that represents its structure using simplified rules of chemical bonding. For the molecule C10H20N2, the SMILES expression would be CC(C)(N)CCNC(C)C. It is important to note that this representation captures the connectivity of the atoms in the molecule, rather than the 3D arrangement of the atoms in space.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response ['CC(=CCNC1CCCNC1)C']?: The SMILES expression of a molecule is a linear notation that represents its structure using simplified rules of chemical bonding. For the molecule C10H20N2, the SMILES expression would be CC(C)(N)CCNC(C)C. It is important to note that this representation captures the connectivity of the atoms in the molecule, rather than the 3D arrangement of the atoms in space.",
+    "gpt_response_correct_incorrect": "No. The final solution obtained in the response provided is ['CC(=CCNC1CCCNC1)C'].",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

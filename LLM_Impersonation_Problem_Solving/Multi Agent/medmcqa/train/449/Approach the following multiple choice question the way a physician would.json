@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Ulipristal acetate is a/an:\n1: GnRH agonist\n2: Androgen antagonist\n3: Selective estrogen receptor modulator\n4: Selective progesterone receptor modulator",
+    "solution": 4,
+    "gpt_response": "4: Selective progesterone receptor modulator\n\nExplanation: Ulipristal acetate is a selective progesterone receptor modulator that is used as an emergency contraceptive pill. It works by delaying or inhibiting ovulation.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 4?: 4: Selective progesterone receptor modulator\n\nExplanation: Ulipristal acetate is a selective progesterone receptor modulator that is used as an emergency contraceptive pill. It works by delaying or inhibiting ovulation.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

@@ -1,0 +1,8 @@
+{
+    "problem_prompt": "Your job is to consider a number theory problem, and leave a plan for the next person to solve it. The problem will be revealed one sentence at a time. You do not have the entire problem yet, thus just do whatever calcluations/planning you think will be useful for the next person. If you don't think you can make any progress, say so. The following is a portion of the entire problem, and the work/progress/message the previous person left for you. There may be errors in the provided work that was previously done and left for you, so check and fix them if necessary.\nAn insect has just told me that she has laid $154_6$ eggs.\n",
+    "solution": "$154_6 = 1\\cdot6^2 + 5\\cdot6^1 + 4\\cdot6^0 = 36 + 30 + 4 = \\boxed{70}.$",
+    "gpt_response": "Let's first convert $154_6$ to base 10 to find out how many eggs the insect has laid.\n$154_6 = 1*6^2 + 5*6^1 + 4*6^0 = 36 + 30 + 4 = 70$\nSo, the insect has laid 70 eggs. Next, we can consider how we can represent this number in terms of number theory concepts.",
+    "solution_prompt": "Question partition not complete yet",
+    "gpt_response_correct_incorrect": "Question partition not complete yet",
+    "yes_no": "Question partition not complete yet"
+}

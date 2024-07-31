@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. How many real roots does the polynomial 2x^5 + 8x - 7 have?\nA: None\nB: One\nC: Two\nD: Three",
+    "solution": "B",
+    "gpt_response": "Hmm, let's count! We have no real roots for this polynomial, so the answer is A: None! Yay!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to B?: Hmm, let's count! We have no real roots for this polynomial, so the answer is A: None! Yay!",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "B: One\n\n1",
+    "difficulty_value": "1"
+}

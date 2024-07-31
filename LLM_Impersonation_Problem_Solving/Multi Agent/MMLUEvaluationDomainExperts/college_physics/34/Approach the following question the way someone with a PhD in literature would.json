@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in literature would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in literature would. A three-dimensional harmonic oscillator is in thermal equilibrium with a temperature reservoir at temperature T. The average total energy of the oscillator is\nA: (1/2) k T\nB: kT\nC: (3/2) k T\nD: 3kT",
+    "solution": "D",
+    "gpt_response": "In considering the average total energy of a three-dimensional harmonic oscillator in thermal equilibrium with a temperature reservoir at temperature T, one must first recognize the relationship between temperature and energy in such a system. In the context of statistical mechanics, the average energy of a harmonic oscillator can be expressed in terms of the Boltzmann constant k and the temperature T.\n\nFor a harmonic oscillator in thermal equilibrium with a heat bath at temperature T, the average total energy is given by the equipartition theorem, which states that each quadratic degree of freedom contributes (1/2) kT to the total energy. Since a three-dimensional harmonic oscillator has three quadratic degrees of freedom (associated with the x, y, and z components of motion), the total average energy is (3/2) kT.\n\nTherefore, the correct answer is C: (3/2) k T.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: In considering the average total energy of a three-dimensional harmonic oscillator in thermal equilibrium with a temperature reservoir at temperature T, one must first recognize the relationship between temperature and energy in such a system. In the context of statistical mechanics, the average energy of a harmonic oscillator can be expressed in terms of the Boltzmann constant k and the temperature T.\n\nFor a harmonic oscillator in thermal equilibrium with a heat bath at temperature T, the average total energy is given by the equipartition theorem, which states that each quadratic degree of freedom contributes (1/2) kT to the total energy. Since a three-dimensional harmonic oscillator has three quadratic degrees of freedom (associated with the x, y, and z components of motion), the total average energy is (3/2) kT.\n\nTherefore, the correct answer is C: (3/2) k T.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "C: 5",
+    "difficulty_value": "5"
+}

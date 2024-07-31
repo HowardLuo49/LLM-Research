@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in computer science would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in computer science would. The sign of the charge carriers in a doped semiconductor can be deduced by measuring which of the following properties?\nA: Magnetic susceptibility\nB: Hall coefficient\nC: Electrical resistivity\nD: Thermal conductivity",
+    "solution": "B",
+    "gpt_response": "To determine the sign of the charge carriers in a doped semiconductor, one would typically measure the Hall coefficient. The Hall coefficient is a parameter that characterizes the sign and density of charge carriers in a material by measuring the Hall effect, which occurs when a magnetic field is applied perpendicular to the current flowing through a semiconductor. By analyzing the behavior of charge carriers under the influence of a magnetic field, one can deduce whether the material has predominantly negative or positive charge carriers. Magnetic susceptibility, electrical resistivity, and thermal conductivity may also provide useful information about the material's properties, but they are not specifically indicative of the sign of the charge carriers.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to B?: To determine the sign of the charge carriers in a doped semiconductor, one would typically measure the Hall coefficient. The Hall coefficient is a parameter that characterizes the sign and density of charge carriers in a material by measuring the Hall effect, which occurs when a magnetic field is applied perpendicular to the current flowing through a semiconductor. By analyzing the behavior of charge carriers under the influence of a magnetic field, one can deduce whether the material has predominantly negative or positive charge carriers. Magnetic susceptibility, electrical resistivity, and thermal conductivity may also provide useful information about the material's properties, but they are not specifically indicative of the sign of the charge carriers.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

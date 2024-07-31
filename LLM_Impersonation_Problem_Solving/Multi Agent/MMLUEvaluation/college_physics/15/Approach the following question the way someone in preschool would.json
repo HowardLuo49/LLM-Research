@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Which of the following statements about bosons and/or fermions is true?\nA: Bosons have symmetric wave functions and obey the Pauli exclusion principle.\nB: Bosons have antisymmetric wave functions and do not obey the Pauli exclusion principle.\nC: Fermions have symmetric wave functions and obey the Pauli exclusion principle.\nD: Fermions have antisymmetric wave functions and obey the Pauli exclusion principle.",
+    "solution": "D",
+    "gpt_response": "What are bosons and fermions? Bosons and fermions are like different kinds of friends. Bosons like to be in groups and have symmetric wave functions. Fermions like to be independent and have antisymmetric wave functions. Do you know what the Pauli exclusion principle is? It's like when you play with your toys and don't like to have the same one as your friend. Fermions follow this rule, but bosons don't. So, the true statement is: C - Fermions have symmetric wave functions and obey the Pauli exclusion principle.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: What are bosons and fermions? Bosons and fermions are like different kinds of friends. Bosons like to be in groups and have symmetric wave functions. Fermions like to be independent and have antisymmetric wave functions. Do you know what the Pauli exclusion principle is? It's like when you play with your toys and don't like to have the same one as your friend. Fermions follow this rule, but bosons don't. So, the true statement is: C - Fermions have symmetric wave functions and obey the Pauli exclusion principle.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

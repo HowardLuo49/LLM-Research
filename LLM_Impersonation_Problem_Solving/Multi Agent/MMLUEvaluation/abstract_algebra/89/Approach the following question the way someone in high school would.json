@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Statement 1 | Every permutation is a one-to-one function. Statement 2 | Every function is a permutation if and only if it is one to one.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "C",
+    "gpt_response": "Hmm, let's see. Statement 1 says every permutation is a one-to-one function. Well, I know that in math, a permutation is a way to arrange a set of items in a particular order. And a one-to-one function is a function where each input has a unique output. So, I think this statement is true.\n\nNow, Statement 2 says every function is a permutation if and only if it is one to one. Well, I'm not too sure about this one. I know that every permutation is a function, but I'm not sure if every function is a permutation. So, I'm going to say this statement is false.\n\nSo, my answer is C: True, False.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to C?: Hmm, let's see. Statement 1 says every permutation is a one-to-one function. Well, I know that in math, a permutation is a way to arrange a set of items in a particular order. And a one-to-one function is a function where each input has a unique output. So, I think this statement is true.\n\nNow, Statement 2 says every function is a permutation if and only if it is one to one. Well, I'm not too sure about this one. I know that every permutation is a function, but I'm not sure if every function is a permutation. So, I'm going to say this statement is false.\n\nSo, my answer is C: True, False.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

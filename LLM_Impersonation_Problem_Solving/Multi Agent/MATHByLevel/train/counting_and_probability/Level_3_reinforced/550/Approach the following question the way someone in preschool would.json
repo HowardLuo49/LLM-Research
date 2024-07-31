@@ -1,0 +1,10 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. John has five children.  What is the probability that at least half of them are girls? (We can assume a boy is equally likely to be born as is a girl, and vice-versa.)",
+    "solution": "In all cases, at least half of John's kids will be boys or at least half will be girls.  Furthermore, since John has an odd number of children, these conditions are mutually exclusive--that is, they are never true at the same time.  Since a boy is equally likely to be born as is a girl, our answer is therefore $\\boxed{\\frac{1}{2}}$.",
+    "gpt_response": "Hmm...let's count how many ways John can have five children. He could have all boys, all girls, 1 girl and 4 boys, 2 girls and 3 boys, 3 girls and 2 boys, 4 girls and 1 boy, or all girls. That's 7 different ways. \n\nNow let's see how many of those ways have at least half girls. That would be 3 girls and 2 boys, 4 girls and 1 boy, and all girls. That's 3 ways. \n\nSo the probability that at least half of John's children are girls is 3 out of 7, or 3/7.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to \\frac{1?: Hmm...let's count how many ways John can have five children. He could have all boys, all girls, 1 girl and 4 boys, 2 girls and 3 boys, 3 girls and 2 boys, 4 girls and 1 boy, or all girls. That's 7 different ways. \n\nNow let's see how many of those ways have at least half girls. That would be 3 girls and 2 boys, 4 girls and 1 boy, and all girls. That's 3 ways. \n\nSo the probability that at least half of John's children are girls is 3 out of 7, or 3/7.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes"
+}

@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Four years ago you invested some money at $10\\%$ interest. You now have $\\$439.23$ in the account. If the interest was compounded yearly, how much did you invest 4 years ago?",
+    "solution": "Let $x$ be the initial amount.  After four years, at a ten percent annual interest rate, the investment will have grown to $x \\cdot 1.1^4$, so $x \\cdot 1.1^4 = 439.23$.  Then $x = 439.23/1.1^4 = \\boxed{300}$.",
+    "gpt_response": "Hmm let's see. If I started with some money and it grew to $\\$439.23$ after 4 years, that means my money grew by $10\\%$ each year. So that must mean my original money times $1.10$ four times which is $1.10^4 = 1.4641$ times my original money. So if I divide $\\$439.23$ by $1.4641$, I can find out how much money I started with. Let's do some math: $\\$439.23/1.4641 = \\$300$. So, I must have invested $\\$300$ four year ago. Yay!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 300?: Hmm let's see. If I started with some money and it grew to $\\$439.23$ after 4 years, that means my money grew by $10\\%$ each year. So that must mean my original money times $1.10$ four times which is $1.10^4 = 1.4641$ times my original money. So if I divide $\\$439.23$ by $1.4641$, I can find out how much money I started with. Let's do some math: $\\$439.23/1.4641 = \\$300$. So, I must have invested $\\$300$ four year ago. Yay!",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. A obese female having hirsutism on laboratory investigation has high level of LH and androgens. Likely cause is-\n1: PCOS\n2: Exogenous steroid ingestion\n3: Turner syndrome\n4: Kleinfelter syndrome",
+    "solution": 1,
+    "gpt_response": "As a physician, when approaching this multiple choice question, I would consider the presentation of an obese female with hirsutism, high levels of LH and androgens on laboratory investigation. Given these findings, the likely cause would be polycystic ovary syndrome (PCOS). PCOS is a common endocrine disorder in women of reproductive age and is characterized by hormonal imbalances, such as high levels of LH and androgens, leading to symptoms such as hirsutism and irregular periods. Exogenous steroid ingestion could also potentially cause similar hormonal imbalances, but in this case, PCOS would be the more likely diagnosis. Turner syndrome and Kleinfelter syndrome typically present with other clinical features and not typically associated with high levels of LH and androgens.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: As a physician, when approaching this multiple choice question, I would consider the presentation of an obese female with hirsutism, high levels of LH and androgens on laboratory investigation. Given these findings, the likely cause would be polycystic ovary syndrome (PCOS). PCOS is a common endocrine disorder in women of reproductive age and is characterized by hormonal imbalances, such as high levels of LH and androgens, leading to symptoms such as hirsutism and irregular periods. Exogenous steroid ingestion could also potentially cause similar hormonal imbalances, but in this case, PCOS would be the more likely diagnosis. Turner syndrome and Kleinfelter syndrome typically present with other clinical features and not typically associated with high levels of LH and androgens.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

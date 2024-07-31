@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in physics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in physics would. The eigenvalues of a Hermitian operator are always\nA: real\nB: imaginary\nC: degenerate\nD: linear",
+    "solution": "A",
+    "gpt_response": "Correct answer: A) real\n\nExplanation:\nIn quantum mechanics, a Hermitian operator corresponds to an observable quantity, such as position or momentum, that has real eigenvalues. This is a fundamental property of Hermitian operators that can be proven mathematically.\n\nHermitian operators are defined by the property that they are equal to their own adjoint (Hermitian conjugate). This leads to the eigenvalues of a Hermitian operator being real. This can be understood from the spectral theorem for Hermitian operators, which states that the eigenvectors corresponding to distinct eigenvalues of a Hermitian operator are orthogonal.\n\nTherefore, the correct answer is A) real.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to A?: Correct answer: A) real\n\nExplanation:\nIn quantum mechanics, a Hermitian operator corresponds to an observable quantity, such as position or momentum, that has real eigenvalues. This is a fundamental property of Hermitian operators that can be proven mathematically.\n\nHermitian operators are defined by the property that they are equal to their own adjoint (Hermitian conjugate). This leads to the eigenvalues of a Hermitian operator being real. This can be understood from the spectral theorem for Hermitian operators, which states that the eigenvectors corresponding to distinct eigenvalues of a Hermitian operator are orthogonal.\n\nTherefore, the correct answer is A) real.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

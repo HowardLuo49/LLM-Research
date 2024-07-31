@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. When a number is divided by 7, the remainder is 2. What is the remainder when three times the number minus 7 is divided by 7?",
+    "solution": "If our number is $n$, then $n \\equiv 2 \\pmod 7$.  This tells us that  \\[3n - 7 = n + n + n - 7 \\equiv 6 - 0 \\pmod 7.\\]The remainder is $\\boxed{6}$ when the number is divided by $7.$",
+    "gpt_response": "To find the remainder when three times the number minus 7 is divided by 7, we first need to find the original number.\n\nSince the number is divided by 7 and the remainder is 2, we know that the number leaves a remainder of 2 when divided by 7.\n\nIf we test numbers that leave a remainder of 2 when divided by 7, we find that the original number is 2.\n\nNow, we need to find the remainder when three times the number (2) minus 7 is divided by 7.\n\n3 x 2 = 6\n6 - 7 = -1\n\nWhen -1 is divided by 7, the remainder is 6.\n\nSo, the remainder when three times the number minus 7 is divided by 7 is 6.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 6?: To find the remainder when three times the number minus 7 is divided by 7, we first need to find the original number.\n\nSince the number is divided by 7 and the remainder is 2, we know that the number leaves a remainder of 2 when divided by 7.\n\nIf we test numbers that leave a remainder of 2 when divided by 7, we find that the original number is 2.\n\nNow, we need to find the remainder when three times the number (2) minus 7 is divided by 7.\n\n3 x 2 = 6\n6 - 7 = -1\n\nWhen -1 is divided by 7, the remainder is 6.\n\nSo, the remainder when three times the number minus 7 is divided by 7 is 6.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

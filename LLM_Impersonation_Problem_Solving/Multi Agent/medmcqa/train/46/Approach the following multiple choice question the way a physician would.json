@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Glucose sympo occurs with:\n1: Na+\n2: Ca++\n3: K+\n4: Cl-",
+    "solution": 1,
+    "gpt_response": "As a physician, I would approach this multiple choice question by first considering the normal physiological functions of each electrolyte. Glucose sympo is likely referring to a syndrome or condition related to glucose levels in the body.\n\nGlucose is a type of sugar and plays a crucial role in providing energy to cells. When glucose levels are abnormal, it can lead to a variety of symptoms and conditions. Therefore, I would eliminate options 1 (Na+), 2 (Ca++), and 4 (Cl-) from consideration since these electrolytes do not directly regulate glucose levels in the body.\n\nPotassium (K+), on the other hand, is involved in the regulation of insulin release, which in turn affects glucose levels in the body. Therefore, I would select option 3 (K+) as the most likely electrolyte associated with glucose sympo.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: As a physician, I would approach this multiple choice question by first considering the normal physiological functions of each electrolyte. Glucose sympo is likely referring to a syndrome or condition related to glucose levels in the body.\n\nGlucose is a type of sugar and plays a crucial role in providing energy to cells. When glucose levels are abnormal, it can lead to a variety of symptoms and conditions. Therefore, I would eliminate options 1 (Na+), 2 (Ca++), and 4 (Cl-) from consideration since these electrolytes do not directly regulate glucose levels in the body.\n\nPotassium (K+), on the other hand, is involved in the regulation of insulin release, which in turn affects glucose levels in the body. Therefore, I would select option 3 (K+) as the most likely electrolyte associated with glucose sympo.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

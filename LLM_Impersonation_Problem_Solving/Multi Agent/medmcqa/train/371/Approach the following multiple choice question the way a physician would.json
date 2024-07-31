@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Which of the following drug acts against Pseudomonas -\n1: Piperacillin\n2: Methicillin\n3: Nafcillin\n4: Cloxacillin",
+    "solution": 1,
+    "gpt_response": "As a physician, I would choose option 1: Piperacillin. Piperacillin is a broad-spectrum antibiotic that is effective against Pseudomonas aeruginosa, a common pathogen known for its resistance to many antibiotics. The other options, Methicillin, Nafcillin, and Cloxacillin, are not typically used to treat Pseudomonas infections.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: As a physician, I would choose option 1: Piperacillin. Piperacillin is a broad-spectrum antibiotic that is effective against Pseudomonas aeruginosa, a common pathogen known for its resistance to many antibiotics. The other options, Methicillin, Nafcillin, and Cloxacillin, are not typically used to treat Pseudomonas infections.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

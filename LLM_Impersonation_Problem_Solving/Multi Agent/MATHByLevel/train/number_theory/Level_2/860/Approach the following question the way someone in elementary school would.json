@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. The digits of a two-digit number $AB$ are reversed to form a second two-digit number, and the lesser of the two-digit numbers is subtracted from the greater. What prime number must be a factor of the difference if $A\\neq B$?",
+    "solution": "$AB -BA= 10\\cdot A+B - (10\\cdot B+A)= 9\\cdot A-9\\cdot B=3(3\\cdot A-3\\cdot B)$. If $A\\neq B$, then the difference is a (non-zero) multiple of 3. Thus, $\\boxed{3}$ must be a factor of $AB -BA$.",
+    "gpt_response": "Okay, so let's say our two-digit number is 10 x A + B and we reverse the digits to get 10 x B + A. \n\nWhen we subtract the smaller number from the larger number, we get (10 x B + A) - (10 x A + B). \n\nThis simplifies to 9A - 9B which can be factored out to 9(A - B).\n\nSince A \u2260 B, the difference will always be a multiple of 9. The only prime factor of 9 is 3. \n\nTherefore, the prime number that must be a factor of the difference is 3.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 3?: Okay, so let's say our two-digit number is 10 x A + B and we reverse the digits to get 10 x B + A. \n\nWhen we subtract the smaller number from the larger number, we get (10 x B + A) - (10 x A + B). \n\nThis simplifies to 9A - 9B which can be factored out to 9(A - B).\n\nSince A \u2260 B, the difference will always be a multiple of 9. The only prime factor of 9 is 3. \n\nTherefore, the prime number that must be a factor of the difference is 3.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

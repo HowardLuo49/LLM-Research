@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Black eye is a type of -\n1: Patterend abrasion\n2: Ectopic abrasion\n3: Ectopic bruise\n4: Friction abrasion",
+    "solution": 3,
+    "gpt_response": "As a physician, I would approach this question by first eliminating any obviously incorrect options. \n\nA black eye is not typically classified as a \"patterend abrasion\" or a \"friction abrasion.\" \n\nNext, I would consider the remaining options: \"ectopic abrasion\" and \"ectopic bruise.\" \n\nBased on my medical knowledge, an \"ectopic abrasion\" refers to an injury to the skin caused by friction, whereas a \"bruise\" is an injury to underlying blood vessels causing discoloration of the skin. \n\nIn the case of a black eye, the discoloration is caused by blood pooling underneath the skin due to trauma to the eye area, making \"ectopic bruise\" the most appropriate answer.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: As a physician, I would approach this question by first eliminating any obviously incorrect options. \n\nA black eye is not typically classified as a \"patterend abrasion\" or a \"friction abrasion.\" \n\nNext, I would consider the remaining options: \"ectopic abrasion\" and \"ectopic bruise.\" \n\nBased on my medical knowledge, an \"ectopic abrasion\" refers to an injury to the skin caused by friction, whereas a \"bruise\" is an injury to underlying blood vessels causing discoloration of the skin. \n\nIn the case of a black eye, the discoloration is caused by blood pooling underneath the skin due to trauma to the eye area, making \"ectopic bruise\" the most appropriate answer.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. The diameter of Tricuspid orifice is\n1: 2cm\n2: 2.5cm\n3: 3cm\n4: 4cm",
+    "solution": 4,
+    "gpt_response": "The diameter of the Tricuspid orifice is 2.5cm.\n\nTherefore, the correct answer is:\n2: 2.5cm",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 4?: The diameter of the Tricuspid orifice is 2.5cm.\n\nTherefore, the correct answer is:\n2: 2.5cm",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

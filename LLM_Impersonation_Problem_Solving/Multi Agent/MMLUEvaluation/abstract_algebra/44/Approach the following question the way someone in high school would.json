@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Let A and B be sets, f: A -> B and g: B -> A be functions such that for all a \\in A, g(f(a)) = a. Statement 1 | The function f must necessarily be injective. Statement 2 | The function f must necessarily be surjective.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "C",
+    "gpt_response": "Okay, so let's break this down. Statement 1 is saying that the function f must be injective, which means that different elements in set A cannot map to the same element in set B. Statement 2 is saying that the function f must be surjective, which means that every element in set B has a pre-image in set A.\n\nAlright, so let's think about this. If g(f(a)) = a for all a in set A, that means that function g must be the inverse of function f. In other words, g undoes what f does. \n\nIf function g is the inverse of function f, that means that if f is injective, then g must be surjective. And if f is surjective, then g must be injective. \n\nSo, if g is surjective (Statement 2), then f must be injective. This makes Statement 1 true. But if g is injective (Statement 1), then f must be surjective. This makes Statement 2 false.\n\nTherefore, the correct answer is: C) True, False.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to C?: Okay, so let's break this down. Statement 1 is saying that the function f must be injective, which means that different elements in set A cannot map to the same element in set B. Statement 2 is saying that the function f must be surjective, which means that every element in set B has a pre-image in set A.\n\nAlright, so let's think about this. If g(f(a)) = a for all a in set A, that means that function g must be the inverse of function f. In other words, g undoes what f does. \n\nIf function g is the inverse of function f, that means that if f is injective, then g must be surjective. And if f is surjective, then g must be injective. \n\nSo, if g is surjective (Statement 2), then f must be injective. This makes Statement 1 true. But if g is injective (Statement 1), then f must be surjective. This makes Statement 2 false.\n\nTherefore, the correct answer is: C) True, False.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

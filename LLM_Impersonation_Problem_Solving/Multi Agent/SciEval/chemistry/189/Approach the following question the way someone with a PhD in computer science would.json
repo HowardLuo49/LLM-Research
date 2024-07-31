@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in computer science would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in computer science would. How many atoms are there in C8H8ClI?\nAnswer (numerical number):",
+    "solution": [
+        18
+    ],
+    "gpt_response": "17 atoms\n\nExplanation: \n- C8H8ClI contains 8 carbon atoms, 8 hydrogen atoms, 1 chlorine atom, and 1 iodine atom.\n- Therefore, the total number of atoms in C8H8ClI is 8 + 8 + 1 + 1 = 17 atoms.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response [18]?: 17 atoms\n\nExplanation: \n- C8H8ClI contains 8 carbon atoms, 8 hydrogen atoms, 1 chlorine atom, and 1 iodine atom.\n- Therefore, the total number of atoms in C8H8ClI is 8 + 8 + 1 + 1 = 17 atoms.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "17",
+    "difficulty_value": "7"
+}

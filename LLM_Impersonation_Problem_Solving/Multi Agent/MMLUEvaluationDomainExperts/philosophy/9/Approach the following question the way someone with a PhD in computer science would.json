@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in computer science would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in computer science would. According to Kant, morality requires us to:\nA: perform the action that leads to the greatest total happiness.\nB: act only on maxims that we can will to become universal laws.\nC: behave only in such a way as a perfectly virtuous person would behave.\nD: place the interests of others above the interests of ourselves.",
+    "solution": "B",
+    "gpt_response": "B: act only on maxims that we can will to become universal laws. \n\nFrom a Kantian perspective, morality is based on rationality and the idea of treating others as ends in themselves, not just as a means to an end. Kant's categorical imperative requires individuals to act according to maxims (or principles of action) that could reasonably be willed to become universal laws that apply to everyone. This means that moral actions must be consistent and applicable to all rational beings, regardless of personal desires or circumstances. This universalizability aspect of morality distinguishes it from simply seeking individual or collective happiness, behaving virtuously, or prioritizing others' interests over one's own.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to B?: B: act only on maxims that we can will to become universal laws. \n\nFrom a Kantian perspective, morality is based on rationality and the idea of treating others as ends in themselves, not just as a means to an end. Kant's categorical imperative requires individuals to act according to maxims (or principles of action) that could reasonably be willed to become universal laws that apply to everyone. This means that moral actions must be consistent and applicable to all rational beings, regardless of personal desires or circumstances. This universalizability aspect of morality distinguishes it from simply seeking individual or collective happiness, behaving virtuously, or prioritizing others' interests over one's own.",
+    "gpt_response_correct_incorrect": "No. The final solution obtained in the statement is not the same as B: act only on maxims that we can will to become universal laws.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

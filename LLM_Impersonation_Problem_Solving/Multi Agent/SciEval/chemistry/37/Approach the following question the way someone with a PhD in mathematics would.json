@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. What is the molecular weight of C12H26O4?\nAnswer (numerical number):",
+    "solution": [
+        "234.33"
+    ],
+    "gpt_response": "The molecular weight of C12H26O4 can be calculated by adding the atomic weights of each individual element in the molecule. The atomic weight of carbon (C) is approximately 12.01, the atomic weight of hydrogen (H) is approximately 1.008, and the atomic weight of oxygen (O) is approximately 16.00.\n\nTherefore, the molecular weight of C12H26O4 can be calculated as:\n\n(12 x 12.01) + (26 x 1.008) + (4 x 16.00) = 144.12 + 26.208 + 64 = 234.328\n\nTherefore, the molecular weight of C12H26O4 is approximately 234.33 g/mol.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response ['234.33']?: The molecular weight of C12H26O4 can be calculated by adding the atomic weights of each individual element in the molecule. The atomic weight of carbon (C) is approximately 12.01, the atomic weight of hydrogen (H) is approximately 1.008, and the atomic weight of oxygen (O) is approximately 16.00.\n\nTherefore, the molecular weight of C12H26O4 can be calculated as:\n\n(12 x 12.01) + (26 x 1.008) + (4 x 16.00) = 144.12 + 26.208 + 64 = 234.328\n\nTherefore, the molecular weight of C12H26O4 is approximately 234.33 g/mol.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "248",
+    "difficulty_value": "2"
+}

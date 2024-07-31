@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. Statement 1 | Every nonzero free abelian group has an infinite number of bases. Statement 2 | Every free abelian group of rank at least 2 has an infinite number of bases.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "D",
+    "gpt_response": "Hmm, so the first statement says that any group that isn't just 0 will have lots of bases. That sounds right, because if a group has more than one element, you can always find different combinations to make a base. And the second statement says that any group with at least 2 things in it will also have lots of bases. That makes sense too, because you can always find different ways to make a base with more than one element. So I think both statements are true, so the answer is A: True, True!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: Hmm, so the first statement says that any group that isn't just 0 will have lots of bases. That sounds right, because if a group has more than one element, you can always find different combinations to make a base. And the second statement says that any group with at least 2 things in it will also have lots of bases. That makes sense too, because you can always find different ways to make a base with more than one element. So I think both statements are true, so the answer is A: True, True!",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. A preterm baby is born with synchronised upper chest movement, minimal nasal flare, expiratory grunting heard by the stethoscope, but has no chest or xiphoid retractions. The Silverman score is:\n1: 1\n2: 2\n3: 3\n4: 4",
+    "solution": 2,
+    "gpt_response": "The Silverman score is a tool used to assess the severity of respiratory distress in newborns. In this case, the baby exhibits signs of respiratory distress including expiratory grunting and synchronized upper chest movement. However, the absence of chest or xiphoid retractions suggests that the respiratory distress is not as severe. Based on this information, I would assign a Silverman score of 2 to this preterm baby.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: The Silverman score is a tool used to assess the severity of respiratory distress in newborns. In this case, the baby exhibits signs of respiratory distress including expiratory grunting and synchronized upper chest movement. However, the absence of chest or xiphoid retractions suggests that the respiratory distress is not as severe. Based on this information, I would assign a Silverman score of 2 to this preterm baby.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

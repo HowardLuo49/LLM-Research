@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a medical researcher would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a medical researcher would. Which of the following is seen in cystic fibrosis?\n1: Low sweat chloride levels\n2: Elevated sweat chloride levels\n3: Low sweat sodium levels\n4: Elevated sweat potassium levels",
+    "solution": 2,
+    "gpt_response": "2: Elevated sweat chloride levels\n\nCystic fibrosis is a genetic disorder that affects the transportation of chloride ions across cell membranes, leading to abnormally high levels of chloride in sweat. This characteristic feature is often used as a diagnostic test for cystic fibrosis.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: 2: Elevated sweat chloride levels\n\nCystic fibrosis is a genetic disorder that affects the transportation of chloride ions across cell membranes, leading to abnormally high levels of chloride in sweat. This characteristic feature is often used as a diagnostic test for cystic fibrosis.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

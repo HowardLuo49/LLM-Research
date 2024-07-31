@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. One of the following is the first enzyme to be released at the site of wound?\n1: Aminopeptidase\n2: ATPase\n3: Acid phosphatase\n4: Alkaline phosphatase",
+    "solution": 2,
+    "gpt_response": "1: Aminopeptidase",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: 1: Aminopeptidase",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

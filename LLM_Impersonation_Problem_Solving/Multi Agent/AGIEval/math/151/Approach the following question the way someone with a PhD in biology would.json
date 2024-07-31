@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. A ball travels on a parabolic path in which the height (in feet) is given by the expression $-25t^2+75t+24$, where $t$ is the time after launch. At what time is the height of the ball at its maximum?",
+    "solution": "\\frac{3}{2}",
+    "gpt_response": "To determine the time at which the height of the ball is at its maximum, we need to find the vertex of the parabolic function. The vertex of a parabola in the form $y = ax^2 + bx + c$ is given by the formula $x = -\\frac{b}{2a}$. In this case, the height function is given by $h(t) = -25t^2 + 75t + 24$.\n\nThus, the time at which the height of the ball is at its maximum is given by $t = -\\frac{75}{2(-25)} = \\frac{75}{50} = 1.5$ seconds after launch. Therefore, the height of the ball is at its maximum at $t = 1.5$ seconds.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response \\frac{3}{2}?: To determine the time at which the height of the ball is at its maximum, we need to find the vertex of the parabolic function. The vertex of a parabola in the form $y = ax^2 + bx + c$ is given by the formula $x = -\\frac{b}{2a}$. In this case, the height function is given by $h(t) = -25t^2 + 75t + 24$.\n\nThus, the time at which the height of the ball is at its maximum is given by $t = -\\frac{75}{2(-25)} = \\frac{75}{50} = 1.5$ seconds after launch. Therefore, the height of the ball is at its maximum at $t = 1.5$ seconds.",
+    "gpt_response_correct_incorrect": "Yes, the final solution obtained in the response is $\\frac{3}{2}$, which is equivalent to 1.5.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "9",
+    "difficulty_value": "9"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. A 12-year-old girl presents to the casualty with symptoms of fever, shoness of breath, and cough. A chest X-ray reveals complete consolidation of the lower lobe of the left lung. Cultures of the lower lobe of the left lung would most likely reveal which organism?\n1: Streptococcus pneumoniae\n2: Staphylococcus aureus\n3: Klebsiella pneumoniae\n4: Pseudomonas aeruginosa",
+    "solution": 1,
+    "gpt_response": "Based on the clinical presentation of a lower lobe consolidation on chest X-ray in a 12-year-old girl, the most likely organism would be Streptococcus pneumoniae. Streptococcus pneumoniae is a common cause of community-acquired pneumonia in children and often presents with symptoms of fever, cough, and shortness of breath. It is important to note that while other organisms such as Staphylococcus aureus, Klebsiella pneumoniae, and Pseudomonas aeruginosa can also cause pneumonia, Streptococcus pneumoniae is the most likely organism in this scenario.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: Based on the clinical presentation of a lower lobe consolidation on chest X-ray in a 12-year-old girl, the most likely organism would be Streptococcus pneumoniae. Streptococcus pneumoniae is a common cause of community-acquired pneumonia in children and often presents with symptoms of fever, cough, and shortness of breath. It is important to note that while other organisms such as Staphylococcus aureus, Klebsiella pneumoniae, and Pseudomonas aeruginosa can also cause pneumonia, Streptococcus pneumoniae is the most likely organism in this scenario.",
+    "gpt_response_correct_incorrect": "Yes, the final solution obtained in the response is 1 (Streptococcus pneumoniae) as the most likely organism causing pneumonia in the 12-year-old girl with a lower lobe consolidation on chest X-ray.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

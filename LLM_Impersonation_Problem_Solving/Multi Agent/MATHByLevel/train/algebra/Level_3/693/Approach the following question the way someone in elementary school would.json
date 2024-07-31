@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. Evaluate the expression $\\left\\lceil{\\frac54}\\right\\rceil+\\left\\lfloor{-\\frac54}\\right\\rfloor$.",
+    "solution": "$1<\\frac54<2$, so the smallest integer greater than or equal to $\\frac54$ is $2$. Similarly, $-2<-\\frac54<-1$, so the largest integer less than or equal to $-\\frac54$ is $-2$. The original expression, $\\left\\lceil{\\frac54}\\right\\rceil+\\left\\lfloor{-\\frac54}\\right\\rfloor$, is equal to the sum of the two, which is just $2+(-2)=\\boxed{0}$.",
+    "gpt_response": "First, let's look at the expression inside the ceiling function: $\\frac54$. \n\nSince $\\frac54$ is between 1 and 2, the ceiling function will round up to the next whole number, which is 2.\n\nNext, let's look at the expression inside the floor function: $-\\frac54$. \n\nSince $-\\frac54$ is between -2 and -1, the floor function will round down to the previous whole number, which is -2.\n\nNow, we add the results of the ceiling and floor functions: $2 + (-2) = 0$\n\nSo, the final answer is $\\boxed{0}$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 0?: First, let's look at the expression inside the ceiling function: $\\frac54$. \n\nSince $\\frac54$ is between 1 and 2, the ceiling function will round up to the next whole number, which is 2.\n\nNext, let's look at the expression inside the floor function: $-\\frac54$. \n\nSince $-\\frac54$ is between -2 and -1, the floor function will round down to the previous whole number, which is -2.\n\nNow, we add the results of the ceiling and floor functions: $2 + (-2) = 0$\n\nSo, the final answer is $\\boxed{0}$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

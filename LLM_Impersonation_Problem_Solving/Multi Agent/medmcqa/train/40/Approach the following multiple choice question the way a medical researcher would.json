@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a medical researcher would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a medical researcher would. Pearsonian measure of skewness -\n1: Mode - Mean/ SD\n2: Mean - Mode/ SD\n3: SD/Mode - mean\n4: Mean - Mode/ SD",
+    "solution": 2,
+    "gpt_response": "As a medical researcher, I would approach this question by first understanding the concept of Pearsonian measure of skewness. Skewness is a measure of the asymmetry of the probability distribution of a real-valued random variable. \n\nThe correct formula for Pearsonian measure of skewness is:\n(Mode - Mean) / SD\n\nSo, the correct answer to the multiple choice question would be:\n1: Mode - Mean/ SD",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: As a medical researcher, I would approach this question by first understanding the concept of Pearsonian measure of skewness. Skewness is a measure of the asymmetry of the probability distribution of a real-valued random variable. \n\nThe correct formula for Pearsonian measure of skewness is:\n(Mode - Mean) / SD\n\nSo, the correct answer to the multiple choice question would be:\n1: Mode - Mean/ SD",
+    "gpt_response_correct_incorrect": "Yes\n\nOption 1: Mode - Mean/ SD",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

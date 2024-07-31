@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. The Badgers play the Cougars in a series of seven basketball games. Each team has an equal chance of winning each game. What is the probability that the Badgers will win at least four games? Express your answer as a common fraction.",
+    "solution": "Precisely one team must win at least four games.  Since the teams are equally matched, this team will be the Badgers with probability $\\boxed{\\frac{1}{2}}$.",
+    "gpt_response": "Well, the Badgers and the Cougars are going to play seven basketball games. If the Badgers win four games or more, that means they could win four, five, six, or even seven games! So, that's four different ways the Badgers could win at least four games out of seven total games. \n\nSo, the probability that the Badgers will win at least four games is 4/7.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to \\frac{1?: Well, the Badgers and the Cougars are going to play seven basketball games. If the Badgers win four games or more, that means they could win four, five, six, or even seven games! So, that's four different ways the Badgers could win at least four games out of seven total games. \n\nSo, the probability that the Badgers will win at least four games is 4/7.",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}
