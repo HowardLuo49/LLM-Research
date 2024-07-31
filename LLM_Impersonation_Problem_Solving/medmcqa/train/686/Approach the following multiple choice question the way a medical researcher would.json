@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a medical researcher would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a medical researcher would. Refsum's syndrome is associated with ?\n1: Retinitis pigmentosa\n2: Xerophthalmia\n3: Chalcosis\n4: Diabetes retinopathy",
+    "solution": 1,
+    "gpt_response": "To determine the correct answer, a medical researcher would first need to review existing literature and studies on Refsum's syndrome. They would then look for any established associations or correlations between Refsum's syndrome and each of the conditions listed in the options.\n\nIn the case of Refsum's syndrome, research has shown that it is commonly associated with retinitis pigmentosa. Therefore, based on current scientific evidence, the medical researcher would select option 1: Retinitis pigmentosa as the correct answer.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: To determine the correct answer, a medical researcher would first need to review existing literature and studies on Refsum's syndrome. They would then look for any established associations or correlations between Refsum's syndrome and each of the conditions listed in the options.\n\nIn the case of Refsum's syndrome, research has shown that it is commonly associated with retinitis pigmentosa. Therefore, based on current scientific evidence, the medical researcher would select option 1: Retinitis pigmentosa as the correct answer.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

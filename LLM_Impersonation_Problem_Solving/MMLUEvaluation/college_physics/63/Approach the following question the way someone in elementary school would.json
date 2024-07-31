@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. A single-electron atom has the electron in the l = 2 state. The number of allowed values of the quantum number m_l is\nA: 1\nB: 2\nC: 3\nD: 5",
+    "solution": "D",
+    "gpt_response": "Okay, so we are talking about an atom that only has one electron and it's in the l = 2 state. The quantum number m_l tells us the orientation of the electron's angular momentum. In this case, for the l = 2 state, the allowed values of m_l are -2, -1, 0, 1, and 2. So, the correct answer is D: 5.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: Okay, so we are talking about an atom that only has one electron and it's in the l = 2 state. The quantum number m_l tells us the orientation of the electron's angular momentum. In this case, for the l = 2 state, the allowed values of m_l are -2, -1, 0, 1, and 2. So, the correct answer is D: 5.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

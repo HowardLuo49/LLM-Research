@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. What is the greatest product obtainable from two integers whose sum is 1998?",
+    "solution": "Let the two integers be $x$ and $1998-x$. The product which needs to be maximized is $1998x-x^2$. Completing the square results in $-(x-999)^2+999^2$. Since $-(x-999)^2\\le 0$, the expression is maximized when $x=999$, which results in a value of $999^2=\\boxed{998001}$.",
+    "gpt_response": "To find the biggest product of two numbers that add up to 1998, we need to think about what two numbers could equal 1998 when added together. \n\nLet's try some possibilities:\n- 1000 + 998 = 1998 (product = 1000 * 998)\n- 500 + 1498 = 1998 (product = 500 * 1498)\n\nAfter trying a few different combinations, we can see that the biggest product we can get is when we multiply 1000 and 998 together. \n\nSo, the greatest product obtainable from two integers whose sum is 1998 is 1000 * 998 = 998000.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 998001?: To find the biggest product of two numbers that add up to 1998, we need to think about what two numbers could equal 1998 when added together. \n\nLet's try some possibilities:\n- 1000 + 998 = 1998 (product = 1000 * 998)\n- 500 + 1498 = 1998 (product = 500 * 1498)\n\nAfter trying a few different combinations, we can see that the biggest product we can get is when we multiply 1000 and 998 together. \n\nSo, the greatest product obtainable from two integers whose sum is 1998 is 1000 * 998 = 998000.",
+    "gpt_response_correct_incorrect": "No",
+    "yes_no": "no"
+}

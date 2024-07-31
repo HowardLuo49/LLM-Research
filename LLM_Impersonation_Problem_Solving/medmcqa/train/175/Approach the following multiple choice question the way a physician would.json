@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Endolymphatic duct drains into :\n1: Subdural space\n2: External space\n3: Subarachnoid space\n4: Succulus",
+    "solution": 1,
+    "gpt_response": "The endolymphatic duct drains into the succulus.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: The endolymphatic duct drains into the succulus.",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

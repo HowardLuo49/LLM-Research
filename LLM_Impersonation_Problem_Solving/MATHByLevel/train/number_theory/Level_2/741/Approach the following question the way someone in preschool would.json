@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. What is the largest three-digit multiple of 9 whose digits' sum is 18?",
+    "solution": "We note that any integer whose digits' sum is $18=2\\cdot9$ is divisible by 9. Therefore, we need to find the largest three-digit number whose digits' sum is 18. That number is $\\boxed{990}$.",
+    "gpt_response": "Hmm let me think about this. I know that the largest three-digit number is 999. Let's see if that works. \n\n9 + 9 + 9 = 27 \n\nOops that's too big. Let's try another number. How about 990? \n\n9 + 9 + 0 = 18 \n\nYay! That works! So the largest three-digit multiple of 9 whose digits' sum is 18 is 990.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 990?: Hmm let me think about this. I know that the largest three-digit number is 999. Let's see if that works. \n\n9 + 9 + 9 = 27 \n\nOops that's too big. Let's try another number. How about 990? \n\n9 + 9 + 0 = 18 \n\nYay! That works! So the largest three-digit multiple of 9 whose digits' sum is 18 is 990.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

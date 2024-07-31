@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. I had been planning to work for 20 hours a week for 12 weeks this summer to earn $\\$3000$ to buy a used car. Unfortunately, I got sick for the first two weeks of the summer and didn't work any hours. How many hours a week will I have to work for the rest of the summer if I still want to buy the car?",
+    "solution": "If the total amount that I earn for the summer is constant, then the number of hours I work each week and the total number of weeks that I work are inversely proportional. Consequently, if I only work $\\frac{10}{12}=\\frac56$ as many weeks, I need to work $\\frac{6}{5}$ as many hours each week. $\\frac{6}{5}\\cdot20=24$, so I need to work $\\boxed{24}$ hours a week.",
+    "gpt_response": "Hi friend! So, let's say you wanted to work for 20 hours each week for 12 weeks to get your cool car. But you got sick for the first two weeks and couldn't work. That means you missed working 40 hours in total. So now you have to make up for those hours by working more hours each week for the remaining 10 weeks. Can you figure out how many hours you need to work each week now to still earn enough money for your car? Keep going, you're doing great!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 24?: Hi friend! So, let's say you wanted to work for 20 hours each week for 12 weeks to get your cool car. But you got sick for the first two weeks and couldn't work. That means you missed working 40 hours in total. So now you have to make up for those hours by working more hours each week for the remaining 10 weeks. Can you figure out how many hours you need to work each week now to still earn enough money for your car? Keep going, you're doing great!",
+    "gpt_response_correct_incorrect": "No.",
+    "yes_no": "no"
+}

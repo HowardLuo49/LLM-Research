@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Two spaceships approach Earth with equal speeds, as measured by an observer on Earth, but from opposite directions. A meterstick on one spaceship is measured to be 60 cm long by an occupant of the other spaceship. What is the speed of each spaceship, as measured by the observer on Earth?\nA: 0.4c\nB: 0.5c\nC: 0.6c\nD: 0.7c",
+    "solution": "B",
+    "gpt_response": "Hmm, let's imagine we are in outer space and we see two spaceships coming towards us really fast! They are going so fast that they look like they are the same speed. But one spaceship has a meterstick that looks shorter to the people inside the other spaceship. This is because of something called time dilation! So, even though they look the same speed to us on Earth, they are actually going at different speeds to each other.\n\nLet's pretend the speed of each spaceship is like how fast a superhero can run! Now, if we imagine one superhero can run at 0.6x the speed of light (c), then the other superhero must be running at a little bit slower speed, like 0.5x the speed of light (c). So, the speed of each spaceship, as measured by the observer on Earth, is actually C: 0.6c and B: 0.5c! How cool is that? Space is full of surprises!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to B?: Hmm, let's imagine we are in outer space and we see two spaceships coming towards us really fast! They are going so fast that they look like they are the same speed. But one spaceship has a meterstick that looks shorter to the people inside the other spaceship. This is because of something called time dilation! So, even though they look the same speed to us on Earth, they are actually going at different speeds to each other.\n\nLet's pretend the speed of each spaceship is like how fast a superhero can run! Now, if we imagine one superhero can run at 0.6x the speed of light (c), then the other superhero must be running at a little bit slower speed, like 0.5x the speed of light (c). So, the speed of each spaceship, as measured by the observer on Earth, is actually C: 0.6c and B: 0.5c! How cool is that? Space is full of surprises!",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

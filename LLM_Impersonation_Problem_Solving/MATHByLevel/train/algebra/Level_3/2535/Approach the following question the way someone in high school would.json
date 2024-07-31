@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Factor $46x^3-115x^7.$",
+    "solution": "Since $46=2\\cdot23$ and $115=5\\cdot23$, we can factor a $23x^3$ from the expression, to get \\[46x^3-115x^7=23x^3(2-5x^4)=\\boxed{-23x^3(5x^4-2)},\\] which is our answer.",
+    "gpt_response": "To factor $46x^3-115x^7,$ we first want to look for a common factor in both terms. The highest power of $x$ that is a factor of both terms is $x^3.$ We can factor out $x^3$ to get:\n\n$46x^3-115x^7 = x^3(46-115x^4)$\n\nNext, we can factor out a common factor of 23 from the terms inside the parentheses:\n\n$46-115x^4 = 23(2-5x^4)$\n\nSo, the factored form of $46x^3-115x^7$ is $x^3 \\cdot 23 \\cdot (2-5x^4)$ or $23x^3(2-5x^4)$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to -23x^3(5x^4-2)?: To factor $46x^3-115x^7,$ we first want to look for a common factor in both terms. The highest power of $x$ that is a factor of both terms is $x^3.$ We can factor out $x^3$ to get:\n\n$46x^3-115x^7 = x^3(46-115x^4)$\n\nNext, we can factor out a common factor of 23 from the terms inside the parentheses:\n\n$46-115x^4 = 23(2-5x^4)$\n\nSo, the factored form of $46x^3-115x^7$ is $x^3 \\cdot 23 \\cdot (2-5x^4)$ or $23x^3(2-5x^4)$.",
+    "gpt_response_correct_incorrect": "No. The final solution obtained is $x^3 \\cdot 23 \\cdot (2-5x^4)$, not $-23x^3(5x^4-2)$.",
+    "yes_no": "no"
+}

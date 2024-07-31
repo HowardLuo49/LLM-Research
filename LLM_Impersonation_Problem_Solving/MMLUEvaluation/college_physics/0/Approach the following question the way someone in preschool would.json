@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. The quantum efficiency of a photon detector is 0.1. If 100 photons are sent into the detector, one after the other, the detector will detect photons\nA: an average of 10 times, with an rms deviation of about 4\nB: an average of 10 times, with an rms deviation of about 3\nC: an average of 10 times, with an rms deviation of about 1\nD: an average of 10 times, with an rms deviation of about 0.1",
+    "solution": "B",
+    "gpt_response": "Oh wow! Let's see, if we send 100 photons into the detector, which can detect 0.1 out of every photon, then we can expect it to detect about 10 photons in total. So the answer is A: an average of 10 times. Yay!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to B?: Oh wow! Let's see, if we send 100 photons into the detector, which can detect 0.1 out of every photon, then we can expect it to detect about 10 photons in total. So the answer is A: an average of 10 times. Yay!",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

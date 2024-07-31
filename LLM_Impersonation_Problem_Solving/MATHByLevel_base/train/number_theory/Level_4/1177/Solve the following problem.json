@@ -1,0 +1,10 @@
+{
+    "prefix": "Solve the following problem. ",
+    "problem_prompt": "Solve the following problem. What integer $n$ satisfies $0\\le n<19$ and $$-200\\equiv n\\pmod{19}~?$$",
+    "solution": "Noticing that $190\\equiv0\\pmod{19}$ and $-200+190=-10$, we can say that  \\[-200\\equiv n\\pmod{19}\\]if and only if  \\[-10\\equiv n\\pmod{19}.\\]This is not in the range $0\\leq n<19$, but adding 19 again gives \\[9\\equiv n\\pmod{19}.\\]The answer is $n=\\boxed{9}$.",
+    "gpt_response": "We start by adding multiples of $19$ to $-200$ until we get a positive integer.\n\n$$\\begin{aligned} -200+19 &= -181 \\\\ -200+2(19) &= -162 \\\\ -200+3(19) &= -143 \\\\ -200+4(19) &= -124 \\\\ -200+5(19) &= -105 \\\\ -200+6(19) &= -86 \\\\ -200+7(19) &= -67 \\\\ -200+8(19) &= -48 \\\\ -200+9(19) &= -29 \\\\ -200+10(19) &= -10 \\\\ -200+11(19) &= 9 \\end{aligned}$$\n\nSo the integer $n$ that satisfies $-200\\equiv n\\pmod{19}$ and $0\\le n<19$ is $\\boxed{9}$.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 9?: We start by adding multiples of $19$ to $-200$ until we get a positive integer.\n\n$$\\begin{aligned} -200+19 &= -181 \\\\ -200+2(19) &= -162 \\\\ -200+3(19) &= -143 \\\\ -200+4(19) &= -124 \\\\ -200+5(19) &= -105 \\\\ -200+6(19) &= -86 \\\\ -200+7(19) &= -67 \\\\ -200+8(19) &= -48 \\\\ -200+9(19) &= -29 \\\\ -200+10(19) &= -10 \\\\ -200+11(19) &= 9 \\end{aligned}$$\n\nSo the integer $n$ that satisfies $-200\\equiv n\\pmod{19}$ and $0\\le n<19$ is $\\boxed{9}$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes"
+}

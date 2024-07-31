@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Solve for $n$: $5^{2n + 1} = \\frac{1}{25}$. Express your answer as a common fraction.",
+    "solution": "$\\frac{1}{25}$ is equal to $5^{-2}$, so we have $5^{2n+1}=5^{-2}$.  This gives us $2n+1=-2$.  Solving for $n$ gives us $n=\\boxed{-\\frac{3}{2}}$.",
+    "gpt_response": "To find the value of $n$, let's first try to make the numbers simpler. We can write $\\frac{1}{25}$ as $5^{-2}$ because $5^{-2}$ is the same as $\\frac{1}{5^2}$. \n\nSo, our equation becomes $5^{2n + 1} = 5^{-2}$. \n\nNow, since the bases are the same (both are 5), we can set the exponents equal to each other:\n\n$2n + 1 = -2$\n\nSubtract 1 from both sides:\n\n$2n = -3$\n\nDivide by 2:\n\n$n = -\\frac{3}{2}$\n\nTherefore, $n = -\\frac{3}{2}$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to -\\frac{3?: To find the value of $n$, let's first try to make the numbers simpler. We can write $\\frac{1}{25}$ as $5^{-2}$ because $5^{-2}$ is the same as $\\frac{1}{5^2}$. \n\nSo, our equation becomes $5^{2n + 1} = 5^{-2}$. \n\nNow, since the bases are the same (both are 5), we can set the exponents equal to each other:\n\n$2n + 1 = -2$\n\nSubtract 1 from both sides:\n\n$2n = -3$\n\nDivide by 2:\n\n$n = -\\frac{3}{2}$\n\nTherefore, $n = -\\frac{3}{2}$.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "yes_no": "yes"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. What is the largest positive integer $n$ for which there is a unique integer $k$ such that $\\frac{8}{15} < \\frac{n}{n + k} < \\frac{7}{13}$?\n",
+    "solution": "Multiplying out all of the denominators, we get:\n\\begin{align*}104(n+k) &< 195n< 105(n+k)\\\\ 0 &< 91n - 104k < n + k\\end{align*}\nSince $91n - 104k < n + k$, $k > \\frac{6}{7}n$. Also, $0 < 91n - 104k$, so $k < \\frac{7n}{8}$. Thus, $48n < 56k < 49n$. $k$ is unique if it is within a maximum range of $112$, so $n = \\boxed{112}$.",
+    "gpt_response": "Wow, big numbers can be tricky! Let's think about this together. We want to find the biggest number $n$ that has only one special friend $k$ where $\\frac{8}{15} < \\frac{n}{n + k} < \\frac{7}{13}$. Let's count our way up and see which number fits this special rule!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 112?: Wow, big numbers can be tricky! Let's think about this together. We want to find the biggest number $n$ that has only one special friend $k$ where $\\frac{8}{15} < \\frac{n}{n + k} < \\frac{7}{13}$. Let's count our way up and see which number fits this special rule!",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "9",
+    "difficulty_value": "9"
+}

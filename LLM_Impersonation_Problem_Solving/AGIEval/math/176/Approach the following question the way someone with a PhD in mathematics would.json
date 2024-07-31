@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. Recently, Frank took a one-hundred question aptitude test where each correct answer scored $5$ points, each incorrect answer scored $-2$ points, and each question not answered scored zero points. Frank answered $80$ questions and scored $232$ points. How many questions did he answer correctly?",
+    "solution": "56",
+    "gpt_response": "Let $x$ be the number of questions Frank answered correctly. Then, the number of questions he answered incorrectly would be $80-x$.\n\nThe total score can be expressed as:\n$5x + (-2)(80-x) = 232$\n\nSolving for $x$:\n$5x - 160 + 2x = 232$\n$7x - 160 = 232$\n$7x = 392$\n$x = 56$\n\nTherefore, Frank answered $56$ questions correctly.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 56?: Let $x$ be the number of questions Frank answered correctly. Then, the number of questions he answered incorrectly would be $80-x$.\n\nThe total score can be expressed as:\n$5x + (-2)(80-x) = 232$\n\nSolving for $x$:\n$5x - 160 + 2x = 232$\n$7x - 160 = 232$\n$7x = 392$\n$x = 56$\n\nTherefore, Frank answered $56$ questions correctly.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "9",
+    "difficulty_value": "9"
+}

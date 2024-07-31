@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Which among the following NOT a pharmacological action of opioids\n1: Cough suppression\n2: Anti-emesis\n3: Miosis\n4: Truncal rigidity",
+    "solution": 2,
+    "gpt_response": "As a doctor, I would approach this question by first identifying the pharmacological actions of opioids. Opioids are known to cause cough suppression, anti-emesis, miosis (constriction of the pupil), and truncal rigidity. Therefore, the correct answer would be that all of the options listed are pharmacological actions of opioids.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: As a doctor, I would approach this question by first identifying the pharmacological actions of opioids. Opioids are known to cause cough suppression, anti-emesis, miosis (constriction of the pupil), and truncal rigidity. Therefore, the correct answer would be that all of the options listed are pharmacological actions of opioids.",
+    "gpt_response_correct_incorrect": "No. The final solution obtained in the response is not option 2.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

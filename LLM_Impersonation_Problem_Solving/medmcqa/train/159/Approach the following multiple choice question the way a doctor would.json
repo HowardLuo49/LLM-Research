@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Which of the following is the most specific and sensitive screening test for renovascular hypeension?\n1: HRCT\n2: CT Angiography\n3: Captopril enhanced radionucleotide scan\n4: Doppler ultrasound of renal aeries",
+    "solution": 2,
+    "gpt_response": "As a doctor, the most specific and sensitive screening test for renovascular hypertension would be CT Angiography. This test provides detailed images of the renal arteries and can accurately identify any abnormalities or blockages that may be causing the hypertension. Doppler ultrasound of renal arteries can also be helpful in evaluating renal artery stenosis, but it may not be as sensitive or specific as CT Angiography. Captopril enhanced radionuclide scan can provide functional information but may not always be as accurate in identifying structural abnormalities. HRCT (High-resolution computed tomography) may be useful in certain cases, but may not be as specific or sensitive as CT Angiography for diagnosing renovascular hypertension.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: As a doctor, the most specific and sensitive screening test for renovascular hypertension would be CT Angiography. This test provides detailed images of the renal arteries and can accurately identify any abnormalities or blockages that may be causing the hypertension. Doppler ultrasound of renal arteries can also be helpful in evaluating renal artery stenosis, but it may not be as sensitive or specific as CT Angiography. Captopril enhanced radionuclide scan can provide functional information but may not always be as accurate in identifying structural abnormalities. HRCT (High-resolution computed tomography) may be useful in certain cases, but may not be as specific or sensitive as CT Angiography for diagnosing renovascular hypertension.",
+    "gpt_response_correct_incorrect": "Yes, the final solution obtained in the response is 2.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

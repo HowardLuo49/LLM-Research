@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a medical researcher would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a medical researcher would. Heamorrhagic external otitis media is caused by\n1: Influenza\n2: Proteus\n3: Streptococcus\n4: Staphylococcus",
+    "solution": 1,
+    "gpt_response": "When approaching this multiple choice question, a medical researcher would first consider the known causes of hemorrhagic external otitis media. This condition is typically caused by a bacterial infection, rather than a viral infection like influenza. \n\nThe researcher would also recall that Proteus species are not typically associated with otitis media, while Streptococcus and Staphylococcus are common causes of bacterial otitis media. \n\nTherefore, the most likely correct answer out of the options provided would be 3: Streptococcus.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: When approaching this multiple choice question, a medical researcher would first consider the known causes of hemorrhagic external otitis media. This condition is typically caused by a bacterial infection, rather than a viral infection like influenza. \n\nThe researcher would also recall that Proteus species are not typically associated with otitis media, while Streptococcus and Staphylococcus are common causes of bacterial otitis media. \n\nTherefore, the most likely correct answer out of the options provided would be 3: Streptococcus.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

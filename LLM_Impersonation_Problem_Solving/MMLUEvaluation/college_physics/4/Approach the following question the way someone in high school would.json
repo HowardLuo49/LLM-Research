@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Excited states of the helium atom can be characterized as para- (antiparallel electron spins) and ortho- (parallel electron spins). The observation that an ortho- state has lower energy than the corresponding para- state can be understood in terms of which of the following?\nA: The Heisenberg uncertainty principle\nB: The Pauli exclusion principle\nC: The Bohr model of the atom\nD: Nuclear hyperfine coupling",
+    "solution": "B",
+    "gpt_response": "B: The Pauli exclusion principle.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to B?: B: The Pauli exclusion principle.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

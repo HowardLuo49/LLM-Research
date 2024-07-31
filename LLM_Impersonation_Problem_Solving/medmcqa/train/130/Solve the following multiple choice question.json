@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. A 60 yr old chronic smoker presents with painless gross hematuria of 1 day duration. Which is the investigation of choice to know the cause of hematuria?\n1: USG\n2: X-ray KUB\n3: Urine routine\n4: Urine microscopy for malignant cytology cells",
+    "solution": 4,
+    "gpt_response": "4: Urine microscopy for malignant cytology cells\n\nIn a chronic smoker presenting with painless gross hematuria, the investigation of choice to determine the cause of hematuria is to perform urine microscopy for malignant cytology cells. This test can help identify if there are any abnormal cells present in the urine that may suggest a malignancy, such as bladder cancer. Other tests such as USG, X-ray KUB, and urine routine may also be helpful in further evaluating the cause of hematuria, but urine cytology is the most specific for detecting malignancy.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 4?: 4: Urine microscopy for malignant cytology cells\n\nIn a chronic smoker presenting with painless gross hematuria, the investigation of choice to determine the cause of hematuria is to perform urine microscopy for malignant cytology cells. This test can help identify if there are any abnormal cells present in the urine that may suggest a malignancy, such as bladder cancer. Other tests such as USG, X-ray KUB, and urine routine may also be helpful in further evaluating the cause of hematuria, but urine cytology is the most specific for detecting malignancy.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "9",
+    "difficulty_value": "9"
+}

@@ -1,0 +1,10 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. If the odds for pulling a prize out of the box are $3:4$, what is the probability of not pulling the prize out of the box? Express your answer as a common fraction.",
+    "solution": "If the odds for pulling a prize out of the box are $3:4$, that means that 3 out of 7 times will result in a prize, while 4 out of 7 times will not. So the probability of not pulling the prize out of the box is $\\boxed{\\frac{4}{7}}$.",
+    "gpt_response": "To find the probability of not pulling the prize out of the box, we need to first calculate the probability of pulling the prize out of the box.\n\nThe odds of pulling the prize out of the box are $3:4$. This means that out of a total of 3 + 4 = 7 outcomes, 3 outcomes result in pulling the prize out of the box.\n\nSo, the probability of pulling the prize out of the box is $\\frac{3}{7}$.\n\nTherefore, the probability of not pulling the prize out of the box is $1 - \\frac{3}{7} = \\frac{4}{7}$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to \\frac{4?: To find the probability of not pulling the prize out of the box, we need to first calculate the probability of pulling the prize out of the box.\n\nThe odds of pulling the prize out of the box are $3:4$. This means that out of a total of 3 + 4 = 7 outcomes, 3 outcomes result in pulling the prize out of the box.\n\nSo, the probability of pulling the prize out of the box is $\\frac{3}{7}$.\n\nTherefore, the probability of not pulling the prize out of the box is $1 - \\frac{3}{7} = \\frac{4}{7}$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes"
+}

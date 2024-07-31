@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in physics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in physics would. Statement 1 | In a finite dimensional vector space every linearly independent set of vectors is contained in a basis. Statement 2 | If B_1 and B_2 are bases for the same vector space, then |B_1| = |B_2|.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "A",
+    "gpt_response": "This question involves concepts from linear algebra which are fundamental in the field of physics. Statement 1 is true because in a finite-dimensional vector space, every linearly independent set of vectors can be extended to form a basis for the vector space.\n\nStatement 2 is false because the size of a basis, also known as the dimension of the vector space, does not change if we choose a different basis. Therefore, the cardinality of two bases for the same vector space may be different.\n\nTherefore, the correct answer is:\n\nC: True, False",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to A?: This question involves concepts from linear algebra which are fundamental in the field of physics. Statement 1 is true because in a finite-dimensional vector space, every linearly independent set of vectors can be extended to form a basis for the vector space.\n\nStatement 2 is false because the size of a basis, also known as the dimension of the vector space, does not change if we choose a different basis. Therefore, the cardinality of two bases for the same vector space may be different.\n\nTherefore, the correct answer is:\n\nC: True, False",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "9",
+    "difficulty_value": "9"
+}

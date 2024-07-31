@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. The greatest integer function of $x$ is expressed as $[x]$ and is defined to be the greatest integer less than or equal to $x$. Find $[\\pi - 4]$",
+    "solution": "Because $\\pi$ is greater than $3$ but less than $4$,\n\n$-1<\\pi - 4<0$.  Therefore, $[\\pi - 4]$ is $\\boxed{-1}$",
+    "gpt_response": "Hi there! So the bracket notation $[x]$ means the greatest integer less than or equal to $x$. For this question, we want to find $[\\pi - 4]$.\n\nNow, $\\pi$ is approximately 3.14159, so $\\pi - 4 \\approx -0.85841$. The greatest integer less than or equal to this number is -1.\n\nTherefore, $[\\pi - 4] = -1$. That's our final answer!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to -1?: Hi there! So the bracket notation $[x]$ means the greatest integer less than or equal to $x$. For this question, we want to find $[\\pi - 4]$.\n\nNow, $\\pi$ is approximately 3.14159, so $\\pi - 4 \\approx -0.85841$. The greatest integer less than or equal to this number is -1.\n\nTherefore, $[\\pi - 4] = -1$. That's our final answer!",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

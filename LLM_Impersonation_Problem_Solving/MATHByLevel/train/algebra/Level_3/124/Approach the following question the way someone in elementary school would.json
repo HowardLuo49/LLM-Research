@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. The expression $x^2 - 16x + 60$ can be written in the form $(x - a)(x - b)$, where $a$ and $b$ are both nonnegative integers and $a > b$. What is the value of $3b - a$?",
+    "solution": "Factoring, we have $x^2 - 16x + 60 = (x - 10)(x - 6)$ Therefore, $a = 10$ and $b = 6,$ and $3b - a = 18 - 10 = \\boxed{8}.$",
+    "gpt_response": "First, we need to factor the expression $x^2 - 16x + 60$. Let's think of two numbers that multiply to 60 and add up to 16. Those numbers are 10 and 6. So, we can write $x^2 - 16x + 60$ as $(x - 10)(x - 6)$.\n\nThis means that $a = 10$ and $b = 6$. Now we can find $3b - a$.\n\n$3b - a = 3(6) - 10 = 18 - 10 = 8$\n\nSo, the value of $3b - a$ is 8.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 8?: First, we need to factor the expression $x^2 - 16x + 60$. Let's think of two numbers that multiply to 60 and add up to 16. Those numbers are 10 and 6. So, we can write $x^2 - 16x + 60$ as $(x - 10)(x - 6)$.\n\nThis means that $a = 10$ and $b = 6$. Now we can find $3b - a$.\n\n$3b - a = 3(6) - 10 = 18 - 10 = 8$\n\nSo, the value of $3b - a$ is 8.",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. The concetration of potassium in microgram in ORS is-\n1: 30 meq\n2: 20 meq\n3: 90 meq\n4: 60 meq",
+    "solution": 2,
+    "gpt_response": "As a physician, I would approach this question by first recognizing that the concentration of potassium in ORS (Oral Rehydration Solution) is typically expressed in milliequivalents (meq) rather than micrograms. Measuring potassium in micrograms is not a common practice in the clinical setting when discussing the concentration of electrolytes in solutions.\n\nGiven the options provided, I would select the answer that closely aligns with the typical concentration of potassium in ORS. The recommended concentration of potassium in ORS is usually around 20 meq per liter. Therefore, I would choose option 2: 20 meq as the most appropriate answer.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: As a physician, I would approach this question by first recognizing that the concentration of potassium in ORS (Oral Rehydration Solution) is typically expressed in milliequivalents (meq) rather than micrograms. Measuring potassium in micrograms is not a common practice in the clinical setting when discussing the concentration of electrolytes in solutions.\n\nGiven the options provided, I would select the answer that closely aligns with the typical concentration of potassium in ORS. The recommended concentration of potassium in ORS is usually around 20 meq per liter. Therefore, I would choose option 2: 20 meq as the most appropriate answer.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. A six year old male baby presents to a hospital with recurrent gross hematuria for 2 years. There is no h/o burning micturition or pyuria. Urine routine examination demonstrated no pus cells and urine culture was sterile. Serum C3 levels were normal. What is the most probable diagnosis-\n1: Wilm's tumour\n2: IgA nephropathy\n3: Post-streptococcal glomerulonephritis\n4: Urinaiy tract infection",
+    "solution": 1,
+    "gpt_response": "As a doctor, I would consider IgA nephropathy as the most probable diagnosis in this case. IgA nephropathy is a condition in which antibodies called IgA build up in the kidneys, causing inflammation and damage to the glomeruli. This can lead to recurrent episodes of hematuria without other symptoms such as burning micturition or pyuria. Normal serum C3 levels and sterile urine culture also support the diagnosis of IgA nephropathy. Wilm's tumor, post-streptococcal glomerulonephritis, and urinary tract infection are less likely based on the clinical presentation and test results provided.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: As a doctor, I would consider IgA nephropathy as the most probable diagnosis in this case. IgA nephropathy is a condition in which antibodies called IgA build up in the kidneys, causing inflammation and damage to the glomeruli. This can lead to recurrent episodes of hematuria without other symptoms such as burning micturition or pyuria. Normal serum C3 levels and sterile urine culture also support the diagnosis of IgA nephropathy. Wilm's tumor, post-streptococcal glomerulonephritis, and urinary tract infection are less likely based on the clinical presentation and test results provided.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in literature would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in literature would. Statement 1 | Suppose f : [a, b] is a function and suppose f has a local maximum. f'(x) must exist and equal 0? Statement 2 | There exist non-constant continuous maps from R to Q.\nA: True, True\nB: True, False\nC: False, True\nD: False, False",
+    "solution": "D",
+    "gpt_response": "As someone with a PhD in literature, I would approach this question by analyzing the statements in a logical and theoretical way. \n\nStatement 1 addresses the concept of a function having a local maximum, which implies that the derivative of the function at that point is 0. This is a fundamental concept in calculus, where the derivative of a function at a local maximum or minimum is indeed 0. Therefore, Statement 1 is true.\n\nStatement 2, on the other hand, refers to the existence of non-constant continuous maps from the real numbers (R) to the rational numbers (Q). This statement is also true, as there are indeed continuous functions that map real numbers to rational numbers without being constant. \n\nTherefore, the correct answer is A: True, True.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: As someone with a PhD in literature, I would approach this question by analyzing the statements in a logical and theoretical way. \n\nStatement 1 addresses the concept of a function having a local maximum, which implies that the derivative of the function at that point is 0. This is a fundamental concept in calculus, where the derivative of a function at a local maximum or minimum is indeed 0. Therefore, Statement 1 is true.\n\nStatement 2, on the other hand, refers to the existence of non-constant continuous maps from the real numbers (R) to the rational numbers (Q). This statement is also true, as there are indeed continuous functions that map real numbers to rational numbers without being constant. \n\nTherefore, the correct answer is A: True, True.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

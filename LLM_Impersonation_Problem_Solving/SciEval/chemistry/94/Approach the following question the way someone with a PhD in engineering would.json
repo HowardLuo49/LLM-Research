@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in engineering would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in engineering would. What is the name of C12H25NO?\nAnswer:",
+    "solution": [
+        "N-ethyl-4-(oxan-3-yl)pentan-2-amine"
+    ],
+    "gpt_response": "The chemical name for C12H25NO is dodecylamine. It is a primary amine compound with a twelve-carbon alkyl chain and a nitrogen atom. It is commonly used in various industrial and research applications due to its surfactant properties and ability to form stable emulsions.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response ['N-ethyl-4-(oxan-3-yl)pentan-2-amine']?: The chemical name for C12H25NO is dodecylamine. It is a primary amine compound with a twelve-carbon alkyl chain and a nitrogen atom. It is commonly used in various industrial and research applications due to its surfactant properties and ability to form stable emulsions.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

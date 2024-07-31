@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. In marasmus, which of the following is not seen?\n1: Edema\n2: Voracious appetite\n3: Hepatomegaly not seen\n4: Child is active",
+    "solution": 1,
+    "gpt_response": "As a doctor, in the case of marasmus, I would consider the characteristic symptoms of the condition. Marasmus is a form of severe malnutrition where there is a significant deficiency in calories and protein intake. \n\nLooking at the options:\n1: Edema - Edema is not typically seen in marasmus as it is more commonly associated with kwashiorkor, another form of severe malnutrition.\n2: Voracious appetite - Typically, individuals with marasmus do not have a voracious appetite as their caloric intake is severely limited.\n3: Hepatomegaly not seen - Hepatomegaly, or enlargement of the liver, is not typically seen in marasmus.\n4: Child is active - Children with marasmus are typically lethargic and have reduced physical activity levels due to the lack of adequate nutrition.\n\nBased on this assessment, the correct answer is: 3: Hepatomegaly not seen.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: As a doctor, in the case of marasmus, I would consider the characteristic symptoms of the condition. Marasmus is a form of severe malnutrition where there is a significant deficiency in calories and protein intake. \n\nLooking at the options:\n1: Edema - Edema is not typically seen in marasmus as it is more commonly associated with kwashiorkor, another form of severe malnutrition.\n2: Voracious appetite - Typically, individuals with marasmus do not have a voracious appetite as their caloric intake is severely limited.\n3: Hepatomegaly not seen - Hepatomegaly, or enlargement of the liver, is not typically seen in marasmus.\n4: Child is active - Children with marasmus are typically lethargic and have reduced physical activity levels due to the lack of adequate nutrition.\n\nBased on this assessment, the correct answer is: 3: Hepatomegaly not seen.",
+    "gpt_response_correct_incorrect": "Yes. The final solution obtained in the response is option 3: Hepatomegaly not seen.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a medical researcher would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a medical researcher would. You are conducting a survey in your village and the person you are interviewing is a 32 year old post graduate working as a clerk. His total family income is 20,000 Rs per month. According to Kuppuswamy's socio economic status scale, he belongs to:\n1: Upper socioeconomic class\n2: Upper socioeconomic class\n3: Lower middle socioeconomic class\n4: Upper lower socioeconomic class",
+    "solution": 2,
+    "gpt_response": "In order to determine the participant's socio economic status according to Kuppuswamy's scale, we need to consider factors such as education, occupation, and family income. \n\nGiven that the participant is a post graduate working as a clerk, we can determine his occupation and education level. \n\nHowever, we also need to consider the total family income of 20,000 Rs per month. This income level would typically place the participant in the lower middle socioeconomic class according to Kuppuswamy's scale.\n\nTherefore, the correct answer is:\n3: Lower middle socioeconomic class.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: In order to determine the participant's socio economic status according to Kuppuswamy's scale, we need to consider factors such as education, occupation, and family income. \n\nGiven that the participant is a post graduate working as a clerk, we can determine his occupation and education level. \n\nHowever, we also need to consider the total family income of 20,000 Rs per month. This income level would typically place the participant in the lower middle socioeconomic class according to Kuppuswamy's scale.\n\nTherefore, the correct answer is:\n3: Lower middle socioeconomic class.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

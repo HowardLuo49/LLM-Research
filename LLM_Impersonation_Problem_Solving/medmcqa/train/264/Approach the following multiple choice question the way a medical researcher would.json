@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a medical researcher would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a medical researcher would. A 49-year-old female taking ibuprofen for increasing joint pain in her hands presents with increasing pain in her midsternal area. Gastroscopy reveals multiple, scattered, punctate hemorrhagic areas in her gastric mucosa. Biopsies from one of these hemorrhagic lesions reveal mucosal erosions with edema and hemorrhage. No mucosal ulceration is seen.\n1: Active chronic gastritis\n2: Acute gastritis\n3: Autoimmune gastritis\n4: Chronic gastritis",
+    "solution": 2,
+    "gpt_response": "As a medical researcher, I would consider the patient's symptoms and findings from the gastroscopy to determine the most likely diagnosis. Given the patient's presentation of increasing joint pain, use of ibuprofen, and gastric mucosal findings of punctate hemorrhagic areas with mucosal erosions, edema, and hemorrhage, the most likely diagnosis is acute gastritis, specifically NSAID-induced gastritis. This type of gastritis is caused by the use of nonsteroidal anti-inflammatory drugs (NSAIDs) like ibuprofen, which can irritate the gastric mucosa and lead to mucosal erosions and hemorrhage. Therefore, the correct answer would be:\n\n2: Acute gastritis",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: As a medical researcher, I would consider the patient's symptoms and findings from the gastroscopy to determine the most likely diagnosis. Given the patient's presentation of increasing joint pain, use of ibuprofen, and gastric mucosal findings of punctate hemorrhagic areas with mucosal erosions, edema, and hemorrhage, the most likely diagnosis is acute gastritis, specifically NSAID-induced gastritis. This type of gastritis is caused by the use of nonsteroidal anti-inflammatory drugs (NSAIDs) like ibuprofen, which can irritate the gastric mucosa and lead to mucosal erosions and hemorrhage. Therefore, the correct answer would be:\n\n2: Acute gastritis",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

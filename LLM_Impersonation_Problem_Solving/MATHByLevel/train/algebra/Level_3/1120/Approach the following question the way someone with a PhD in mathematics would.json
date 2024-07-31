@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. Compute $\\frac{x^8+12x^4+36}{x^4+6}$ when $x=5$.",
+    "solution": "Note that $\\left(x^4+6\\right)^2=x^8+12x^4+36$. So $\\frac{x^8+12x^4+36}{x^4+6}=\\frac{\\left(x^4+6\\right)^2}{x^4+6}=x^4+6$. Our answer is therefore $5^4+6=625+6=\\boxed{631}$.",
+    "gpt_response": "To compute $\\frac{x^8+12x^4+36}{x^4+6}$ when $x=5$, we substitute $x=5$ into the expression. This will give us:\n\n$\\frac{5^8+12(5^4)+36}{5^4+6} = \\frac{390625+12(625)+36}{625+6} = \\frac{390625+7500+36}{631} = \\frac{398161}{631}.$\n\nAt this point, we can simplify the expression by division to get the final result.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 631?: To compute $\\frac{x^8+12x^4+36}{x^4+6}$ when $x=5$, we substitute $x=5$ into the expression. This will give us:\n\n$\\frac{5^8+12(5^4)+36}{5^4+6} = \\frac{390625+12(625)+36}{625+6} = \\frac{390625+7500+36}{631} = \\frac{398161}{631}.$\n\nAt this point, we can simplify the expression by division to get the final result.",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

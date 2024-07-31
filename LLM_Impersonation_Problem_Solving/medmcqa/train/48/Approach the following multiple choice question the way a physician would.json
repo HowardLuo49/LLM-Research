@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Of the various modalities used in the treatment of re-threatening effects of hyperkalemia which one of the following as the most rapid onset of action ?\n1: Hemodialysis\n2: Sodium bicarbonate infusion\n3: Insulin and glucose infusion\n4: Intravenous calcium gluconate",
+    "solution": 1,
+    "gpt_response": "In the treatment of hyperkalemia, the most rapid onset of action is typically seen with intravenous calcium gluconate. This is because calcium has the ability to stabilize cell membranes in situations of hyperkalemia, leading to a rapid decrease in potassium-induced cardiac toxicity. Hemodialysis is also effective but may take longer to set up and perform. Sodium bicarbonate infusion and insulin and glucose infusion work by shifting potassium from the extracellular to the intracellular space, but their onset of action is not as rapid as intravenous calcium gluconate.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: In the treatment of hyperkalemia, the most rapid onset of action is typically seen with intravenous calcium gluconate. This is because calcium has the ability to stabilize cell membranes in situations of hyperkalemia, leading to a rapid decrease in potassium-induced cardiac toxicity. Hemodialysis is also effective but may take longer to set up and perform. Sodium bicarbonate infusion and insulin and glucose infusion work by shifting potassium from the extracellular to the intracellular space, but their onset of action is not as rapid as intravenous calcium gluconate.",
+    "gpt_response_correct_incorrect": "No, the final solution obtained in the response is not 1.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

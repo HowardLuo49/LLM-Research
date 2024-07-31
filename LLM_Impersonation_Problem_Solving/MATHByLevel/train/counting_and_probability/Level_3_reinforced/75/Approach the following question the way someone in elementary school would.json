@@ -1,0 +1,10 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. A certain coin is weighted such that the chance of flipping heads is $\\frac{1}{3}$ and the chance of flipping tails is $\\frac{2}{3}$.  Suppose that we win $\\$3$ if we flip a heads on a coin toss, but lose $\\$2$ if we flip tails.  What is the expected value, in dollars, of our winnings after one flip?  Express your answer as a common fraction.",
+    "solution": "In one flip, we have a $1/3$ chance of getting heads and winning 3 dollars, and a $2/3$ chance of getting tails and losing 2 dollars.  So the expected value of one flip is $E = \\frac{1}{3}(\\$3) + \\frac{2}{3}(-\\$2) = \\boxed{-\\frac{1}{3}}$.",
+    "gpt_response": "Okay, so we have a coin that has a $\\frac{1}{3}$ chance of landing on heads and a $\\frac{2}{3}$ chance of landing on tails. If we win $\\$3$ when it lands on heads and lose $\\$2$ when it lands on tails, we can calculate the expected value by multiplying the probability of each outcome by the amount we win or lose.\n\nThe expected value is equal to \n\\[\\left(\\frac{1}{3}\\right) \\times \\$3 - \\left(\\frac{2}{3}\\right) \\times \\$2 = \\frac{1}{3} \\times \\$3 - \\frac{2}{3} \\times \\$2 = \\$1 - \\$1.\\]\n\nTherefore, the expected value is $\\boxed{0}$ dollars.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to -\\frac{1?: Okay, so we have a coin that has a $\\frac{1}{3}$ chance of landing on heads and a $\\frac{2}{3}$ chance of landing on tails. If we win $\\$3$ when it lands on heads and lose $\\$2$ when it lands on tails, we can calculate the expected value by multiplying the probability of each outcome by the amount we win or lose.\n\nThe expected value is equal to \n\\[\\left(\\frac{1}{3}\\right) \\times \\$3 - \\left(\\frac{2}{3}\\right) \\times \\$2 = \\frac{1}{3} \\times \\$3 - \\frac{2}{3} \\times \\$2 = \\$1 - \\$1.\\]\n\nTherefore, the expected value is $\\boxed{0}$ dollars.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes"
+}

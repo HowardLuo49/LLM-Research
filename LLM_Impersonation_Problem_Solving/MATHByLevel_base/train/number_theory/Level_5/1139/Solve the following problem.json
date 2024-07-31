@@ -1,0 +1,10 @@
+{
+    "prefix": "Solve the following problem. ",
+    "problem_prompt": "Solve the following problem. Tom's graduating class has 288 students. At the graduation ceremony, the students will sit in rows with the same number of students in each row. If there must be at least 10 rows and at least 15 students in each row, then there can be $x$ students in each row. What is the sum of all possible values of $x$?",
+    "solution": "If $x$ students sit in each row and there is a total of $y$ rows, then $xy=288=2^5\\cdot3^2$. Given that $x\\ge15$ and $y\\ge10$, the possible values for $x$ are $2^4=16$, $2^3\\cdot3=24$, and $2\\cdot3^2=18$. Their sum is $16+24+18=\\boxed{58}$.",
+    "gpt_response": "The number of students in each row must be a factor of 288 that is at least 15. The factors of 288 are 1, 2, 3, 4, 6, 8, 9, 12, 16, 18, 24, 32, 36, 48, 72, 96, 144, and 288. \n\nChecking each factor, we see that the only factors that are at least 15 are 16, 18, 24, 32, 36, 48, 72, 96, 144, and 288. \n\nThus, the sum of all possible values of $x$ is $16+18+24+32+36+48+72+96+144+288=\\boxed{704}$.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 58?: The number of students in each row must be a factor of 288 that is at least 15. The factors of 288 are 1, 2, 3, 4, 6, 8, 9, 12, 16, 18, 24, 32, 36, 48, 72, 96, 144, and 288. \n\nChecking each factor, we see that the only factors that are at least 15 are 16, 18, 24, 32, 36, 48, 72, 96, 144, and 288. \n\nThus, the sum of all possible values of $x$ is $16+18+24+32+36+48+72+96+144+288=\\boxed{704}$.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes"
+}

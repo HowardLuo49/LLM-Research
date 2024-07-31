@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. A spring of force constant k is stretched a certain distance. It takes twice as much work to stretch a second spring by half this distance. The force constant of the second spring is\nA: k\nB: 2k\nC: 4k\nD: 8k",
+    "solution": "D",
+    "gpt_response": "Oh, okay! So we have one spring that we stretch a little bit, and then a second spring that we stretch even less, but it takes more work. \n\nSo, let's see... the second spring takes twice as much work but it's only stretched by half the distance of the first spring. Hmm, well if it takes more work but less of a stretch, maybe the second spring is stronger!\n\nSo, I think the force constant of the second spring is... D: 8k! Yay, we did it!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: Oh, okay! So we have one spring that we stretch a little bit, and then a second spring that we stretch even less, but it takes more work. \n\nSo, let's see... the second spring takes twice as much work but it's only stretched by half the distance of the first spring. Hmm, well if it takes more work but less of a stretch, maybe the second spring is stronger!\n\nSo, I think the force constant of the second spring is... D: 8k! Yay, we did it!",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

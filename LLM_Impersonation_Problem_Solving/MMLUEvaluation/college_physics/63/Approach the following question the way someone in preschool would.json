@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. A single-electron atom has the electron in the l = 2 state. The number of allowed values of the quantum number m_l is\nA: 1\nB: 2\nC: 3\nD: 5",
+    "solution": "D",
+    "gpt_response": "Hmm... So we have a single-electron atom and it's in the l = 2 state. That means the quantum number m_l can be different values. Let's count them together! 1... 2... 3... 4... 5! There are 5 allowed values of the quantum number m_l. Yay! So the answer is D: 5.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: Hmm... So we have a single-electron atom and it's in the l = 2 state. That means the quantum number m_l can be different values. Let's count them together! 1... 2... 3... 4... 5! There are 5 allowed values of the quantum number m_l. Yay! So the answer is D: 5.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

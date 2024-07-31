@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Statement 1 | In a group (ab)^{-2} = b^{-2}a^{-2}. Statement 2 | In a group (ab)^n = a^nb^n.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "B",
+    "gpt_response": "Okay, so when we have a group and we raise a product to a negative exponent, we can actually separate the product and put each term raised to that power individually. So for Statement 1, (ab)^{-2} can be written as a^{-2}b^{-2}. And for Statement 2, (ab)^n means we can take each term in the product and raise it to the power of n. So, both statements are actually true. So the answer is A: True, True.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to B?: Okay, so when we have a group and we raise a product to a negative exponent, we can actually separate the product and put each term raised to that power individually. So for Statement 1, (ab)^{-2} can be written as a^{-2}b^{-2}. And for Statement 2, (ab)^n means we can take each term in the product and raise it to the power of n. So, both statements are actually true. So the answer is A: True, True.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

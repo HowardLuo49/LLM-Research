@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Which of the following lasers utilizes transitions that involve the energy levels of free atoms?\nA: Diode laser\nB: Dye laser\nC: Free-electron laser\nD: Gas laser",
+    "solution": "D",
+    "gpt_response": "The correct answer is D: Gas laser. This is because gas lasers work by exciting the atoms or molecules of a gas to higher energy levels and then emitting photons as the atoms return to their ground state, creating a laser beam.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: The correct answer is D: Gas laser. This is because gas lasers work by exciting the atoms or molecules of a gas to higher energy levels and then emitting photons as the atoms return to their ground state, creating a laser beam.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

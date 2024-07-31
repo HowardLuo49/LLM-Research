@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in engineering would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in engineering would. What is the total energy released in a supernova explosion that results in a remnant with a mass of 4.6 solar masses, assuming an initial mass of 71 solar masses and a velocity of 10,000 km/s? Please note that the following content involves constants might be used in the calculations : solar mass = 1.989e30 kg ; velocity of light: c = 3e8 m/s. Additionally, please select the option from the given choices that you believe is closest to the correct answer!\n\nA. 8.03e+48 J\nB. 7.65e+48 J\nC. 5.93e+48 J\nD. 1.19e+49 J\n\nAnswer:",
+    "solution": [
+        "D"
+    ],
+    "gpt_response": "D. 1.19e+49 J\n\nFirst, calculate the final kinetic energy of the remnant using the formula for kinetic energy: KE = 0.5 * m * v^2\nKE = 0.5 * (4.6 * 1.989e30) * (10000 * 1000)^2\nKE = 2.13e+46 J\n\nNext, calculate the total energy released in the supernova explosion by subtracting the final mass from the initial mass and converting to energy using E=mc^2:\n\u0394m = 71 - 4.6 = 66.4 solar masses\n\u0394m = 66.4 * 1.989e30 kg = 1.32e+32 kg\nE = \u0394mc^2\nE = (1.32e+32) * (3e8)^2\nE = 1.19e+49 J\n\nTherefore, the closest option to the correct answer is D. 1.19e+49 J.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to ['D']?: D. 1.19e+49 J\n\nFirst, calculate the final kinetic energy of the remnant using the formula for kinetic energy: KE = 0.5 * m * v^2\nKE = 0.5 * (4.6 * 1.989e30) * (10000 * 1000)^2\nKE = 2.13e+46 J\n\nNext, calculate the total energy released in the supernova explosion by subtracting the final mass from the initial mass and converting to energy using E=mc^2:\n\u0394m = 71 - 4.6 = 66.4 solar masses\n\u0394m = 66.4 * 1.989e30 kg = 1.32e+32 kg\nE = \u0394mc^2\nE = (1.32e+32) * (3e8)^2\nE = 1.19e+49 J\n\nTherefore, the closest option to the correct answer is D. 1.19e+49 J.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "D. 1.19e+49 J",
+    "difficulty_value": "4"
+}

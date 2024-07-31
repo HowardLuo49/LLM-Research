@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. For which value of n are there exactly two abelian groups of order n up to isomorphism?\nA: 4\nB: 7\nC: 8\nD: 12",
+    "solution": "A",
+    "gpt_response": "Hmm, let's see... To find the answer, we need to look at the number of abelian groups of different orders. Let's count them together! \n\nFor n = 4, we have two abelian groups: Z4 and Z2 x Z2. Yay, we found two!\n\nFor n = 7, we only have one abelian group: Z7. \n\nFor n = 8, we have three abelian groups: Z8, Z4 x Z2, and Z2 x Z2 x Z2. So, that's not it.\n\nAnd finally, for n = 12, we have three abelian groups: Z12, Z6 x Z2, and Z4 x Z3. So, that's not it either.\n\nTherefore, the value of n for which there are exactly two abelian groups of order n up to isomorphism is A: 4! Yay, we figured it out together! Good job, friends!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to A?: Hmm, let's see... To find the answer, we need to look at the number of abelian groups of different orders. Let's count them together! \n\nFor n = 4, we have two abelian groups: Z4 and Z2 x Z2. Yay, we found two!\n\nFor n = 7, we only have one abelian group: Z7. \n\nFor n = 8, we have three abelian groups: Z8, Z4 x Z2, and Z2 x Z2 x Z2. So, that's not it.\n\nAnd finally, for n = 12, we have three abelian groups: Z12, Z6 x Z2, and Z4 x Z3. So, that's not it either.\n\nTherefore, the value of n for which there are exactly two abelian groups of order n up to isomorphism is A: 4! Yay, we figured it out together! Good job, friends!",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

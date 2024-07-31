@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. There are 25 suitcases, 5 of which are damaged. Three suitcases are selected at random. What is the probability that exactly 2 are damaged?\nA: 2/69\nB: 1/30\nC: 2/23\nD: 12/125",
+    "solution": "C",
+    "gpt_response": "To solve this problem, we can use the concept of combinations and probabilities. \n\nFirst, let's calculate the total number of ways to choose 3 suitcases out of 25. This can be represented by the combination formula C(25,3) = 25! / (3!(25-3)!) = 2300.\n\nNext, let's calculate the number of ways to choose 2 damaged suitcases out of the 5 available damaged suitcases, and 1 undamaged suitcase out of the 20 available undamaged suitcases. This can be represented by the product of the combinations: C(5,2) * C(20,1) = 10*20 = 200.\n\nNow, we need to calculate the probability of choosing exactly 2 damaged suitcases out of the 3 chosen suitcases. This can be done by dividing the number of favorable outcomes (200) by the total number of outcomes (2300). \n\nTherefore, the probability that exactly 2 suitcases are damaged is 200/2300 = 2/23. \n\nTherefore, the correct answer is C: 2/23.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to C?: To solve this problem, we can use the concept of combinations and probabilities. \n\nFirst, let's calculate the total number of ways to choose 3 suitcases out of 25. This can be represented by the combination formula C(25,3) = 25! / (3!(25-3)!) = 2300.\n\nNext, let's calculate the number of ways to choose 2 damaged suitcases out of the 5 available damaged suitcases, and 1 undamaged suitcase out of the 20 available undamaged suitcases. This can be represented by the product of the combinations: C(5,2) * C(20,1) = 10*20 = 200.\n\nNow, we need to calculate the probability of choosing exactly 2 damaged suitcases out of the 3 chosen suitcases. This can be done by dividing the number of favorable outcomes (200) by the total number of outcomes (2300). \n\nTherefore, the probability that exactly 2 suitcases are damaged is 200/2300 = 2/23. \n\nTherefore, the correct answer is C: 2/23.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "D: 12/125",
+    "difficulty_value": "2"
+}

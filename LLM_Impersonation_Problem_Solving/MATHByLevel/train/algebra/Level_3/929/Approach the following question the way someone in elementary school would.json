@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. Find the coefficient of $x^2$ when $3(x^2 - x^3) +2(x - 2x^2 + 3x^5) -(4x^3 - x^2)$ is simplified.",
+    "solution": "When we expand we get  \\begin{align*}\n&3(x^2 - x^3) +2(x - 2x^2 + 3x^5) -(4x^3 - x^2) \\\\\n&\\qquad =3x^2 - 3x^3 +2x - 4x^2 + 6x^5 -4x^3 + x^2\\\\\n&\\qquad =6x^5-7x^3+2x.\n\\end{align*}The coefficient of $x^2$ is $3-4+1=\\boxed{0}$.",
+    "gpt_response": "Ok so first we have to simplify the whole thing. \n\nFirst, let's distribute the numbers in front of the parentheses: 3*x^2 - 3*x^3 + 2*x - 4*x^2 + 6*x^5 - 4*x^3 - x^2. \n\nNow let's combine the terms that are the same: \n(3 - 4 - 1) * x^2 + (-3 - 4) * x^3 + 2 * x + 6 * x^5. \n(-2) * x^2 + (-7) * x^3 + 2 * x + 6 * x^5. \n\nSo the coefficient of x^2 is -2.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 0?: Ok so first we have to simplify the whole thing. \n\nFirst, let's distribute the numbers in front of the parentheses: 3*x^2 - 3*x^3 + 2*x - 4*x^2 + 6*x^5 - 4*x^3 - x^2. \n\nNow let's combine the terms that are the same: \n(3 - 4 - 1) * x^2 + (-3 - 4) * x^3 + 2 * x + 6 * x^5. \n(-2) * x^2 + (-7) * x^3 + 2 * x + 6 * x^5. \n\nSo the coefficient of x^2 is -2.",
+    "gpt_response_correct_incorrect": "No",
+    "yes_no": "no"
+}

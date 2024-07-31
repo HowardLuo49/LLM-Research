@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. Statement 1 | Any set of two vectors in R^2 is linearly independent. Statement 2 | If V = span(v1, ... , vk) and {v1, ... , vk} are linearly independent, then dim(V) = k.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "D",
+    "gpt_response": "Hmm, let's see. Statement 1 says that any set of two vectors in R^2 is linearly independent. That means they are not just multiples of each other. So, that could be true. Statement 2 says that if we have a span of vectors that are linearly independent, then the dimension of that span is equal to the number of vectors. That makes sense too. So, I think the answer is A: True, True.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: Hmm, let's see. Statement 1 says that any set of two vectors in R^2 is linearly independent. That means they are not just multiples of each other. So, that could be true. Statement 2 says that if we have a span of vectors that are linearly independent, then the dimension of that span is equal to the number of vectors. That makes sense too. So, I think the answer is A: True, True.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "5",
+    "difficulty_value": "5"
+}

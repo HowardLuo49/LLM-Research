@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. A box contains 5 white balls and 6 black balls.  Five balls are drawn out of the box at random.  What is the probability that they all are white?",
+    "solution": "There are $\\binom{11}{5} = 462$ ways to choose 5 balls out of the box.  There is only $\\binom{5}{5} = 1$ way to choose 5 white balls out of 5.  This means that the probability that all 5 balls are white is $\\boxed{\\dfrac{1}{462}}$.",
+    "gpt_response": "\"Okay friends, let's count the white balls and black balls in the box. We have 5 white balls and 6 black balls. Now, we are going to pick 5 balls out of the box. Who would like to pick the first ball? Now, who wants to pick the second ball? Let's keep picking until we have 5 balls. \n\nNow, how many white balls do we have in our hands? Are they all white? Let's count together. 1, 2, 3, 4, 5! We have all white balls! Yay!\n\nSo, the probability that we picked all 5 white balls is... 5 out of the total number of balls we have, which is 11. So, the probability is 5/11. Great job, friends!\"",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to \\dfrac{1?: \"Okay friends, let's count the white balls and black balls in the box. We have 5 white balls and 6 black balls. Now, we are going to pick 5 balls out of the box. Who would like to pick the first ball? Now, who wants to pick the second ball? Let's keep picking until we have 5 balls. \n\nNow, how many white balls do we have in our hands? Are they all white? Let's count together. 1, 2, 3, 4, 5! We have all white balls! Yay!\n\nSo, the probability that we picked all 5 white balls is... 5 out of the total number of balls we have, which is 11. So, the probability is 5/11. Great job, friends!\"",
+    "gpt_response_correct_incorrect": "Yes.",
+    "yes_no": "yes"
+}

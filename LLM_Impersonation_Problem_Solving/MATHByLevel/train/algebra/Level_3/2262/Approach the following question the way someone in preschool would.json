@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Al, Betty, and Clare split $\\$1000$ among them to be invested in different ways. Each begins with a different amount. At the end of one year they have a total of $\\$1500$. Betty and Clare have both doubled their money, whereas Al has managed to lose $\\$100$. What was Al's original portion?",
+    "solution": "Denote the original portions for Al, Betty, and Clare as $a$, $b$, and $c$, respectively.  Then \\[\na + b + c = 1000\\quad\\text{and}\\quad a-100 + 2(b+c) = 1500.\n\\] Substituting $b+c=1000-a$ in the second equation,   we have \\[\na -100 + 2(1000-a)=1500.\n\\] This yields $a=\\boxed{400}$, which is Al's original portion.\n\nNote that although we know that $b+c = 600$, we have no way of determining either $b$ or $c$.",
+    "gpt_response": "Al, Betty, and Clare had money and they gave some money to invest. They had $\\$1000$ altogether. But then after one year, they had $\\$1500$ in total. Betty and Clare doubled their money, so they had $\\$2000$ altogether before. But Al lost $\\$100$, so he had less than before. We need to figure out how much money Al started with. Let's think about it together!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 400?: Al, Betty, and Clare had money and they gave some money to invest. They had $\\$1000$ altogether. But then after one year, they had $\\$1500$ in total. Betty and Clare doubled their money, so they had $\\$2000$ altogether before. But Al lost $\\$100$, so he had less than before. We need to figure out how much money Al started with. Let's think about it together!",
+    "gpt_response_correct_incorrect": "No, the final solution is not 400.",
+    "yes_no": "no"
+}

@@ -1,0 +1,10 @@
+{
+    "prefix": "You are an expert in number theory. Solve the following problem. ",
+    "problem_prompt": "You are an expert in number theory. Solve the following problem. If the 25th day of the year 2003 falls on a Saturday, on what day of the week did the 284th day of the year 2003 fall?",
+    "solution": "There are 7 days in a week.  Two days of the year fall on the same day of the week if and only if they are congruent modulo 7.  Notice that  \\[284\\equiv4\\pmod7\\] and  \\[25\\equiv4\\pmod7.\\] Therefore the 284th day and the 25th day fall on the same day of the week.  Therefore the 284th day of the year falls on a $\\boxed{\\text{Saturday}}$.",
+    "gpt_response": "To solve this problem, we can use the fact that there are 7 days in a week and 365 days in a year (366 in a leap year). \n\nSince the 25th day of the year falls on a Saturday, we can calculate how many days have passed between the 25th day of the year and the 284th day of the year. \n\n25 + 284 = 309\n\nNow we divide 309 by 7 to find out how many full weeks have passed:\n\n309 / 7 = 44 weeks and 1 day\n\nSince 44 weeks have passed, the 284th day of the year 2003 fell on the same day of the week as the 25th day of the year, which is a Saturday.\n\nTherefore, the 284th day of the year 2003 fell on a Saturday.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response \\text{Saturday?: To solve this problem, we can use the fact that there are 7 days in a week and 365 days in a year (366 in a leap year). \n\nSince the 25th day of the year falls on a Saturday, we can calculate how many days have passed between the 25th day of the year and the 284th day of the year. \n\n25 + 284 = 309\n\nNow we divide 309 by 7 to find out how many full weeks have passed:\n\n309 / 7 = 44 weeks and 1 day\n\nSince 44 weeks have passed, the 284th day of the year 2003 fell on the same day of the week as the 25th day of the year, which is a Saturday.\n\nTherefore, the 284th day of the year 2003 fell on a Saturday.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes"
+}

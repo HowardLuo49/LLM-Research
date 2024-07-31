@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. An airplane drops a payload while traveling due north, parallel to the ground, at a constant speed of 100 m/s. If air resistance is neglected, what is the velocity of the payload relative to the plane 4.0 s after it is released?\nA: 0\nB: 40 m/s down\nC: 80 m/s down\nD: 100 m/s north and 40 m/s down",
+    "solution": "B",
+    "gpt_response": "The airplane is flying north really fast and drops something out of the airplane! After 4 seconds, the thing that was dropped is not moving anymore because it is just falling straight down. So, the velocity of the payload relative to the plane 4 seconds after it is released is 0! So, the answer is A.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to B?: The airplane is flying north really fast and drops something out of the airplane! After 4 seconds, the thing that was dropped is not moving anymore because it is just falling straight down. So, the velocity of the payload relative to the plane 4 seconds after it is released is 0! So, the answer is A.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

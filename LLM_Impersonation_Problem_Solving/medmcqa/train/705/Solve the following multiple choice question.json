@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. Primary complex in which of the following sites suggest congenital tuberculosis -\n1: Lungs\n2: Liver\n3: Lymph nodes\n4: Skin",
+    "solution": 2,
+    "gpt_response": "3: Lymph nodes\n\nCongenital tuberculosis commonly presents with lymphadenopathy as the primary site of infection.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: 3: Lymph nodes\n\nCongenital tuberculosis commonly presents with lymphadenopathy as the primary site of infection.",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

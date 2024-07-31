@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Find the integer $n$, $0 \\le n \\le 7$, such that \\[n \\equiv -3737 \\pmod{8}.\\]",
+    "solution": "Since $-3737 \\equiv 7 \\pmod{8}$, the integer $n$ we seek is $n = \\boxed{7}$.",
+    "gpt_response": "To solve this problem, we need to find the remainder when $-3737$ is divided by $8$. \n\nWhen $-3737$ is divided by $8$, we get a quotient of $-467$ and a remainder of $7$. \n\nTherefore, $n \\equiv 7 \\pmod{8}$. \n\nSince $0 \\le n \\le 7$, the integer $n$ that satisfies this congruence is $\\boxed{7}$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 7?: To solve this problem, we need to find the remainder when $-3737$ is divided by $8$. \n\nWhen $-3737$ is divided by $8$, we get a quotient of $-467$ and a remainder of $7$. \n\nTherefore, $n \\equiv 7 \\pmod{8}$. \n\nSince $0 \\le n \\le 7$, the integer $n$ that satisfies this congruence is $\\boxed{7}$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

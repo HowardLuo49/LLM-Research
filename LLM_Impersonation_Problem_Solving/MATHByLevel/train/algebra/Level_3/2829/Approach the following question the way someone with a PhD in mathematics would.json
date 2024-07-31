@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. Samson derives utility according the relation  $$\\text{Utility} = \\text{hours of math done} \\times \\text{hours of frisbee played}.$$On Monday he plays $t$ hours of frisbee and spends $8 - t$ hours doing math.  On Tuesday, he ends up getting the same amount of utility as Monday while spending $2-t$ hours playing frisbee and $t+3$ hours on math.  Find $t$.  Answer as a fraction in lowest terms.",
+    "solution": "Since he derived equal utility from both days, we have $$t (8 - t) = (2 - t)(t + 3),$$so $$8t - t^2 = -t^2 -t + 6.$$Simplifying gives $t = \\boxed{\\frac{2}{3}}$.",
+    "gpt_response": "To find the value of $t$, we can equate the utility on Monday and Tuesday since they are the same:\n$$(8-t) \\cdot t = (t+3) \\cdot (2-t).$$\nExpanding both sides, we get:\n$$8t - t^2 = 2t - t^2 + 6 - 3t.$$\nRearranging terms, we have:\n$$8t = 2t + 6.$$\nSolving for $t$, we get:\n$$6t = 6 \\Rightarrow t = 1.$$\nTherefore, $t = \\frac{1}{1} = 1$ in lowest terms.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to \\frac{2?: To find the value of $t$, we can equate the utility on Monday and Tuesday since they are the same:\n$$(8-t) \\cdot t = (t+3) \\cdot (2-t).$$\nExpanding both sides, we get:\n$$8t - t^2 = 2t - t^2 + 6 - 3t.$$\nRearranging terms, we have:\n$$8t = 2t + 6.$$\nSolving for $t$, we get:\n$$6t = 6 \\Rightarrow t = 1.$$\nTherefore, $t = \\frac{1}{1} = 1$ in lowest terms.",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

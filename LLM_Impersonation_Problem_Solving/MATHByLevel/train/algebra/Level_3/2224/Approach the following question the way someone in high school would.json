@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Simplify $$(x^3+4x^2-7x+11)+(-4x^4-x^3+x^2+7x+3).$$  Express your answer as a polynomial with the terms in order by decreasing degree.",
+    "solution": "We rearrange the sum to make it easier to collect like terms: \\begin{align*}\n&(x^3+4x^2-7x+11)+(-4x^4-x^3+x^2+7x+3)\\\\\n&\\qquad=-4x^4+(1-1)x^3+(1+4)x^2+(-7+7)x+(11+3)\\\\\n&\\qquad=\\boxed{-4x^4+5x^2+14}.\n\\end{align*}",
+    "gpt_response": "First, let's rearrange the terms so that like terms are together: \n$$(x^3-x^4+4x^2-x^3-7x+7x+11+3).$$ \n\nNext, combine the like terms:\n$$(-x^4+3x^2+14).$$ \n\nTherefore, the simplified polynomial is $$-x^4+3x^2+14.$$",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to -4x^4+5x^2+14?: First, let's rearrange the terms so that like terms are together: \n$$(x^3-x^4+4x^2-x^3-7x+7x+11+3).$$ \n\nNext, combine the like terms:\n$$(-x^4+3x^2+14).$$ \n\nTherefore, the simplified polynomial is $$-x^4+3x^2+14.$$",
+    "gpt_response_correct_incorrect": "No",
+    "yes_no": "no"
+}

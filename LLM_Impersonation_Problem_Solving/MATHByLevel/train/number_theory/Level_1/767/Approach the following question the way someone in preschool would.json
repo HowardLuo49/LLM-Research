@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. What is the greatest number of Sundays that can occur in the first $49$ days of a year?",
+    "solution": "49 days is seven full weeks, so there are always $\\boxed{7}$ Sundays.",
+    "gpt_response": "Let's count together! In the first 49 days of the year, there are 7 Sundays. Since there are 7 days in a week, we can have a maximum of 7 Sundays in the first 49 days of the year. Yay, we did it!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 7?: Let's count together! In the first 49 days of the year, there are 7 Sundays. Since there are 7 days in a week, we can have a maximum of 7 Sundays in the first 49 days of the year. Yay, we did it!",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

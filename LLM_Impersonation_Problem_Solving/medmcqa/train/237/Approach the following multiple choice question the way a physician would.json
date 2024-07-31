@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Inherited hyperammonemia is a result of deficiency of which enzyme of Krebs-Henseleit urea cycle?\n1: Malate dehydrogenase\n2: Isocitrate dehydrogenase\n3: N-acetyl glutamate synthetase\n4: Succinate dehydrogenase",
+    "solution": 3,
+    "gpt_response": "As a physician, when approaching this multiple choice question regarding inherited hyperammonemia, I would first recall the key enzymes of the Krebs-Henseleit urea cycle and their functions. In this case, inherited hyperammonemia is typically a result of a deficiency in N-acetyl glutamate synthetase, which is essential for the activation of carbamoyl phosphate synthetase I in the first step of the urea cycle.\n\nTherefore, I would choose option 3: N-acetyl glutamate synthetase as the correct answer based on my knowledge of biochemistry and metabolic pathways. This deficiency leads to impaired urea cycle function and accumulation of ammonia, resulting in hyperammonemia.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: As a physician, when approaching this multiple choice question regarding inherited hyperammonemia, I would first recall the key enzymes of the Krebs-Henseleit urea cycle and their functions. In this case, inherited hyperammonemia is typically a result of a deficiency in N-acetyl glutamate synthetase, which is essential for the activation of carbamoyl phosphate synthetase I in the first step of the urea cycle.\n\nTherefore, I would choose option 3: N-acetyl glutamate synthetase as the correct answer based on my knowledge of biochemistry and metabolic pathways. This deficiency leads to impaired urea cycle function and accumulation of ammonia, resulting in hyperammonemia.",
+    "gpt_response_correct_incorrect": "Yes, the final solution obtained in the response is option 3: N-acetyl glutamate synthetase.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

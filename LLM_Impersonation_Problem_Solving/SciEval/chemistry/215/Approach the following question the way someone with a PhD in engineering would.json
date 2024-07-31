@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in engineering would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in engineering would. What is the SMILES expression of C4H10N2OS?\nAnswer:",
+    "solution": [
+        "C(CNC(=O)N)CS"
+    ],
+    "gpt_response": "The SMILES expression of C4H10N2OS is CCS(=O)(=O)N(C)C. SMILES stands for simplified molecular input line entry system, a notation system used to represent chemical structures using short ASCII strings. In this case, the SMILES expression represents the connectivity of carbon (C), hydrogen (H), nitrogen (N), oxygen (O), and sulfur (S) atoms in the compound C4H10N2OS.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response ['C(CNC(=O)N)CS']?: The SMILES expression of C4H10N2OS is CCS(=O)(=O)N(C)C. SMILES stands for simplified molecular input line entry system, a notation system used to represent chemical structures using short ASCII strings. In this case, the SMILES expression represents the connectivity of carbon (C), hydrogen (H), nitrogen (N), oxygen (O), and sulfur (S) atoms in the compound C4H10N2OS.",
+    "gpt_response_correct_incorrect": "Yes, the final solution obtained is 'C(CNC(=O)N)CS' from the given SMILES expression 'CCS(=O)(=O)N(C)C'.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

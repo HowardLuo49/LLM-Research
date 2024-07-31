@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. If the total energy of a particle of mass m is equal to twice its rest energy, then the magnitude of the particle\u2019s relativistic momentum is\nA: mc/2\nB: mc/(2^(1/2))\nC: mc\nD: (3^(1/2))mc",
+    "solution": "D",
+    "gpt_response": "Okay, so let's break this down. First, we know the total energy is equal to twice the rest energy for a particle with mass m. That means E = 2mc^2. Now we need to find the magnitude of the particle's relativistic momentum.\n\nWe know the relation between energy, momentum, and mass is E^2 = (pc)^2 + (mc^2)^2. Since the total energy is equal to twice the rest energy, we can substitute in E = 2mc^2 to get (2mc^2)^2 = (pc)^2 + (mc^2)^2.\n\nSolving for p, we get p = (3^(1/2))mc. So the correct answer is D: (3^(1/2))mc.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: Okay, so let's break this down. First, we know the total energy is equal to twice the rest energy for a particle with mass m. That means E = 2mc^2. Now we need to find the magnitude of the particle's relativistic momentum.\n\nWe know the relation between energy, momentum, and mass is E^2 = (pc)^2 + (mc^2)^2. Since the total energy is equal to twice the rest energy, we can substitute in E = 2mc^2 to get (2mc^2)^2 = (pc)^2 + (mc^2)^2.\n\nSolving for p, we get p = (3^(1/2))mc. So the correct answer is D: (3^(1/2))mc.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Statement 1 | For n > 1, the set {1,2, ..., n-1} is a group under multiplication modulo n. Statement 2 | There is an integer x such that 63x mod 100 = 1.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "D",
+    "gpt_response": "Hmm, let's break it down. \n\nFor statement 1, it's talking about a set being a group under multiplication modulo n. I remember learning about modular arithmetic in math class, so I know that {1,2, ..., n-1} would form a group under multiplication modulo n if n is a prime number. Since we're given that n > 1, we know it's not a prime number, so statement 1 is false.\n\nFor statement 2, it's saying there is some integer x that makes 63x mod 100 equal to 1. I know that this is true because 63 and 100 are coprime (they don't share any factors other than 1). So, statement 2 is true.\n\nPutting it all together, statement 1 is false and statement 2 is true. So, the correct answer is C: True, False.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: Hmm, let's break it down. \n\nFor statement 1, it's talking about a set being a group under multiplication modulo n. I remember learning about modular arithmetic in math class, so I know that {1,2, ..., n-1} would form a group under multiplication modulo n if n is a prime number. Since we're given that n > 1, we know it's not a prime number, so statement 1 is false.\n\nFor statement 2, it's saying there is some integer x that makes 63x mod 100 equal to 1. I know that this is true because 63 and 100 are coprime (they don't share any factors other than 1). So, statement 2 is true.\n\nPutting it all together, statement 1 is false and statement 2 is true. So, the correct answer is C: True, False.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. For a given positive integer $n > 2^3$, what is the greatest common divisor of $n^3 + 3^2$ and $n + 2$?",
+    "solution": "Notice that by the sum of cubes factorization, $n^3 + 8 = (n+2)(n^2 - 2n + 4)$ is an integer divisible by $n+2$. Thus,\n\\begin{align*}\n\\text{gcd}\\,(n^3 + 9, n+2) &= \\text{gcd}\\,(n^3 + 9 - (n^3 + 8), n+2) \\\\ \n& = \\text{gcd}\\,(1,n+2) \\\\\n& = \\boxed{1}.\n\\end{align*}",
+    "gpt_response": "Hmm, let's see. First, let's try to make $n^3 + 3^2$ look like something we already know. We can rewrite $n^3 + 3^2$ as $(n + 3)(n^2 - 3n + 3)$. \n\nNow, let's look at $(n + 2)$ and try to find a pattern. If we substitute $n = -2$ into the expression, we get $0$. That means $n + 2$ is a factor of $n^3 + 3^2$ when $n = -2$. \n\nSo, the greatest common divisor of $n^3 + 3^2$ and $n + 2$ is $n + 2$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 1?: Hmm, let's see. First, let's try to make $n^3 + 3^2$ look like something we already know. We can rewrite $n^3 + 3^2$ as $(n + 3)(n^2 - 3n + 3)$. \n\nNow, let's look at $(n + 2)$ and try to find a pattern. If we substitute $n = -2$ into the expression, we get $0$. That means $n + 2$ is a factor of $n^3 + 3^2$ when $n = -2$. \n\nSo, the greatest common divisor of $n^3 + 3^2$ and $n + 2$ is $n + 2$.",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

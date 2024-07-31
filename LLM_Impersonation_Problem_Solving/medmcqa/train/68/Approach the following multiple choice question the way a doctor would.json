@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Which of the following is the best procedure done for intrapaum fetal monitoring:\n1: Fetal echocardiography\n2: Fetal scalp pH\n3: Continuous electrical fetal hea monitoring\n4: Physical examination",
+    "solution": 3,
+    "gpt_response": "As a doctor, the best procedure for intrapartum fetal monitoring would be option 3: Continuous electrical fetal heart monitoring. This method provides real-time information on the baby's heart rate and can help detect any signs of distress during labor and delivery. Options 1, 2, and 4 are not typically used for intrapartum fetal monitoring.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: As a doctor, the best procedure for intrapartum fetal monitoring would be option 3: Continuous electrical fetal heart monitoring. This method provides real-time information on the baby's heart rate and can help detect any signs of distress during labor and delivery. Options 1, 2, and 4 are not typically used for intrapartum fetal monitoring.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

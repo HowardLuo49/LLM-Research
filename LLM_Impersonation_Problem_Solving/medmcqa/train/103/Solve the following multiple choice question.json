@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. Potter syndrome is not assoiated with\n1: Bilateral renal agenesis\n2: Bilateral multicystic kidney disease\n3: oligohydromnios\n4: Polyhydromnios",
+    "solution": 1,
+    "gpt_response": "4: Polyhydramnios",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: 4: Polyhydramnios",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "9",
+    "difficulty_value": "9"
+}

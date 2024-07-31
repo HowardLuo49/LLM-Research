@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Let $n$ be a positive integer and $a,b$ be invertible integers modulo $n$ such that $a\\equiv b^{-1}\\pmod n$. What is the remainder when $ab$ is divided by $n$?",
+    "solution": "Since $a\\equiv b^{-1}\\pmod n$, \\[ab\\equiv b^{-1}b\\equiv \\boxed{1}\\pmod n.\\]",
+    "gpt_response": "First, let's review what it means for $a$ and $b$ to be invertible integers modulo $n$.\n\nIn high school terms, an integer $a$ is invertible modulo $n$ if there exists another integer $a^{-1}$ such that $aa^{-1} \\equiv 1 \\pmod n$. In other words, $a$ has a multiplicative inverse modulo $n$. \n\nSo, given that $a \\equiv b^{-1} \\pmod n$, we know that $a$ and $b$ are inverses of each other modulo $n.\n\nNow, if we want to find the remainder when $ab$ is divided by $n$, we can rewrite $ab$ as $ab \\equiv a(b) \\pmod n$. \n\nSince $a \\equiv b^{-1} \\pmod n$, we can substitute $b^{-1}$ for $a$ in the expression $a(b)$ to get $ab \\equiv b^{-1}(b) \\pmod n$. \n\nNotice that $b^{-1}(b)$ is equivalent to $1$ modulo $n$, because $b$ and $b^{-1}$ are inverses of each other modulo $n$.\n\nSo, the remainder when $ab$ is divided by $n$ is $\\boxed{1}$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 1?: First, let's review what it means for $a$ and $b$ to be invertible integers modulo $n$.\n\nIn high school terms, an integer $a$ is invertible modulo $n$ if there exists another integer $a^{-1}$ such that $aa^{-1} \\equiv 1 \\pmod n$. In other words, $a$ has a multiplicative inverse modulo $n$. \n\nSo, given that $a \\equiv b^{-1} \\pmod n$, we know that $a$ and $b$ are inverses of each other modulo $n.\n\nNow, if we want to find the remainder when $ab$ is divided by $n$, we can rewrite $ab$ as $ab \\equiv a(b) \\pmod n$. \n\nSince $a \\equiv b^{-1} \\pmod n$, we can substitute $b^{-1}$ for $a$ in the expression $a(b)$ to get $ab \\equiv b^{-1}(b) \\pmod n$. \n\nNotice that $b^{-1}(b)$ is equivalent to $1$ modulo $n$, because $b$ and $b^{-1}$ are inverses of each other modulo $n$.\n\nSo, the remainder when $ab$ is divided by $n$ is $\\boxed{1}$.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

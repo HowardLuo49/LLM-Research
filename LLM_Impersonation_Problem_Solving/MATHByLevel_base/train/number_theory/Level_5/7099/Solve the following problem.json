@@ -1,0 +1,10 @@
+{
+    "prefix": "Solve the following problem. ",
+    "problem_prompt": "Solve the following problem. How many positive integers $n$ satisfy\\[\\dfrac{n+1000}{70} = \\lfloor \\sqrt{n} \\rfloor?\\](Recall that $\\lfloor x\\rfloor$ is the greatest integer not exceeding $x$.)\n$\\textbf{(A) } 2 \\qquad\\textbf{(B) } 4 \\qquad\\textbf{(C) } 6 \\qquad\\textbf{(D) } 30 \\qquad\\textbf{(E) } 32$\n",
+    "solution": "First notice that the graphs of $(n+1000)/70$ and $\\sqrt[]{n}$ intersect at 2 points. Then, notice that $(n+1000)/70$ must be an integer. This means that n is congruent to $50 \\pmod{70}$.\nFor the first intersection, testing the first few values of $n$ (adding $70$ to $n$ each time and noticing the left side increases by $1$ each time) yields $n=20$ and $n=21$. Estimating from the graph can narrow down the other cases, being $n=47$, $n=50$. This results in a total of $\\boxed{6}$ cases.",
+    "gpt_response": "Since the right side is always an integer, then the left side must be an integer. This means $n+1000$ is divisible by $70.$ \n\nIf $n=70m,$ where $m$ is a nonnegative integer, then\\[\\frac{70m+1000}{70} = m + \\frac{1000}{70} = m+14.\\]Since $\\lfloor \\sqrt{n} \\rfloor$ is nonnegative, $m+14>0.$ This tells us that $m\\geq -14,$ so $m\\geq 0.$ Since $m$ is a nonnegative integer, the possible values of $m$ are $0,1,2,\\dots,30,$ for a total of $\\boxed{31}$ possible values for $n.$",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 6?: Since the right side is always an integer, then the left side must be an integer. This means $n+1000$ is divisible by $70.$ \n\nIf $n=70m,$ where $m$ is a nonnegative integer, then\\[\\frac{70m+1000}{70} = m + \\frac{1000}{70} = m+14.\\]Since $\\lfloor \\sqrt{n} \\rfloor$ is nonnegative, $m+14>0.$ This tells us that $m\\geq -14,$ so $m\\geq 0.$ Since $m$ is a nonnegative integer, the possible values of $m$ are $0,1,2,\\dots,30,$ for a total of $\\boxed{31}$ possible values for $n.$",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no"
+}

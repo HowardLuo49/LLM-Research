@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Statement 1 | Every homomorphic image of a group G is isomorphic to a factor group of G. Statement 2 | The homomorphic images of a group G are the same (up to isomorphism) as the factor groups of G.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "A",
+    "gpt_response": "Hmm, okay so Statement 1 is saying that every homomorphic image of a group G is isomorphic to a factor group of G. And Statement 2 is saying that the homomorphic images of a group G are the same (up to isomorphism) as the factor groups of G. \n\nI think Statement 1 is true because it makes sense that a homomorphic image of a group would be isomorphic to a factor group of that group. And for Statement 2, it sounds like it's saying the same thing as Statement 1 but in a different way. So I think both statements are true. So my answer is A: True, True.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to A?: Hmm, okay so Statement 1 is saying that every homomorphic image of a group G is isomorphic to a factor group of G. And Statement 2 is saying that the homomorphic images of a group G are the same (up to isomorphism) as the factor groups of G. \n\nI think Statement 1 is true because it makes sense that a homomorphic image of a group would be isomorphic to a factor group of that group. And for Statement 2, it sounds like it's saying the same thing as Statement 1 but in a different way. So I think both statements are true. So my answer is A: True, True.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. What is the greatest multiple of 3 that is less than 500 and is also a multiple of 4?",
+    "solution": "Since 3 and 4 are relatively prime, the problem amounts to finding the greatest multiple of $3\\cdot4=12$ less than 500. Since $500\\div12=41R8$, our answer is $12\\cdot41=\\boxed{492}$.",
+    "gpt_response": "To find the greatest multiple of 3 that is less than 500 and is also a multiple of 4, we need to find the greatest common multiple of 3 and 4 that is less than 500.\n\nThe greatest common multiple of 3 and 4 is their least common multiple (LCM), which is the smallest number that is a multiple of both 3 and 4. The LCM of 3 and 4 is 12.\n\nTo find the greatest multiple of 3 that is less than 500 and is also a multiple of 4, we need to find the largest multiple of 12 that is less than 500. To do this, we divide 500 by 12:\n\n500 \u00f7 12 = 41 remainder 8\n\nSo the largest multiple of 12 that is less than 500 is 12 * 41 = 492.\n\nSince 12 is a multiple of both 3 and 4, the greatest multiple of 3 that is less than 500 and is also a multiple of 4 is 492.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 492?: To find the greatest multiple of 3 that is less than 500 and is also a multiple of 4, we need to find the greatest common multiple of 3 and 4 that is less than 500.\n\nThe greatest common multiple of 3 and 4 is their least common multiple (LCM), which is the smallest number that is a multiple of both 3 and 4. The LCM of 3 and 4 is 12.\n\nTo find the greatest multiple of 3 that is less than 500 and is also a multiple of 4, we need to find the largest multiple of 12 that is less than 500. To do this, we divide 500 by 12:\n\n500 \u00f7 12 = 41 remainder 8\n\nSo the largest multiple of 12 that is less than 500 is 12 * 41 = 492.\n\nSince 12 is a multiple of both 3 and 4, the greatest multiple of 3 that is less than 500 and is also a multiple of 4 is 492.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Groove sign is seen in-\n1: Syphilis\n2: Dermatomyositis\n3: LGV\n4: SLE",
+    "solution": 3,
+    "gpt_response": "As a physician, when approaching this multiple choice question, we would first recall our medical knowledge of the conditions listed. \n\n1: Syphilis - Groove sign is not typically associated with syphilis.\n2: Dermatomyositis - Groove sign is not typically associated with dermatomyositis.\n3: LGV (lymphogranuloma venereum) - Groove sign can be seen in LGV due to the presence of inguinal lymphadenopathy and lymphatic obstruction.\n4: SLE (systemic lupus erythematosus) - Groove sign is not typically associated with SLE. \n\nTherefore, based on our medical knowledge, the correct answer is likely 3: LGV.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: As a physician, when approaching this multiple choice question, we would first recall our medical knowledge of the conditions listed. \n\n1: Syphilis - Groove sign is not typically associated with syphilis.\n2: Dermatomyositis - Groove sign is not typically associated with dermatomyositis.\n3: LGV (lymphogranuloma venereum) - Groove sign can be seen in LGV due to the presence of inguinal lymphadenopathy and lymphatic obstruction.\n4: SLE (systemic lupus erythematosus) - Groove sign is not typically associated with SLE. \n\nTherefore, based on our medical knowledge, the correct answer is likely 3: LGV.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

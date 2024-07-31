@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Statement 1 | If a finite group has order n then the group contains a subgroup of order d for every positive divisor d of n. Statement 2 | If a belongs to a finite group then |a| divides |G|.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "D",
+    "gpt_response": "Hmm, I remember learning about subgroups and orders in my group theory class in high school. So for the first statement, if a group has order n, then it must contain a subgroup of order d for every positive divisor of n. That sounds right to me, so I'll go with True for the first statement. And for the second statement, if an element a belongs to a finite group, then the order of a must divide the order of the group G. That also makes sense from what I remember, so I'll go with True for the second statement. So my final answer is A: True, True.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: Hmm, I remember learning about subgroups and orders in my group theory class in high school. So for the first statement, if a group has order n, then it must contain a subgroup of order d for every positive divisor of n. That sounds right to me, so I'll go with True for the first statement. And for the second statement, if an element a belongs to a finite group, then the order of a must divide the order of the group G. That also makes sense from what I remember, so I'll go with True for the second statement. So my final answer is A: True, True.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

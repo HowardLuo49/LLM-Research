@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. An aquarium has a rectangular base that measures 100 cm by 40 cm and has a height of 50 cm. The aquarium is filled with water to a depth of 37 cm. A rock with volume $1000 \\text{cm}^3$ is then placed in the aquarium and completely submerged. By how many centimeters does the water level rise?  Express your answer as a decimal to the nearest 100th.",
+    "solution": "0.25\\,\\text{ cm}",
+    "gpt_response": "To find the increase in water level, we need to consider the displacement of water caused by the rock. The volume of water displaced by the rock is equal to the volume of the rock itself, which is $1000 \\text{cm}^3$. \n\nSince the aquarium is filled to a depth of 37 cm before the rock is added, the increase in water level will be equal to the volume of water displaced by the rock divided by the base area of the aquarium. \n\nThe base area of the aquarium is given by the product of the length and width of the base, which is $100 \\text{cm} \\times 40 \\text{cm} = 4000 \\text{cm}^2$. \n\nTherefore, the increase in water level is given by:\n\n$\\text{Increase in water level} = \\frac{1000 \\text{cm}^3}{4000 \\text{cm}^2} = 0.25 \\text{cm}$ \n\nTherefore, the water level rises by 0.25 cm, to the nearest hundredth.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 0.25\\,\\text{ cm}?: To find the increase in water level, we need to consider the displacement of water caused by the rock. The volume of water displaced by the rock is equal to the volume of the rock itself, which is $1000 \\text{cm}^3$. \n\nSince the aquarium is filled to a depth of 37 cm before the rock is added, the increase in water level will be equal to the volume of water displaced by the rock divided by the base area of the aquarium. \n\nThe base area of the aquarium is given by the product of the length and width of the base, which is $100 \\text{cm} \\times 40 \\text{cm} = 4000 \\text{cm}^2$. \n\nTherefore, the increase in water level is given by:\n\n$\\text{Increase in water level} = \\frac{1000 \\text{cm}^3}{4000 \\text{cm}^2} = 0.25 \\text{cm}$ \n\nTherefore, the water level rises by 0.25 cm, to the nearest hundredth.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

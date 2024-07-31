@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. Bone marrow finding in myelofibrosis-\n1: Dry tap (hypocellular)\n2: Megaloblastic cells\n3: Microcytic cells\n4: Thrombocytosis",
+    "solution": 1,
+    "gpt_response": "1: Dry tap (hypocellular)",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: 1: Dry tap (hypocellular)",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

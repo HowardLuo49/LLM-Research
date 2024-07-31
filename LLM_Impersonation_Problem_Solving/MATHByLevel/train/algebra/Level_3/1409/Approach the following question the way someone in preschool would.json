@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. The expression $12y^2-65y+42$ can be written as $(Ay-14)(By-3),$ where $A$ and $B$ are integers. What is $AB + A$?",
+    "solution": "We see that $12y^2-65y+42=(3y-14)(4y-3)$, thus $A = 3$ and $B = 4$. Hence, $AB + A = \\boxed{15}.$",
+    "gpt_response": "First, let's look at the numbers and see if we can figure out what $A$ and $B$ are. \n\nWe can see that $Ay*By = 12y^2$ must be true because that is what our original expression starts with. This means that $A*B = 12$. We also know that $-14*-3 = 42$, so $A = -14$ and $B = -3$. \n\nNow we just need to find $AB + A$:\n$AB + A = (-14)*(-3) + (-14) = 42 - 14 = 28$\n\nSo, $AB + A$ is equal to $28$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 15?: First, let's look at the numbers and see if we can figure out what $A$ and $B$ are. \n\nWe can see that $Ay*By = 12y^2$ must be true because that is what our original expression starts with. This means that $A*B = 12$. We also know that $-14*-3 = 42$, so $A = -14$ and $B = -3$. \n\nNow we just need to find $AB + A$:\n$AB + A = (-14)*(-3) + (-14) = 42 - 14 = 28$\n\nSo, $AB + A$ is equal to $28$.",
+    "gpt_response_correct_incorrect": "No",
+    "yes_no": "no"
+}

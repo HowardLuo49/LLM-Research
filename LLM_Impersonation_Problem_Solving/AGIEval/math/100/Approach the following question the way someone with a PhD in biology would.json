@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. If $Q = 11-5i$, $E = 11+5i$, and $D = 2i$, find $Q\\cdot E \\cdot D$.",
+    "solution": "292i",
+    "gpt_response": "To find $Q\\cdot E \\cdot D$, we first need to multiply $Q$ and $E$ to get a complex number, and then multiply that result by $D$.\n\nFirst, let's multiply $Q$ and $E$:\n\\[Q\\cdot E = (11-5i)(11+5i) = 121 - 55i + 55i - 25i^2\\]\n\\[= 121 - 25(-1) = 121 + 25 = 146\\]\n\nSo, $Q\\cdot E = 146$.\n\nNext, we multiply $Q\\cdot E$ by $D$:\n\\[Q\\cdot E \\cdot D = 146\\cdot 2i = 292i\\]\n\nTherefore, $Q\\cdot E \\cdot D = 292i$.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 292i?: To find $Q\\cdot E \\cdot D$, we first need to multiply $Q$ and $E$ to get a complex number, and then multiply that result by $D$.\n\nFirst, let's multiply $Q$ and $E$:\n\\[Q\\cdot E = (11-5i)(11+5i) = 121 - 55i + 55i - 25i^2\\]\n\\[= 121 - 25(-1) = 121 + 25 = 146\\]\n\nSo, $Q\\cdot E = 146$.\n\nNext, we multiply $Q\\cdot E$ by $D$:\n\\[Q\\cdot E \\cdot D = 146\\cdot 2i = 292i\\]\n\nTherefore, $Q\\cdot E \\cdot D = 292i$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "5",
+    "difficulty_value": "5"
+}

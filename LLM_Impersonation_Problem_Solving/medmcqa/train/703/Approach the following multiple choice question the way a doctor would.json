@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. A 1-year-old boy presents with a delay in motor development. Progressive muscle weakness and blindness ensue, and the patient dies within a year. The brain at autopsy shows swollen neurons that contain numerous lysosomes filled with lipid. Which of the following is the most likely diagnosis?\n1: AL amyloidosis\n2: Hurler syndrome\n3: Phenylketonuria\n4: Tay-Sachs disease",
+    "solution": 4,
+    "gpt_response": "The most likely diagnosis for this 1-year-old boy presenting with delayed motor development, progressive muscle weakness, and blindness, with swollen neurons containing numerous lysosomes filled with lipid at autopsy, is Tay-Sachs disease. This rare genetic disorder is characterized by a deficiency of the enzyme hexosaminidase A, leading to an accumulation of gangliosides in the brain and subsequent neuronal damage. Symptoms typically present in infancy and progress rapidly, leading to death within a few years of life.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 4?: The most likely diagnosis for this 1-year-old boy presenting with delayed motor development, progressive muscle weakness, and blindness, with swollen neurons containing numerous lysosomes filled with lipid at autopsy, is Tay-Sachs disease. This rare genetic disorder is characterized by a deficiency of the enzyme hexosaminidase A, leading to an accumulation of gangliosides in the brain and subsequent neuronal damage. Symptoms typically present in infancy and progress rapidly, leading to death within a few years of life.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Coloured urine is not seen in :\n1: Quinine\n2: Rifampcin\n3: Nitrofurantoin\n4: Pyridium",
+    "solution": 1,
+    "gpt_response": "As a physician, I would approach this question by considering the known side effects and mechanisms of action of each medication listed. \n\n1: Quinine is known to cause dark urine as a side effect, so I would not choose this option. \n\n2: Rifampcin is known to cause red or orange discoloration of urine, so I would not choose this option. \n\n3: Nitrofurantoin is known to cause brown discoloration of urine, so I would not choose this option. \n\n4: Pyridium is not known to cause any discoloration of urine, so I would choose this option as the correct answer. \n\nTherefore, coloured urine is not seen in Pyridium.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: As a physician, I would approach this question by considering the known side effects and mechanisms of action of each medication listed. \n\n1: Quinine is known to cause dark urine as a side effect, so I would not choose this option. \n\n2: Rifampcin is known to cause red or orange discoloration of urine, so I would not choose this option. \n\n3: Nitrofurantoin is known to cause brown discoloration of urine, so I would not choose this option. \n\n4: Pyridium is not known to cause any discoloration of urine, so I would choose this option as the correct answer. \n\nTherefore, coloured urine is not seen in Pyridium.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

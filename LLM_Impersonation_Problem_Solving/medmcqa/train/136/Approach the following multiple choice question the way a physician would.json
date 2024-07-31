@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Vaccine administered by following route is\n1: Typhoral live\n2: H1n1 killed\n3: H1n1 live\n4: Yellow fever live",
+    "solution": 3,
+    "gpt_response": "To determine the correct answer, we need to consider the type of vaccine and the route of administration. \n\nLive vaccines are vaccines that contain weakened forms of the virus or bacteria they are protecting against. These vaccines are typically administered orally or by injection. \n\nKilled vaccines, on the other hand, contain dead virus particles and are often administered by injection. \n\nBased on this information, the correct answer is:\n1: Typhoral live\n\nSo the vaccine administered by the following route is Typhoral live.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: To determine the correct answer, we need to consider the type of vaccine and the route of administration. \n\nLive vaccines are vaccines that contain weakened forms of the virus or bacteria they are protecting against. These vaccines are typically administered orally or by injection. \n\nKilled vaccines, on the other hand, contain dead virus particles and are often administered by injection. \n\nBased on this information, the correct answer is:\n1: Typhoral live\n\nSo the vaccine administered by the following route is Typhoral live.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a medical researcher would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a medical researcher would. Lalita, a female pt. presents with pigmentation of the lips and oral mucosa and intestinal polyps. Her sister also gives the same history. Most probable diagnosis is -\n1: Carcinoid tumor\n2: Melanoma\n3: Villous adenoma\n4: Peutz-Jegher syndrome",
+    "solution": 4,
+    "gpt_response": "As a medical researcher, we would consider the patient's presenting symptoms and family history. In this case, the combination of pigmentation of the lips and oral mucosa, along with intestinal polyps in both the patient and her sister, points towards a genetic condition. Peutz-Jegher syndrome is a rare autosomal dominant disorder characterized by mucocutaneous pigmentation and hamartomatous polyps in the gastrointestinal tract. Therefore, the most probable diagnosis in this case would be 4: Peutz-Jegher syndrome.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 4?: As a medical researcher, we would consider the patient's presenting symptoms and family history. In this case, the combination of pigmentation of the lips and oral mucosa, along with intestinal polyps in both the patient and her sister, points towards a genetic condition. Peutz-Jegher syndrome is a rare autosomal dominant disorder characterized by mucocutaneous pigmentation and hamartomatous polyps in the gastrointestinal tract. Therefore, the most probable diagnosis in this case would be 4: Peutz-Jegher syndrome.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

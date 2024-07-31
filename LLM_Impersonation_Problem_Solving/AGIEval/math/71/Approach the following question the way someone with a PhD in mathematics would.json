@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. Suppose $a<c$ and $b<0$. Which of the following must be true?\n\n$ab < ac$\n$a+b<c+b$\n$a-b < c-b$\n$c/a > 1$\n\nEnter your answer as a list of those options that are always true. For instance, if you think only the first and third are true, enter 'A, C'.",
+    "solution": "B, C",
+    "gpt_response": "To determine which of the statements are always true given $a<c$ and $b<0$, we will analyze each option:\n\n1. $ab < ac$:\nSince $a<c$ and $b<0$, multiplying both sides of $a<c$ by $b$ gives $ab<bc$. Since $b<0$ and $c>a$, we can guarantee that $ab<ac$ is always true. \n\n2. $a+b<c+b$:\nAdding $b$ to both sides of $a<c$ gives $a+b<c+b$. Since $b<0$, adding a negative quantity to $a$ makes it smaller, so $a+b<c+b$ is always true.\n\n3. $a-b < c-b$:\nSubtracting $b$ from both sides of $a<c$ gives $a-b<c-b$. While this statement is true in this specific case, it is not always true - imagine if $c=0$ and $a=-1$, then $a-b = -1$ and $c-b = 0$.\n\n4. $c/a > 1$:\nDividing both sides of $a<c$ by $a$ gives $1<c/a$, but since $a<c$, $c/a>1$ does not always hold.\n\nTherefore, the statements that are always true are:\n\nA. $ab < ac$\nB. $a+b<c+b$",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response B, C?: To determine which of the statements are always true given $a<c$ and $b<0$, we will analyze each option:\n\n1. $ab < ac$:\nSince $a<c$ and $b<0$, multiplying both sides of $a<c$ by $b$ gives $ab<bc$. Since $b<0$ and $c>a$, we can guarantee that $ab<ac$ is always true. \n\n2. $a+b<c+b$:\nAdding $b$ to both sides of $a<c$ gives $a+b<c+b$. Since $b<0$, adding a negative quantity to $a$ makes it smaller, so $a+b<c+b$ is always true.\n\n3. $a-b < c-b$:\nSubtracting $b$ from both sides of $a<c$ gives $a-b<c-b$. While this statement is true in this specific case, it is not always true - imagine if $c=0$ and $a=-1$, then $a-b = -1$ and $c-b = 0$.\n\n4. $c/a > 1$:\nDividing both sides of $a<c$ by $a$ gives $1<c/a$, but since $a<c$, $c/a>1$ does not always hold.\n\nTherefore, the statements that are always true are:\n\nA. $ab < ac$\nB. $a+b<c+b$",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

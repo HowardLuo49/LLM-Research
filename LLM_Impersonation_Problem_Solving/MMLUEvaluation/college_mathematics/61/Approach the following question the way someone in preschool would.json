@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. A university\u2019s mathematics department has 10 professors and will offer 20 different courses next semester. Each professor will be assigned to teach exactly 2 of the courses, and each course will have exactly one professor assigned to teach it. If any professor can be assigned to teach any course, how many different complete assignments of the 10 professors to the 20 courses are possible?\nA: 20!/2^(10)\nB: 10!/2^9\nC: 10^(20) - 2^(10)\nD: 10^(20) - 100",
+    "solution": "A",
+    "gpt_response": "Okay, let's count the different ways the professors and courses can match up! Each professor needs to teach 2 courses, so let's start by picking 2 courses for the first professor. There are 20 choose 2 ways to do this. Then, we pick 2 courses for the second professor from the remaining 18 courses - there are 18 choose 2 ways to do this. We keep going like this until all professors are assigned courses. So the answer is 20 choose 2 * 18 choose 2 * ... * 4 choose 2 * 2 choose 2.\n\nTherefore, the answer is (20 choose 2) * (18 choose 2) * ... * (2 choose 2) = A: 20!/2^(10).",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to A?: Okay, let's count the different ways the professors and courses can match up! Each professor needs to teach 2 courses, so let's start by picking 2 courses for the first professor. There are 20 choose 2 ways to do this. Then, we pick 2 courses for the second professor from the remaining 18 courses - there are 18 choose 2 ways to do this. We keep going like this until all professors are assigned courses. So the answer is 20 choose 2 * 18 choose 2 * ... * 4 choose 2 * 2 choose 2.\n\nTherefore, the answer is (20 choose 2) * (18 choose 2) * ... * (2 choose 2) = A: 20!/2^(10).",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

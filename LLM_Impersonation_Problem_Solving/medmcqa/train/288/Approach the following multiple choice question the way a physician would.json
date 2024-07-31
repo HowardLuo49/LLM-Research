@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Middle aged female with mass in sella turcica hormone increased is -\n1: Prolactin\n2: Thyroxine\n3: Extrogen\n4: ADH",
+    "solution": 1,
+    "gpt_response": "1: Prolactin\n\nIn a middle aged female with a mass in the sella turcica and increased hormones, the most likely hormone to be elevated is prolactin. Prolactinomas are the most common type of pituitary adenoma in this population and can lead to symptoms such as irregular menstrual cycles, galactorrhea, and infertility. Further evaluation with imaging studies and hormone levels should be done to confirm the diagnosis and determine the appropriate treatment plan.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: 1: Prolactin\n\nIn a middle aged female with a mass in the sella turcica and increased hormones, the most likely hormone to be elevated is prolactin. Prolactinomas are the most common type of pituitary adenoma in this population and can lead to symptoms such as irregular menstrual cycles, galactorrhea, and infertility. Further evaluation with imaging studies and hormone levels should be done to confirm the diagnosis and determine the appropriate treatment plan.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. A tumor has the following characteristic retrobulbar location within the muscle cone, well defined capsule, presents with slowly progressive proptosis, easily resectable, occurs most commonly in the 2nd to 4th decade. Most likely diagnosis is -\n1: Capillary hemangioma\n2: Cavernous hemangioma\n3: Lymhangioma\n4: Hemangiopericytome",
+    "solution": 2,
+    "gpt_response": "As a physician, I would approach this question by considering the characteristics and presentation of the tumor described. Given that the tumor is retrobulbar, well defined, slowly progressive, easily resectable, and common in young adults, the most likely diagnosis is a cavernous hemangioma. Hemangiomas are common benign tumors that are often well-circumscribed and slow-growing. In this case, the retrobulbar location within the muscle cone is also indicative of a cavernous hemangioma. Therefore, the correct answer would be option 2: Cavernous hemangioma.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: As a physician, I would approach this question by considering the characteristics and presentation of the tumor described. Given that the tumor is retrobulbar, well defined, slowly progressive, easily resectable, and common in young adults, the most likely diagnosis is a cavernous hemangioma. Hemangiomas are common benign tumors that are often well-circumscribed and slow-growing. In this case, the retrobulbar location within the muscle cone is also indicative of a cavernous hemangioma. Therefore, the correct answer would be option 2: Cavernous hemangioma.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

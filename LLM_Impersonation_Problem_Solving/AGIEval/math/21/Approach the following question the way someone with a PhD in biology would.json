@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. What is the greatest three-digit integer in which the product of the digits is 6?",
+    "solution": "611",
+    "gpt_response": "To find the greatest three-digit integer in which the product of the digits is 6, we must consider all possible combinations of three digits that multiply to 6. The possible combinations are 1, 1, 6 and 1, 2, 3. \n\nThe greatest three-digit integer that can be formed from these combinations is 621, as it is the largest number in which the digits 6, 2, and 1 can be combined. This number meets the criteria of having a product of 6 when multiplied together.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 611?: To find the greatest three-digit integer in which the product of the digits is 6, we must consider all possible combinations of three digits that multiply to 6. The possible combinations are 1, 1, 6 and 1, 2, 3. \n\nThe greatest three-digit integer that can be formed from these combinations is 621, as it is the largest number in which the digits 6, 2, and 1 can be combined. This number meets the criteria of having a product of 6 when multiplied together.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

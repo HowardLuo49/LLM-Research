@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. Evaluate $\\left\\lceil-\\sqrt{\\frac{49}{4}}\\right\\rceil$.",
+    "solution": "Since $-\\sqrt{\\frac{49}{4}}$ is equal to $-\\frac{7}{2}$, the smallest integer greater than $-\\frac{7}{2}$ is $\\boxed{-3}$.",
+    "gpt_response": "To solve this, first we need to find the square root of 49 divided by 4. \n\nThe square root of 49 is 7 because 7 times 7 equals 49. \n\nWhen we divide 7 by 4, we get $\\frac{7}{4}$. This is equal to ${1\\frac{3}{4}}$ because 4 goes into 7 one time with a remainder of 3.\n\nThen, we need to find the opposite (negative) of this value, which is -$1\\frac{3}{4}$.\n\nSince the number is a little less than -2, the smallest whole number that is less than -$1\\frac{3}{4}$ is -2.\n\nSo, $\\left\\lceil-\\sqrt{\\frac{49}{4}}\\right\\rceil$ is equal to $\\boxed{-2}$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to -3?: To solve this, first we need to find the square root of 49 divided by 4. \n\nThe square root of 49 is 7 because 7 times 7 equals 49. \n\nWhen we divide 7 by 4, we get $\\frac{7}{4}$. This is equal to ${1\\frac{3}{4}}$ because 4 goes into 7 one time with a remainder of 3.\n\nThen, we need to find the opposite (negative) of this value, which is -$1\\frac{3}{4}$.\n\nSince the number is a little less than -2, the smallest whole number that is less than -$1\\frac{3}{4}$ is -2.\n\nSo, $\\left\\lceil-\\sqrt{\\frac{49}{4}}\\right\\rceil$ is equal to $\\boxed{-2}$.",
+    "gpt_response_correct_incorrect": "No",
+    "yes_no": "no"
+}

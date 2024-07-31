@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. An organ pipe, closed at one end and open at the other, is designed to have a fundamental frequency of C (131 Hz). What is the frequency of the next higher harmonic for this pipe?\nA: 44 Hz\nB: 196 Hz\nC: 262 Hz\nD: 393 Hz",
+    "solution": "D",
+    "gpt_response": "Hmm, okay so a closed end pipe means that the air can't move there, while an open end pipe means the air can move freely. The fundamental frequency is the lowest natural frequency of an object, in this case 131 Hz. The next higher harmonic would be the next time the pipe vibrates at a frequency that is a multiple of 131 Hz. So, to find that, we need to multiply the fundamental frequency by 3 to get the next harmonic. 131 Hz x 3 = 393 Hz. So, the answer is D: 393 Hz.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: Hmm, okay so a closed end pipe means that the air can't move there, while an open end pipe means the air can move freely. The fundamental frequency is the lowest natural frequency of an object, in this case 131 Hz. The next higher harmonic would be the next time the pipe vibrates at a frequency that is a multiple of 131 Hz. So, to find that, we need to multiply the fundamental frequency by 3 to get the next harmonic. 131 Hz x 3 = 393 Hz. So, the answer is D: 393 Hz.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

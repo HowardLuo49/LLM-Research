@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Let A and B be sets, f: A -> B and g: B -> A be functions such that for all a \\in A, g(f(a)) = a. Statement 1 | The function f must necessarily be injective. Statement 2 | The function f must necessarily be surjective.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "C",
+    "gpt_response": "Hmm, let's think about this! If we have a set A and a set B, and we have a function f that maps elements from A to B, then if g goes from B back to A and g(f(a)) = a for all a in A, that means f must be a \"one-to-one\" function, where every element in A goes to a unique element in B. So, I think Statement 1 is true because f must be injective, which means it's one-to-one. But I'm not sure about Statement 2. Maybe f doesn't have to cover all of B, so it might not be surjective. So, I think Statement 2 is false. So my answer is C: True, False.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to C?: Hmm, let's think about this! If we have a set A and a set B, and we have a function f that maps elements from A to B, then if g goes from B back to A and g(f(a)) = a for all a in A, that means f must be a \"one-to-one\" function, where every element in A goes to a unique element in B. So, I think Statement 1 is true because f must be injective, which means it's one-to-one. But I'm not sure about Statement 2. Maybe f doesn't have to cover all of B, so it might not be surjective. So, I think Statement 2 is false. So my answer is C: True, False.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

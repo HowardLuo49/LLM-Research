@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. A patient presented with ahritis and purpura. Laboratory examination showed monoclonal and polyclonal cryoglobulins. Histopathology showed deposits of cryoglobulins around the vessels. The patient should be tested for which of the following ?\n1: HBV\n2: HCV\n3: EBV\n4: Parvovious",
+    "solution": 2,
+    "gpt_response": "2: HCV\n\nCryoglobulinemia is most commonly associated with hepatitis C virus (HCV) infection. Therefore, the patient should be tested for HCV.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: 2: HCV\n\nCryoglobulinemia is most commonly associated with hepatitis C virus (HCV) infection. Therefore, the patient should be tested for HCV.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

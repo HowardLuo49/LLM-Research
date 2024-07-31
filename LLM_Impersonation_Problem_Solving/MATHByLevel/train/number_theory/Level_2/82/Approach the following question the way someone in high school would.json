@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. What is the smallest two-digit integer $n$ such that switching its digits and then adding 3 results in $2n$?",
+    "solution": "Let $10a+b$ represent $n$, where $a$ and $b$ are the tens and units digits, respectively. Switching the digits and adding 3 results in $10b+a+3$, which we set equal to $2n$. \\begin{align*}\n2(10a+b)&=10b+a+3\\quad\\Rightarrow\\\\\n20a+2b&=10b+a+3\\quad\\Rightarrow\\\\\n19a&=8b+3\n\\end{align*}For the smallest $n$, we let the tens digit $a=1$. We have $19=8b+3$, which means $b=2$. So the smallest $n$ is $\\boxed{12}$.",
+    "gpt_response": "Let's call the tens digit of $n$ as $a$ and the ones digit as $b$. So, $n = 10a + b$. The number obtained by switching the digits is $10b + a$. \n\nAccording to the problem, we have:\n$10b + a + 3 = 2(10a + b)$\n$10b + a + 3 = 20a + 2b$\n$10b + a = 20a + 2b - 3$\n$10b + a = 20a + 2b - 3$\n$8b = 18a - 3$\n$8b + 3 = 18a$\n$2(4b + 1) = 18a$\n\nSince $4b + 1$ is an integer and $a$ needs to be an integer, the smallest two-digit integer values that work are $b=4$ and $a = 4$. So, the smallest two-digit integer $n$ that satisfies the conditions is $44$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 12?: Let's call the tens digit of $n$ as $a$ and the ones digit as $b$. So, $n = 10a + b$. The number obtained by switching the digits is $10b + a$. \n\nAccording to the problem, we have:\n$10b + a + 3 = 2(10a + b)$\n$10b + a + 3 = 20a + 2b$\n$10b + a = 20a + 2b - 3$\n$10b + a = 20a + 2b - 3$\n$8b = 18a - 3$\n$8b + 3 = 18a$\n$2(4b + 1) = 18a$\n\nSince $4b + 1$ is an integer and $a$ needs to be an integer, the smallest two-digit integer values that work are $b=4$ and $a = 4$. So, the smallest two-digit integer $n$ that satisfies the conditions is $44$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

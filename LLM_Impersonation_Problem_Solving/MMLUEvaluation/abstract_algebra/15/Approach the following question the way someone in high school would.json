@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Statement 1 | R is a splitting field of some polynomial over Q. Statement 2 | There is a field with 60 elements.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "B",
+    "gpt_response": "I think the answer is C: True, False. I know that a splitting field is a field extension that contains all the roots of a polynomial, but I'm not sure about the second statement. I'll have to ask my math teacher for some help on this one.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to B?: I think the answer is C: True, False. I know that a splitting field is a field extension that contains all the roots of a polynomial, but I'm not sure about the second statement. I'll have to ask my math teacher for some help on this one.",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

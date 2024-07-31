@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. Simplify $\\left( \\frac{1}{2k} \\right)^{-2} \\cdot (-k)^3$.",
+    "solution": "$\\left( \\frac{1}{2k} \\right)^{-2} \\cdot (-k)^3 = (2k)^2 \\cdot (-k)^3 = 4k^2 \\cdot (-k^3) = \\boxed{-4k^5}$.",
+    "gpt_response": "To simplify this expression, we can first compute the inverse of $\\left( \\frac{1}{2k} \\right)^{-2}$, which is equivalent to raising $\\frac{1}{2k}$ to the power of $2$. This results in $\\left( \\frac{1}{2k} \\right)^{-2} = \\left( \\frac{2k}{1} \\right)^2 = \\frac{4k^2}{1} = 4k^2$.\n\nNext, we multiply this result by $(-k)^3$ to obtain the final simplified expression: $4k^2 \\cdot (-k)^3 = 4k^2 \\cdot (-k \\cdot -k \\cdot -k) = 4k^2 \\cdot (-k^3) = -4k^5$.\n\nTherefore, the simplified expression is $-4k^5$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to -4k^5?: To simplify this expression, we can first compute the inverse of $\\left( \\frac{1}{2k} \\right)^{-2}$, which is equivalent to raising $\\frac{1}{2k}$ to the power of $2$. This results in $\\left( \\frac{1}{2k} \\right)^{-2} = \\left( \\frac{2k}{1} \\right)^2 = \\frac{4k^2}{1} = 4k^2$.\n\nNext, we multiply this result by $(-k)^3$ to obtain the final simplified expression: $4k^2 \\cdot (-k)^3 = 4k^2 \\cdot (-k \\cdot -k \\cdot -k) = 4k^2 \\cdot (-k^3) = -4k^5$.\n\nTherefore, the simplified expression is $-4k^5$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

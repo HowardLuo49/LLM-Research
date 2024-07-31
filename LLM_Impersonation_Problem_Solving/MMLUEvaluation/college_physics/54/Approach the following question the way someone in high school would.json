@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Under ideal conditions, the electric and magnetic fields inside a superconductor are zero. Maxwell\u2019s equations imply that which of the following must be true just outside the surface of the superconductor?\nA: B = 0\nB: B is perpendicular to the surface.\nC: B is tangential to the surface.\nD: B is time independent.",
+    "solution": "C",
+    "gpt_response": "Given that the electric and magnetic fields inside a superconductor are zero, this means that the magnetic field must be expelled from the superconductor. Therefore, just outside the surface of the superconductor, the magnetic field must be tangential to the surface (Option C). This is known as the Meissner effect in superconductors.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to C?: Given that the electric and magnetic fields inside a superconductor are zero, this means that the magnetic field must be expelled from the superconductor. Therefore, just outside the surface of the superconductor, the magnetic field must be tangential to the surface (Option C). This is known as the Meissner effect in superconductors.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

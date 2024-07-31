@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. Electromagnetic radiation emitted from a nucleus is most likely to be in the form of\nA: gamma rays\nB: microwaves\nC: ultraviolet radiation\nD: visible light",
+    "solution": "A",
+    "gpt_response": "The electromagnetic radiation emitted from a nucleus is most likely to be in the form of gamma rays. This is because gamma rays have the highest energy and shortest wavelength among the options provided, making them the most characteristic form of radiation emitted by nuclear processes such as radioactive decay. The energy levels involved in nuclear transitions are typically on the order of MeV (million electron volts), which corresponds to gamma-ray wavelengths. Microwaves, ultraviolet radiation, and visible light have much lower energies and longer wavelengths, and are not typically associated with nuclear processes.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to A?: The electromagnetic radiation emitted from a nucleus is most likely to be in the form of gamma rays. This is because gamma rays have the highest energy and shortest wavelength among the options provided, making them the most characteristic form of radiation emitted by nuclear processes such as radioactive decay. The energy levels involved in nuclear transitions are typically on the order of MeV (million electron volts), which corresponds to gamma-ray wavelengths. Microwaves, ultraviolet radiation, and visible light have much lower energies and longer wavelengths, and are not typically associated with nuclear processes.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

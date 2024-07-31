@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Statement 1 | For finite groups G and H, |G + H| = |G||H|. (G + H is the internal direct product.) Statement 2 | If r divides m and s divides n then Z_m + Z_n has a subgroup isomorphic to Z_r + Z_s.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "A",
+    "gpt_response": "Hmm, I remember learning about groups and direct products in my math class. Statement 1 seems familiar, but I'm not so sure about Statement 2. I think Statement 1 is true because the formula for the order of the internal direct product makes sense to me. And for Statement 2, it seems like if r divides m and s divides n, then Z_m + Z_n could have a subgroup isomorphic to Z_r + Z_s. So, I think the answer is A: True, True.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to A?: Hmm, I remember learning about groups and direct products in my math class. Statement 1 seems familiar, but I'm not so sure about Statement 2. I think Statement 1 is true because the formula for the order of the internal direct product makes sense to me. And for Statement 2, it seems like if r divides m and s divides n, then Z_m + Z_n could have a subgroup isomorphic to Z_r + Z_s. So, I think the answer is A: True, True.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

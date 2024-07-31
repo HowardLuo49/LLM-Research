@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a medical researcher would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a medical researcher would. Trendlenburg's test done for varicose veins is for detection of:\n1: Perforator in competency\n2: Deep veins patency\n3: Saphenofemoral incompetency\n4: Site of perforators",
+    "solution": 3,
+    "gpt_response": "The Trendelenburg's test is typically used to assess the competency of the saphenofemoral junction and the perforating veins in patients with varicose veins. Based on the options provided, the correct answer would be:\n\n3: Saphenofemoral incompetency\n\nThis is because the test helps to determine if blood reflux is occurring at the saphenofemoral junction, which is a common cause of varicose veins. It is important for a medical researcher to understand the specific purpose of the test and how it relates to the condition being studied.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: The Trendelenburg's test is typically used to assess the competency of the saphenofemoral junction and the perforating veins in patients with varicose veins. Based on the options provided, the correct answer would be:\n\n3: Saphenofemoral incompetency\n\nThis is because the test helps to determine if blood reflux is occurring at the saphenofemoral junction, which is a common cause of varicose veins. It is important for a medical researcher to understand the specific purpose of the test and how it relates to the condition being studied.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

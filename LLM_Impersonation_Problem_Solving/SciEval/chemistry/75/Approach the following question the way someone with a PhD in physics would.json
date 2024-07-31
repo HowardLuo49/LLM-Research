@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in physics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in physics would. What is the molecular formula of CC(OS(=O)C(C)S)S?\nAnswer:",
+    "solution": [
+        "C4H10O2S3"
+    ],
+    "gpt_response": "The molecular formula of CC(OS(=O)C(C)S)S refers to a chemical compound containing carbon (C), oxygen (O), and sulfur (S) atoms in specific arrangements. The molecule consists of multiple carbon atoms connected to each other and to sulfur atoms through single and double bonds. Additionally, there is a sulfone group (S(=O)) attached to one of the carbon atoms, and the overall structure includes a total of three sulfur atoms. Analyzing the bonding configurations and atomic composition of the compound allows for the determination of its molecular formula, which is C6H12O2S3.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response ['C4H10O2S3']?: The molecular formula of CC(OS(=O)C(C)S)S refers to a chemical compound containing carbon (C), oxygen (O), and sulfur (S) atoms in specific arrangements. The molecule consists of multiple carbon atoms connected to each other and to sulfur atoms through single and double bonds. Additionally, there is a sulfone group (S(=O)) attached to one of the carbon atoms, and the overall structure includes a total of three sulfur atoms. Analyzing the bonding configurations and atomic composition of the compound allows for the determination of its molecular formula, which is C6H12O2S3.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

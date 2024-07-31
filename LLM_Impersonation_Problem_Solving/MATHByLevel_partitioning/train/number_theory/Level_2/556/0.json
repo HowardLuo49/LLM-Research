@@ -1,0 +1,8 @@
+{
+    "problem_prompt": "Your job is to consider a number theory problem, and leave a plan for the next person to solve it. The problem will be revealed one sentence at a time. You do not have the entire problem yet, thus just do whatever calcluations/planning you think will be useful for the next person. If you don't think you can make any progress, say so. The following is a portion of the entire problem, and the work/progress/message the previous person left for you. There may be errors in the provided work that was previously done and left for you, so check and fix them if necessary.\nOne year ago, the number of years in Jane's age was a perfect square, and one year from now, her age will be a perfect cube.\n",
+    "solution": "Let's consider a few small perfect cubes to see two less which is a perfect square: $2^3-2=6$, not a perfect square; $3^3-2=25=5^2$. Thus Jane is $27-1=\\boxed{26}$ years old.",
+    "gpt_response": "Given:\n- One year ago, Jane's age was a perfect square, so let's denote her current age as x and set up the equation x - 1 = a^2 where a is an integer.\n- One year from now, Jane's age will be a perfect cube, so let's set up the equation x + 1 = b^3 where b is an integer.\n\nPlan:\n1. From x - 1 = a^2, we can rewrite it as x = a^2 + 1 and substitute this into x + 1 = b^3 to solve for a and b.\n2. After solving for a and b, determine Jane's current age x by plugging the values back into the equations.",
+    "solution_prompt": "Question partition not complete yet",
+    "gpt_response_correct_incorrect": "Question partition not complete yet",
+    "yes_no": "Question partition not complete yet"
+}

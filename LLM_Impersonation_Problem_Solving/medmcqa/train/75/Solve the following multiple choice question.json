@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. An Isograft indicates transfer of tissues between -\n1: Unrelated donors\n2: Related donors\n3: Monozygotic twins\n4: From the same individual",
+    "solution": 3,
+    "gpt_response": "The correct answer is: 2: Related donors\n\nAn isograft involves transferring tissues between genetically identical individuals, such as relatives or monozygotic twins.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: The correct answer is: 2: Related donors\n\nAn isograft involves transferring tissues between genetically identical individuals, such as relatives or monozygotic twins.",
+    "gpt_response_correct_incorrect": "No, the final solution obtained in the response is not option 3 (Related donors), it is option 2 (Related donors).",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

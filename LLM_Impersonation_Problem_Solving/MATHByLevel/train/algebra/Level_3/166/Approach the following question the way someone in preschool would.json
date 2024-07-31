@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Evaluate $\\left\\lfloor -\\frac{5}{3}\\right\\rfloor.$",
+    "solution": "$-\\frac{5}{3}$ is between $-2$ and $-1$, so $\\left\\lfloor -\\frac{5}{3}\\right\\rfloor = \\boxed{-2}$.",
+    "gpt_response": "To find the answer, we need to see how many times 3 can fit into 5. When we try to share 5 between 3 friends, each friend gets 1 whole piece and we have 2 left over. So, our answer is $\\left\\lfloor -\\frac{5}{3}\\right\\rfloor = -2.$",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to -2?: To find the answer, we need to see how many times 3 can fit into 5. When we try to share 5 between 3 friends, each friend gets 1 whole piece and we have 2 left over. So, our answer is $\\left\\lfloor -\\frac{5}{3}\\right\\rfloor = -2.$",
+    "gpt_response_correct_incorrect": "Yes.",
+    "yes_no": "yes"
+}

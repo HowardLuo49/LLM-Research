@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. A 70 - year- old man was administered penicilline intravenously. Within 5 minutes, he developed genralised urticaria, swelling of lips, hypotension and bronchospasm. The first choice of treatment is to administer:\n1: chlorphenitramine inj.\n2: Epinephrine inj.\n3: High dose hydrocortisone tablet\n4: nebulised salbutamol",
+    "solution": 2,
+    "gpt_response": "2: Epinephrine inj. \n\nIn this case, the man is experiencing an allergic reaction to penicillin, which can cause anaphylaxis. Epinephrine is the first choice of treatment for anaphylaxis as it helps to reverse the symptoms and stabilize blood pressure.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: 2: Epinephrine inj. \n\nIn this case, the man is experiencing an allergic reaction to penicillin, which can cause anaphylaxis. Epinephrine is the first choice of treatment for anaphylaxis as it helps to reverse the symptoms and stabilize blood pressure.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

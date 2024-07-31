@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. Find all solutions to the equation $\\displaystyle\\sqrt[3]{2 - \\frac{x}{2}} = -3$.",
+    "solution": "We get rid of the cube root sign by cubing both sides.  This gives us $2-\\frac{x}{2} = -27$.  Solving this equation gives $x =\\boxed{58}$.",
+    "gpt_response": "To find all solutions to the equation $\\displaystyle\\sqrt[3]{2 - \\frac{x}{2}} = -3$, we first cube both sides of the equation to remove the cube root:\n\n$2 - \\frac{x}{2} = -27$\n\nNext, we solve for $x$:\n\n$2 - \\frac{x}{2} = -27$\n\n$2 - \\frac{x}{2} + \\frac{x}{2} = -27 + \\frac{x}{2}$\n\n$2 = -27 + \\frac{x}{2}$\n\n$\\frac{x}{2} = -25$\n\n$x = -50$\n\nTherefore, the only solution to the equation $\\displaystyle\\sqrt[3]{2 - \\frac{x}{2}} = -3$ is $x = -50$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 58?: To find all solutions to the equation $\\displaystyle\\sqrt[3]{2 - \\frac{x}{2}} = -3$, we first cube both sides of the equation to remove the cube root:\n\n$2 - \\frac{x}{2} = -27$\n\nNext, we solve for $x$:\n\n$2 - \\frac{x}{2} = -27$\n\n$2 - \\frac{x}{2} + \\frac{x}{2} = -27 + \\frac{x}{2}$\n\n$2 = -27 + \\frac{x}{2}$\n\n$\\frac{x}{2} = -25$\n\n$x = -50$\n\nTherefore, the only solution to the equation $\\displaystyle\\sqrt[3]{2 - \\frac{x}{2}} = -3$ is $x = -50$.",
+    "gpt_response_correct_incorrect": "No, the final solution obtained is $x = -50$, not 58.",
+    "yes_no": "no"
+}

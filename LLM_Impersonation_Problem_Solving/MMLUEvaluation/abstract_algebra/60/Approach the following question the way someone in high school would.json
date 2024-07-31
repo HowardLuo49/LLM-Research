@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Statement 1 | The unity of a subring must be the same as the unity of the ring. Statement 2 | Every field is an integral domain.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "D",
+    "gpt_response": "A: True, True\n\nExplanation for Statement 1: This is true because in a subring, the unity (multiplicative identity) must be the same as the unity of the ring it is a subset of.\n\nExplanation for Statement 2: This is also true because every field is by definition an integral domain, as all fields have the property of having no zero divisors.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: A: True, True\n\nExplanation for Statement 1: This is true because in a subring, the unity (multiplicative identity) must be the same as the unity of the ring it is a subset of.\n\nExplanation for Statement 2: This is also true because every field is by definition an integral domain, as all fields have the property of having no zero divisors.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

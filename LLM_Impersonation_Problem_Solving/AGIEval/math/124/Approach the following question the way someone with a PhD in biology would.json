@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. One ticket to a show costs $\\$20$ at full price. Susan buys $4$ tickets using a coupon that gives her a $25\\%$ discount. Pam buys $5$ tickets using a coupon that gives her a $30\\%$ discount. How many more dollars does Pam pay than Susan?",
+    "solution": "10",
+    "gpt_response": "To solve this problem, we first need to calculate the discounted price for each ticket for both Susan and Pam. \n\nFor Susan, the discount is $25\\%$, so she pays $(100\\%-25\\%) = 75\\%$ of the original price. This means each ticket costs $0.75 \\times \\$20 = \\$15$ after the discount. Since she buys $4$ tickets, her total cost is $4 \\times \\$15 = \\$60$.\n\nFor Pam, the discount is $30\\%$, so she pays $(100\\%-30\\%) = 70\\%$ of the original price. This means each ticket costs $0.70 \\times \\$20 = \\$14$ after the discount. Since she buys $5$ tickets, her total cost is $5 \\times \\$14 = \\$70$.\n\nThe difference in cost between Pam and Susan is $\\$70 - \\$60 = \\$10$. Therefore, Pam pays $\\$10$ more than Susan.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 10?: To solve this problem, we first need to calculate the discounted price for each ticket for both Susan and Pam. \n\nFor Susan, the discount is $25\\%$, so she pays $(100\\%-25\\%) = 75\\%$ of the original price. This means each ticket costs $0.75 \\times \\$20 = \\$15$ after the discount. Since she buys $4$ tickets, her total cost is $4 \\times \\$15 = \\$60$.\n\nFor Pam, the discount is $30\\%$, so she pays $(100\\%-30\\%) = 70\\%$ of the original price. This means each ticket costs $0.70 \\times \\$20 = \\$14$ after the discount. Since she buys $5$ tickets, her total cost is $5 \\times \\$14 = \\$70$.\n\nThe difference in cost between Pam and Susan is $\\$70 - \\$60 = \\$10$. Therefore, Pam pays $\\$10$ more than Susan.",
+    "gpt_response_correct_incorrect": "No, the final solution obtained is $10, but the total cost for Pam is $70 and for Susan is $60, so the difference between the two is $70 - $60 = $10.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

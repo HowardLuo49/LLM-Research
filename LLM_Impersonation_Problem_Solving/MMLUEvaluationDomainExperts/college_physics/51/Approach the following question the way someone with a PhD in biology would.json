@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. The best type of laser with which to do spectroscopy over a range of visible wavelengths is\nA: a dye laser\nB: a helium-neon laser\nC: an excimer laser\nD: a ruby laser",
+    "solution": "A",
+    "gpt_response": "When considering the best type of laser for spectroscopy over a range of visible wavelengths, a dye laser would be the most appropriate choice. Dye lasers are tunable lasers that can cover a wide range of wavelengths in the visible spectrum by changing the dye solution used as the gain medium. This versatility allows for precise control and selection of specific wavelengths for spectroscopic analysis. In comparison, helium-neon, excimer, and ruby lasers have more limited tunability and are not as well-suited for covering a broad range of visible wavelengths in spectroscopy applications.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to A?: When considering the best type of laser for spectroscopy over a range of visible wavelengths, a dye laser would be the most appropriate choice. Dye lasers are tunable lasers that can cover a wide range of wavelengths in the visible spectrum by changing the dye solution used as the gain medium. This versatility allows for precise control and selection of specific wavelengths for spectroscopic analysis. In comparison, helium-neon, excimer, and ruby lasers have more limited tunability and are not as well-suited for covering a broad range of visible wavelengths in spectroscopy applications.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

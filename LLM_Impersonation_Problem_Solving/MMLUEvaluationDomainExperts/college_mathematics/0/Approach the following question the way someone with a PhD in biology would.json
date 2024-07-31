@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. Let k be the number of real solutions of the equation e^x + x - 2 = 0 in the interval [0, 1], and let n be the number of real solutions that are not in [0, 1]. Which of the following is true?\nA: k = 0 and n = 1\nB: k = 1 and n = 0\nC: k = n = 1\nD: k > 1",
+    "solution": "B",
+    "gpt_response": "As a biologist with a PhD, I would approach this question by first recognizing that the given equation is a transcendental equation involving the exponential function e^x. To determine the number of real solutions, we can analyze the behavior of the function e^x + x - 2 in the specified interval [0, 1].\n\nFirst, we note that the exponential function e^x is always positive for all real values of x. Therefore, the term e^x is strictly increasing in the interval [0, 1]. Additionally, the linear function x is also strictly increasing in this interval. By considering these two functions together with the constant term -2, we can infer that the equation e^x + x - 2 = 0 has a unique real solution in the interval [0, 1].\n\nTherefore, the correct answer is:\n\nB: k = 1 and n = 0.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to B?: As a biologist with a PhD, I would approach this question by first recognizing that the given equation is a transcendental equation involving the exponential function e^x. To determine the number of real solutions, we can analyze the behavior of the function e^x + x - 2 in the specified interval [0, 1].\n\nFirst, we note that the exponential function e^x is always positive for all real values of x. Therefore, the term e^x is strictly increasing in the interval [0, 1]. Additionally, the linear function x is also strictly increasing in this interval. By considering these two functions together with the constant term -2, we can infer that the equation e^x + x - 2 = 0 has a unique real solution in the interval [0, 1].\n\nTherefore, the correct answer is:\n\nB: k = 1 and n = 0.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

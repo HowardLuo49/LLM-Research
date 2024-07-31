@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. The $24^\\text{th}$ day of a particular month is a Saturday. On what day of the week was the first day of that month?",
+    "solution": "If the $24$th is a Saturday, the $17$th was also a Saturday, as were the $10$th and the $3$rd.  So the $2$nd was a Friday and the $1$st was a $\\boxed{\\text{Thursday}}$.",
+    "gpt_response": "To find out what day of the week the first day of the month was, we need to count the number of days between the $1^\\text{st}$ day of the month and the $24^\\text{th}$ day of the month. \n\nSince the $24^\\text{th}$ day is a Saturday, we know there are 6 more days until the end of the month. This means there are 7 days in a week total, so we can subtract 6 from 7 to get 1. \n\nTherefore, the first day of the month was 1 day before Saturday, which is a Friday.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to \\text{Thursday?: To find out what day of the week the first day of the month was, we need to count the number of days between the $1^\\text{st}$ day of the month and the $24^\\text{th}$ day of the month. \n\nSince the $24^\\text{th}$ day is a Saturday, we know there are 6 more days until the end of the month. This means there are 7 days in a week total, so we can subtract 6 from 7 to get 1. \n\nTherefore, the first day of the month was 1 day before Saturday, which is a Friday.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

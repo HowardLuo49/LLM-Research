@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in literature would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in literature would. Calculate the temperature of the universe at an age of 380,000 years after the Big Bang, given that the cosmic microwave background radiation has a present-day temperature of approximately 5.9 Kelvin. Additionally, please select the option from the given choices that you believe is closest to the correct answer!\n\nA. 3541.2 kelvin\nB. 6102.6 kelvin\nC. 8756.5 kelvin\nD. 6495.9 kelvin\n\nAnswer:",
+    "solution": [
+        "D"
+    ],
+    "gpt_response": "To calculate the temperature of the universe at an age of 380,000 years after the Big Bang, we can use the concept of cosmological redshift. The temperature of the cosmic microwave background radiation decreases as the universe expands, following a relationship known as the Stefan-Boltzmann law.\n\nBy applying the formula for cosmological redshift, we can determine that the temperature of the universe at an age of 380,000 years is approximately 6102.6 Kelvin, which corresponds to option B. This is based on the present-day temperature of 5.9 Kelvin, adjusted for the expansion of the universe over time.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to ['D']?: To calculate the temperature of the universe at an age of 380,000 years after the Big Bang, we can use the concept of cosmological redshift. The temperature of the cosmic microwave background radiation decreases as the universe expands, following a relationship known as the Stefan-Boltzmann law.\n\nBy applying the formula for cosmological redshift, we can determine that the temperature of the universe at an age of 380,000 years is approximately 6102.6 Kelvin, which corresponds to option B. This is based on the present-day temperature of 5.9 Kelvin, adjusted for the expansion of the universe over time.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

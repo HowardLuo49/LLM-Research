@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Schwann cells are derived from:\n1: Neural crest cells\n2: Endoderm\n3: Mesoderm\n4: Ectoderm",
+    "solution": 1,
+    "gpt_response": "As a doctor, I would approach this question by first recalling my knowledge of embryology and the development of the nervous system. Schwann cells are a type of glial cell that myelinate peripheral nerves. Based on my understanding of embryonic development, Schwann cells are derived from neural crest cells. Therefore, the correct answer is 1: Neural crest cells.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: As a doctor, I would approach this question by first recalling my knowledge of embryology and the development of the nervous system. Schwann cells are a type of glial cell that myelinate peripheral nerves. Based on my understanding of embryonic development, Schwann cells are derived from neural crest cells. Therefore, the correct answer is 1: Neural crest cells.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

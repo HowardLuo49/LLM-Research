@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Find the integer $n$, $0 \\le n \\le 11$, such that \\[n \\equiv 10389 \\pmod{12}.\\]",
+    "solution": "Since $10389 \\equiv 9 \\pmod{12}$, the integer $n$ we seek is $n = \\boxed{9}$.",
+    "gpt_response": "Let's count by 12's to see when we get close to 10389: 12, 24, 36, 48, 60, 72, 84, 96, 108. We see that 10389 is close to 10392 which is 108 more than 12, so our answer is $n = \\boxed{9}$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 9?: Let's count by 12's to see when we get close to 10389: 12, 24, 36, 48, 60, 72, 84, 96, 108. We see that 10389 is close to 10392 which is 108 more than 12, so our answer is $n = \\boxed{9}$.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

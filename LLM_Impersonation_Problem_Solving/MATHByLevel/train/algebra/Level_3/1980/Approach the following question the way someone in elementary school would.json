@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. Factor the expression $3x(x+1) + 7(x+1)$.",
+    "solution": "We can factor the expression $x+1$ out of each term: \\[3x(x+1) + 7(x+1) = \\boxed{(3x+7)(x+1)}.\\]",
+    "gpt_response": "First, let's look at the expression with the parentheses. We see that both terms have an $(x+1)$. In elementary school, we can think of it as the same as having two groups of things, one group with $3x$ things and another group with $7$ things. So if we take out the common factor of $(x+1)$, we get $$(3x + 7)(x + 1).$$\n\nSo the factored form of $3x(x+1) + 7(x+1)$ is $(3x + 7)(x+1)$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to (3x+7)(x+1)?: First, let's look at the expression with the parentheses. We see that both terms have an $(x+1)$. In elementary school, we can think of it as the same as having two groups of things, one group with $3x$ things and another group with $7$ things. So if we take out the common factor of $(x+1)$, we get $$(3x + 7)(x + 1).$$\n\nSo the factored form of $3x(x+1) + 7(x+1)$ is $(3x + 7)(x+1)$.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "yes_no": "yes"
+}

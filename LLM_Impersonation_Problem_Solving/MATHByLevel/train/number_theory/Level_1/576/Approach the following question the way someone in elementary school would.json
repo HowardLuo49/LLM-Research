@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. What is the least positive integer that can be added to 412 to yield a multiple of 3?",
+    "solution": "Note that dividing 412 by 3 gives a quotient of 137 and a remainder of 1. Thus the next multiple of 3 is $3-1=\\boxed{2}$ more than 412.",
+    "gpt_response": "To figure this out, we need to think about what numbers are multiples of 3. The first few multiples of 3 are 3, 6, 9, 12, and so on. If we add 1 to 412, we get 413. That is not a multiple of 3. But if we add 2 to 412, we get 414, which is a multiple of 3. So the least positive integer we can add to 412 to yield a multiple of 3 is 2.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 2?: To figure this out, we need to think about what numbers are multiples of 3. The first few multiples of 3 are 3, 6, 9, 12, and so on. If we add 1 to 412, we get 413. That is not a multiple of 3. But if we add 2 to 412, we get 414, which is a multiple of 3. So the least positive integer we can add to 412 to yield a multiple of 3 is 2.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

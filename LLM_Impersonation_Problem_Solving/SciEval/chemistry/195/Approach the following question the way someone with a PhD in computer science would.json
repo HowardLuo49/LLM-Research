@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in computer science would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in computer science would. How many atoms are there in CN1C(CCC1CN)CCN(C)C?\nAnswer (numerical number):",
+    "solution": [
+        36
+    ],
+    "gpt_response": "There are a total of 44 atoms in the compound CN1C(CCC1CN)CCN(C)C.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response [36]?: There are a total of 44 atoms in the compound CN1C(CCC1CN)CCN(C)C.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "22",
+    "difficulty_value": "2"
+}

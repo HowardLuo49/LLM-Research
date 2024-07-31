@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Find the arithmetic mean of the prime numbers in this list:      21, 23, 25, 27, 29",
+    "solution": "The prime numbers are $23$ and $29$. Since $29-23=6$, the mean is $\\frac62=3$ numbers away from $23$ and from $29$. The mean is $\\boxed{26}$. We can also find the mean of $23$ and $29$ with $\\frac{29+23}{2}=\\frac{52}{2}=26$ or just by noticing that the number in the middle of $23$ and $29$ is $26$.",
+    "gpt_response": "First, let's circle all the prime numbers in the list. Look at 21, 23, 25, 27, and 29. Remember, prime numbers are numbers that only have two factors - 1 and the number itself. Now that we circled the prime numbers 23 and 29, let's add them together. 23 + 29 equals 52. Since there are 2 prime numbers in the list, we need to divide the sum by 2 to find the average. 52 \u00f7 2 equals 26. So, the arithmetic mean of the prime numbers in the list is 26. Yay, we did it!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 26?: First, let's circle all the prime numbers in the list. Look at 21, 23, 25, 27, and 29. Remember, prime numbers are numbers that only have two factors - 1 and the number itself. Now that we circled the prime numbers 23 and 29, let's add them together. 23 + 29 equals 52. Since there are 2 prime numbers in the list, we need to divide the sum by 2 to find the average. 52 \u00f7 2 equals 26. So, the arithmetic mean of the prime numbers in the list is 26. Yay, we did it!",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

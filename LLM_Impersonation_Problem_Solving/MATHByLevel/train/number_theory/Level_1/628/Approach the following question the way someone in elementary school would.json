@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. When three positive integers are divided by $12$, the remainders are $7,$ $9,$ and $10,$ respectively.\n\nWhen the sum of the three integers is divided by $12$, what is the remainder?",
+    "solution": "We can call the three integers in this problem $a,$ $b,$ and $c$. Then we have \\begin{align*}\na &\\equiv 7\\pmod{12}, \\\\\nb &\\equiv 9\\pmod{12}, \\\\\nc &\\equiv 10\\pmod{12}.\n\\end{align*}Adding these congruences, we have \\begin{align*}\na+b+c &\\equiv 7+9+10 \\\\\n&= 26\\pmod{12}.\n\\end{align*}Therefore, $a+b+c$ has the same remainder as $26$ upon division by $12$. This remainder is $\\boxed{2}$.",
+    "gpt_response": "Ok, so we have three numbers that leave remainders of 7, 9, and 10 when divided by 12. Let's call these numbers A, B, and C. \n\nSo we know that:\nA \u2261 7 (mod 12)\nB \u2261 9 (mod 12)\nC \u2261 10 (mod 12)\n\nNow, we want to find the remainder when A + B + C is divided by 12.\nLet's add the remainders together:\n7 + 9 + 10 = 26\n\nNow, we can divide 26 by 12 to find the remainder:\n26 \u00f7 12 = 2 R 2\n\nSo, the remainder when the sum of the three integers is divided by 12 is 2.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 2?: Ok, so we have three numbers that leave remainders of 7, 9, and 10 when divided by 12. Let's call these numbers A, B, and C. \n\nSo we know that:\nA \u2261 7 (mod 12)\nB \u2261 9 (mod 12)\nC \u2261 10 (mod 12)\n\nNow, we want to find the remainder when A + B + C is divided by 12.\nLet's add the remainders together:\n7 + 9 + 10 = 26\n\nNow, we can divide 26 by 12 to find the remainder:\n26 \u00f7 12 = 2 R 2\n\nSo, the remainder when the sum of the three integers is divided by 12 is 2.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

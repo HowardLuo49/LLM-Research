@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a medical researcher would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a medical researcher would. Which of the following bacterial meningitis is associated with sudural effusion?\n1: H. influenza\n2: Neisseria meningitits\n3: Streptococcus pneumonia\n4: Enterococcus",
+    "solution": 1,
+    "gpt_response": "To determine which bacterial meningitis is associated with sudural effusion, a medical researcher would first review scientific literature on the topic. Sudural effusion is a term used to describe the accumulation of fluid between the dura mater and arachnoid mater in the brain. \n\nBased on current knowledge, Streptococcus pneumoniae is the bacterial meningitis most commonly associated with sudural effusion. This bacteria is known to cause a more severe form of meningitis with a higher incidence of complications, including the development of sudural effusion. \n\nTherefore, the correct answer to the multiple choice question would be:\n3: Streptococcus pneumoniae.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: To determine which bacterial meningitis is associated with sudural effusion, a medical researcher would first review scientific literature on the topic. Sudural effusion is a term used to describe the accumulation of fluid between the dura mater and arachnoid mater in the brain. \n\nBased on current knowledge, Streptococcus pneumoniae is the bacterial meningitis most commonly associated with sudural effusion. This bacteria is known to cause a more severe form of meningitis with a higher incidence of complications, including the development of sudural effusion. \n\nTherefore, the correct answer to the multiple choice question would be:\n3: Streptococcus pneumoniae.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

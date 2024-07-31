@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in engineering would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in engineering would. How many atoms are there in CCNC(=O)NCCCC(C)N?\nAnswer (numerical number):",
+    "solution": [
+        31
+    ],
+    "gpt_response": "16 atoms\n\nExplanation:\n- CCNC(=O)NCCCC(C)N has the following atoms: 1 C (carbon) from the first C, 1 C from the second C, 1 N (nitrogen) from the N, 1 C from the C in the (C=O) group, 1 O (oxygen) from the (C=O) group, 1 N from the N, 3 C from the three C atoms in the CCCC chain, 1 N from the N, 1 C from the C in brackets, and 1 N from the final N.\n- Adding them up gives a total of 16 atoms.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response [31]?: 16 atoms\n\nExplanation:\n- CCNC(=O)NCCCC(C)N has the following atoms: 1 C (carbon) from the first C, 1 C from the second C, 1 N (nitrogen) from the N, 1 C from the C in the (C=O) group, 1 O (oxygen) from the (C=O) group, 1 N from the N, 3 C from the three C atoms in the CCCC chain, 1 N from the N, 1 C from the C in brackets, and 1 N from the final N.\n- Adding them up gives a total of 16 atoms.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "20",
+    "difficulty_value": "2"
+}

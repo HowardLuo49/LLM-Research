@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. What is the kinetic energy released in a type Ia supernova explosion, assuming the entire mass of a white dwarf star (7.9solar masses) is converted into energy? Please note that the following content involves constants might be used in the calculations : solar mass = 1.989e30 kg ; velocity of light: c = 3e8 m/s. Additionally, please select the option from the given choices that you believe is closest to the correct answer!\n\nA. 7.98e+48 J\nB. 1.41e+48 J\nC. 8.07e+48 J\nD. 3.28e+48 J\n\nAnswer:",
+    "solution": [
+        "B"
+    ],
+    "gpt_response": "To calculate the kinetic energy released in a type Ia supernova explosion, we can use the equation E=mc^2, where E is energy, m is mass, and c is the speed of light.\n\nGiven that the entire mass of the white dwarf star is 7.9 solar masses, we can calculate the mass in kg by multiplying the mass of one solar mass (1.989e30 kg) by 7.9:\n\nMass = 7.9 x 1.989e30 kg = 1.572e31 kg\n\nNow, we can plug this mass into the equation to calculate the energy released:\n\nE = (1.572e31 kg) x (3e8 m/s)^2\n\nE = 1.4148e48 J\n\nThe closest answer choice is B. 1.41e+48 J.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to ['B']?: To calculate the kinetic energy released in a type Ia supernova explosion, we can use the equation E=mc^2, where E is energy, m is mass, and c is the speed of light.\n\nGiven that the entire mass of the white dwarf star is 7.9 solar masses, we can calculate the mass in kg by multiplying the mass of one solar mass (1.989e30 kg) by 7.9:\n\nMass = 7.9 x 1.989e30 kg = 1.572e31 kg\n\nNow, we can plug this mass into the equation to calculate the energy released:\n\nE = (1.572e31 kg) x (3e8 m/s)^2\n\nE = 1.4148e48 J\n\nThe closest answer choice is B. 1.41e+48 J.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

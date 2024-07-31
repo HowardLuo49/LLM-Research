@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. The map x -> axa^2 of a group G into itself is a homomorphism if and only if\nA: G is abelian\nB: G = {e}\nC: a^3 = e\nD: a^2 = a",
+    "solution": "C",
+    "gpt_response": "\"Okay class, let's look at the map x -> axa^2. What does this mean? It means we take a number in our group G, multiply it by 'a', and then multiply it by 'a' again. This is called a homomorphism. Now, which of these choices is true if our map is a homomorphism? Let's think about it together. Is it A: G is abelian? Or B: G = {e}? Or maybe C: a^3 = e? Or finally, D: a^2 = a? Let's all think carefully and pick the right answer together!\"",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to C?: \"Okay class, let's look at the map x -> axa^2. What does this mean? It means we take a number in our group G, multiply it by 'a', and then multiply it by 'a' again. This is called a homomorphism. Now, which of these choices is true if our map is a homomorphism? Let's think about it together. Is it A: G is abelian? Or B: G = {e}? Or maybe C: a^3 = e? Or finally, D: a^2 = a? Let's all think carefully and pick the right answer together!\"",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. A 50 years old lady presented with lump in the left breast, which has developed suddenly in weeks. Perimenstrual symptoms are present. No associated family history. On examination, the lump is well circumscribed, fluctuant, 1.5 cm oval in shape. Most likely diagnosis:\n1: Breast cyst\n2: Galactocele\n3: Fibroadenoma\n4: Breast cancer",
+    "solution": 1,
+    "gpt_response": "Based on the information provided, the most likely diagnosis for a 50-year-old lady with a well-circumscribed, fluctuant, 1.5cm oval shaped lump in the left breast that has developed suddenly in weeks and is associated with perimenstrual symptoms, would be a breast cyst. This is supported by the description of the lump as fluctuant, which is characteristic of a fluid-filled cyst. Additionally, the lack of associated family history and the fluctuant nature of the lump make breast cyst the most likely diagnosis in this case. It is important to conduct further investigations, such as imaging and possibly a biopsy, to confirm the diagnosis and rule out any other possibilities, including breast cancer.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: Based on the information provided, the most likely diagnosis for a 50-year-old lady with a well-circumscribed, fluctuant, 1.5cm oval shaped lump in the left breast that has developed suddenly in weeks and is associated with perimenstrual symptoms, would be a breast cyst. This is supported by the description of the lump as fluctuant, which is characteristic of a fluid-filled cyst. Additionally, the lack of associated family history and the fluctuant nature of the lump make breast cyst the most likely diagnosis in this case. It is important to conduct further investigations, such as imaging and possibly a biopsy, to confirm the diagnosis and rule out any other possibilities, including breast cancer.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

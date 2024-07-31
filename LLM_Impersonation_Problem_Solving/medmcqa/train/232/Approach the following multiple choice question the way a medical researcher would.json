@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a medical researcher would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a medical researcher would. Arrange the following 4 enzymes of gluconeogenesis in sequence: A. Pyruvate carboxylase B. Glucose - 6 - phosphatase C. Phosphoenol pyruvate carboxy kinase D. Fructose 1,6 Bisphosphatase\n1: D-C-A-B\n2: A-C-D-B\n3: B-A-D-C\n4: C-D-B-A",
+    "solution": 2,
+    "gpt_response": "In order to arrange the enzymes of gluconeogenesis in sequence, a medical researcher would first need to understand the biochemical pathways involved in gluconeogenesis. \n\nGluconeogenesis is the process by which glucose is synthesized from non-carbohydrate sources, such as amino acids or glycerol. The key enzymes involved in gluconeogenesis are pyruvate carboxylase, phosphoenol pyruvate carboxy kinase, fructose 1,6 bisphosphatase, and glucose-6-phosphatase. \n\nBased on the understanding of the biochemical pathways and the function of each enzyme, the correct sequence for the enzymes of gluconeogenesis would be:\n2: A-C-D-B\n\nTherefore, option 2 (A-C-D-B) is the most appropriate sequence for the enzymes of gluconeogenesis.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: In order to arrange the enzymes of gluconeogenesis in sequence, a medical researcher would first need to understand the biochemical pathways involved in gluconeogenesis. \n\nGluconeogenesis is the process by which glucose is synthesized from non-carbohydrate sources, such as amino acids or glycerol. The key enzymes involved in gluconeogenesis are pyruvate carboxylase, phosphoenol pyruvate carboxy kinase, fructose 1,6 bisphosphatase, and glucose-6-phosphatase. \n\nBased on the understanding of the biochemical pathways and the function of each enzyme, the correct sequence for the enzymes of gluconeogenesis would be:\n2: A-C-D-B\n\nTherefore, option 2 (A-C-D-B) is the most appropriate sequence for the enzymes of gluconeogenesis.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a medical researcher would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a medical researcher would. Which of the following drug is a long acting beta\u20132 agonist ?\n1: Albuterol\n2: Salmeterol\n3: Pirbuterol\n4: Orciprenaline",
+    "solution": 2,
+    "gpt_response": "As a medical researcher, I would first review the characteristics of each drug listed to determine which one is classified as a long-acting beta-2 agonist. \n\nAlbuterol is a short-acting beta-2 agonist commonly used for acute relief of asthma symptoms. \n\nSalmeterol is a long-acting beta-2 agonist that is used for maintenance treatment of asthma or chronic obstructive pulmonary disease (COPD) and is typically dosed twice daily.\n\nPirbuterol is a short-acting beta-2 agonist similar to albuterol.\n\nOrciprenaline is a non-selective beta agonist with bronchodilator effects, but it is not classified as a long-acting beta-2 agonist.\n\nBased on this information, the correct answer is 2: Salmeterol.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: As a medical researcher, I would first review the characteristics of each drug listed to determine which one is classified as a long-acting beta-2 agonist. \n\nAlbuterol is a short-acting beta-2 agonist commonly used for acute relief of asthma symptoms. \n\nSalmeterol is a long-acting beta-2 agonist that is used for maintenance treatment of asthma or chronic obstructive pulmonary disease (COPD) and is typically dosed twice daily.\n\nPirbuterol is a short-acting beta-2 agonist similar to albuterol.\n\nOrciprenaline is a non-selective beta agonist with bronchodilator effects, but it is not classified as a long-acting beta-2 agonist.\n\nBased on this information, the correct answer is 2: Salmeterol.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

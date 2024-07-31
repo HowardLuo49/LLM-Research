@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Lymphatics of suprarenal gland drain into lymph nodes -\n1: Internal iliac\n2: Para-aortic\n3: Superficial inguinal\n4: Coeliac",
+    "solution": 2,
+    "gpt_response": "The lymphatics of the suprarenal gland drain into the para-aortic lymph nodes.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: The lymphatics of the suprarenal gland drain into the para-aortic lymph nodes.",
+    "gpt_response_correct_incorrect": "Option 2: No, the final solution is not obtained in the response. The correct answer is yes, the lymphatics of the suprarenal gland do drain into the para-aortic lymph nodes.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

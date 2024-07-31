@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Heamorrhagic external otitis media is caused by\n1: Influenza\n2: Proteus\n3: Streptococcus\n4: Staphylococcus",
+    "solution": 1,
+    "gpt_response": "As a doctor, I would approach this multiple choice question by considering the typical pathogens associated with external otitis media. Hemorrhagic external otitis media, also known as malignant otitis externa, is commonly caused by Pseudomonas aeruginosa rather than the options listed. However, from the given choices, proteus would be the closest option as it is also a potential pathogen associated with external otitis media. Staphylococcus and Streptococcus, although common pathogens in other infections, are not typically associated with hemorrhagic external otitis media. Influenza is a viral infection and would not typically be the cause of this condition.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: As a doctor, I would approach this multiple choice question by considering the typical pathogens associated with external otitis media. Hemorrhagic external otitis media, also known as malignant otitis externa, is commonly caused by Pseudomonas aeruginosa rather than the options listed. However, from the given choices, proteus would be the closest option as it is also a potential pathogen associated with external otitis media. Staphylococcus and Streptococcus, although common pathogens in other infections, are not typically associated with hemorrhagic external otitis media. Influenza is a viral infection and would not typically be the cause of this condition.",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

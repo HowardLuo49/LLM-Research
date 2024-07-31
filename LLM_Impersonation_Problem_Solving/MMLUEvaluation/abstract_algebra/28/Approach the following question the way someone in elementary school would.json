@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. Statement 1 | The image of a group of 6 elements under a homomorphism may have 12 elements. Statement 2 | There is a homomorphism of some group of 6 elements into some group of 12 elements.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "D",
+    "gpt_response": "Statement 1 is saying that if you have a group of 6 elements and you apply a homomorphism to it, you could end up with 12 elements in the new group. Statement 2 is saying there is a way to map the 6 element group into a group with 12 elements using a homomorphism. So, both statements are saying the same thing which means the answer is A: True, True.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: Statement 1 is saying that if you have a group of 6 elements and you apply a homomorphism to it, you could end up with 12 elements in the new group. Statement 2 is saying there is a way to map the 6 element group into a group with 12 elements using a homomorphism. So, both statements are saying the same thing which means the answer is A: True, True.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

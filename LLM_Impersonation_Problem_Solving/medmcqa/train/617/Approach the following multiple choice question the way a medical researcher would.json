@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a medical researcher would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a medical researcher would. 70 year old man has abdominal pain with mass inabdomen. Angiography reveals aneurysm of aoa. Mostlikely cause is:\n1: Trauma\n2: Atherosclerosis\n3: Syphilis\n4: Congenital",
+    "solution": 2,
+    "gpt_response": "As a medical researcher, I would approach this question by considering the most common causes of an abdominal aortic aneurysm in a 70-year-old man. Atherosclerosis is the most common cause of abdominal aortic aneurysms in elderly individuals, so I would choose option 2: Atherosclerosis as the most likely cause in this case. Trauma is less likely in this age group unless there is a history of significant trauma, syphilis is rare as a cause of abdominal aortic aneurysms, and congenital causes are less likely in older individuals.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: As a medical researcher, I would approach this question by considering the most common causes of an abdominal aortic aneurysm in a 70-year-old man. Atherosclerosis is the most common cause of abdominal aortic aneurysms in elderly individuals, so I would choose option 2: Atherosclerosis as the most likely cause in this case. Trauma is less likely in this age group unless there is a history of significant trauma, syphilis is rare as a cause of abdominal aortic aneurysms, and congenital causes are less likely in older individuals.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

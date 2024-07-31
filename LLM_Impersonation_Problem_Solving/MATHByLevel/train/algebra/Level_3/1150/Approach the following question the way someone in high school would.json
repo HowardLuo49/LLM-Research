@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. If the system of equations  \\begin{align*}\n3x+y&=a,\\\\\n2x+5y&=2a,\n\\end{align*} has a solution $(x,y)$ when $x=2$, compute $a$.",
+    "solution": "Substituting in $x=2$, we obtain the equations\n\n\\begin{align*}\ny+6&=a,\\\\\n5y+4&=2a.\n\\end{align*}\n\nMultiplying the first equation by $5$ and subtracting it from the second equation, we find\n\n$$-26=-3a\\Rightarrow a=\\boxed{\\frac{26}{3}}.$$",
+    "gpt_response": "To find the value of $a$, we substitute $x=2$ into both equations:\n\nSubstituting $x=2$ into the first equation, we have:\n\\[3(2) + y = a \\quad \\Rightarrow \\quad 6 + y = a.\\]\n\nSubstituting $x=2$ into the second equation, we have:\n\\[2(2) + 5y = 2a \\quad \\Rightarrow \\quad 4 + 5y = 2a.\\]\n\nSince $(x, y)$ is a solution for the system, it must satisfy both equations. Therefore, we can set the expressions we found equal to each other:\n\\[6 + y = 4 + 5y.\\]\n\nSolving for $y$ gives $y=2$. Substituting this into the first equation gives $a = 6 + 2 = \\boxed{8}$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to \\frac{26?: To find the value of $a$, we substitute $x=2$ into both equations:\n\nSubstituting $x=2$ into the first equation, we have:\n\\[3(2) + y = a \\quad \\Rightarrow \\quad 6 + y = a.\\]\n\nSubstituting $x=2$ into the second equation, we have:\n\\[2(2) + 5y = 2a \\quad \\Rightarrow \\quad 4 + 5y = 2a.\\]\n\nSince $(x, y)$ is a solution for the system, it must satisfy both equations. Therefore, we can set the expressions we found equal to each other:\n\\[6 + y = 4 + 5y.\\]\n\nSolving for $y$ gives $y=2$. Substituting this into the first equation gives $a = 6 + 2 = \\boxed{8}$.",
+    "gpt_response_correct_incorrect": "No",
+    "yes_no": "no"
+}

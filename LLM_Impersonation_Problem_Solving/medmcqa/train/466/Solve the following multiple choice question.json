@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. Which of the following is not a cause of glomerular proteinuria?\n1: Diabetes Mellitus\n2: Amyloidosis\n3: Multiple myeloma\n4: Nil Lesion",
+    "solution": 3,
+    "gpt_response": "4: Nil Lesion\n\nExplanation: Glomerular proteinuria is caused by damage to the glomerulus, a part of the kidney that filters blood. Causes of glomerular proteinuria include diabetes mellitus, amyloidosis, and multiple myeloma. \"Nil Lesion\" does not accurately describe a specific cause of glomerular proteinuria.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: 4: Nil Lesion\n\nExplanation: Glomerular proteinuria is caused by damage to the glomerulus, a part of the kidney that filters blood. Causes of glomerular proteinuria include diabetes mellitus, amyloidosis, and multiple myeloma. \"Nil Lesion\" does not accurately describe a specific cause of glomerular proteinuria.",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. What is the greatest three-digit number which is a multiple of 13?",
+    "solution": "Since 1001 is $7\\cdot11\\cdot13$, we know that 1001 is a multiple of 13.  The greatest 3-digit multiple of 13 is therefore \\[1001-13=\\boxed{988}.\\]",
+    "gpt_response": "To find the greatest three-digit number that is a multiple of 13, we can start by finding the largest multiple of 13 that is less than 1000. \n\nDividing 1000 by 13 gives us a quotient of 76 with a remainder of 12. This means that the largest multiple of 13 that is less than 1000 is 13 * 76 = 988. \n\nTherefore, the greatest three-digit number that is a multiple of 13 is 988.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 988?: To find the greatest three-digit number that is a multiple of 13, we can start by finding the largest multiple of 13 that is less than 1000. \n\nDividing 1000 by 13 gives us a quotient of 76 with a remainder of 12. This means that the largest multiple of 13 that is less than 1000 is 13 * 76 = 988. \n\nTherefore, the greatest three-digit number that is a multiple of 13 is 988.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

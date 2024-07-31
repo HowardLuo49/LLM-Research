@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in engineering would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in engineering would. January 1, 2007 was a Monday. In 2007, how many Fridays are there?",
+    "solution": "52",
+    "gpt_response": "To determine the number of Fridays in 2007, we first need to understand that there are 52 weeks in a year. We also need to consider that there are 365 days in a non-leap year like 2007. \n\nGiven that January 1, 2007, was a Monday, we can calculate the day of the week for the last day of the year, December 31, 2007. By observing that there are 52 weeks in a year and that 365 days is equivalent to 52 weeks and 1 day, we find that December 31, 2007, is also a Monday.\n\nSince there are exactly seven days in a week, and the days of the week in a year cycle through in a repeated pattern, we can infer that each day of the week appears 52 times in a non-leap year. Therefore, there are a total of 52 Fridays in the year 2007.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 52?: To determine the number of Fridays in 2007, we first need to understand that there are 52 weeks in a year. We also need to consider that there are 365 days in a non-leap year like 2007. \n\nGiven that January 1, 2007, was a Monday, we can calculate the day of the week for the last day of the year, December 31, 2007. By observing that there are 52 weeks in a year and that 365 days is equivalent to 52 weeks and 1 day, we find that December 31, 2007, is also a Monday.\n\nSince there are exactly seven days in a week, and the days of the week in a year cycle through in a repeated pattern, we can infer that each day of the week appears 52 times in a non-leap year. Therefore, there are a total of 52 Fridays in the year 2007.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

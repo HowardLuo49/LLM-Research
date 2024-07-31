@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. Which of the following statements about bosons and/or fermions is true?\nA: Bosons have symmetric wave functions and obey the Pauli exclusion principle.\nB: Bosons have antisymmetric wave functions and do not obey the Pauli exclusion principle.\nC: Fermions have symmetric wave functions and obey the Pauli exclusion principle.\nD: Fermions have antisymmetric wave functions and obey the Pauli exclusion principle.",
+    "solution": "D",
+    "gpt_response": "The correct statement is D: Fermions have antisymmetric wave functions and obey the Pauli exclusion principle. \n\nBosons have symmetric wave functions and do not obey the Pauli exclusion principle, whereas fermions have antisymmetric wave functions and do obey the Pauli exclusion principle. This fundamental distinction between bosons and fermions is a key concept in quantum mechanics and plays a crucial role in understanding the behavior of particles at the quantum level.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: The correct statement is D: Fermions have antisymmetric wave functions and obey the Pauli exclusion principle. \n\nBosons have symmetric wave functions and do not obey the Pauli exclusion principle, whereas fermions have antisymmetric wave functions and do obey the Pauli exclusion principle. This fundamental distinction between bosons and fermions is a key concept in quantum mechanics and plays a crucial role in understanding the behavior of particles at the quantum level.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

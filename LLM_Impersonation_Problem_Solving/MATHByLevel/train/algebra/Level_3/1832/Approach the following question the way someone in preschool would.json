@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Given that $M(2,5)$ is the midpoint of $\\overline{AB}$ and $A(3,1)$ is one endpoint, what is the product of the coordinates of point $B$?",
+    "solution": "Call the coordinates of point $B$ $(x,y)$. Because the coordinates of a midpoint of a line segment are the average of the coordinates of the two endpoints, we have that $\\frac{3+x}{2} = 2$ and $\\frac{1+y}{2} = 5$. Solving for $x$ and $y$ yields $x = 1$ and $y = 9$. Thus, point $B$ has coordinates $(1,9)$, so the product of its coordinates is $\\boxed{9}$.",
+    "gpt_response": "If M is in the middle of AB and A is at (3,1), we should aim for the coordinates of B to be (1,-3). Since A is already at (3,1), we should subtract 2 from the x-coordinate to get the x-coordinate of point B. Since A is at (3,1), we should subtract 4 from the y-coordinate to get the y-coordinate of point B. Therefore, the x-coordinate of point B is 3-2 = 1 and the y-coordinate of point B is 1-4 = -3. The product of 1 and -3 is -3. So, the product of the coordinates of point B is -3.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 9?: If M is in the middle of AB and A is at (3,1), we should aim for the coordinates of B to be (1,-3). Since A is already at (3,1), we should subtract 2 from the x-coordinate to get the x-coordinate of point B. Since A is at (3,1), we should subtract 4 from the y-coordinate to get the y-coordinate of point B. Therefore, the x-coordinate of point B is 3-2 = 1 and the y-coordinate of point B is 1-4 = -3. The product of 1 and -3 is -3. So, the product of the coordinates of point B is -3.",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

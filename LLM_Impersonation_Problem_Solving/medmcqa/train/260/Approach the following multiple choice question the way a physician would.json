@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Kunkel's test is done to demonstrate presence of ................. in blood.\n1: Lead\n2: CuSO4\n3: CO\n4: Dhatura",
+    "solution": 3,
+    "gpt_response": "As a physician, I would choose option 1: Lead. Kunkel's test is a test done to detect the presence of lead in the blood. Lead poisoning can have serious health effects and it is important to test for its presence in certain situations.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: As a physician, I would choose option 1: Lead. Kunkel's test is a test done to detect the presence of lead in the blood. Lead poisoning can have serious health effects and it is important to test for its presence in certain situations.",
+    "gpt_response_correct_incorrect": "No, the final solution is not obtained in the response provided.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

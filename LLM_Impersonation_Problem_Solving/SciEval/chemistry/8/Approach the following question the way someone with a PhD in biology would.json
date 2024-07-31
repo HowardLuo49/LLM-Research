@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. What is the molecular weight of C(#N)SNC(=NN)N?\nAnswer (numerical number):",
+    "solution": [
+        "131.16"
+    ],
+    "gpt_response": "The molecular weight of C(#N)SNC(=NN)N is 116.1 g/mol. This can be calculated by adding up the atomic weights of each element in the compound: Carbon (C) = 12.01 g/mol, Nitrogen (N) = 14.01 g/mol, and Sulfur (S) = 32.06 g/mol. Adding these values together gives the molecular weight of the compound.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response ['131.16']?: The molecular weight of C(#N)SNC(=NN)N is 116.1 g/mol. This can be calculated by adding up the atomic weights of each element in the compound: Carbon (C) = 12.01 g/mol, Nitrogen (N) = 14.01 g/mol, and Sulfur (S) = 32.06 g/mol. Adding these values together gives the molecular weight of the compound.",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "238",
+    "difficulty_value": "2"
+}

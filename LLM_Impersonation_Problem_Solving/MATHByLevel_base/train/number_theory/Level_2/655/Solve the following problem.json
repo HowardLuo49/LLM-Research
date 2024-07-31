@@ -1,0 +1,10 @@
+{
+    "prefix": "Solve the following problem. ",
+    "problem_prompt": "Solve the following problem. A marathon is $26$ miles and $385$ yards. One mile equals $1760$ yards.\n\nLeila has run ten marathons in her life. If the total distance Leila covered in these marathons is $m$ miles and $y$ yards, where $0\\le y<1760$, what is the value of $y$?",
+    "solution": "If one marathon equals $26$ miles and $385$ yards, then ten marathons equal $260$ miles and $3850$ yards. Those $3850$ yards can be broken down as $2$ miles and $3850 - (2\\cdot 1760) = 3850 - 3520 = 330$ yards. Therefore, $y=\\boxed{330}$.",
+    "gpt_response": "First, we need to find the total distance Leila covered in her ten marathons.\n\nThe total distance in miles is $26 \\times 10 = 260$ miles.\n\nThe total distance in yards is $385 \\times 10 = 3850$ yards.\n\nConverting the miles to yards, we get $260 \\times 1760 = 457600$ yards.\n\nAdding this to the 3850 yards, we get a total of $457600 + 3850 = 461450$ yards.\n\nSince $461450 = 263 \\times 1760 + 1050$, we see that Leila covered $263$ miles and $1050$ yards in her ten marathons.\n\nTherefore, $y = 1050$. \n\nSo, the value of $y$ is $\\boxed{1050}$.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 330?: First, we need to find the total distance Leila covered in her ten marathons.\n\nThe total distance in miles is $26 \\times 10 = 260$ miles.\n\nThe total distance in yards is $385 \\times 10 = 3850$ yards.\n\nConverting the miles to yards, we get $260 \\times 1760 = 457600$ yards.\n\nAdding this to the 3850 yards, we get a total of $457600 + 3850 = 461450$ yards.\n\nSince $461450 = 263 \\times 1760 + 1050$, we see that Leila covered $263$ miles and $1050$ yards in her ten marathons.\n\nTherefore, $y = 1050$. \n\nSo, the value of $y$ is $\\boxed{1050}$.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 3,
+    "yes_no": "yes"
+}

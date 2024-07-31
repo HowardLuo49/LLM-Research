@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Daily water requirement in child weighing 30 kgs, height 123 m and BSA of 1 m2 is-\n1: 1300 m1\n2: 1700 ml\n3: 2000 ml\n4: 2500 ml",
+    "solution": 2,
+    "gpt_response": "As a doctor, I would approach this question by considering the specific factors that influence a child's daily water requirement. In this case, the child's weight, height, and body surface area are provided.\n\nBased on these factors, the recommended daily water intake for a child weighing 30 kgs, with a height of 123 cm and a body surface area of 1 m2 would be approximately 1700 ml. This calculation takes into account the child's weight, height, and surface area, which are all important factors in determining fluid needs.\n\nTherefore, the correct answer would be 2: 1700 ml.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: As a doctor, I would approach this question by considering the specific factors that influence a child's daily water requirement. In this case, the child's weight, height, and body surface area are provided.\n\nBased on these factors, the recommended daily water intake for a child weighing 30 kgs, with a height of 123 cm and a body surface area of 1 m2 would be approximately 1700 ml. This calculation takes into account the child's weight, height, and surface area, which are all important factors in determining fluid needs.\n\nTherefore, the correct answer would be 2: 1700 ml.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

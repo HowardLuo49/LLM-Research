@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in computer science would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in computer science would. What is the SMILES expression of C10H22N2S?\nAnswer:",
+    "solution": [
+        "CC(C)CNC(CN)C1CCSC1"
+    ],
+    "gpt_response": "The SMILES expression for the compound C10H22N2S would be as follows: CCCCCCCCCCSNN. SMILES is a notation system used to represent chemical structures in a concise and human-readable way, with each character representing an atom or a bond in the molecule. In this particular case, the SMILES expression reflects the composition and connectivity of the atoms in the compound C10H22N2S.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response ['CC(C)CNC(CN)C1CCSC1']?: The SMILES expression for the compound C10H22N2S would be as follows: CCCCCCCCCCSNN. SMILES is a notation system used to represent chemical structures in a concise and human-readable way, with each character representing an atom or a bond in the molecule. In this particular case, the SMILES expression reflects the composition and connectivity of the atoms in the compound C10H22N2S.",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

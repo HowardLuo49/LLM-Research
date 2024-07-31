@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. Suppose $a<c$ and $b<0$. Which of the following must be true?\n\n$ab < ac$\n$a+b<c+b$\n$a-b < c-b$\n$c/a > 1$\n\nEnter your answer as a list of those options that are always true. For instance, if you think only the first and third are true, enter 'A, C'.",
+    "solution": "B, C",
+    "gpt_response": "To determine which of the given options must be true given the conditions $a<c$ and $b<0, we must first consider the properties of the inequalities involved.\n\n1. $ab < ac$\nSince $a<c$ and $b<0$, multiplying $a<c$ by a negative number $b$ will result in $ab<ac$. Thus, this statement is always true.\n\n2. $a+b<c+b$\nGiven that $b<0$, adding a negative number to both sides will not affect the inequality. Therefore, this statement is always true.\n\n3. $a-b < c-b$\nSubtracting a negative number from both sides of an inequality will preserve the inequality. Hence, this statement is always true.\n\n4. $c/a > 1$\nSince $a<c$, $c/a$ will be greater than 1 as $c$ is always greater than $a$. This statement is also true.\n\nThus, the options that must be true are:\n- $ab < ac$\n- $a+b<c+b$\n- $a-b < c-b$\n- $c/a > 1\"",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response B, C?: To determine which of the given options must be true given the conditions $a<c$ and $b<0, we must first consider the properties of the inequalities involved.\n\n1. $ab < ac$\nSince $a<c$ and $b<0$, multiplying $a<c$ by a negative number $b$ will result in $ab<ac$. Thus, this statement is always true.\n\n2. $a+b<c+b$\nGiven that $b<0$, adding a negative number to both sides will not affect the inequality. Therefore, this statement is always true.\n\n3. $a-b < c-b$\nSubtracting a negative number from both sides of an inequality will preserve the inequality. Hence, this statement is always true.\n\n4. $c/a > 1$\nSince $a<c$, $c/a$ will be greater than 1 as $c$ is always greater than $a$. This statement is also true.\n\nThus, the options that must be true are:\n- $ab < ac$\n- $a+b<c+b$\n- $a-b < c-b$\n- $c/a > 1\"",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

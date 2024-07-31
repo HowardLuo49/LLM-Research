@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Which of the following drug crosses placenta\n1: Heparin\n2: Warfarin\n3: Dicumarol\n4: Nicoumalone",
+    "solution": 2,
+    "gpt_response": "As a physician, I would approach this question by first understanding the mechanism of action of each drug and its potential effects on pregnancy. \n\nHeparin is a large molecule that does not cross the placenta, making it safe to use during pregnancy. Warfarin, dicumarol, and nicoumalone are all anticoagulant medications that inhibit vitamin K-dependent clotting factors. These drugs are known to cross the placenta and can potentially harm the fetus, leading to birth defects or bleeding complications. \n\nTherefore, the correct answer to the question is:\n2: Warfarin\n3: Dicumarol\n4: Nicoumalone\n\nAs a physician, I would advise against using these medications during pregnancy and recommend alternative treatments for pregnant patients who require anticoagulation.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: As a physician, I would approach this question by first understanding the mechanism of action of each drug and its potential effects on pregnancy. \n\nHeparin is a large molecule that does not cross the placenta, making it safe to use during pregnancy. Warfarin, dicumarol, and nicoumalone are all anticoagulant medications that inhibit vitamin K-dependent clotting factors. These drugs are known to cross the placenta and can potentially harm the fetus, leading to birth defects or bleeding complications. \n\nTherefore, the correct answer to the question is:\n2: Warfarin\n3: Dicumarol\n4: Nicoumalone\n\nAs a physician, I would advise against using these medications during pregnancy and recommend alternative treatments for pregnant patients who require anticoagulation.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

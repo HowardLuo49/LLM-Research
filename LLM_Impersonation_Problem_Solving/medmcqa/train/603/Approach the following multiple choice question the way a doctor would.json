@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. The tendon of Sartorius, gracilis, and semi-tendinosus muscles forms a Pes Anserinus at the neck of tibia. Similar kind of structure is also seen in?\n1: Parotid\n2: Submandibular\n3: Cheek\n4: TMJ",
+    "solution": 1,
+    "gpt_response": "Based on anatomical knowledge, the correct answer would be:\n\n3: Cheek\n\nA doctor would approach this question by considering the anatomy of the structures involved and selecting the most appropriate answer based on their medical knowledge.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: Based on anatomical knowledge, the correct answer would be:\n\n3: Cheek\n\nA doctor would approach this question by considering the anatomy of the structures involved and selecting the most appropriate answer based on their medical knowledge.",
+    "gpt_response_correct_incorrect": "No, the final solution obtained is not option 1.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

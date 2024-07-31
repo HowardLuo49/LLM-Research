@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in philosophy would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in philosophy would. Find the modulo 4 residue of $121 \\cdot 122 \\cdot 123$.",
+    "solution": "2",
+    "gpt_response": "In order to find the modulo 4 residue of the product $121 \\cdot 122\\cdot 123$, we first need to consider each factor modulo 4 individually.\n\nTaking $121\\mod 4$, we have $121\\equiv 1\\mod 4$.\nTaking $122\\mod 4$, we have $122\\equiv 2\\mod 4$.\nTaking $123\\mod 4$, we have $123\\equiv 3\\mod 4$.\n\nNext, we can multiply these residues together:\n$(1\\cdot 2\\cdot 3) \\mod 4 = 6\\mod 4 = 2$\n\nTherefore, the modulo 4 residue of the product $121 \\cdot 122\\cdot 123$ is 2.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 2?: In order to find the modulo 4 residue of the product $121 \\cdot 122\\cdot 123$, we first need to consider each factor modulo 4 individually.\n\nTaking $121\\mod 4$, we have $121\\equiv 1\\mod 4$.\nTaking $122\\mod 4$, we have $122\\equiv 2\\mod 4$.\nTaking $123\\mod 4$, we have $123\\equiv 3\\mod 4$.\n\nNext, we can multiply these residues together:\n$(1\\cdot 2\\cdot 3) \\mod 4 = 6\\mod 4 = 2$\n\nTherefore, the modulo 4 residue of the product $121 \\cdot 122\\cdot 123$ is 2.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

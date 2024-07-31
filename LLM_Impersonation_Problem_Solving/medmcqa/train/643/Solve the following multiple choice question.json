@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. Patient on treatment on carbidopa + levodopa for 10 yrs now has weaning off effect. What should be added to restore action -\n1: Tolcapone\n2: Amantadine\n3: Rasagiline\n4: Benzhexol",
+    "solution": 1,
+    "gpt_response": "2: Amantadine\n\nAmantadine is often used in combination with carbidopa + levodopa to help restore efficacy when patients start experiencing weaning off effects after long term use. It can help to enhance the effects of levodopa and improve motor symptoms in Parkinson's disease patients.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: 2: Amantadine\n\nAmantadine is often used in combination with carbidopa + levodopa to help restore efficacy when patients start experiencing weaning off effects after long term use. It can help to enhance the effects of levodopa and improve motor symptoms in Parkinson's disease patients.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

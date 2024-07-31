@@ -1,0 +1,7 @@
+{
+    "prefix": "You are in high school.\n",
+    "problem_prompt": "You are in high school.\nIf three coins are tossed at the same time, what is the probability of getting two tails and one head? Express your answer as a common fraction.",
+    "solution": "The probability of getting two tails followed by one head is $\\left(\\frac{1}{2}\\right)^3=\\frac{1}{8}$.  The probability of getting a tail followed by a head followed by a tail is also $\\left(\\frac{1}{2}\\right)^3=\\frac{1}{8}$.  Finally, the probability of getting a head followed by two tails is $\\left(\\frac{1}{2}\\right)^3=\\frac{1}{8}$ as well.  In total, the probability of getting two tails and one head is $\\frac{1}{8}+\\frac{1}{8}+\\frac{1}{8}=\\boxed{\\frac{3}{8}}$.",
+    "gpt_response": "ChatCompletion(id='chatcmpl-9A2YTIHrVWZkmdvchFAkcal4WjDjn', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='When tossing three coins at the same time, there are a total of 2^3 = 8 possible outcomes.\\n\\nOut of these 8 outcomes, the ones that meet the criteria of getting two tails and one head are: TTH, THT, and HTT.\\n\\nSo the probability of getting two tails and one head is 3/8 or three eighths.', role='assistant', function_call=None, tool_calls=None))], created=1712180129, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint='fp_b28b39ffa8', usage=CompletionUsage(completion_tokens=77, prompt_tokens=43, total_tokens=120))",
+    "yes_no": "yes"
+}

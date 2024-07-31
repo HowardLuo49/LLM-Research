@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. What is the greatest three-digit number which is a multiple of 13?",
+    "solution": "Since 1001 is $7\\cdot11\\cdot13$, we know that 1001 is a multiple of 13.  The greatest 3-digit multiple of 13 is therefore \\[1001-13=\\boxed{988}.\\]",
+    "gpt_response": "To find the greatest three-digit number that is a multiple of 13, we start by listing the multiples of 13: 13, 26, 39, 52, 65, 78, 91, 104, 117, 130, 143, 156, 169, 182, 195, 208, 221, 234, 247, 260, 273, 286, 299, 312, 325, 338, 351, 364, 377, 390, 403, 416, 429, 442, 455, 468, 481, 494, 507, 520, 533, 546, 559, 572, 585, 598, 611, 624, 637, 650, 663, 676, 689, 702, 715, 728, 741, 754, 767, 780, 793, 806, 819, 832, 845, 858, 871, 884, 897, 910, 923, 936, 949, 962, 975, 988.\n\nThe greatest three-digit number in this list is 988. So, the greatest three-digit number that is a multiple of 13 is 988.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 988?: To find the greatest three-digit number that is a multiple of 13, we start by listing the multiples of 13: 13, 26, 39, 52, 65, 78, 91, 104, 117, 130, 143, 156, 169, 182, 195, 208, 221, 234, 247, 260, 273, 286, 299, 312, 325, 338, 351, 364, 377, 390, 403, 416, 429, 442, 455, 468, 481, 494, 507, 520, 533, 546, 559, 572, 585, 598, 611, 624, 637, 650, 663, 676, 689, 702, 715, 728, 741, 754, 767, 780, 793, 806, 819, 832, 845, 858, 871, 884, 897, 910, 923, 936, 949, 962, 975, 988.\n\nThe greatest three-digit number in this list is 988. So, the greatest three-digit number that is a multiple of 13 is 988.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

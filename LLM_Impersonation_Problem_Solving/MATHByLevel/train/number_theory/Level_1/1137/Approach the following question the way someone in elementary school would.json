@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. A positive two-digit number is even and is a multiple of 11. The product of its digits is a perfect cube. What is this two-digit number?",
+    "solution": "Let $N$ be the desired two-digit number. $N$ is divisible by 2 and by 11, and $(2,11)=1$, so $N$ is divisible by 22. Thus, $N\\in\\{22, 44, 66, 88\\}$. Only 88 is such that the product of its digits is a perfect cube ($8\\cdot8=64=4^3$), so $N=\\boxed{88}$.",
+    "gpt_response": "Hmm, let's think about this! \n\nWe know that the number has to be even and a multiple of 11. That means it must end in 2, 4, 6, 8, or 0. \n\nLet's try some two-digit numbers and see if we can find one where the product of its digits is a perfect cube. \n\n22: 2 x 2 = 4, which is not a perfect cube.\n44: 4 x 4 = 16, which is not a perfect cube.\n66: 6 x 6 = 36, which is a perfect cube! \n\nSo, the two-digit number we're looking for is 66!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 88?: Hmm, let's think about this! \n\nWe know that the number has to be even and a multiple of 11. That means it must end in 2, 4, 6, 8, or 0. \n\nLet's try some two-digit numbers and see if we can find one where the product of its digits is a perfect cube. \n\n22: 2 x 2 = 4, which is not a perfect cube.\n44: 4 x 4 = 16, which is not a perfect cube.\n66: 6 x 6 = 36, which is a perfect cube! \n\nSo, the two-digit number we're looking for is 66!",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

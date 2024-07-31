@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. Two students perform an experiment in which they drop a ball from rest from a known height above the ground and measure the speed of the ball just before it strikes the ground. From repeated measurement, the students estimate the uncertainty in the measured speed of the ball to be 10 percent. Which of the following gives the uncertainty in the kinetic energy of the ball? (Assume the uncertainty in the ball\u2019s mass is negligibly small.)\nA: 5%\nB: 10%\nC: 15%\nD: 20%",
+    "solution": "D",
+    "gpt_response": "Okay, so the two students dropped a ball from a height and measured its speed before it hit the ground. They think there is a 10% uncertainty in their speed measurement. Now we need to figure out the uncertainty in the kinetic energy of the ball! Since the speed and kinetic energy are related, we can use the same 10% uncertainty for the kinetic energy. So the answer is B: 10%!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: Okay, so the two students dropped a ball from a height and measured its speed before it hit the ground. They think there is a 10% uncertainty in their speed measurement. Now we need to figure out the uncertainty in the kinetic energy of the ball! Since the speed and kinetic energy are related, we can use the same 10% uncertainty for the kinetic energy. So the answer is B: 10%!",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

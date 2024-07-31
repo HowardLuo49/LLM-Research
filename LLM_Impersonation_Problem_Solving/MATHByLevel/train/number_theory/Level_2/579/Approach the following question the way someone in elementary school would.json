@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. Winnie has 17 red balloons, 33 white balloons, 65 green balloons, and 83 chartreuse balloons.  With no regard to color, Winnie gives each of her 8 nearest and dearest friends some balloons.  Each friend gets the same number of balloons and she hands out as many balloons as possible.  How many balloons does Winnie end up keeping for herself?",
+    "solution": "We want to know the remainder when $17+33+65+83$ is divided by 8.  The remainders of each of these numbers are easy to compute individually so we can say \\[17+33+65+83\\equiv1+1+1+3\\equiv6\\pmod8.\\]Therefore Winnie has $\\boxed{6}$ balloons left over after giving out her balloons.",
+    "gpt_response": "First, let's add up all the balloons Winnie has: \n17 + 33 + 65 + 83 = 198 balloons\n\nNow, we need to figure out how many balloons Winnie gives to each friend. We divide the total number of balloons by the number of friends:\n198 \u00f7 8 = 24.75\n\nSince Winnie can't give out a fraction of a balloon, she can only give each friend 24 balloons. 24 x 8 = 192 balloons given to friends. \n\nTo find out how many balloons Winnie keeps for herself, we subtract the balloons given to friends from the total balloons she had:\n198 - 192 = 6 balloons\n\nSo, Winnie ends up keeping 6 balloons for herself.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 6?: First, let's add up all the balloons Winnie has: \n17 + 33 + 65 + 83 = 198 balloons\n\nNow, we need to figure out how many balloons Winnie gives to each friend. We divide the total number of balloons by the number of friends:\n198 \u00f7 8 = 24.75\n\nSince Winnie can't give out a fraction of a balloon, she can only give each friend 24 balloons. 24 x 8 = 192 balloons given to friends. \n\nTo find out how many balloons Winnie keeps for herself, we subtract the balloons given to friends from the total balloons she had:\n198 - 192 = 6 balloons\n\nSo, Winnie ends up keeping 6 balloons for herself.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

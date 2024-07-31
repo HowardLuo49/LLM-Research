@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. What is the units digit when $5^4$ is multiplied out?",
+    "solution": "The units digit of any positive integer power of 5 is $\\boxed{5}$.\n\n(Note: this claim may be proved by induction, since the units digit of $5n$ is 5 whenever the units digit of $n$ is 5.)",
+    "gpt_response": "Ooh I know this one! So when we multiply out $5^4$, we get $5*5*5*5=625$. Now we just have to look at the units digit in 625, which is 5! Yay!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 5?: Ooh I know this one! So when we multiply out $5^4$, we get $5*5*5*5=625$. Now we just have to look at the units digit in 625, which is 5! Yay!",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. A 7 years old boy presented with painful boggy swelling of scalp, multiple sinuses with purulent discharge, easily pluckable hairs and lymph nodes enlarged in occipital region. Which one of the following would be most helpful for diagnostic evaluation?\n1: Bacterial culture\n2: Biopsy\n3: KOH mount\n4: Patch test",
+    "solution": 3,
+    "gpt_response": "As a doctor, in this case, the most helpful diagnostic evaluation would likely be a bacterial culture. This would help identify the specific bacteria causing the infection in the scalp. Biopsy may be considered if the diagnosis is unclear or if further information is needed about the underlying tissue. KOH mount may be helpful to rule out fungal infections, but in this case, the presentation is more suggestive of a bacterial infection. Patch testing would not be relevant for this presentation.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: As a doctor, in this case, the most helpful diagnostic evaluation would likely be a bacterial culture. This would help identify the specific bacteria causing the infection in the scalp. Biopsy may be considered if the diagnosis is unclear or if further information is needed about the underlying tissue. KOH mount may be helpful to rule out fungal infections, but in this case, the presentation is more suggestive of a bacterial infection. Patch testing would not be relevant for this presentation.",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

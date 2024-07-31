@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. An integer greater than 9 and less than 100 is randomly chosen. What is the probability that its digits are different?",
+    "solution": "We calculate the probability that the digits are the same, and subtract from 1. From the 90 integers to be chosen from, only 9 have the same digits: 11, 22, 33, ..., 99. Therefore, the probability that the digits are the same is $\\frac{9}{90} = \\frac{1}{10}$, so the probability that the digits are different is $1-\\frac{1}{10}= \\boxed{\\frac{9}{10}}$.",
+    "gpt_response": "Ooh, that's a fun question! Let's see, there are lots of numbers between 10 and 99, but we want to find the ones where the two digits are different. \n\nWe can start by counting how many numbers have the same digits, like 11 or 22 or 33... Well, there are 9 numbers where the two digits are the same, so that leaves us with (99 - 9) = 90 numbers where the two digits are different.\n\nSo, the probability of choosing a number with different digits is 90 out of 90 possibilities, which simplifies to 1 out of 1 or 100%! Yay, we did it!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to \\frac{9?: Ooh, that's a fun question! Let's see, there are lots of numbers between 10 and 99, but we want to find the ones where the two digits are different. \n\nWe can start by counting how many numbers have the same digits, like 11 or 22 or 33... Well, there are 9 numbers where the two digits are the same, so that leaves us with (99 - 9) = 90 numbers where the two digits are different.\n\nSo, the probability of choosing a number with different digits is 90 out of 90 possibilities, which simplifies to 1 out of 1 or 100%! Yay, we did it!",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

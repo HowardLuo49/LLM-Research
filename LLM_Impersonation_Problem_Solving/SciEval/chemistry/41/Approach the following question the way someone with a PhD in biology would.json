@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. What is the molecular formula of CCCCC(C#N)N?\nAnswer:",
+    "solution": [
+        "C6H12N2"
+    ],
+    "gpt_response": "The molecular formula of CCCCC(C#N)N is C7H5N. This can be determined by breaking down the compound into its elemental components - carbon (C) and nitrogen (N) - and counting the number of each atom present in the compound. In this case, there are 7 carbon atoms, 5 hydrogen atoms, and 1 nitrogen atom, leading to the molecular formula C7H5N.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response ['C6H12N2']?: The molecular formula of CCCCC(C#N)N is C7H5N. This can be determined by breaking down the compound into its elemental components - carbon (C) and nitrogen (N) - and counting the number of each atom present in the compound. In this case, there are 7 carbon atoms, 5 hydrogen atoms, and 1 nitrogen atom, leading to the molecular formula C7H5N.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "9",
+    "difficulty_value": "9"
+}

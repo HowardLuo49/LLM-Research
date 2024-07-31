@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. A six year old male baby presents to a hospital with recurrent gross hematuria for 2 years. There is no h/o burning micturition or pyuria. Urine routine examination demonstrated no pus cells and urine culture was sterile. Serum C3 levels were normal. What is the most probable diagnosis-\n1: Wilm's tumour\n2: IgA nephropathy\n3: Post-streptococcal glomerulonephritis\n4: Urinaiy tract infection",
+    "solution": 1,
+    "gpt_response": "2: IgA nephropathy\n\nIgA nephropathy is a kidney disorder that occurs when IgA deposits build up in the kidneys, leading to inflammation and damage to the glomeruli. This condition can present with recurrent gross hematuria, which is painless and typically not associated with urinary tract infection symptoms. Normal serum C3 levels and sterile urine culture also support the diagnosis of IgA nephropathy in this case.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: 2: IgA nephropathy\n\nIgA nephropathy is a kidney disorder that occurs when IgA deposits build up in the kidneys, leading to inflammation and damage to the glomeruli. This condition can present with recurrent gross hematuria, which is painless and typically not associated with urinary tract infection symptoms. Normal serum C3 levels and sterile urine culture also support the diagnosis of IgA nephropathy in this case.",
+    "gpt_response_correct_incorrect": "No, the final solution obtained in the response is not a yes or no answer. The final solution mentioned is IgA nephropathy.",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

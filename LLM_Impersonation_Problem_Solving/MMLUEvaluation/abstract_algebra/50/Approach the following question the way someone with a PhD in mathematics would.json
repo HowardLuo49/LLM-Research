@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. Statement 1 | Every solvable group is of prime-power order. Statement 2 | Every group of prime-power order is solvable.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "D",
+    "gpt_response": "As a mathematician with a PhD, I would approach this question by considering the definitions and properties of solvable groups and groups of prime-power order. \n\nA solvable group is a group that has a normal series such that each factor group is abelian. A group is said to be of prime-power order if the order of the group is a power of a prime number. \n\nStatement 1 claims that every solvable group is of prime-power order. This statement is True. This is a well-known result in group theory known as the Feit-Thompson theorem, which states that every solvable group of odd order is actually of prime-power order.\n\nStatement 2 claims that every group of prime-power order is solvable. This statement is also True. This is a result known as Burnside's theorem, which states that every group of prime-power order is solvable.\n\nTherefore, the correct answer is A: True, True.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: As a mathematician with a PhD, I would approach this question by considering the definitions and properties of solvable groups and groups of prime-power order. \n\nA solvable group is a group that has a normal series such that each factor group is abelian. A group is said to be of prime-power order if the order of the group is a power of a prime number. \n\nStatement 1 claims that every solvable group is of prime-power order. This statement is True. This is a well-known result in group theory known as the Feit-Thompson theorem, which states that every solvable group of odd order is actually of prime-power order.\n\nStatement 2 claims that every group of prime-power order is solvable. This statement is also True. This is a result known as Burnside's theorem, which states that every group of prime-power order is solvable.\n\nTherefore, the correct answer is A: True, True.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

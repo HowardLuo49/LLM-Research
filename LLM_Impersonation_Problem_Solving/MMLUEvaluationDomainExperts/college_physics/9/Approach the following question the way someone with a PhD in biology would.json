@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. If the total energy of a particle of mass m is equal to twice its rest energy, then the magnitude of the particle\u2019s relativistic momentum is\nA: mc/2\nB: mc/(2^(1/2))\nC: mc\nD: (3^(1/2))mc",
+    "solution": "D",
+    "gpt_response": "To determine the magnitude of the particle's relativistic momentum, we can start by using the relativistic energy-momentum relation:\n\nE^2 = (pc)^2 + (mc^2)^2\n\nGiven that the total energy (E) of the particle is equal to twice its rest energy (mc^2), we can express E as:\n\nE = 2mc^2\n\nSubstitute this into the energy-momentum relation:\n\n(2mc^2)^2 = (pc)^2 + (mc^2)^2\n4m^2c^4 = p^2c^2 + m^2c^4\n4m^2c^4 - m^2c^4 = p^2c^2\n3m^2c^4 = p^2c^2\n\nNow, we can solve for the magnitude of the relativistic momentum (p):\n\np = sqrt(3)mc\n\nTherefore, the correct answer is:\n\nD: (3^(1/2))mc",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: To determine the magnitude of the particle's relativistic momentum, we can start by using the relativistic energy-momentum relation:\n\nE^2 = (pc)^2 + (mc^2)^2\n\nGiven that the total energy (E) of the particle is equal to twice its rest energy (mc^2), we can express E as:\n\nE = 2mc^2\n\nSubstitute this into the energy-momentum relation:\n\n(2mc^2)^2 = (pc)^2 + (mc^2)^2\n4m^2c^4 = p^2c^2 + m^2c^4\n4m^2c^4 - m^2c^4 = p^2c^2\n3m^2c^4 = p^2c^2\n\nNow, we can solve for the magnitude of the relativistic momentum (p):\n\np = sqrt(3)mc\n\nTherefore, the correct answer is:\n\nD: (3^(1/2))mc",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "5",
+    "difficulty_value": "5"
+}

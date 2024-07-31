@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. A preterm baby is born with synchronised upper chest movement, minimal nasal flare, expiratory grunting heard by the stethoscope, but has no chest or xiphoid retractions. The Silverman score is:\n1: 1\n2: 2\n3: 3\n4: 4",
+    "solution": 2,
+    "gpt_response": "The answer is 3: 3. \n\nThis baby exhibits signs of mild to moderate respiratory distress, as indicated by the presence of expiratory grunting and minimal nasal flare. However, the absence of chest or xiphoid retractions suggests that the respiratory distress is not severe. Therefore, the Silverman score for this baby would be 3.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: The answer is 3: 3. \n\nThis baby exhibits signs of mild to moderate respiratory distress, as indicated by the presence of expiratory grunting and minimal nasal flare. However, the absence of chest or xiphoid retractions suggests that the respiratory distress is not severe. Therefore, the Silverman score for this baby would be 3.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

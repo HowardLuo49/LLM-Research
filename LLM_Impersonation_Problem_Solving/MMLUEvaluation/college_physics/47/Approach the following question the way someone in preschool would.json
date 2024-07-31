@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. A particle decays in 2.0 ms in its rest frame. If the same particle moves at v=0.60c in the lab frame, how far will it travel in the lab before decaying?\nA: 150 m\nB: 288 m\nC: 360 m\nD: 450 m",
+    "solution": "D",
+    "gpt_response": "Yay! Let's play a game with a particle! The particle decays really quickly in its rest frame, but if it moves in the lab frame at a speed of 0.60c, we need to figure out how far it will travel before decaying. Let's imagine the particle zooming around and having so much fun! Do you think it will travel 150 meters, 288 meters, 360 meters, or 450 meters before it decays? Let's think about it together and pick the right answer!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: Yay! Let's play a game with a particle! The particle decays really quickly in its rest frame, but if it moves in the lab frame at a speed of 0.60c, we need to figure out how far it will travel before decaying. Let's imagine the particle zooming around and having so much fun! Do you think it will travel 150 meters, 288 meters, 360 meters, or 450 meters before it decays? Let's think about it together and pick the right answer!",
+    "gpt_response_correct_incorrect": "Not applicable - the question does not provide enough information to determine if the final solution is equal to D.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

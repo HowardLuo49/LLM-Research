@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. What is the 100th letter in the pattern ABCABCABC...?",
+    "solution": "Since $100=33\\cdot3+1$, the first $100$ letters are $33$ copies of the $3$ letters $ABC$ followed by an $A$.  The $100$th letter is $\\boxed{A}$.",
+    "gpt_response": "ABCABCABC... \n\nLet's count the letters together! A-B-C, that's three letters in the pattern. So the 100th letter would be the same as the 97th, 98th, 99th - A! Yay, we did it! The 100th letter is \"A\"!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to A?: ABCABCABC... \n\nLet's count the letters together! A-B-C, that's three letters in the pattern. So the 100th letter would be the same as the 97th, 98th, 99th - A! Yay, we did it! The 100th letter is \"A\"!",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

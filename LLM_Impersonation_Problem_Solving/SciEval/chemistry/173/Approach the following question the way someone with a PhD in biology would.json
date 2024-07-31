@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. What is the SMILES expression of C8H11NO2?\nAnswer:",
+    "solution": [
+        "C1C2CC(=O)NCC2CC1=O"
+    ],
+    "gpt_response": "The SMILES expression of C8H11NO2, which represents the chemical structure of the compound in a simplified and concise manner, would be CC(=O)NCCc1ccc(O)cc1. This notation uses standard rules for representing organic molecules based on their molecular formula and connectivity of atoms.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response ['C1C2CC(=O)NCC2CC1=O']?: The SMILES expression of C8H11NO2, which represents the chemical structure of the compound in a simplified and concise manner, would be CC(=O)NCCc1ccc(O)cc1. This notation uses standard rules for representing organic molecules based on their molecular formula and connectivity of atoms.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

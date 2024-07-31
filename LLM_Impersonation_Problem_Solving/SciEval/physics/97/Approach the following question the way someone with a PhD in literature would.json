@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in literature would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in literature would. Calculate the rotational velocity of the Milky Way's galactic disk at a distance of 78935 light-years from the galactic center, given that the observed radial velocity of a star at that distance is 239 km/s and the average rotational velocity of the galactic disk at that distance is 297 km/s. Additionally, please select the option from the given choices that you believe is closest to the correct answer!\n\nA. 297.0 km/s\nB. 203.91 km/s\nC. 205.49 km/s\nD. 202.34 km/s\n\nAnswer:",
+    "solution": [
+        "A"
+    ],
+    "gpt_response": "To calculate the rotational velocity of the Milky Way's galactic disk at a distance of 78935 light-years from the galactic center, we can use the equation for calculating the tangential velocity of an object in circular motion:\n\nv_tan = sqrt(v_rot^2 + v_rad^2)\n\nWhere:\nv_tan = tangential velocity\nv_rot = rotational velocity of the galactic disk\nv_rad = radial velocity of the star\n\nPlugging in the values given:\nv_tan = sqrt(297^2 + 239^2)\nv_tan = sqrt(88209 + 57121)\nv_tan = sqrt(145330)\nv_tan = 381.38 km/s\n\nThe closest option to the correct answer is B. 203.91 km/s.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to ['A']?: To calculate the rotational velocity of the Milky Way's galactic disk at a distance of 78935 light-years from the galactic center, we can use the equation for calculating the tangential velocity of an object in circular motion:\n\nv_tan = sqrt(v_rot^2 + v_rad^2)\n\nWhere:\nv_tan = tangential velocity\nv_rot = rotational velocity of the galactic disk\nv_rad = radial velocity of the star\n\nPlugging in the values given:\nv_tan = sqrt(297^2 + 239^2)\nv_tan = sqrt(88209 + 57121)\nv_tan = sqrt(145330)\nv_tan = 381.38 km/s\n\nThe closest option to the correct answer is B. 203.91 km/s.",
+    "gpt_response_correct_incorrect": "No. The final solution obtained is not equal to ['A'].",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "B. 203.91 km/s\n\nDifficulty Level: 7",
+    "difficulty_value": "2"
+}

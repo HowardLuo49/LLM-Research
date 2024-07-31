@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. In sebaceous glands, accumulation of sebum leads to:\n1: Milia\n2: Acne\n3: Epidermoid cyst\n4: Miliaria",
+    "solution": 2,
+    "gpt_response": "2: Acne\n\nAccumulation of sebum in sebaceous glands can lead to acne, which is a common skin condition characterized by pimples, blackheads, and inflammation of the skin.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: 2: Acne\n\nAccumulation of sebum in sebaceous glands can lead to acne, which is a common skin condition characterized by pimples, blackheads, and inflammation of the skin.",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

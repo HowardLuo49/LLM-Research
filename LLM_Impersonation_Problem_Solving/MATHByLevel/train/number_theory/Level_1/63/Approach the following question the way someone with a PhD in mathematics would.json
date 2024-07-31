@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. When three positive integers are divided by $47$, the remainders are $25$, $20$, and $3$, respectively.\n\nWhen the sum of the three integers is divided by $47$, what is the remainder?",
+    "solution": "We can call the three integers in this problem $a,$ $b,$ and $c$. Then we have \\begin{align*}\na &\\equiv 25\\pmod{47}, \\\\\nb &\\equiv 20\\pmod{47}, \\\\\nc &\\equiv 3\\pmod{47}.\n\\end{align*}Adding these congruences, we have \\begin{align*}\na+b+c &\\equiv 25+20+3 \\\\\n&= 48\\pmod{47}.\n\\end{align*}Therefore, $a+b+c$ has the same remainder as $48$ upon division by $47$. This remainder is $\\boxed{1}$.",
+    "gpt_response": "To find the answer, we first note that when a positive integer $n$ is divided by $47$, the possible remainders are $0, 1, 2, ..., 46$. \n\nGiven three positive integers $a$, $b$, and $c$ with remainders of $25$, $20$, and $3$ respectively when divided by $47$, we have:\n$a = 47k_1 + 25$\n$b = 47k_2 + 20$\n$c = 47k_3 + 3$\n\nwhere $k_1$, $k_2$, and $k_3$ are integers. \n\nThe sum of the three integers is:\n$a + b + c = 47(k_1 + k_2 + k_3) + 48$\n\nSo, when the sum of the three integers is divided by $47$, the remainder is $48$ divided by $47$, which is $\\boxed{1}$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 1?: To find the answer, we first note that when a positive integer $n$ is divided by $47$, the possible remainders are $0, 1, 2, ..., 46$. \n\nGiven three positive integers $a$, $b$, and $c$ with remainders of $25$, $20$, and $3$ respectively when divided by $47$, we have:\n$a = 47k_1 + 25$\n$b = 47k_2 + 20$\n$c = 47k_3 + 3$\n\nwhere $k_1$, $k_2$, and $k_3$ are integers. \n\nThe sum of the three integers is:\n$a + b + c = 47(k_1 + k_2 + k_3) + 48$\n\nSo, when the sum of the three integers is divided by $47$, the remainder is $48$ divided by $47$, which is $\\boxed{1}$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

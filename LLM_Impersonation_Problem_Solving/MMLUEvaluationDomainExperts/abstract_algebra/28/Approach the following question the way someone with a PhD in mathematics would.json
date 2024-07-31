@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. Statement 1 | The image of a group of 6 elements under a homomorphism may have 12 elements. Statement 2 | There is a homomorphism of some group of 6 elements into some group of 12 elements.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "D",
+    "gpt_response": "In general, the image of a group under a homomorphism is a subgroup of the codomain group. Therefore, it is possible for a group of 6 elements to have a homomorphism into a group of 12 elements, resulting in an image with 12 elements. Thus, both statements are true. Therefore, the correct answer is:\n\nA: True, True",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: In general, the image of a group under a homomorphism is a subgroup of the codomain group. Therefore, it is possible for a group of 6 elements to have a homomorphism into a group of 12 elements, resulting in an image with 12 elements. Thus, both statements are true. Therefore, the correct answer is:\n\nA: True, True",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. A mutation that results in a value replacement for glutamic acid at position 6 of the B chain of hemoglobin 5 hinders normal hemoglobin function and results in sickle-cell anemia when the patient is homozygous for this mutation. This is an example of which of the following types of mutation?\n1: Deletion\n2: Frameshift\n3: Inseion\n4: Missense",
+    "solution": 4,
+    "gpt_response": "4: Missense\n\nThis mutation is a missense mutation because it results in a single amino acid substitution (glutamic acid to another amino acid) in the protein sequence of hemoglobin.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 4?: 4: Missense\n\nThis mutation is a missense mutation because it results in a single amino acid substitution (glutamic acid to another amino acid) in the protein sequence of hemoglobin.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

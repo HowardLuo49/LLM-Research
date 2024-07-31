@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a medical researcher would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a medical researcher would. Least conduction velocity is seen in:\n1: AV node\n2: Purkinje fibers\n3: Bundle of His\n4: Ventricular myocardial fibres",
+    "solution": 1,
+    "gpt_response": "To determine which of the options has the least conduction velocity, a medical researcher would consider the normal conduction velocities of each of these cardiac structures. The AV node is known to have the slowest conduction velocity, which serves as an important delay to allow for proper coordination of atrial and ventricular contractions. Therefore, the correct answer is 1: AV node.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: To determine which of the options has the least conduction velocity, a medical researcher would consider the normal conduction velocities of each of these cardiac structures. The AV node is known to have the slowest conduction velocity, which serves as an important delay to allow for proper coordination of atrial and ventricular contractions. Therefore, the correct answer is 1: AV node.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

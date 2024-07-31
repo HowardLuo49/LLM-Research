@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Evaluate $\\lfloor\\sqrt{80}\\rfloor$.",
+    "solution": "Since $\\sqrt{64}<\\sqrt{80}<\\sqrt{81}$, $\\sqrt{80}$ must be a number between $8$ and $9$. Therefore, the greatest integer that is less than or equal to $\\sqrt{80}$ is $\\boxed{8}$.",
+    "gpt_response": "To evaluate $\\lfloor\\sqrt{80}\\rfloor$, we first need to find the square root of 80. The square root of 80 is between 8 and 9 because $8^2 = 64$ and $9^2 = 81$. \n\nSince the square root of 80 is between 8 and 9, the greatest integer less than or equal to $\\sqrt{80}$ is 8. Therefore, $\\lfloor\\sqrt{80}\\rfloor = 8$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 8?: To evaluate $\\lfloor\\sqrt{80}\\rfloor$, we first need to find the square root of 80. The square root of 80 is between 8 and 9 because $8^2 = 64$ and $9^2 = 81$. \n\nSince the square root of 80 is between 8 and 9, the greatest integer less than or equal to $\\sqrt{80}$ is 8. Therefore, $\\lfloor\\sqrt{80}\\rfloor = 8$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

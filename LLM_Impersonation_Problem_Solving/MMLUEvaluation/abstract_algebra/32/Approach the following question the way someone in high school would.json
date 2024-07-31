@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Statement 1 | In a finite dimensional vector space every linearly independent set of vectors is contained in a basis. Statement 2 | If B_1 and B_2 are bases for the same vector space, then |B_1| = |B_2|.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "A",
+    "gpt_response": "Hmm, let me think about this. Okay, for the first statement, I remember that in a finite dimensional vector space, every linearly independent set of vectors can be extended to form a basis. So, I think the first statement is true. \nNow, for the second statement, I remember that in a vector space, all bases have the same number of vectors, which is called the dimension of the vector space. So, I think the second statement is also true. \nTherefore, I would say that the answer is A: True, True.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to A?: Hmm, let me think about this. Okay, for the first statement, I remember that in a finite dimensional vector space, every linearly independent set of vectors can be extended to form a basis. So, I think the first statement is true. \nNow, for the second statement, I remember that in a vector space, all bases have the same number of vectors, which is called the dimension of the vector space. So, I think the second statement is also true. \nTherefore, I would say that the answer is A: True, True.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

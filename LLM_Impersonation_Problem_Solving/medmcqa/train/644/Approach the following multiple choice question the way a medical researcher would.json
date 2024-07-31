@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a medical researcher would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a medical researcher would. A 33-year-old man has never been vaccinated for hepatitis B. Serologic tests reveal negative hepatitis B surface antigen (HBsAg) and positive antibody to surface antigen. Which of the following conditions does this serologic pattern best fit with?\n1: previous hepatitis B infection\n2: chronic active hepatitis\n3: acute hepatitis B infection\n4: poor prognosis",
+    "solution": 1,
+    "gpt_response": "The serologic pattern described in the question (negative HBsAg and positive antibody to surface antigen) typically indicates immunity to hepatitis B virus due to previous infection or vaccination. Option 1, previous hepatitis B infection, is the most likely condition that fits this serologic pattern. Option 3, acute hepatitis B infection, would typically show positive HBsAg. Option 2, chronic active hepatitis, would show positive HBsAg as well. Option 4, poor prognosis, is not a specific condition related to this serologic pattern.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: The serologic pattern described in the question (negative HBsAg and positive antibody to surface antigen) typically indicates immunity to hepatitis B virus due to previous infection or vaccination. Option 1, previous hepatitis B infection, is the most likely condition that fits this serologic pattern. Option 3, acute hepatitis B infection, would typically show positive HBsAg. Option 2, chronic active hepatitis, would show positive HBsAg as well. Option 4, poor prognosis, is not a specific condition related to this serologic pattern.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

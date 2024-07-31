@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. What is the greatest product obtainable from two integers whose sum is 1998?",
+    "solution": "Let the two integers be $x$ and $1998-x$. The product which needs to be maximized is $1998x-x^2$. Completing the square results in $-(x-999)^2+999^2$. Since $-(x-999)^2\\le 0$, the expression is maximized when $x=999$, which results in a value of $999^2=\\boxed{998001}$.",
+    "gpt_response": "Let's use our counting skills to figure this out! If we add two numbers together to get 1998, we can start by counting up from 0... 1, 2, 3, 4, and so on until we get to 1998. It might be a bit tricky, but let's keep counting together until we find the answer!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 998001?: Let's use our counting skills to figure this out! If we add two numbers together to get 1998, we can start by counting up from 0... 1, 2, 3, 4, and so on until we get to 1998. It might be a bit tricky, but let's keep counting together until we find the answer!",
+    "gpt_response_correct_incorrect": "No.",
+    "yes_no": "no"
+}

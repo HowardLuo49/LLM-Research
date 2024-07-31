@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Statement 1 | Every permutation is a one-to-one function. Statement 2 | Every function is a permutation if and only if it is one to one.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "C",
+    "gpt_response": "Oh boy, per-mu-tay-shun is a big word! Let's think about it like this: when you line up all your toys in a row, each toy has its own special spot, right? That's like a one-to-one function! And if you have a function that lines things up all nice and neat, then that's like a permutation! So, Statement 1 is true because every permutation is like a one-to-one function. But Statement 2 is not true because not every function is a permutation. So, the answer is C: True, False.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to C?: Oh boy, per-mu-tay-shun is a big word! Let's think about it like this: when you line up all your toys in a row, each toy has its own special spot, right? That's like a one-to-one function! And if you have a function that lines things up all nice and neat, then that's like a permutation! So, Statement 1 is true because every permutation is like a one-to-one function. But Statement 2 is not true because not every function is a permutation. So, the answer is C: True, False.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. The least common multiple of two numbers is 3780, and the greatest common divisor is 18. Given that one of the numbers is 180, what is the other number?",
+    "solution": "We use the identity $\\gcd(a,b) \\cdot \\mathop{\\text{lcm}}[a,b] = ab$ for all positive integers $a$ and $b$.  We are told that $\\gcd(a,b) = 18$, and $\\mathop{\\text{lcm}}[a,b] = 3780$, so $ab = 18 \\cdot 3780$.  If one number is 180, then the other number is $18 \\cdot 3780/180 = \\boxed{378}$.",
+    "gpt_response": "To find the other number, we need to divide the least common multiple by one of the numbers, which is 180. \n\nSo, 3780 \u00f7 180 = 21\n\nThis means that the other number is 21.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 378?: To find the other number, we need to divide the least common multiple by one of the numbers, which is 180. \n\nSo, 3780 \u00f7 180 = 21\n\nThis means that the other number is 21.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

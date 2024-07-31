@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. A 60 yr old chronic smoker presents with painless gross hematuria of 1 day duration. Which is the investigation of choice to know the cause of hematuria?\n1: USG\n2: X-ray KUB\n3: Urine routine\n4: Urine microscopy for malignant cytology cells",
+    "solution": 4,
+    "gpt_response": "As a physician, my approach to determining the cause of painless gross hematuria in a chronic smoker would involve ruling out any underlying serious conditions such as bladder cancer. While all of the options listed may be useful in investigating hematuria, the investigation of choice in this case would be option 4: Urine microscopy for malignant cytology cells. This test is specifically designed to look for cancer cells in the urine, which would be crucial in identifying any potential malignancies that could be causing the hematuria in this patient.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 4?: As a physician, my approach to determining the cause of painless gross hematuria in a chronic smoker would involve ruling out any underlying serious conditions such as bladder cancer. While all of the options listed may be useful in investigating hematuria, the investigation of choice in this case would be option 4: Urine microscopy for malignant cytology cells. This test is specifically designed to look for cancer cells in the urine, which would be crucial in identifying any potential malignancies that could be causing the hematuria in this patient.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

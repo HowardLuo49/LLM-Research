@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. It takes exactly 74 colored beads on a string to make a necklace. The beads are strung in the following order: one red, one orange, two yellow, one green, and one blue. Then the pattern repeats starting again with one red bead. If the first bead of the necklace is red, what is the color of the last bead used to make the necklace?",
+    "solution": "The pattern repeats every $1+1+2+1+1=6$ beads. Since $72=6\\cdot12$, the 72nd bead will blue (the final bead to complete a pattern). The 73rd will be red, so the 74th will be $\\boxed{\\text{orange}}$.",
+    "gpt_response": "Let's count the colors to figure it out! We start with one red bead, then add one orange bead, two yellow beads, one green bead, and one blue bead. That's a total of 6 beads so far. Then the pattern starts over with another red bead. We keep adding up the beads in the pattern: one red, one orange, two yellow, one green, one blue. That gives us another 6 beads. We keep repeating this pattern until we get to 74 beads. By counting in groups of 6, we find that 72 beads fall into 12 sets of the pattern. That takes us to bead number 73, which is a blue bead. Then, we add one more red bead to finish the necklace. So, the last bead used to make the necklace is also a red bead.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to \\text{orange?: Let's count the colors to figure it out! We start with one red bead, then add one orange bead, two yellow beads, one green bead, and one blue bead. That's a total of 6 beads so far. Then the pattern starts over with another red bead. We keep adding up the beads in the pattern: one red, one orange, two yellow, one green, one blue. That gives us another 6 beads. We keep repeating this pattern until we get to 74 beads. By counting in groups of 6, we find that 72 beads fall into 12 sets of the pattern. That takes us to bead number 73, which is a blue bead. Then, we add one more red bead to finish the necklace. So, the last bead used to make the necklace is also a red bead.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

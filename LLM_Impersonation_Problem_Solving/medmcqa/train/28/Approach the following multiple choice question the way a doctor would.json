@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Treatment of choice in traumatic facial nerve injury is:\n1: Facial sling\n2: Facial nerve repair\n3: Conservative management\n4: Systemic corticosteroids",
+    "solution": 2,
+    "gpt_response": "As a doctor, the treatment of choice in traumatic facial nerve injury would be option 2: Facial nerve repair. This involves repairing the damaged nerve to restore function and improve symptoms. In some cases, systemic corticosteroids (option 4) may also be used to reduce inflammation and improve outcomes. Facial sling (option 1) may be used for support and protection following nerve repair, and conservative management (option 3) may be considered in mild cases where the injury is expected to improve on its own.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: As a doctor, the treatment of choice in traumatic facial nerve injury would be option 2: Facial nerve repair. This involves repairing the damaged nerve to restore function and improve symptoms. In some cases, systemic corticosteroids (option 4) may also be used to reduce inflammation and improve outcomes. Facial sling (option 1) may be used for support and protection following nerve repair, and conservative management (option 3) may be considered in mild cases where the injury is expected to improve on its own.",
+    "gpt_response_correct_incorrect": "No. The final solution obtained in the response is option 2: Facial nerve repair.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

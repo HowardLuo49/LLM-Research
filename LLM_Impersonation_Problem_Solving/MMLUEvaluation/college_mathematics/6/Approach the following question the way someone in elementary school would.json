@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. A ladder 9 meters in length is leaning against a vertical wall on level ground. As the bottom end of the ladder is moved away from the wall at a constant rate of 2 meters per second, the top end slides downward along the wall. How fast, in meters per second, will the top end of the ladder be sliding downward at the moment the top end is 3 meters above the ground?\nA: 12*sqrt(2)\nB: 6*sqrt(2)\nC: 4*sqrt(2)\nD: 1/(2*sqrt(2))",
+    "solution": "C",
+    "gpt_response": "Okay, so imagine you have a super long ladder against a wall. You start moving the bottom of the ladder away from the wall. As you do this, the top of the ladder slides down the wall. We want to know how fast the top part is sliding down when it's 3 meters above the ground. \n\nSo, we know the ladder is 9 meters long. We also know the bottom is being moved at a rate of 2 meters per second. This means the ladder is changing shape as we move it. \n\nTo figure out how fast the top is sliding down, we need to use math. The answer is 6*sqrt(2), which is B!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to C?: Okay, so imagine you have a super long ladder against a wall. You start moving the bottom of the ladder away from the wall. As you do this, the top of the ladder slides down the wall. We want to know how fast the top part is sliding down when it's 3 meters above the ground. \n\nSo, we know the ladder is 9 meters long. We also know the bottom is being moved at a rate of 2 meters per second. This means the ladder is changing shape as we move it. \n\nTo figure out how fast the top is sliding down, we need to use math. The answer is 6*sqrt(2), which is B!",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

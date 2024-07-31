@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. To test whether an integer, $n$, is prime, it is enough to be sure that none of the primes less than or equal to the square root of $n$ divide $n$. If you want to check that a number between 900 and 950 is prime with this rule, what is the largest prime divisor you need to test?",
+    "solution": "You need to test the primes less than a number between $\\sqrt{900}=30$ and $\\sqrt{950}<31$, so the largest prime divisor you need to test is $\\boxed{29}$.",
+    "gpt_response": "To find out if a number between 900 and 950 is prime, we need to check if any prime number less than or equal to the square root of the number divides it. \n\nFirst, we find the square root of the largest number in our range, which is 950. The square root of 950 is about 30.82. \n\nSo we need to find the largest prime number less than or equal to 30.82. The largest prime number less than 30.82 is 29.\n\nTherefore, the largest prime divisor we need to test for a number between 900 and 950 is 29.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 29?: To find out if a number between 900 and 950 is prime, we need to check if any prime number less than or equal to the square root of the number divides it. \n\nFirst, we find the square root of the largest number in our range, which is 950. The square root of 950 is about 30.82. \n\nSo we need to find the largest prime number less than or equal to 30.82. The largest prime number less than 30.82 is 29.\n\nTherefore, the largest prime divisor we need to test for a number between 900 and 950 is 29.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "9",
+    "difficulty_value": "9"
+}

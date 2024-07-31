@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. What is the molecular formula of 5,6-dihydropyrrolo[3,2-c]pyrazole?\nAnswer:",
+    "solution": [
+        "C5H5N3"
+    ],
+    "gpt_response": "The molecular formula of 5,6-dihydropyrrolo[3,2-c]pyrazole is C6H7N3. This compound is a heterocyclic compound containing a five-membered ring fused to a six-membered ring, with nitrogen atoms incorporated into the structure. The numbering of the rings and atoms in the compound is based on the IUPAC nomenclature system. The presence of the double bond in the five-membered ring and the nitrogen atoms gives rise to the unique structural features of this compound.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response ['C5H5N3']?: The molecular formula of 5,6-dihydropyrrolo[3,2-c]pyrazole is C6H7N3. This compound is a heterocyclic compound containing a five-membered ring fused to a six-membered ring, with nitrogen atoms incorporated into the structure. The numbering of the rings and atoms in the compound is based on the IUPAC nomenclature system. The presence of the double bond in the five-membered ring and the nitrogen atoms gives rise to the unique structural features of this compound.",
+    "gpt_response_correct_incorrect": "No. The final solution obtained in the response is C6H7N3, not C5H5N3.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

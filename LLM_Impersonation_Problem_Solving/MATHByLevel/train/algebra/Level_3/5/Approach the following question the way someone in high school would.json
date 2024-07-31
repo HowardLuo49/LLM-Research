@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. What is the sum of all values of $y$ for which the expression $\\frac{y+6}{y^2-5y+4}$ is undefined?",
+    "solution": "The given expression is undefined when the denominator is zero. Thus, we want to find the sum of the zeros $y$ to the quadratic $y^2-5y+4$. Since for a quadratic with the equation $ax^2+bx+c=0$, the sum of the solutions is $-b/a$, the sum of the zeros of the quadratic $y^2-5y+4$ is $5/1=\\boxed{5}$.",
+    "gpt_response": "To find where the expression is undefined, we need to find values of y that make the denominator equal to zero because you can't divide by zero. So, we set the denominator $y^2-5y+4$ equal to zero and solve for y.\n\n$y^2-5y+4=0$\n\nFactoring this quadratic equation gives us:\n\n$(y-4)(y-1)=0$\n\nSetting each factor equal to zero gives us:\n\n$y-4=0$ or $y-1=0$\n\nSo, $y=4$ or $y=1$\n\nTherefore, the sum of all values of y for which the expression is undefined is $4+1=5$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 5?: To find where the expression is undefined, we need to find values of y that make the denominator equal to zero because you can't divide by zero. So, we set the denominator $y^2-5y+4$ equal to zero and solve for y.\n\n$y^2-5y+4=0$\n\nFactoring this quadratic equation gives us:\n\n$(y-4)(y-1)=0$\n\nSetting each factor equal to zero gives us:\n\n$y-4=0$ or $y-1=0$\n\nSo, $y=4$ or $y=1$\n\nTherefore, the sum of all values of y for which the expression is undefined is $4+1=5$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

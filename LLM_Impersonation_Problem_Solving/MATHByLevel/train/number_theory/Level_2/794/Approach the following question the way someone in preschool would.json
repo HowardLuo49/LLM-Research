@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Express the sum as a common fraction: $.1 + .02 + .003 + .0004 + .00005.$",
+    "solution": "The five decimals sum to $0.12345$, which as a fraction is $\\frac{12,\\!345}{100,\\!000}$.  Since $100,\\!000=2^5\\cdot 5^5$, we only have to cancel factors of 2 or 5 from $12,\\!345$.  Since $12,\\!345$ is odd, it has no factors of 2.  Dividing by 5, we find that $\\dfrac{12,\\!345}{100,\\!000}=\\boxed{\\dfrac{2469}{20,\\!000}}$.",
+    "gpt_response": "Let's count the numbers after the decimals! There's one number in the tenths place, two numbers in the hundredths place, three numbers in the thousandths place, four numbers in the ten-thousandths place, and five numbers in the hundred-thousandths place. \n\nSo, we have 1/10 + 2/100 + 3/1000 + 4/10000 + 5/100000. \n\nLet's add these up! \n\n1/10 + 2/100 + 3/1000 + 4/10000 + 5/100000 = 10000/100000 + 2000/100000 + 300/100000 + 40/100000 + 5/100000 = (10000 + 2000 + 300 + 40 + 5)/100000 = 12345/100000. \n\nSo, the sum is 12345/100000. Yay, we did it!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to \\dfrac{2469?: Let's count the numbers after the decimals! There's one number in the tenths place, two numbers in the hundredths place, three numbers in the thousandths place, four numbers in the ten-thousandths place, and five numbers in the hundred-thousandths place. \n\nSo, we have 1/10 + 2/100 + 3/1000 + 4/10000 + 5/100000. \n\nLet's add these up! \n\n1/10 + 2/100 + 3/1000 + 4/10000 + 5/100000 = 10000/100000 + 2000/100000 + 300/100000 + 40/100000 + 5/100000 = (10000 + 2000 + 300 + 40 + 5)/100000 = 12345/100000. \n\nSo, the sum is 12345/100000. Yay, we did it!",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

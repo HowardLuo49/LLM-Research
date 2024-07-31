@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Let f(x,y) = x^2 - 2xy + y^3 for all real x and y. Which of the following is true?\nA: f has all of its relative extrema on the line x = y.\nB: f has all of its relative extrema on the parabola x = y^2.\nC: f has a relative minimum at (0, 0).\nD: f has an absolute minimum at (2/3, 2/3).",
+    "solution": "A",
+    "gpt_response": "Let's see... f(x,y) is a math thing with a bunch of letters and numbers. We have to figure out which one is true. Hmm... Let's just pick one and see if it's right! I think... C! f has a relative minimum at (0, 0). Yeah, let's go with that one!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to A?: Let's see... f(x,y) is a math thing with a bunch of letters and numbers. We have to figure out which one is true. Hmm... Let's just pick one and see if it's right! I think... C! f has a relative minimum at (0, 0). Yeah, let's go with that one!",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

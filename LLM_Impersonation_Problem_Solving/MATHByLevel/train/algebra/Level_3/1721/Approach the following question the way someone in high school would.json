@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. The equation $x^2-4x+7=19$ has two solutions, $a$ and $b$, with $a\\geq b$. What is the value of $2a+b$?",
+    "solution": "Subtracting 3 from both sides of the equation, we have $x^2 - 4x + 4 = 16$, which indicates that the fastest way to solve this problem would be to complete the square. Thus, we have $(x-2)^2=16$, or $x-2=\\pm4$, or $x=6$ and $x=-2$. Since $a\\geq b$, we now know that $a=6$ and $b=-2$, so $2a+b=2(6)-2=\\boxed{10}$.",
+    "gpt_response": "First, we need to solve the equation $x^2-4x+7=19$ to find the values of $a$ and $b$. \n\nSubtracting 19 from both sides, we get $x^2-4x-12=0$. This can be factored as $(x-6)(x+2) = 0$, so $x=6$ or $x=-2$.\n\nSince we are given that $a\\geq b$, $a$ must be the larger root, so $a=6$ and $b=-2$.\n\nNow we can find the value of $2a+b$. \n$2a+b = 2(6)+(-2) = 12-2 = \\boxed{10}$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 10?: First, we need to solve the equation $x^2-4x+7=19$ to find the values of $a$ and $b$. \n\nSubtracting 19 from both sides, we get $x^2-4x-12=0$. This can be factored as $(x-6)(x+2) = 0$, so $x=6$ or $x=-2$.\n\nSince we are given that $a\\geq b$, $a$ must be the larger root, so $a=6$ and $b=-2$.\n\nNow we can find the value of $2a+b$. \n$2a+b = 2(6)+(-2) = 12-2 = \\boxed{10}$.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "yes_no": "yes"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. Statement 1 | The external direct product of cyclic groups is cyclic. Statement 2 | The external direct product of D_3 and D_4 is isomorphic to D_12.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "B",
+    "gpt_response": "Hmm, I'm not quite sure what all that means, but let's think about it. \n\nFor the first statement, it says something about cyclic groups. Cyclic groups are groups where you can just keep repeating the elements over and over. So if you have an external direct product of cyclic groups, it means you're combining them in a certain way. And it says that when you do this, the result is also a cyclic group. That sounds like it could be true!\n\nFor the second statement, it talks about D_3 and D_4 and says something about them being isomorphic to D_12. Isomorphic usually means that two things are kind of the same in a certain way. So if you take the external direct product of D_3 and D_4, and it turns out to be isomorphic to D_12, that could be true too!\n\nSo I think the answer is A: True, True. Both statements could be true based on what we know about cyclic groups and isomorphic groups.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to B?: Hmm, I'm not quite sure what all that means, but let's think about it. \n\nFor the first statement, it says something about cyclic groups. Cyclic groups are groups where you can just keep repeating the elements over and over. So if you have an external direct product of cyclic groups, it means you're combining them in a certain way. And it says that when you do this, the result is also a cyclic group. That sounds like it could be true!\n\nFor the second statement, it talks about D_3 and D_4 and says something about them being isomorphic to D_12. Isomorphic usually means that two things are kind of the same in a certain way. So if you take the external direct product of D_3 and D_4, and it turns out to be isomorphic to D_12, that could be true too!\n\nSo I think the answer is A: True, True. Both statements could be true based on what we know about cyclic groups and isomorphic groups.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

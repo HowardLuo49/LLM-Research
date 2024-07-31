@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Compute $1011_2 + 101_2 - 1100_2 + 1101_2$.  Express your answer in base 2.",
+    "solution": "$1011_2 + 101_2 - 1100_2 + 1101_2 = (1011_2 + 101_2) + (-1100_2 + 1101_2) = 10000_2 + 1_2 = \\boxed{10001_2}$.",
+    "gpt_response": "Alright, let's first add 1011 and 101 in base 2. \n\n```\n  1011\n+  101\n-------\n 10100\n```\n\nNow, let's subtract 1100 from the result.\n\n```\n 10100\n- 1100\n-------\n  1111\n```\n\nLastly, let's add 1101 to the previous result.\n\n```\n  1111\n+ 1101\n-------\n 11000\n```\n\nSo, $1011_2 + 101_2 - 1100_2 + 1101_2 = 11000_2$ in base 2.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 10001_2?: Alright, let's first add 1011 and 101 in base 2. \n\n```\n  1011\n+  101\n-------\n 10100\n```\n\nNow, let's subtract 1100 from the result.\n\n```\n 10100\n- 1100\n-------\n  1111\n```\n\nLastly, let's add 1101 to the previous result.\n\n```\n  1111\n+ 1101\n-------\n 11000\n```\n\nSo, $1011_2 + 101_2 - 1100_2 + 1101_2 = 11000_2$ in base 2.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

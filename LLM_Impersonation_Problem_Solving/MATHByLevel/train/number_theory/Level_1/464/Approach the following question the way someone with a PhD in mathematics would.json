@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. How many positive multiples of 5 that are less than 100 have a units digit of 5?",
+    "solution": "Every even multiple of 5 has a units digit of 0 and every odd multiple of 5 has a units digit of 5. There are $100/5=20$ positive multiples of 5 less than or equal to 100. One half of them, $20/2=10$, are odd multiples of 5. Therefore, $\\boxed{10}$ positive multiples of 5 that are less than 100 have a units digit of 5.",
+    "gpt_response": "To determine the number of positive multiples of 5 less than 100 that have a units digit of 5, we can first list out the multiples of 5 that have a units digit of 5:\n\n5, 15, 25, 35, 45, 55, 65, 75, 85, 95\n\nThere are a total of 10 positive multiples of 5 less than 100 that have a units digit of 5. This can be confirmed by noticing that all these numbers follow the pattern of ending in 5 or 0 when multiplied by 5. Thus, we find that there are 10 positive multiples of 5 less than 100 that have a units digit of 5.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 10?: To determine the number of positive multiples of 5 less than 100 that have a units digit of 5, we can first list out the multiples of 5 that have a units digit of 5:\n\n5, 15, 25, 35, 45, 55, 65, 75, 85, 95\n\nThere are a total of 10 positive multiples of 5 less than 100 that have a units digit of 5. This can be confirmed by noticing that all these numbers follow the pattern of ending in 5 or 0 when multiplied by 5. Thus, we find that there are 10 positive multiples of 5 less than 100 that have a units digit of 5.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

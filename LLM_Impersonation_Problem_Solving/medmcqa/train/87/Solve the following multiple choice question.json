@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. Fever associated with infection\n1: Accelerates bacterial and viral replication\n2: Left shifts the oxygen dissociation curve\n3: Is due to interleukin-1 released from CD4 T-helper cells\n4: Increase oxygen release to tissue",
+    "solution": 4,
+    "gpt_response": "3: Is due to interleukin-1 released from CD4 T-helper cells.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 4?: 3: Is due to interleukin-1 released from CD4 T-helper cells.",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

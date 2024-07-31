@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Express $(5-4i)-2(3+6i)$ as a complex number.",
+    "solution": "$(5-4i)-2(3+6i) = 5-4i -6 -12i = \\boxed{-1-16i}$.",
+    "gpt_response": "To solve this problem, first distribute the -2 to both terms in the parentheses. \n\n$(5-4i)-2(3+6i) = 5-4i-6-12i$\n\nCombine like terms.\n\n$5-6-4i-12i = -1-16i$\n\nTherefore, $(5-4i)-2(3+6i) = -1-16i$ in complex number form.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to -1-16i?: To solve this problem, first distribute the -2 to both terms in the parentheses. \n\n$(5-4i)-2(3+6i) = 5-4i-6-12i$\n\nCombine like terms.\n\n$5-6-4i-12i = -1-16i$\n\nTherefore, $(5-4i)-2(3+6i) = -1-16i$ in complex number form.",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

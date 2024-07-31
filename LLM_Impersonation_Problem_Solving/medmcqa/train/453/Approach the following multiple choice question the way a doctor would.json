@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. RNA primer is synthesized by -\n1: Topoisomerase\n2: Helicase\n3: DNA primase\n4: DNA ligase",
+    "solution": 3,
+    "gpt_response": "As a doctor, the correct answer is 3: DNA primase. RNA primers are synthesized by DNA primase during DNA replication in order to provide a starting point for DNA polymerase to begin synthesizing new DNA strands.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: As a doctor, the correct answer is 3: DNA primase. RNA primers are synthesized by DNA primase during DNA replication in order to provide a starting point for DNA polymerase to begin synthesizing new DNA strands.",
+    "gpt_response_correct_incorrect": "Yes, the final solution obtained in the response is 3: DNA primase.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

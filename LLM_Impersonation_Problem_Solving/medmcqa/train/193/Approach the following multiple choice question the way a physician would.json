@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Which test is not useful in a patient with history of Syncopal attack?\n1: Electrophysiological testing\n2: Tilt Table testing\n3: PET Scan\n4: Holter monitoring",
+    "solution": 3,
+    "gpt_response": "The test that is not useful in a patient with a history of a syncopal attack is option 3: PET Scan. This imaging test is typically not used to evaluate syncope or fainting episodes. The other options, electrophysiological testing, tilt table testing, and Holter monitoring, are more commonly used in the evaluation of patients with syncopal attacks.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: The test that is not useful in a patient with a history of a syncopal attack is option 3: PET Scan. This imaging test is typically not used to evaluate syncope or fainting episodes. The other options, electrophysiological testing, tilt table testing, and Holter monitoring, are more commonly used in the evaluation of patients with syncopal attacks.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

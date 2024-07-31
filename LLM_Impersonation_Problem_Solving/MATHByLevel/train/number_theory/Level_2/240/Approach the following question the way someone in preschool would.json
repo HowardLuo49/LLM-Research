@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. What day of the week will it be 40 days from Tuesday?",
+    "solution": "When you divide 40 days in a week by 7 days, you get a remainder of 5.  Five days from Tuesday is $\\boxed{\\text{Sunday}}$.",
+    "gpt_response": "Let's count together! Tuesday is the first day, so we'll go 1, 2, 3, 4... all the way up to 40 days. Can you help me count? Let's start with Tuesday and count each day until we reach 40. Let's see, Tuesday... Wednesday, Thursday, Friday, Saturday, Sunday, Monday, Tuesday... oh, it's Thursday! So, 40 days from Tuesday will be Thursday. Yay, we did it!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to \\text{Sunday?: Let's count together! Tuesday is the first day, so we'll go 1, 2, 3, 4... all the way up to 40 days. Can you help me count? Let's start with Tuesday and count each day until we reach 40. Let's see, Tuesday... Wednesday, Thursday, Friday, Saturday, Sunday, Monday, Tuesday... oh, it's Thursday! So, 40 days from Tuesday will be Thursday. Yay, we did it!",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

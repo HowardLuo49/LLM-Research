@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in philosophy would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in philosophy would. Recently, Frank took a one-hundred question aptitude test where each correct answer scored $5$ points, each incorrect answer scored $-2$ points, and each question not answered scored zero points. Frank answered $80$ questions and scored $232$ points. How many questions did he answer correctly?",
+    "solution": "56",
+    "gpt_response": "From the information given, let $x$ represent the number of questions Frank answered correctly. Therefore, he must have answered $(80-x)$ questions incorrectly.\n\nGiven that each correct answer scores $5$ points and each incorrect answer scores $-2$ points, we can set up the following equation:\n\n\\[5x - 2(80-x) = 232\\]\n\nSolving this equation yields:\n\n\\[5x - 160 + 2x = 232\\]\n\\[7x = 392\\]\n\\[x = \\frac{392}{7}\\]\n\\[x = 56\\]\n\nTherefore, Frank answered $56$ questions correctly.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 56?: From the information given, let $x$ represent the number of questions Frank answered correctly. Therefore, he must have answered $(80-x)$ questions incorrectly.\n\nGiven that each correct answer scores $5$ points and each incorrect answer scores $-2$ points, we can set up the following equation:\n\n\\[5x - 2(80-x) = 232\\]\n\nSolving this equation yields:\n\n\\[5x - 160 + 2x = 232\\]\n\\[7x = 392\\]\n\\[x = \\frac{392}{7}\\]\n\\[x = 56\\]\n\nTherefore, Frank answered $56$ questions correctly.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

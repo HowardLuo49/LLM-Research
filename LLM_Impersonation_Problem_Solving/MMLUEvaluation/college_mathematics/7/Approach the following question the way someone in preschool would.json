@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Consider a segment of length 10. Points A and B are chosen randomly such that A and B divide the segment into three smaller segments. What is the probability that the three smaller segments could form the sides of a triangle?\nA: 0\nB: 10%\nC: 25%\nD: 50%",
+    "solution": "C",
+    "gpt_response": "Hmm... to make a triangle, the sum of the lengths of two of the smaller segments must be greater than the length of the third smaller segment. Let's imagine playing with some blocks to see which ones could make a triangle. Hmm... after trying different ways, I think the probability is 50% because sometimes the smaller segments can make a triangle, but sometimes they can't. So the answer is D: 50%.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to C?: Hmm... to make a triangle, the sum of the lengths of two of the smaller segments must be greater than the length of the third smaller segment. Let's imagine playing with some blocks to see which ones could make a triangle. Hmm... after trying different ways, I think the probability is 50% because sometimes the smaller segments can make a triangle, but sometimes they can't. So the answer is D: 50%.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

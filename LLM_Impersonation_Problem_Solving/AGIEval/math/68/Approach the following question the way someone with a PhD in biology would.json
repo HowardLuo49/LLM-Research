@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. A rectangular garden shares one side with one side of a house. An adjacent side of the garden is eight feet long. If the area of the garden is 184 square feet, what is the length, in feet, of the common side?",
+    "solution": "23",
+    "gpt_response": "To solve this problem, we need to apply basic principles of geometry and algebra. Let's denote the length of the common side as x. Since the adjacent side is 8 feet long, the area of the garden can be represented as the product of x and 8, which gives us:\n\nArea = x * 8 = 184\n\nNow, we can solve for x by dividing both sides by 8:\n\nx = 184 / 8\nx = 23\n\nTherefore, the length of the common side, in feet, is 23.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 23?: To solve this problem, we need to apply basic principles of geometry and algebra. Let's denote the length of the common side as x. Since the adjacent side is 8 feet long, the area of the garden can be represented as the product of x and 8, which gives us:\n\nArea = x * 8 = 184\n\nNow, we can solve for x by dividing both sides by 8:\n\nx = 184 / 8\nx = 23\n\nTherefore, the length of the common side, in feet, is 23.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

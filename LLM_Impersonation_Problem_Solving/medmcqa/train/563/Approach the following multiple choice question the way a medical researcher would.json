@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a medical researcher would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a medical researcher would. Ulcer with undermined edges is seen in\n1: Malignant ulcer\n2: Tubercular ulcer\n3: Venous ulcer\n4: Diabetic ulcer",
+    "solution": 2,
+    "gpt_response": "In order to determine which type of ulcer presents with undermined edges, a medical researcher would reference relevant literature on ulcer characteristics and etiology. They would seek information on the typical features of each type of ulcer mentioned in the multiple choice question, including malignant ulcers, tubercular ulcers, venous ulcers, and diabetic ulcers.\n\nBased on their research findings, the medical researcher would be able to make an educated guess on which type of ulcer is most likely to present with undermined edges. This answer would be supported by evidence from medical texts, research studies, and clinical experience.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: In order to determine which type of ulcer presents with undermined edges, a medical researcher would reference relevant literature on ulcer characteristics and etiology. They would seek information on the typical features of each type of ulcer mentioned in the multiple choice question, including malignant ulcers, tubercular ulcers, venous ulcers, and diabetic ulcers.\n\nBased on their research findings, the medical researcher would be able to make an educated guess on which type of ulcer is most likely to present with undermined edges. This answer would be supported by evidence from medical texts, research studies, and clinical experience.",
+    "gpt_response_correct_incorrect": "No, the final solution obtained in the response is not 2.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

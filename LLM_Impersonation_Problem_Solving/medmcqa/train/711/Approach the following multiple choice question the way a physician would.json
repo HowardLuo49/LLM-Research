@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Drug of choice for ADHD is\n1: Methylphenidate\n2: Modafinil\n3: Amitriptyline\n4: Adrenaline",
+    "solution": 1,
+    "gpt_response": "As a physician, the drug of choice for ADHD would be Methylphenidate (Option 1). This drug is a stimulant medication commonly prescribed for the treatment of ADHD and has been shown to be effective in improving symptoms such as hyperactivity, impulsivity, and inattention. Modafinil (Option 2) is not typically used for the treatment of ADHD, while Amitriptyline (Option 3) is an antidepressant that is not commonly used for ADHD. Adrenaline (Option 4) is not a recommended treatment for ADHD.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: As a physician, the drug of choice for ADHD would be Methylphenidate (Option 1). This drug is a stimulant medication commonly prescribed for the treatment of ADHD and has been shown to be effective in improving symptoms such as hyperactivity, impulsivity, and inattention. Modafinil (Option 2) is not typically used for the treatment of ADHD, while Amitriptyline (Option 3) is an antidepressant that is not commonly used for ADHD. Adrenaline (Option 4) is not a recommended treatment for ADHD.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

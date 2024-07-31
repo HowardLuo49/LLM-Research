@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. Let $n$ be a  positive integer and $a$ be an integer such that $a$ is its own inverse modulo $n$. What is the remainder when $a^2$ is divided by $n$?",
+    "solution": "Since $a$ is its own inverse modulo $n$, $a\\equiv a^{-1}\\pmod n$. Then \\[a^2\\equiv a\\cdot a\\equiv a\\cdot a^{-1}\\equiv \\boxed{1}\\pmod n.\\]",
+    "gpt_response": "First, let's think about what it means for a number to be its own inverse modulo some other number. This means that when you multiply the number by itself, and then take the remainder when dividing by the other number, you get 1. So, if $a$ is its own inverse modulo $n$, we have $a \\times a \\equiv 1 \\pmod{n}$.\n\nNow we want to find the remainder when $a^2$ is divided by $n$. We know that $a \\times a \\equiv 1 \\pmod{n}$, so $a^2 \\equiv 1 \\pmod{n}$. Therefore, the remainder when $a^2$ is divided by $n$ is $1$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 1?: First, let's think about what it means for a number to be its own inverse modulo some other number. This means that when you multiply the number by itself, and then take the remainder when dividing by the other number, you get 1. So, if $a$ is its own inverse modulo $n$, we have $a \\times a \\equiv 1 \\pmod{n}$.\n\nNow we want to find the remainder when $a^2$ is divided by $n$. We know that $a \\times a \\equiv 1 \\pmod{n}$, so $a^2 \\equiv 1 \\pmod{n}$. Therefore, the remainder when $a^2$ is divided by $n$ is $1$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

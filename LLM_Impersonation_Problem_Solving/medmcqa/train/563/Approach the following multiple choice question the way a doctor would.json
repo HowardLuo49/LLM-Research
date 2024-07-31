@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Ulcer with undermined edges is seen in\n1: Malignant ulcer\n2: Tubercular ulcer\n3: Venous ulcer\n4: Diabetic ulcer",
+    "solution": 2,
+    "gpt_response": "As a doctor, when discussing an ulcer with undermined edges, it's important to consider the different types of ulcers commonly seen in clinical practice. In this scenario, the finding of an ulcer with undermined edges typically suggests a diagnosis of a malignant ulcer. Malignant ulcers often have irregular, undermined edges and may be associated with malignancies such as squamous cell carcinoma or basal cell carcinoma. It is important to conduct further evaluation, including a biopsy, to confirm the diagnosis and determine the most appropriate treatment for the patient.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: As a doctor, when discussing an ulcer with undermined edges, it's important to consider the different types of ulcers commonly seen in clinical practice. In this scenario, the finding of an ulcer with undermined edges typically suggests a diagnosis of a malignant ulcer. Malignant ulcers often have irregular, undermined edges and may be associated with malignancies such as squamous cell carcinoma or basal cell carcinoma. It is important to conduct further evaluation, including a biopsy, to confirm the diagnosis and determine the most appropriate treatment for the patient.",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

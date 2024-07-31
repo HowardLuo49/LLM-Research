@@ -1,0 +1,10 @@
+{
+    "prefix": "You are an expert in number theory. Solve the following problem. ",
+    "problem_prompt": "You are an expert in number theory. Solve the following problem. If $\\frac{60}{2^3\\cdot5^8}$ is expressed as a decimal, how many non-zero digits are to the right of the decimal point?",
+    "solution": "Rewriting and reducing the fraction, we get $\\frac{60}{2^3\\cdot5^8} = \\frac{2^2\\cdot3\\cdot5}{2^3\\cdot5^8} = \\frac{3}{2\\cdot5^7}$. Multiplying the numerator and denominator by $2^6$, we obtain\n\\[\\frac{3}{2\\cdot5^7}\\cdot\\frac{2^6}{2^6} = \\frac{3\\cdot2^6}{2^7 \\cdot 5^7} = \\frac{192}{10^7} = .0000192.\\]Therefore, there are $\\boxed{3}$ non-zero digits to the right of the decimal point.",
+    "gpt_response": "First, we simplify the fraction: $\\frac{60}{2^3\\cdot5^8} = \\frac{60}{8\\cdot390625} = \\frac{60}{3125000} = 0.0000192$\n\nThere are $5$ non-zero digits to the right of the decimal point.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 3?: First, we simplify the fraction: $\\frac{60}{2^3\\cdot5^8} = \\frac{60}{8\\cdot390625} = \\frac{60}{3125000} = 0.0000192$\n\nThere are $5$ non-zero digits to the right of the decimal point.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes"
+}

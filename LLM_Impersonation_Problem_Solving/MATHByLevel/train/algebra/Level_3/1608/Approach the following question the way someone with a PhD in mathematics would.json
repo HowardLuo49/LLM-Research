@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. Find all solutions to the equation $\\sqrt{5+2z} = 11$.",
+    "solution": "We square both sides to get rid of the square root sign.  This gives us $5+2z = 121$.  Solving for $z$ gives $z = \\boxed{58}$.  We squared an equation, so we have to test our solution to make sure it isn't extraneous.  We have\n\\[\\sqrt{5 +2 \\cdot 58} =\\sqrt{121} = 11\\]so our solution is valid.",
+    "gpt_response": "To find all solutions to the equation $\\sqrt{5+2z} = 11$, we must isolate the square root term and then square both sides to eliminate the square root. \n\nFirst, isolate the square root term by subtracting 5 from both sides:\n$\\sqrt{2z} = 6$\n\nNext, square both sides to eliminate the square root:\n$(\\sqrt{2z})^2 = 6^2$\n$2z = 36$\n\nDivide both sides by 2 to solve for z:\n$z = 18$\n\nTherefore, the solution to the equation $\\sqrt{5+2z} = 11$ is $z = 18$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 58?: To find all solutions to the equation $\\sqrt{5+2z} = 11$, we must isolate the square root term and then square both sides to eliminate the square root. \n\nFirst, isolate the square root term by subtracting 5 from both sides:\n$\\sqrt{2z} = 6$\n\nNext, square both sides to eliminate the square root:\n$(\\sqrt{2z})^2 = 6^2$\n$2z = 36$\n\nDivide both sides by 2 to solve for z:\n$z = 18$\n\nTherefore, the solution to the equation $\\sqrt{5+2z} = 11$ is $z = 18$.",
+    "gpt_response_correct_incorrect": "No",
+    "yes_no": "no"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. What is the modulo $5$ remainder of the sum $1+2+3+4+5+ \\ldots + 120+121+122+123?$",
+    "solution": "Instead of adding up the sum and finding the residue, we can find the residue of each number to make computation easier.\n\nEach group of $5$ numbers would have the sum of residues $1+2+3+4+0=10$. Since $10 \\equiv 0 \\pmod{5}$, we can ignore every group of $5$.\n\nThis leaves the numbers $121,122,$ and $123$. The sum of the residues is $1+2+3 \\equiv 6 \\equiv \\boxed{1} \\pmod{5}$.",
+    "gpt_response": "Let's count the numbers and see. \n\n1+2 = 3 (3 is less than 5)\n1+2+3 = 6 (1 is the same as 6 modulo 5)\n1+2+3+4 = 10 (10 is the same as 0 modulo 5)\n1+2+3+4+5 = 15 (15 is the same as 0 modulo 5)\n\nNow we see a pattern! The sum of any 5 consecutive numbers is always the same modulo 5. So we just need to see how many groups of 5 we have in the sum.\n\n123 divided by 5 is 24 with a remainder of 3. So we have 24 groups of 5, each with a sum that's 0 modulo 5. And then we have the last 3 numbers: 121, 122, 123.\n\n121 is the same as 1 modulo 5.\n122 is the same as 2 modulo 5.\n123 is the same as 3 modulo 5.\n\nAdding these up gives 1+2+3 = 6 which is the same as 1 modulo 5.\n\nSo the total sum is 0 (from the groups of 5) + 1 (from the last 3 numbers) = 1. The modulo 5 remainder of the sum is 1.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 1?: Let's count the numbers and see. \n\n1+2 = 3 (3 is less than 5)\n1+2+3 = 6 (1 is the same as 6 modulo 5)\n1+2+3+4 = 10 (10 is the same as 0 modulo 5)\n1+2+3+4+5 = 15 (15 is the same as 0 modulo 5)\n\nNow we see a pattern! The sum of any 5 consecutive numbers is always the same modulo 5. So we just need to see how many groups of 5 we have in the sum.\n\n123 divided by 5 is 24 with a remainder of 3. So we have 24 groups of 5, each with a sum that's 0 modulo 5. And then we have the last 3 numbers: 121, 122, 123.\n\n121 is the same as 1 modulo 5.\n122 is the same as 2 modulo 5.\n123 is the same as 3 modulo 5.\n\nAdding these up gives 1+2+3 = 6 which is the same as 1 modulo 5.\n\nSo the total sum is 0 (from the groups of 5) + 1 (from the last 3 numbers) = 1. The modulo 5 remainder of the sum is 1.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "0",
+    "difficulty_value": "N/A"
+}

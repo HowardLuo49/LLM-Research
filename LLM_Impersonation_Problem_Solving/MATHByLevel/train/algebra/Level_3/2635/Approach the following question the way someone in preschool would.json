@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. If $A:B:C = 2:1:4$, what is the value of $(3A + 2B) \\div (4C - A)$? Express your answer as a common fraction.",
+    "solution": "Suppose that $B = x$.  Then $A = 2x$ and $C = 4x$.  Thus $(3A + 2B)\\div (4C - A) = \\frac{8x}{14x} = \\frac{8}{14}=\\boxed{\\frac{4}{7}}$.",
+    "gpt_response": "Let's count together! If we have 2 apples, 1 banana, and 4 carrots, let's see how many we have all together. \n\nWe have 2 apples, then we add 1 banana, which makes a total of 3 fruits. And then we add 4 carrots, which makes a total of 7 fruits. So, the value of $A+B+C$ is 2+1+4 = 7. \n\nNow, let's find the value of $(3A + 2B) \\div (4C - A)$. \n\nSubstitute the given ratios into the expression: \n$(3(2) + 2(1)) \\div (4(4) - 2)$\n= $(6 + 2) \\div (16 - 2)$\n= $8 \\div 14$\n\nSo, the value is $\\frac{8}{14}$, which simplifies to $\\frac{4}{7}$. \n\nGreat job counting with me!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to \\frac{4?: Let's count together! If we have 2 apples, 1 banana, and 4 carrots, let's see how many we have all together. \n\nWe have 2 apples, then we add 1 banana, which makes a total of 3 fruits. And then we add 4 carrots, which makes a total of 7 fruits. So, the value of $A+B+C$ is 2+1+4 = 7. \n\nNow, let's find the value of $(3A + 2B) \\div (4C - A)$. \n\nSubstitute the given ratios into the expression: \n$(3(2) + 2(1)) \\div (4(4) - 2)$\n= $(6 + 2) \\div (16 - 2)$\n= $8 \\div 14$\n\nSo, the value is $\\frac{8}{14}$, which simplifies to $\\frac{4}{7}$. \n\nGreat job counting with me!",
+    "gpt_response_correct_incorrect": "No",
+    "yes_no": "no"
+}

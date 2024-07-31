@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in philosophy would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in philosophy would. How many atoms are there in CN1CCCC(C1)C(=O)ON?\nAnswer (numerical number):",
+    "solution": [
+        25
+    ],
+    "gpt_response": "There are 33 atoms in the compound CN1CCCC(C1)C(=O)ON. This number is reached by analyzing the molecular formula and structure of the compound, accounting for each individual atom present, including carbon, nitrogen, oxygen, and hydrogen atoms.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response [25]?: There are 33 atoms in the compound CN1CCCC(C1)C(=O)ON. This number is reached by analyzing the molecular formula and structure of the compound, accounting for each individual atom present, including carbon, nitrogen, oxygen, and hydrogen atoms.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "20",
+    "difficulty_value": "2"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. Statement 1 | If G, H and K are groups of order 4, at least two of them are isomorphic. Statement 2 | If Z_r + Z_s is isomorphic to a subgroup Z_m + Z_n, then r divides m and s divides n.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "C",
+    "gpt_response": "So, the first statement says if we have 3 groups of order 4, at least 2 of them are the same. That makes sense because if they all had different structures, we would have too many ways to arrange them. So, that statement is true.\n\nThe second statement says if two groups are isomorphic, then certain numbers have to divide each other. That seems like it could be true because if they are the same, then their sizes must be related in some way. So, that statement is also true.\n\nSo, my answer is A: True, True.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to C?: So, the first statement says if we have 3 groups of order 4, at least 2 of them are the same. That makes sense because if they all had different structures, we would have too many ways to arrange them. So, that statement is true.\n\nThe second statement says if two groups are isomorphic, then certain numbers have to divide each other. That seems like it could be true because if they are the same, then their sizes must be related in some way. So, that statement is also true.\n\nSo, my answer is A: True, True.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

@@ -1,0 +1,7 @@
+{
+    "prefix": "You are in elementary school.\n",
+    "problem_prompt": "You are in elementary school.\nHow many ways are there to put 5 balls in 2 boxes if the balls are distinguishable and the boxes are distinguishable?",
+    "solution": "There are 2 different boxes, so each of the 5 balls can be placed in two different locations.  So the answer is $2^5 = \\boxed{32}$.",
+    "gpt_response": "ChatCompletion(id='chatcmpl-9A2dW6s3V30Orpyob3X8w4zbJ0Sz5', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='There are 25 = 32 ways to put 5 distinguishable balls into 2 distinguishable boxes. Each ball has 2 choices of which box to go into, so there are 2^5 = 32 total ways to distribute the balls.', role='assistant', function_call=None, tool_calls=None))], created=1712180442, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint='fp_b28b39ffa8', usage=CompletionUsage(completion_tokens=52, prompt_tokens=40, total_tokens=92))",
+    "yes_no": "yes"
+}

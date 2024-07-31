@@ -1,0 +1,10 @@
+{
+    "prefix": "You are an expert in number theory. Solve the following problem. ",
+    "problem_prompt": "You are an expert in number theory. Solve the following problem. What day of the week will it be 40 days from Tuesday?",
+    "solution": "When you divide 40 days in a week by 7 days, you get a remainder of 5.  Five days from Tuesday is $\\boxed{\\text{Sunday}}$.",
+    "gpt_response": "To solve this problem, we need to find the remainder when 40 is divided by 7 (since there are 7 days in a week).\n\n40 divided by 7 gives a quotient of 5 and a remainder of 5. This means that 40 days from Tuesday will be 5 days ahead in the week.\n\nStarting from Tuesday, count 5 days ahead, we get:\n\nTuesday -> Wednesday -> Thursday -> Friday -> Saturday -> Sunday\n\nTherefore, 40 days from Tuesday will be a Sunday.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response \\text{Sunday?: To solve this problem, we need to find the remainder when 40 is divided by 7 (since there are 7 days in a week).\n\n40 divided by 7 gives a quotient of 5 and a remainder of 5. This means that 40 days from Tuesday will be 5 days ahead in the week.\n\nStarting from Tuesday, count 5 days ahead, we get:\n\nTuesday -> Wednesday -> Thursday -> Friday -> Saturday -> Sunday\n\nTherefore, 40 days from Tuesday will be a Sunday.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes"
+}

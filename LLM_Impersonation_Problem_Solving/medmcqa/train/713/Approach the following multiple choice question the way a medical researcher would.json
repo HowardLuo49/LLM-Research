@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a medical researcher would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a medical researcher would. A 16 year old boy does not attend school because of the fear of being harmed by school mates. He thinks that his classmates laugh at him and talk about him. He is even scared of going out of the market. He is most likely suffering from:\n1: Anxiety disorder\n2: Manic depressive psychosis (bipolar disorder)\n3: Adjustment reaction\n4: Schizophrenia",
+    "solution": 4,
+    "gpt_response": "Based on the symptoms described, the 16-year-old boy is most likely suffering from an anxiety disorder. Anxiety disorders are characterized by excessive and uncontrollable worry, fear, or dread. In this case, the boy's fear of being harmed by schoolmates, belief that classmates laugh and talk about him, and fear of going out in public are all indicative of an anxiety disorder. Manic depressive psychosis, adjustment reaction, and schizophrenia are less likely based on the symptoms described.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 4?: Based on the symptoms described, the 16-year-old boy is most likely suffering from an anxiety disorder. Anxiety disorders are characterized by excessive and uncontrollable worry, fear, or dread. In this case, the boy's fear of being harmed by schoolmates, belief that classmates laugh and talk about him, and fear of going out in public are all indicative of an anxiety disorder. Manic depressive psychosis, adjustment reaction, and schizophrenia are less likely based on the symptoms described.",
+    "gpt_response_correct_incorrect": "No, the final solution is not obtained in response 4.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

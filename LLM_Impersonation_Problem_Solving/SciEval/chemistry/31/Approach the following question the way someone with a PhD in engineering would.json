@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in engineering would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in engineering would. What is the molecular weight of C11H25NO2?\nAnswer (numerical number):",
+    "solution": [
+        "203.32"
+    ],
+    "gpt_response": "The molecular weight of C11H25NO2 can be calculated by summing the atomic weights of each element in the chemical formula. \n\nC11 = 12.011 * 11 = 132.121\nH25 = 1.008 * 25 = 25.2\nN = 14.007\nO2 = 15.999 * 2 = 31.998\n\nTotal molecular weight = 132.121 + 25.2 + 14.007 + 31.998 = 203.326\n\nTherefore, the molecular weight of C11H25NO2 is 203.326 g/mol.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response ['203.32']?: The molecular weight of C11H25NO2 can be calculated by summing the atomic weights of each element in the chemical formula. \n\nC11 = 12.011 * 11 = 132.121\nH25 = 1.008 * 25 = 25.2\nN = 14.007\nO2 = 15.999 * 2 = 31.998\n\nTotal molecular weight = 132.121 + 25.2 + 14.007 + 31.998 = 203.326\n\nTherefore, the molecular weight of C11H25NO2 is 203.326 g/mol.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "200",
+    "difficulty_value": "2"
+}

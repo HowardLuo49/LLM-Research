@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. Compute the multiplicative inverse of $201$ modulo $299$. Express your answer as an integer from $0$ to $298$.",
+    "solution": "Let $a$ be the inverse of $201$ modulo $299$. Then, by the definition of the inverse, $201\\cdot a \\equiv 1\\pmod{299}$. We are looking for an integer $a$ that satisfies this congruence.\n\nTo make our task easier, we note that $603\\equiv 5\\pmod{299}$, and so \\begin{align*}\n603\\cdot 60 &\\equiv 5\\cdot 60 \\\\\n&= 300 \\\\\n&\\equiv 1\\pmod{299}.\n\\end{align*}Now we write $603$ as $201\\cdot 3$: $$201\\cdot 3\\cdot 60 \\equiv 1\\pmod{299}.$$Thus, the inverse we seek is $a = 3\\cdot 60 = \\boxed{180}$.",
+    "gpt_response": "To find the multiplicative inverse of $201$ modulo $299, we need to find a number that, when multiplied by $201$, gives a remainder of $1$ when divided by $299$. \n\nFirst, we can try multiplying $201$ by different numbers until we find one that gives a remainder of $1$ when divided by $299$. \n$1 \\times 201 = 201$\n$2 \\times 201 = 402$\n$3 \\times 201 = 603$\nAnd so on...\n\nAfter trying a few numbers, we find that $201 \\times 149 = 29949$. Since $29949$ leaves a remainder of $1$ when divided by $299$, the multiplicative inverse of $201$ modulo $299$ is $149$.\n\nSo, the answer is $\\boxed{149}$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 180?: To find the multiplicative inverse of $201$ modulo $299, we need to find a number that, when multiplied by $201$, gives a remainder of $1$ when divided by $299$. \n\nFirst, we can try multiplying $201$ by different numbers until we find one that gives a remainder of $1$ when divided by $299$. \n$1 \\times 201 = 201$\n$2 \\times 201 = 402$\n$3 \\times 201 = 603$\nAnd so on...\n\nAfter trying a few numbers, we find that $201 \\times 149 = 29949$. Since $29949$ leaves a remainder of $1$ when divided by $299$, the multiplicative inverse of $201$ modulo $299$ is $149$.\n\nSo, the answer is $\\boxed{149}$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "9",
+    "difficulty_value": "9"
+}

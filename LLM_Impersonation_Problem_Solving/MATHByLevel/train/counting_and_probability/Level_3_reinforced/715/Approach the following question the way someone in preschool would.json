@@ -1,0 +1,10 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. I have 6 shirts, 4 pairs of pants, and 6 hats. The pants come in tan, black, blue, and gray. The shirts and hats come in those colors, and also white and yellow. I refuse to wear an outfit in which all 3 items are the same color. How many choices for outfits, consisting of one shirt, one hat, and one pair of pants, do I have?",
+    "solution": "The number of all outfit combinations is $6\\times 4\\times 6=144$. There are 4 outfits in which all three items are the same color. Thus there are $144-4=\\boxed{140}$ outfits in which not all three items are the same color.",
+    "gpt_response": "Let's count together! We can start by choosing a shirt. There are 6 choices for shirts. Then we can choose a hat. There are 6 choices for hats. And finally, we can choose a pair of pants. There are 4 choices for pants. So, when we multiply all the choices together, we get 6 (shirts) x 6 (hats) x 4 (pants) = 144 different outfit choices. Wow, that's a lot of outfits to choose from!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 140?: Let's count together! We can start by choosing a shirt. There are 6 choices for shirts. Then we can choose a hat. There are 6 choices for hats. And finally, we can choose a pair of pants. There are 4 choices for pants. So, when we multiply all the choices together, we get 6 (shirts) x 6 (hats) x 4 (pants) = 144 different outfit choices. Wow, that's a lot of outfits to choose from!",
+    "gpt_response_correct_incorrect": "No. The final solution obtained is 144, not 140.",
+    "attempts": 3,
+    "yes_no": "no"
+}

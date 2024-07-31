@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Most dangerous paicles causing pneumoconiosis are of size\n1: A. 1-5 micron\n2: B. <1 micron\n3: C. 5-15 micron\n4: D. 10-20 micron",
+    "solution": 1,
+    "gpt_response": "As a physician, when considering the size of particles that are most dangerous for causing pneumoconiosis, it is important to take into account the potential for these particles to deposit deep into the lungs and cause damage. Typically, smaller particles are more likely to reach the smaller airways and alveoli, where they can cause inflammation and scarring leading to pneumoconiosis.\n\nIn this case, the most dangerous size of particles for causing pneumoconiosis would be option B, particles that are less than 1 micron in size. These particles are small enough to penetrate deep into the lungs and are more likely to cause respiratory issues and lung damage.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: As a physician, when considering the size of particles that are most dangerous for causing pneumoconiosis, it is important to take into account the potential for these particles to deposit deep into the lungs and cause damage. Typically, smaller particles are more likely to reach the smaller airways and alveoli, where they can cause inflammation and scarring leading to pneumoconiosis.\n\nIn this case, the most dangerous size of particles for causing pneumoconiosis would be option B, particles that are less than 1 micron in size. These particles are small enough to penetrate deep into the lungs and are more likely to cause respiratory issues and lung damage.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

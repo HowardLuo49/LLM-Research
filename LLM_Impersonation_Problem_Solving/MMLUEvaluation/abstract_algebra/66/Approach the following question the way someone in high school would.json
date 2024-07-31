@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Statement 1 | If R is a ring and f(x) and g(x) are in R[x], then deg (f(x)+g(x)) = maximum (deg f(x), deg g(x)). Statement 2 | If F is a field then every ideal of F[x] is principal.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "D",
+    "gpt_response": "Hmm, let's break down the statements. \n\nStatement 1 says that if you have two polynomials f(x) and g(x) in a ring R, then the degree of their sum is equal to the maximum of the degrees of the two polynomials. Sounds reasonable.\n\nStatement 2 says that in a field F, every ideal of F[x] is principal. I'm not exactly sure what that means, but it doesn't sound right because there are probably some fields where not every ideal is principal.\n\nSo, I would say the answer is C: True, False.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: Hmm, let's break down the statements. \n\nStatement 1 says that if you have two polynomials f(x) and g(x) in a ring R, then the degree of their sum is equal to the maximum of the degrees of the two polynomials. Sounds reasonable.\n\nStatement 2 says that in a field F, every ideal of F[x] is principal. I'm not exactly sure what that means, but it doesn't sound right because there are probably some fields where not every ideal is principal.\n\nSo, I would say the answer is C: True, False.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "9",
+    "difficulty_value": "9"
+}

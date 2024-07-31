@@ -1,0 +1,10 @@
+{
+    "prefix": "Solve the following problem. ",
+    "problem_prompt": "Solve the following problem. Find the integer $n$, $0 \\le n \\le 5$, such that \\[n \\equiv -3736 \\pmod{6}.\\]",
+    "solution": "Since $-3736 \\equiv 2 \\pmod{6}$, the integer $n$ we seek is $n = \\boxed{2}$.",
+    "gpt_response": "Since $-3736 \\equiv 2 \\pmod{6}$, the integer $n$ we are looking for is $\\boxed{2}$.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 2?: Since $-3736 \\equiv 2 \\pmod{6}$, the integer $n$ we are looking for is $\\boxed{2}$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes"
+}

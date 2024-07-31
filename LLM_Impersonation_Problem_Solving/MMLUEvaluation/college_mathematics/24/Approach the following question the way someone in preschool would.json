@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Statement 1 | Suppose {s_n} and {t_n} are sequences of complex numbers such that lim_n\u2192\u221e s_n = s and lim_n\u2192\u221e tn = t. lim_n\u2192\u221e s_nt_n = st. Statement 2 | There exists a bounded sequence of real numbers with no convergent subsequence.\nA: True, True\nB: True, False\nC: False, True\nD: False, False",
+    "solution": "B",
+    "gpt_response": "Statement 1 says that if two sequences of numbers get closer and closer to some numbers s and t, then when you multiply the numbers in the sequences together, you get closer and closer to the product of s and t. Statement 2 says that there is a sequence of numbers that doesn't have any part that gets closer and closer to a certain number. So, what do you think, do both statements sound true, both false, or one true and one false?",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to B?: Statement 1 says that if two sequences of numbers get closer and closer to some numbers s and t, then when you multiply the numbers in the sequences together, you get closer and closer to the product of s and t. Statement 2 says that there is a sequence of numbers that doesn't have any part that gets closer and closer to a certain number. So, what do you think, do both statements sound true, both false, or one true and one false?",
+    "gpt_response_correct_incorrect": "Both statements sound true.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

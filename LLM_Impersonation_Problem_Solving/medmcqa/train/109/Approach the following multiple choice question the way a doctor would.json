@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. In Familial hypercholesterolemia there is deficiency of\n1: LDL receptor\n2: Apoprotein A\n3: Apo protein C\n4: Lipoprotein lipase",
+    "solution": 1,
+    "gpt_response": "Based on my medical knowledge, the correct answer is 1: LDL receptor. In Familial hypercholesterolemia, there is a genetic mutation that leads to a deficiency or dysfunction of the LDL receptor on the surface of cells. This results in impaired uptake of low-density lipoprotein (LDL) cholesterol from the bloodstream, leading to high levels of LDL in the blood and an increased risk of heart disease.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: Based on my medical knowledge, the correct answer is 1: LDL receptor. In Familial hypercholesterolemia, there is a genetic mutation that leads to a deficiency or dysfunction of the LDL receptor on the surface of cells. This results in impaired uptake of low-density lipoprotein (LDL) cholesterol from the bloodstream, leading to high levels of LDL in the blood and an increased risk of heart disease.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

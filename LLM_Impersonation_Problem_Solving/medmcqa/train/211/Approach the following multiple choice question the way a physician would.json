@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Silicosis caused by ?\n1: Gold\n2: Coal\n3: CO\n4: Silica",
+    "solution": 4,
+    "gpt_response": "The correct answer is 4: Silica. Silicosis is a type of lung disease caused by breathing in silica dust, typically from activities such as mining, construction, and sandblasting.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 4?: The correct answer is 4: Silica. Silicosis is a type of lung disease caused by breathing in silica dust, typically from activities such as mining, construction, and sandblasting.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

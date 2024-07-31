@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in engineering would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in engineering would. Find the modulo 4 residue of $121 \\cdot 122 \\cdot 123$.",
+    "solution": "2",
+    "gpt_response": "To find the modulo 4 residue of the product $121 \\cdot 122 \\cdot 123$, we first compute the product and then find the residue when divided by 4.\n\n$121 \\cdot 122 \\cdot 123 = 1,785,486$\n\nDividing this by 4 gives a quotient of 446,371 with a remainder of 2. Therefore, the modulo 4 residue of $121 \\cdot 122 \\cdot 123$ is 2.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 2?: To find the modulo 4 residue of the product $121 \\cdot 122 \\cdot 123$, we first compute the product and then find the residue when divided by 4.\n\n$121 \\cdot 122 \\cdot 123 = 1,785,486$\n\nDividing this by 4 gives a quotient of 446,371 with a remainder of 2. Therefore, the modulo 4 residue of $121 \\cdot 122 \\cdot 123$ is 2.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

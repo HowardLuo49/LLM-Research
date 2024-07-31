@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. It is now 12:00:00 midnight, as read on a 12-hour digital clock. In 122 hours, 39 minutes and 44 seconds the time will be $A:B:C$. What is the value of $A + B + C$?",
+    "solution": "Since the clock reads the same time every 12 hours, we find the remainder after dividing 122 hours by 12 hours, which is 2 hours. Counting forward from midnight, the clock will read 2:39:44, so $A+B+C = \\boxed{85}$.",
+    "gpt_response": "Okay, so if it's 12:00:00 midnight right now, then in 122 hours, 39 minutes, and 44 seconds it will be the same time of day but not the same day. \n\nLet's figure out what time it will be in 122 hours. We know that 122 hours is equal to 5 days and 2 hours (since 24 hours is one day). So, if it's midnight right now, in 5 days it will still be midnight, and then we add 2 hours to get to 2:00:00 AM.\n\nNow, let's add the 39 minutes and 44 seconds. That will bring us to 2:39:44 AM.\n\nSo, the time will be 2:39:44 AM. Therefore, $A = 2$, $B = 3$, and $C = 4$.\n\nAdding them together, $A + B + C = 2 + 3 + 4 = 9$. \n\nSo, the value of $A + B + C$ is 9.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 85?: Okay, so if it's 12:00:00 midnight right now, then in 122 hours, 39 minutes, and 44 seconds it will be the same time of day but not the same day. \n\nLet's figure out what time it will be in 122 hours. We know that 122 hours is equal to 5 days and 2 hours (since 24 hours is one day). So, if it's midnight right now, in 5 days it will still be midnight, and then we add 2 hours to get to 2:00:00 AM.\n\nNow, let's add the 39 minutes and 44 seconds. That will bring us to 2:39:44 AM.\n\nSo, the time will be 2:39:44 AM. Therefore, $A = 2$, $B = 3$, and $C = 4$.\n\nAdding them together, $A + B + C = 2 + 3 + 4 = 9$. \n\nSo, the value of $A + B + C$ is 9.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

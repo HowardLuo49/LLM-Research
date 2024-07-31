@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. What is the molecular weight of CC(COC(=O)C=C)OOCC=C?\nAnswer (numerical number):",
+    "solution": [
+        "186.20"
+    ],
+    "gpt_response": "The molecular weight of CC(COC(=O)C=C)OOCC=C is 274.35 g/mol. \n\nTo calculate this, we need to add up the atomic weights of all the atoms in the molecular formula. \n\nC (Carbon) = 12.01 g/mol\nO (Oxygen) = 16.00 g/mol\n\nNow, let's count the number of each atom in the formula:\nC: 12 (12*12.01 = 144.12 g/mol)\nH: 18 (18*1.01 = 18.18 g/mol)\nO: 4 (4*16 = 64.00 g/mol)\n\nAdding these values together gives us a molecular weight of 274.30 g/mol.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response ['186.20']?: The molecular weight of CC(COC(=O)C=C)OOCC=C is 274.35 g/mol. \n\nTo calculate this, we need to add up the atomic weights of all the atoms in the molecular formula. \n\nC (Carbon) = 12.01 g/mol\nO (Oxygen) = 16.00 g/mol\n\nNow, let's count the number of each atom in the formula:\nC: 12 (12*12.01 = 144.12 g/mol)\nH: 18 (18*1.01 = 18.18 g/mol)\nO: 4 (4*16 = 64.00 g/mol)\n\nAdding these values together gives us a molecular weight of 274.30 g/mol.",
+    "gpt_response_correct_incorrect": "No, the final solution obtained in the response is 274.30 g/mol, not 186.20 g/mol.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "572.78",
+    "difficulty_value": "2"
+}

@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. Calculate the rotational velocity of the Milky Way's galactic disk at a distance of 29126 light-years from the galactic center, given that the observed radial velocity of a star at that distance is 225 km/s and the average rotational velocity of the galactic disk at that distance is 324 km/s. Additionally, please select the option from the given choices that you believe is closest to the correct answer!\n\nA. 324.0 km/s\nB. 201.75 km/s\nC. 207.36 km/s\nD. 205.54 km/s\n\nAnswer:",
+    "solution": [
+        "A"
+    ],
+    "gpt_response": "To calculate the rotational velocity of the Milky Way's galactic disk at a specific distance from the galactic center, we can use the formula:\n\nRotational velocity^2 = (Observed radial velocity)^2 + (Average rotational velocity)^2\n\nPlugging in the values given:\n\nRotational velocity^2 = (225 km/s)^2 + (324 km/s)^2\nRotational velocity^2 = 50625 km^2/s^2 + 104976 km^2/s^2\nRotational velocity^2 = 155601 km^2/s^2\n\nTaking the square root to find the rotational velocity:\n\nRotational velocity = sqrt(155601 km^2/s^2)\nRotational velocity \u2248 394.47 km/s\n\nTherefore, the closest option to the correct answer is:\n\nC. 207.36 km/s",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to ['A']?: To calculate the rotational velocity of the Milky Way's galactic disk at a specific distance from the galactic center, we can use the formula:\n\nRotational velocity^2 = (Observed radial velocity)^2 + (Average rotational velocity)^2\n\nPlugging in the values given:\n\nRotational velocity^2 = (225 km/s)^2 + (324 km/s)^2\nRotational velocity^2 = 50625 km^2/s^2 + 104976 km^2/s^2\nRotational velocity^2 = 155601 km^2/s^2\n\nTaking the square root to find the rotational velocity:\n\nRotational velocity = sqrt(155601 km^2/s^2)\nRotational velocity \u2248 394.47 km/s\n\nTherefore, the closest option to the correct answer is:\n\nC. 207.36 km/s",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

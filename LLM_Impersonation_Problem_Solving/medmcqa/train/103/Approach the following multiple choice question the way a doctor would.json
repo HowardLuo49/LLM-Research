@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Potter syndrome is not assoiated with\n1: Bilateral renal agenesis\n2: Bilateral multicystic kidney disease\n3: oligohydromnios\n4: Polyhydromnios",
+    "solution": 1,
+    "gpt_response": "Potter syndrome is typically associated with bilateral renal agenesis, bilateral multicystic kidney disease, and oligohydramnios. It is not associated with polyhydramnios.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: Potter syndrome is typically associated with bilateral renal agenesis, bilateral multicystic kidney disease, and oligohydramnios. It is not associated with polyhydramnios.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

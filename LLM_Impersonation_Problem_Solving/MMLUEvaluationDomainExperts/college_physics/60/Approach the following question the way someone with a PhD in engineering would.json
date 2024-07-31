@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in engineering would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in engineering would. The first five harmonics produced by an organ pipe open at both ends are 50 Hz, 100 Hz, 150 Hz, 200 Hz, and 250 Hz. Which of the harmonics, if any, will survive once the pipe is closed at one end?\nA: 50 Hz, 150 Hz, and 250 Hz only\nB: 100 Hz and 200 Hz only\nC: 150 Hz and 250 Hz only\nD: None",
+    "solution": "D",
+    "gpt_response": "As someone with a PhD in engineering, I would approach this question by considering the harmonic frequencies produced by an organ pipe open at both ends. When a pipe is open at both ends, it produces odd multiples of the fundamental frequency. In this case, the first five harmonics are 50 Hz, 100 Hz, 150 Hz, 200 Hz, and 250 Hz.\n\nWhen the pipe is closed at one end, the harmonics that survive are only the odd harmonics of the fundamental frequency. Therefore, only the 1st, 3rd, and 5th harmonics will survive when the pipe is closed at one end. \n\nSo, the harmonics that will survive once the pipe is closed at one end are 50 Hz, 150 Hz, and 250 Hz. Therefore, the correct answer is A: 50 Hz, 150 Hz, and 250 Hz only.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: As someone with a PhD in engineering, I would approach this question by considering the harmonic frequencies produced by an organ pipe open at both ends. When a pipe is open at both ends, it produces odd multiples of the fundamental frequency. In this case, the first five harmonics are 50 Hz, 100 Hz, 150 Hz, 200 Hz, and 250 Hz.\n\nWhen the pipe is closed at one end, the harmonics that survive are only the odd harmonics of the fundamental frequency. Therefore, only the 1st, 3rd, and 5th harmonics will survive when the pipe is closed at one end. \n\nSo, the harmonics that will survive once the pipe is closed at one end are 50 Hz, 150 Hz, and 250 Hz. Therefore, the correct answer is A: 50 Hz, 150 Hz, and 250 Hz only.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a medical researcher would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a medical researcher would. Which of the following vessel does not cross the midline of the body:\n1: Left gonadal vein\n2: Left renal vein\n3: Left brachiocephalic vein\n4: Hemiazygous vein",
+    "solution": 1,
+    "gpt_response": "To determine which vessel does not cross the midline of the body, a medical researcher would first review the anatomical relationships of each vessel in relation to the midline. \n\nThe left gonadal vein and left renal vein both cross the midline of the body, with the left gonadal vein draining into the left renal vein.\n\nThe left brachiocephalic vein typically does not cross the midline of the body, as it is formed by the union of the left subclavian and left internal jugular veins on the left side of the body.\n\nThe hemiazygous vein is a vessel that typically does not cross the midline of the body, as it is a continuation of the left ascending lumbar vein and drains into the azygos vein on the right side of the body.\n\nBased on this analysis, the correct answer would be: 3. Left brachiocephalic vein.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: To determine which vessel does not cross the midline of the body, a medical researcher would first review the anatomical relationships of each vessel in relation to the midline. \n\nThe left gonadal vein and left renal vein both cross the midline of the body, with the left gonadal vein draining into the left renal vein.\n\nThe left brachiocephalic vein typically does not cross the midline of the body, as it is formed by the union of the left subclavian and left internal jugular veins on the left side of the body.\n\nThe hemiazygous vein is a vessel that typically does not cross the midline of the body, as it is a continuation of the left ascending lumbar vein and drains into the azygos vein on the right side of the body.\n\nBased on this analysis, the correct answer would be: 3. Left brachiocephalic vein.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

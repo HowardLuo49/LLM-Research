@@ -1,0 +1,10 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. Mahmoud tosses three coins. What is the probability that he will get at least one head?",
+    "solution": "We compute the probability that Mahmoud flips three tails and subtract from 1. The probability that Mahmoud flips one tail with one coin is $\\frac{1}{2}$, so the probability that he flips three tails is $\\left(\\frac{1}{2}\\right)^3 = \\frac{1}{8}$. The probability that he gets at least one head is $1- \\frac{1}{8}= \\boxed{\\frac{7}{8}}$.",
+    "gpt_response": "Okay, so let's think about all the possible outcomes when tossing three coins. There are 8 different outcomes: HHH, HHT, HTH, THH, HTT, THT, TTH, TTT. \n\nSo, in 7 out of these 8 outcomes, Mahmoud gets at least one head (because there is only one outcome where all three coins come up tails). \n\nTherefore, the probability that Mahmoud will get at least one head is 7/8, which is about 0.875 or 87.5%.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to \\frac{7?: Okay, so let's think about all the possible outcomes when tossing three coins. There are 8 different outcomes: HHH, HHT, HTH, THH, HTT, THT, TTH, TTT. \n\nSo, in 7 out of these 8 outcomes, Mahmoud gets at least one head (because there is only one outcome where all three coins come up tails). \n\nTherefore, the probability that Mahmoud will get at least one head is 7/8, which is about 0.875 or 87.5%.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes"
+}

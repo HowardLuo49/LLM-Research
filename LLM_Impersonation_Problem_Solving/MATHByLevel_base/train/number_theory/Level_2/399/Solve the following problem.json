@@ -1,0 +1,10 @@
+{
+    "prefix": "Solve the following problem. ",
+    "problem_prompt": "Solve the following problem. What perfect-square integer is closest to 273?",
+    "solution": "Note that $16^2 = 256 < 273$ while $17^2 = 289 > 273$.  Since all other perfect squares are farther away from $273$, our answer is the closer of these two, $\\boxed{289}$.",
+    "gpt_response": "The square root of 273 is approximately 16.52. The closest perfect-square integer to 273 is 17^2, which equals 289.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 289?: The square root of 273 is approximately 16.52. The closest perfect-square integer to 273 is 17^2, which equals 289.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 2,
+    "yes_no": "yes"
+}

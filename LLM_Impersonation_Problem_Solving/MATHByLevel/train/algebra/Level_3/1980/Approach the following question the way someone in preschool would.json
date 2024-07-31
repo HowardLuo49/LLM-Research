@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Factor the expression $3x(x+1) + 7(x+1)$.",
+    "solution": "We can factor the expression $x+1$ out of each term: \\[3x(x+1) + 7(x+1) = \\boxed{(3x+7)(x+1)}.\\]",
+    "gpt_response": "Okie dokie! Let's see, we have 3x(x+1) + 7(x+1). \n\nFirst, we can see that both terms have something in common. They both have (x+1) in them. So we can factor that out!\n\n(x+1)(3x+7)\n\nTa-da! We did it! Just like magic! \ud83d\ude0a\ud83c\udfa9\u2728",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to (3x+7)(x+1)?: Okie dokie! Let's see, we have 3x(x+1) + 7(x+1). \n\nFirst, we can see that both terms have something in common. They both have (x+1) in them. So we can factor that out!\n\n(x+1)(3x+7)\n\nTa-da! We did it! Just like magic! \ud83d\ude0a\ud83c\udfa9\u2728",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

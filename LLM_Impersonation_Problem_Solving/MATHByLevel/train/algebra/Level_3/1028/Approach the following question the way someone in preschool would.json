@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Three faucets fill a 100-gallon tub in 6 minutes.  How long, in seconds, does it take six faucets to fill a 25-gallon tub?  Assume that all faucets dispense water at the same rate.",
+    "solution": "Since three faucets can fill a 100-gallon tub in 6 minutes, six can do it twice as fast, i.e. 3 minutes.  Additionally, the tub is a quarter the size and thus it will be filled four times as fast which gives $3/4$ minutes or $\\boxed{45}$ seconds.",
+    "gpt_response": "Let's count together! One, two, three faucets fill a big tub in 6 minutes. Now, how long will it take six faucets to fill a smaller tub? Hmm, let's think. Since six faucets is twice as many as three faucets, maybe it will take half the time. So, if three faucets fill the big tub in 6 minutes, maybe six faucets can fill the smaller tub in 3 minutes. Let's count to 180 (3 minutes in seconds) together to see if we're right! One, two, three...",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 45?: Let's count together! One, two, three faucets fill a big tub in 6 minutes. Now, how long will it take six faucets to fill a smaller tub? Hmm, let's think. Since six faucets is twice as many as three faucets, maybe it will take half the time. So, if three faucets fill the big tub in 6 minutes, maybe six faucets can fill the smaller tub in 3 minutes. Let's count to 180 (3 minutes in seconds) together to see if we're right! One, two, three...",
+    "gpt_response_correct_incorrect": "No, the final solution is not 45. The answer is 180 seconds or 3 minutes.",
+    "yes_no": "no"
+}

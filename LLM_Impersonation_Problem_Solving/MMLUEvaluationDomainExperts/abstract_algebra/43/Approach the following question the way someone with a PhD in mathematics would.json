@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. Statement 1 | Every integral domain with characteristic 0 is infinite. Statement 2 | Every integral domain with prime characteristic is finite.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "C",
+    "gpt_response": "The first statement, \"Every integral domain with characteristic 0 is infinite,\" is true. This can be proven using a result from abstract algebra that states that any integral domain of characteristic zero must contain an isomorphic copy of the integers, which are infinite.\n\nThe second statement, \"Every integral domain with prime characteristic is finite,\" is false. This can be shown by considering the field of rational numbers, which has characteristic zero and is infinite.\n\nTherefore, the correct answer is C: True, False.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to C?: The first statement, \"Every integral domain with characteristic 0 is infinite,\" is true. This can be proven using a result from abstract algebra that states that any integral domain of characteristic zero must contain an isomorphic copy of the integers, which are infinite.\n\nThe second statement, \"Every integral domain with prime characteristic is finite,\" is false. This can be shown by considering the field of rational numbers, which has characteristic zero and is infinite.\n\nTherefore, the correct answer is C: True, False.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "5",
+    "difficulty_value": "5"
+}

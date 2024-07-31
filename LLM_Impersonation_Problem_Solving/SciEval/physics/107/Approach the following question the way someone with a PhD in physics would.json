@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in physics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in physics would. Calculate the temperature of the universe 380,000 years after the Big Bang, assuming that the universe was completely ionized at that time and that the cosmic microwave background radiation has a black body spectrum. Please note that the following content involves constants might be used in the calculations : T0 = 2.73 k. Additionally, please select the option from the given choices that you believe is closest to the correct answer!\n\nA. 3221.78 k\nB. 3000.0 k\nC. 6063.66 k\nD. 8681.71 k\n\nAnswer:",
+    "solution": [
+        "B"
+    ],
+    "gpt_response": "To calculate the temperature of the universe 380,000 years after the Big Bang, we can use Wien's Law which states that the peak wavelength of a black body spectrum is inversely proportional to its temperature.\n\nThe peak wavelength of the cosmic microwave background radiation is around 1 mm, corresponding to a temperature of approximately 3000 K.\n\nTherefore, the correct answer would be:\n\nB. 3000.0 K",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to ['B']?: To calculate the temperature of the universe 380,000 years after the Big Bang, we can use Wien's Law which states that the peak wavelength of a black body spectrum is inversely proportional to its temperature.\n\nThe peak wavelength of the cosmic microwave background radiation is around 1 mm, corresponding to a temperature of approximately 3000 K.\n\nTherefore, the correct answer would be:\n\nB. 3000.0 K",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

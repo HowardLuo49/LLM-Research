@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. How many integers $n$ satisfy $(n-2)(n+4)<0$?",
+    "solution": "We consider the signs of the two factors for all possible values of $n$.\n\nIf $n>2$, then both $n-2$ and $n+4$ are positive, so the product is positive.\n\nIf $n=2$, then $n-2=0$, so the product is 0.\n\nIf $-4<n<2$, then $n-2<0$ and $n+4>0$, so the product is negative.\n\nIf $n=-4$, then the product is 0.\n\nIf $n <-4$, then both factors are negative, and the product is positive.\n\nTherefore, only the integers $-3$, $-2$, $-1$, $0$, and $1$ satisfy the inequality, for a total of $\\boxed{5}$.",
+    "gpt_response": "To solve this inequality, we need to find the values of $n$ that make the expression $(n-2)(n+4)$ negative. \n\nThis means that one of the factors must be positive and the other must be negative. In other words, $n$ must be between -4 and 2 for the expression to be negative.\n\nSo the integers $n$ that satisfy $(n-2)(n+4)<0$ are -3, -2, -1, 0, and 1. So there are a total of 5 integers that satisfy the inequality.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 5?: To solve this inequality, we need to find the values of $n$ that make the expression $(n-2)(n+4)$ negative. \n\nThis means that one of the factors must be positive and the other must be negative. In other words, $n$ must be between -4 and 2 for the expression to be negative.\n\nSo the integers $n$ that satisfy $(n-2)(n+4)<0$ are -3, -2, -1, 0, and 1. So there are a total of 5 integers that satisfy the inequality.",
+    "gpt_response_correct_incorrect": "No",
+    "yes_no": "no"
+}

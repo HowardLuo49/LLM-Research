@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. What is an ideal method to prevent aspiration pneumonia?\n1: Cuffed endotracheal tube\n2: Inhalational anaesthesia\n3: Increased intra abdominal pressure\n4: Full stomach",
+    "solution": 1,
+    "gpt_response": "1: Cuffed endotracheal tube\n\nAs a physician, the ideal method to prevent aspiration pneumonia would be to use a cuffed endotracheal tube during procedures that may put the patient at risk for aspirating gastric contents. This helps to prevent the entry of foreign material into the lungs and reduces the risk of aspiration pneumonia.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: 1: Cuffed endotracheal tube\n\nAs a physician, the ideal method to prevent aspiration pneumonia would be to use a cuffed endotracheal tube during procedures that may put the patient at risk for aspirating gastric contents. This helps to prevent the entry of foreign material into the lungs and reduces the risk of aspiration pneumonia.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. Tigroid white matter on MRI is seen in?\n1: Pantothenate kinase deficiency\n2: Pelizaeus-merzbacher disease\n3: Neuroferritinopathy\n4: Aceruloplasminemia",
+    "solution": 2,
+    "gpt_response": "2: Pelizaeus-Merzbacher disease",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: 2: Pelizaeus-Merzbacher disease",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

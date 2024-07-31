@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. What is the kinetic energy released in a type Ia supernova explosion, assuming the entire mass of a white dwarf star (4.8solar masses) is converted into energy? Please note that the following content involves constants might be used in the calculations : solar mass = 1.989e30 kg ; velocity of light: c = 3e8 m/s. Additionally, please select the option from the given choices that you believe is closest to the correct answer!\n\nA. 8.59e+47 J\nB. 5.87e+48 J\nC. 1.25e+48 J\nD. 2.61e+48 J\n\nAnswer:",
+    "solution": [
+        "A"
+    ],
+    "gpt_response": "To calculate the kinetic energy released in a type Ia supernova explosion, we can use the equation E = mc^2, where E is the energy released, m is the mass of the white dwarf star, and c is the speed of light.\n\nGiven:\nMass of white dwarf star = 4.8 solar masses = 4.8 * 1.989e30 kg\nSpeed of light, c = 3e8 m/s\n\nConverting the mass of the white dwarf star to kilograms:\nMass = 4.8 * 1.989e30 kg = 9.5712e30 kg\n\nUsing the equation E = mc^2:\nEnergy released, E = (9.5712e30 kg) * (3e8 m/s)^2\nE = 8.61408e57 kg m^2/s^2 = 8.61408e57 J\n\nTherefore, the closest option to the correct answer is:\nA. 8.59e+57 J",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to ['A']?: To calculate the kinetic energy released in a type Ia supernova explosion, we can use the equation E = mc^2, where E is the energy released, m is the mass of the white dwarf star, and c is the speed of light.\n\nGiven:\nMass of white dwarf star = 4.8 solar masses = 4.8 * 1.989e30 kg\nSpeed of light, c = 3e8 m/s\n\nConverting the mass of the white dwarf star to kilograms:\nMass = 4.8 * 1.989e30 kg = 9.5712e30 kg\n\nUsing the equation E = mc^2:\nEnergy released, E = (9.5712e30 kg) * (3e8 m/s)^2\nE = 8.61408e57 kg m^2/s^2 = 8.61408e57 J\n\nTherefore, the closest option to the correct answer is:\nA. 8.59e+57 J",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "D. 2.61e+48 J",
+    "difficulty_value": "2"
+}

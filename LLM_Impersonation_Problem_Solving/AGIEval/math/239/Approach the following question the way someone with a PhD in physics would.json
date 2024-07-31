@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in physics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in physics would. An aquarium has a rectangular base that measures 100 cm by 40 cm and has a height of 50 cm. The aquarium is filled with water to a depth of 37 cm. A rock with volume $1000 \\text{cm}^3$ is then placed in the aquarium and completely submerged. By how many centimeters does the water level rise?  Express your answer as a decimal to the nearest 100th.",
+    "solution": "0.25\\,\\text{ cm}",
+    "gpt_response": "To solve this problem, we need to understand the concept of displacement of water by the rock. When the rock is submerged in the water, it will displace an amount of water equal to its own volume in order to stay afloat. \n\nGiven that the rock has a volume of $1000 \\text{cm}^3$ and the water level rises by $x$ centimeters, the volume of water displaced by the rock is equal to the volume of the rock. Mathematically, we can write:\n\nVolume of water displaced = Volume of rock\nBase area of water \\times Height displaced = Volume of rock\n$100 \\text{cm} \\times 40 \\text{cm} \\times x \\text{cm} = 1000 \\text{cm}^3$\n$4000x = 1000$\n$x = \\frac{1000}{4000}$\n$x = 0.25$\n\nTherefore, the water level rises by 0.25 cm when the rock is submerged in the aquarium.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 0.25\\,\\text{ cm}?: To solve this problem, we need to understand the concept of displacement of water by the rock. When the rock is submerged in the water, it will displace an amount of water equal to its own volume in order to stay afloat. \n\nGiven that the rock has a volume of $1000 \\text{cm}^3$ and the water level rises by $x$ centimeters, the volume of water displaced by the rock is equal to the volume of the rock. Mathematically, we can write:\n\nVolume of water displaced = Volume of rock\nBase area of water \\times Height displaced = Volume of rock\n$100 \\text{cm} \\times 40 \\text{cm} \\times x \\text{cm} = 1000 \\text{cm}^3$\n$4000x = 1000$\n$x = \\frac{1000}{4000}$\n$x = 0.25$\n\nTherefore, the water level rises by 0.25 cm when the rock is submerged in the aquarium.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

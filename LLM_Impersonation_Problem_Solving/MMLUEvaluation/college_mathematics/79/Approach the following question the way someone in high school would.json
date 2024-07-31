@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Statement 1 | If A is connected, the closure of A must be connected. Statement 2 | Every continuous function f : (0, 1) \u2192 (0, 1) has a fixed point.\nA: True, True\nB: True, False\nC: False, True\nD: False, False",
+    "solution": "B",
+    "gpt_response": "The answer is C: False, True. This is because Statement 1 is false, as a set can be connected without its closure being connected. However, Statement 2 is true as a consequence of the intermediate value theorem for continuous functions.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to B?: The answer is C: False, True. This is because Statement 1 is false, as a set can be connected without its closure being connected. However, Statement 2 is true as a consequence of the intermediate value theorem for continuous functions.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

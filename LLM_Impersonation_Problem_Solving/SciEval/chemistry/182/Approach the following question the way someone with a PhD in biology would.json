@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. What is the name of C9H15NOS2?\nAnswer:",
+    "solution": [
+        "2-(2-methylsulfanylethylamino)-1-thiophen-3-ylethanol"
+    ],
+    "gpt_response": "The molecular formula C9H15NOS2 corresponds to the compound glutathione, also known as GSH. Glutathione is a tripeptide consisting of L-cysteine, L-glutamate, and glycine. It plays a critical role in antioxidative defense, detoxification, and maintenance of cellular redox homeostasis in living organisms.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response ['2-(2-methylsulfanylethylamino)-1-thiophen-3-ylethanol']?: The molecular formula C9H15NOS2 corresponds to the compound glutathione, also known as GSH. Glutathione is a tripeptide consisting of L-cysteine, L-glutamate, and glycine. It plays a critical role in antioxidative defense, detoxification, and maintenance of cellular redox homeostasis in living organisms.",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. What is the greater of the solutions to the equation $x^2 + 15x -54=0$?",
+    "solution": "We can find the roots of this equation by factoring the quadratic as $(x + 18)(x - 3) = 0$. This gives us the solutions $x = -18$ or $x = 3$. We want the greater solution, so our answer is $\\boxed{3}$.",
+    "gpt_response": "Let's count the numbers and see which one is bigger! Let's start by finding the solution to the problem. We can solve this by using our ABCs or by drawing pictures of circles and squares. The solution to the problem is when x is either -6 or 9. Now we can see that 9 is greater than -6, so 9 is the greater solution to the equation! Yay, we did it!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 3?: Let's count the numbers and see which one is bigger! Let's start by finding the solution to the problem. We can solve this by using our ABCs or by drawing pictures of circles and squares. The solution to the problem is when x is either -6 or 9. Now we can see that 9 is greater than -6, so 9 is the greater solution to the equation! Yay, we did it!",
+    "gpt_response_correct_incorrect": "No, the final solution obtained is 9, not 3.",
+    "yes_no": "no"
+}

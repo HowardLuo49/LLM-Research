@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Statement 1 | Every nonzero free abelian group has an infinite number of bases. Statement 2 | Every free abelian group of rank at least 2 has an infinite number of bases.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "D",
+    "gpt_response": "\"I like playing with blocks. Some groups have lots of different bases, like when you have lots of blocks to play with. Other groups only have a few bases, like when you only have a few blocks. So I think the first one is true because if you have some blocks, you can make lots of different bases. But the second one might be false because maybe sometimes groups with only two blocks can't make infinite bases. So I think the answer is A.\"",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: \"I like playing with blocks. Some groups have lots of different bases, like when you have lots of blocks to play with. Other groups only have a few bases, like when you only have a few blocks. So I think the first one is true because if you have some blocks, you can make lots of different bases. But the second one might be false because maybe sometimes groups with only two blocks can't make infinite bases. So I think the answer is A.\"",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

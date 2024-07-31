@@ -1,0 +1,7 @@
+{
+    "prefix": "You are in elementary school.\n",
+    "problem_prompt": "You are in elementary school.\nHow many three-digit numbers satisfy the property that the middle digit is the average of the first and the last digits?",
+    "solution": "The first and last digits must be both odd or both even for their average to be an integer.  There are $5\\cdot 5 =25$ odd-odd combinations for the first and last digits.  There are $4\\cdot 5=20$ even-even combinations that do not use zero as the first digit. Hence, the total is $\\boxed{45}$.",
+    "gpt_response": "ChatCompletion(id='chatcmpl-9A2fnISkGaudMtirgf6qezMdfQtIb', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content=\"Let's first list out all the possible combinations of three-digit numbers where the middle digit is the average of the first and last digits:\\n\\n121, 132, 143, 154, 165, 176, 187, 198\\n212, 231, 242, 253, 264, 275, 286, 297\\n323, 334, 345, 356, 367, 378, 389\\n434, 445, 456, 467, 478, 489\\n545, 556, 567, 578, 589\\n656, 667, 678, 689\\n767, 778, 789\\n878, 889\\n\\nThere are a total of 34 three-digit numbers that satisfy the property that the middle digit is the average of the first and last digits.\", role='assistant', function_call=None, tool_calls=None))], created=1712180583, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint='fp_b28b39ffa8', usage=CompletionUsage(completion_tokens=176, prompt_tokens=36, total_tokens=212))",
+    "yes_no": "no"
+}

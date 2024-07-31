@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in literature would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in literature would. What is the total energy released in a supernova explosion that results in a remnant with a mass of 9.0 solar masses, assuming an initial mass of 114 solar masses and a velocity of 10,000 km/s? Please note that the following content involves constants might be used in the calculations : solar mass = 1.989e30 kg ; velocity of light: c = 3e8 m/s. Additionally, please select the option from the given choices that you believe is closest to the correct answer!\n\nA. 8.57e+48 J\nB. 7.14e+48 J\nC. 4.48e+48 J\nD. 1.88e+49 J\n\nAnswer:",
+    "solution": [
+        "D"
+    ],
+    "gpt_response": "To calculate the total energy released in a supernova explosion, we can use the formula for kinetic energy:\n\nKE = 0.5 * m * v^2\n\nwhere KE is the kinetic energy, m is the mass, and v is the velocity.\n\nFirst, let's convert the solar masses to kilograms:\n\nInitial mass = 114 solar masses = 114 * 1.989e30 kg = 2.26866e32 kg\nRemnant mass = 9.0 solar masses = 9.0 * 1.989e30 kg = 1.7901e31 kg\n\nNow, we can calculate the kinetic energy released in the explosion:\n\nKE = 0.5 * (2.26866e32 kg - 1.7901e31 kg) * (10000 km/s)^2\nKE = 0.5 * 1.08956e32 kg * (10000 * 1000 m/s)^2\nKE = 0.5 * 1.08956e32 kg * 1e8 m/s)^2\nKE = 0.5 * 1.08956e32 kg * 1e16 m^2/s^2\nKE = 0.5 * 1.08956e48 kg m^2/s^2\nKE = 5.4478e47 J\n\nTherefore, the closest option to the correct answer is:\n\nA. 8.57e+48 J",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to ['D']?: To calculate the total energy released in a supernova explosion, we can use the formula for kinetic energy:\n\nKE = 0.5 * m * v^2\n\nwhere KE is the kinetic energy, m is the mass, and v is the velocity.\n\nFirst, let's convert the solar masses to kilograms:\n\nInitial mass = 114 solar masses = 114 * 1.989e30 kg = 2.26866e32 kg\nRemnant mass = 9.0 solar masses = 9.0 * 1.989e30 kg = 1.7901e31 kg\n\nNow, we can calculate the kinetic energy released in the explosion:\n\nKE = 0.5 * (2.26866e32 kg - 1.7901e31 kg) * (10000 km/s)^2\nKE = 0.5 * 1.08956e32 kg * (10000 * 1000 m/s)^2\nKE = 0.5 * 1.08956e32 kg * 1e8 m/s)^2\nKE = 0.5 * 1.08956e32 kg * 1e16 m^2/s^2\nKE = 0.5 * 1.08956e48 kg m^2/s^2\nKE = 5.4478e47 J\n\nTherefore, the closest option to the correct answer is:\n\nA. 8.57e+48 J",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "D. 1.88e+49 J",
+    "difficulty_value": "4"
+}

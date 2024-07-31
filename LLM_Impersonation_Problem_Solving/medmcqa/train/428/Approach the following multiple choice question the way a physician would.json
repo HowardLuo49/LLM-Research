@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. A Patient who is on antihypertensive drug develops a dry cough. Which of the following drug might be responsible for the condition:\n1: Diuretics\n2: ACE inhibitors\n3: Calcium channel blockers\n4: Beta blockers",
+    "solution": 2,
+    "gpt_response": "As a physician, when a patient on antihypertensive medication develops a dry cough, we would consider the possibility of drug-induced cough as a side effect. The most likely culprit in this scenario would be ACE inhibitors, as they are known to cause a dry cough in some patients. Therefore, I would select option 2: ACE inhibitors as the possible drug responsible for the patient's dry cough.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: As a physician, when a patient on antihypertensive medication develops a dry cough, we would consider the possibility of drug-induced cough as a side effect. The most likely culprit in this scenario would be ACE inhibitors, as they are known to cause a dry cough in some patients. Therefore, I would select option 2: ACE inhibitors as the possible drug responsible for the patient's dry cough.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

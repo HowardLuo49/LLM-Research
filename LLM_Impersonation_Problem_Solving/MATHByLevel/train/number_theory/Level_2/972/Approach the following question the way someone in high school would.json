@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Fifty cards, numbered 1-50, are placed in a box. One card is randomly selected. What is the probability that the number on the card is prime and is a multiple of 7? Express your answer as a common fraction.",
+    "solution": "The only multiple of 7 that is prime is 7. Any other multiple of 7 has at least three positive divisors: 1, 7, and itself. Therefore, the probability that the selected number is both prime and a multiple of 7 is $\\boxed{\\frac{1}{50}}$.",
+    "gpt_response": "Okay, let's break this down. First, we need to figure out how many of the numbers from 1-50 are prime and also multiples of 7. The prime numbers less than 50 are 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47. From this list, the only number that is also a multiple of 7 is 7.\n\nNow, out of the 50 total cards, only 1 meets both conditions (being prime and a multiple of 7). So the probability of selecting that specific card is 1/50.\n\nTherefore, the probability that the number on the card is prime and a multiple of 7 is 1/50.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to \\frac{1?: Okay, let's break this down. First, we need to figure out how many of the numbers from 1-50 are prime and also multiples of 7. The prime numbers less than 50 are 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47. From this list, the only number that is also a multiple of 7 is 7.\n\nNow, out of the 50 total cards, only 1 meets both conditions (being prime and a multiple of 7). So the probability of selecting that specific card is 1/50.\n\nTherefore, the probability that the number on the card is prime and a multiple of 7 is 1/50.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

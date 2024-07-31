@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. Let $n$ be a  positive integer and $a$ be an integer such that $a$ is its own inverse modulo $n$. What is the remainder when $a^2$ is divided by $n$?",
+    "solution": "Since $a$ is its own inverse modulo $n$, $a\\equiv a^{-1}\\pmod n$. Then \\[a^2\\equiv a\\cdot a\\equiv a\\cdot a^{-1}\\equiv \\boxed{1}\\pmod n.\\]",
+    "gpt_response": "Let's start by defining what it means for $a$ to be its own inverse modulo $n$. This means that $a^2 \\equiv 1 \\pmod{n}$. In other words, the square of $a$ leaves a remainder of 1 when divided by $n$. \n\nNow we want to find the remainder when $a^2$ is divided by $n$. We know that $a^2 \\equiv 1 \\pmod{n}$, so $a^2 - 1$ is divisible by $n$. \n\nThus, $a^2 - 1 = kn$ for some integer $k$. This can be rewritten as $(a-1)(a+1) = kn$. \n\nSince $n$ is a positive integer, $a$ must be in the form of $n \\pm 1$. This means $a$ and $n$ are relatively prime.\n\nNow we take the remainder when $a^2$ is divided by $n$. Since $n$ is relatively prime to $a$, the remainder when $a^2$ is divided by $n$ is $\\boxed{1}$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 1?: Let's start by defining what it means for $a$ to be its own inverse modulo $n$. This means that $a^2 \\equiv 1 \\pmod{n}$. In other words, the square of $a$ leaves a remainder of 1 when divided by $n$. \n\nNow we want to find the remainder when $a^2$ is divided by $n$. We know that $a^2 \\equiv 1 \\pmod{n}$, so $a^2 - 1$ is divisible by $n$. \n\nThus, $a^2 - 1 = kn$ for some integer $k$. This can be rewritten as $(a-1)(a+1) = kn$. \n\nSince $n$ is a positive integer, $a$ must be in the form of $n \\pm 1$. This means $a$ and $n$ are relatively prime.\n\nNow we take the remainder when $a^2$ is divided by $n$. Since $n$ is relatively prime to $a$, the remainder when $a^2$ is divided by $n$ is $\\boxed{1}$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

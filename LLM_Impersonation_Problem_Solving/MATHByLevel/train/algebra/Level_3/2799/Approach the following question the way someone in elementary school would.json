@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. The expression $x^2 + 13x + 30$ can be written as  $(x + a)(x + b),$ and the expression $x^2 + 5x - 50$ written as $(x + b)(x - c)$, where $a$, $b$, and $c$ are integers. What is the value of $a + b + c$?",
+    "solution": "Factoring, we find that $x^2 + 13x + 30 = (x + 3)(x + 10)$ and $x^2 + 5x - 50 = (x + 10)(x - 5)$. We can see that $b = 10$, therefore $a = 3$ and $c = 5$, and $a + b + c = \\boxed{18}.$",
+    "gpt_response": "First, I will multiply out $(x + a)(x + b)$ to get $x^2 + bx + ax + ab$. Since this is supposed to match $x^2 + 13x + 30$, we know that $a + b = 13$ and $ab = 30$.\n\nNext, I will multiply out $(x + b)(x - c)$ to get $x^2 - cx + bx - bc$. Since this is supposed to match $x^2 + 5x - 50$, we know that $b - c = 5$ and $-bc = -50$. This means $bc = 50$.\n\nSo, from $a + b = 13$ and $ab = 30$, we can find that $a = 3$ and $b = 10$. Similarly, from $b - c = 5$ and $bc = 50$, we can find that $c = 5$.\n\nTherefore, $a + b + c = 3 + 10 + 5 = 18$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 18?: First, I will multiply out $(x + a)(x + b)$ to get $x^2 + bx + ax + ab$. Since this is supposed to match $x^2 + 13x + 30$, we know that $a + b = 13$ and $ab = 30$.\n\nNext, I will multiply out $(x + b)(x - c)$ to get $x^2 - cx + bx - bc$. Since this is supposed to match $x^2 + 5x - 50$, we know that $b - c = 5$ and $-bc = -50$. This means $bc = 50$.\n\nSo, from $a + b = 13$ and $ab = 30$, we can find that $a = 3$ and $b = 10$. Similarly, from $b - c = 5$ and $bc = 50$, we can find that $c = 5$.\n\nTherefore, $a + b + c = 3 + 10 + 5 = 18$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

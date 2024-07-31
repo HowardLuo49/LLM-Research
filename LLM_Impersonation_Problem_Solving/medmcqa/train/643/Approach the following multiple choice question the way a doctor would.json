@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Patient on treatment on carbidopa + levodopa for 10 yrs now has weaning off effect. What should be added to restore action -\n1: Tolcapone\n2: Amantadine\n3: Rasagiline\n4: Benzhexol",
+    "solution": 1,
+    "gpt_response": "As a doctor, when a patient on carbidopa + levodopa treatment experiences weaning off effects after 10 years, it may be necessary to add a medication to restore its action. In this case, the most appropriate option would be to consider adding Tolcapone. Tolcapone is a COMT inhibitor that can help improve the effectiveness of carbidopa + levodopa by increasing dopamine levels in the brain. Amantadine can also be considered as it can help reduce dyskinesias associated with long-term levodopa use. Rasagiline and Benzhexol may not be as effective in restoring the action of carbidopa + levodopa in this scenario.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: As a doctor, when a patient on carbidopa + levodopa treatment experiences weaning off effects after 10 years, it may be necessary to add a medication to restore its action. In this case, the most appropriate option would be to consider adding Tolcapone. Tolcapone is a COMT inhibitor that can help improve the effectiveness of carbidopa + levodopa by increasing dopamine levels in the brain. Amantadine can also be considered as it can help reduce dyskinesias associated with long-term levodopa use. Rasagiline and Benzhexol may not be as effective in restoring the action of carbidopa + levodopa in this scenario.",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

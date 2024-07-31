@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. Statement 1 | For every positive integer n there is a cyclic group of order n. Statement 2 | Every finite cyclic group contains an element of every order that divides the order of the group.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "A",
+    "gpt_response": "Um, so for the first statement, it means that for every positive whole number, there is a group that has that number as its size. That sounds right to me because you can make a group with as many members as you want. And for the second statement, it says that in a group that goes in a circle, there's always at least one member for any amount of steps you want to take. So I think that's true too. So, um, I guess the answer is A: True, True.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to A?: Um, so for the first statement, it means that for every positive whole number, there is a group that has that number as its size. That sounds right to me because you can make a group with as many members as you want. And for the second statement, it says that in a group that goes in a circle, there's always at least one member for any amount of steps you want to take. So I think that's true too. So, um, I guess the answer is A: True, True.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

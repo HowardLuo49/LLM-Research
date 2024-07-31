@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in physics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in physics would. How many homomorphisms are there of Z into Z_2?\nA: 1\nB: 2\nC: infinitely many\nD: 0",
+    "solution": "B",
+    "gpt_response": "The group homomorphisms from Z to Z_2 are completely determined by the image of 1 in Z. Since the only possible images are 0 and 1 in Z_2, there are 2 possible homomorphisms from Z to Z_2, namely the trivial homomorphism mapping every element to 0, and the homomorphism mapping every element to 1. Therefore, the correct answer is B: 2.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to B?: The group homomorphisms from Z to Z_2 are completely determined by the image of 1 in Z. Since the only possible images are 0 and 1 in Z_2, there are 2 possible homomorphisms from Z to Z_2, namely the trivial homomorphism mapping every element to 0, and the homomorphism mapping every element to 1. Therefore, the correct answer is B: 2.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

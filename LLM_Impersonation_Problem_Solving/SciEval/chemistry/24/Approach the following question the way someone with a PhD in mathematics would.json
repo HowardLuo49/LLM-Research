@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. How many atoms are there in C(CCl)C(CCCl)O?\nAnswer (numerical number):",
+    "solution": [
+        18
+    ],
+    "gpt_response": "There are 13 atoms in C(CCl)C(CCCl)O. \n\nExplanation: The molecule C(CCl)C(CCCl)O consists of 1 carbon atom, 7 chlorine atoms, and 5 oxygen atoms. Counting all the atoms in the molecule gives us a total of 13 atoms.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response [18]?: There are 13 atoms in C(CCl)C(CCCl)O. \n\nExplanation: The molecule C(CCl)C(CCCl)O consists of 1 carbon atom, 7 chlorine atoms, and 5 oxygen atoms. Counting all the atoms in the molecule gives us a total of 13 atoms.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "9",
+    "difficulty_value": "9"
+}

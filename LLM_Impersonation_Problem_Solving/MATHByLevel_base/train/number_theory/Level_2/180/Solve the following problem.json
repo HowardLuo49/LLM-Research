@@ -1,0 +1,10 @@
+{
+    "prefix": "Solve the following problem. ",
+    "problem_prompt": "Solve the following problem. What is the sum of all positive integers less than 100 that are squares of perfect squares?",
+    "solution": "Squares of perfect squares are fourth powers. $1^4=1$, $2^4=16$, and $3^4=81$ are the only fourth powers less than 100. Their sum is $1+16+81=\\boxed{98}$.",
+    "gpt_response": "To find the sum of all positive integers less than 100 that are squares of perfect squares, we can simply list out the perfect squares less than 100:\n\n1, 4, 9, 16, 25, 36, 49, 64, 81\n\nOf these numbers, the perfect squares of perfect squares are 1, 4, and 64.\n\nNow, we can find the sum of these numbers:\n\n1 + 4 + 64 = 69\n\nTherefore, the sum of all positive integers less than 100 that are squares of perfect squares is 69.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 98?: To find the sum of all positive integers less than 100 that are squares of perfect squares, we can simply list out the perfect squares less than 100:\n\n1, 4, 9, 16, 25, 36, 49, 64, 81\n\nOf these numbers, the perfect squares of perfect squares are 1, 4, and 64.\n\nNow, we can find the sum of these numbers:\n\n1 + 4 + 64 = 69\n\nTherefore, the sum of all positive integers less than 100 that are squares of perfect squares is 69.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no"
+}

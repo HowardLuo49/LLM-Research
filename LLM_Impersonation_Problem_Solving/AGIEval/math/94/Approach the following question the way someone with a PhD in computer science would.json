@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in computer science would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in computer science would. Below is a drawing of all $26$ letters in the English alphabet. As drawn below, some of these letters could be portions of the graph of a function, and some cannot. For example, the $\\textsf{O}$ resembles an ellipse, which cannot be part of the graph of a function.\n\nAs drawn below, which of these letters could be portions of the graph of a function? (You may not rotate them.)\n\nGive your answer as a list of letters with no spaces or other punctuation between them, in alphabetic order.\n\n$$\\begin{array}{c c c c c}\n\\textsf{A} & \\textsf{B} & \\textsf{C} & \\textsf{D} & \\textsf{E}\\\\\\\\\n\\textsf{F} & \\textsf{G} & \\textsf{H} & \\textsf{I} & \\textsf{J}\\\\\\\\\n\\textsf{K} & \\textsf{L} & \\textsf{M} & \\textsf{N} & \\textsf{O}\\\\\\\\\n\\textsf{P} & \\textsf{Q} & \\textsf{R} & \\textsf{S} & \\textsf{T}\\\\\\\\\n\\textsf{U} & \\textsf{V} & \\textsf{W} & \\textsf{X} & \\textsf{Y}\\\\\\\\\n&& \\textsf{Z} &&\n\\end{array}$$",
+    "solution": "\\text{VW}",
+    "gpt_response": "A function must pass the vertical line test, meaning each input (x-value) can only correspond to one output (y-value). \n\nLetters like A, B, C, D, F, K, L, and P can be portions of the graph of a function as they only pass the vertical line test. Letters like E, H, J, and S cannot be portions of the graph of a function as they fail the vertical line test. \n\nTherefore, the list of letters that could be portions of the graph of a function are: A, B, C, D, F, K, L, P.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response \\text{VW}?: A function must pass the vertical line test, meaning each input (x-value) can only correspond to one output (y-value). \n\nLetters like A, B, C, D, F, K, L, and P can be portions of the graph of a function as they only pass the vertical line test. Letters like E, H, J, and S cannot be portions of the graph of a function as they fail the vertical line test. \n\nTherefore, the list of letters that could be portions of the graph of a function are: A, B, C, D, F, K, L, P.",
+    "gpt_response_correct_incorrect": "Yes. The final solution obtained is \\text{VW}.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

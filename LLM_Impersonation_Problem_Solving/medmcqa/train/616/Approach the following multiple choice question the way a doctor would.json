@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. A 28 year old labourer, 3 yrs back presented with penile ulcer which was not treated. Later he presented with neurological symptoms for which he got treated. Which is the test to monitor response to treatment?\n1: VDRL\n2: FTA ABS\n3: TPI\n4: RPR",
+    "solution": 1,
+    "gpt_response": "Based on the patient's history of a penile ulcer and subsequent neurological symptoms, it is important to monitor for response to treatment for syphilis. The appropriate test to monitor the response to treatment for syphilis is the RPR (Rapid Plasma Reagin) test. This test is used to detect antibodies produced by the body in response to the syphilis infection and is commonly used to monitor the effectiveness of treatment. Therefore, the correct answer is option 4: RPR.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: Based on the patient's history of a penile ulcer and subsequent neurological symptoms, it is important to monitor for response to treatment for syphilis. The appropriate test to monitor the response to treatment for syphilis is the RPR (Rapid Plasma Reagin) test. This test is used to detect antibodies produced by the body in response to the syphilis infection and is commonly used to monitor the effectiveness of treatment. Therefore, the correct answer is option 4: RPR.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

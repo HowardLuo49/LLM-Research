@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. Find the largest integer less than 80 that leaves a remainder of 3 when divided by 5.",
+    "solution": "An integer that leaves a remainder of 3 when divided by 5 can be written as $5n + 3$ for some whole number $n$.  The largest permissible value of $n$ will lead us to the largest value of $5n + 3$ less than 80, so we solve the inequality. $$ 5n + 3 < 80. $$Subtracting 3 from both sides gives $5n < 77$.  Dividing both sides by 5, we have $$ n < 15\\, \\frac{2}{5}, $$so the largest permissible value of $n$ is 15 and the largest integer less than 80 that leaves a remainder of 3 when divided by 5 is $5 \\cdot 15 + 3 = \\boxed{78}$.",
+    "gpt_response": "Let x be the integer we are looking for. We can represent x as x = 5k + 3, where k is an integer. To find the largest integer less than 80 that satisfies this equation, we need to find the largest possible value of k such that 5k + 3 is less than 80.\n\nSince 5k + 3 < 80, we have 5k < 77, which implies k < 15.4. Since k is an integer, the largest possible value for k is 15. Therefore, the largest integer less than 80 that leaves a remainder of 3 when divided by 5 is 5(15) + 3 = 78.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 78?: Let x be the integer we are looking for. We can represent x as x = 5k + 3, where k is an integer. To find the largest integer less than 80 that satisfies this equation, we need to find the largest possible value of k such that 5k + 3 is less than 80.\n\nSince 5k + 3 < 80, we have 5k < 77, which implies k < 15.4. Since k is an integer, the largest possible value for k is 15. Therefore, the largest integer less than 80 that leaves a remainder of 3 when divided by 5 is 5(15) + 3 = 78.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

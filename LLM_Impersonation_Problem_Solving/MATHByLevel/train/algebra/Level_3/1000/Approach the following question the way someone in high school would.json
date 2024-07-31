@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. What is the degree of the polynomial $(4 +5x^3 +100 +2\\pi x^4 + \\sqrt{10}x^4 +9)$?",
+    "solution": "This polynomial is not written in standard form.  However, we don't need to write it in standard form, nor do we need to pay attention to the coefficients.  We just look for the exponents on $x$.  We have an $x^4$ term and no other term of higher degree, so $\\boxed{4}$ is the degree of the polynomial.",
+    "gpt_response": "The degree of a polynomial is determined by the highest exponent of the variable in the polynomial expression. In this case, the highest exponent is $4$ from the terms $2\\pi x^4$ and $\\sqrt{10}x^4$. Therefore, the degree of the polynomial is $4$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 4?: The degree of a polynomial is determined by the highest exponent of the variable in the polynomial expression. In this case, the highest exponent is $4$ from the terms $2\\pi x^4$ and $\\sqrt{10}x^4$. Therefore, the degree of the polynomial is $4$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

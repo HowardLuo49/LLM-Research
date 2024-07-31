@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Determine whether the polynomial in Z[x] satisfies an Eisenstein criterion for irreducibility over Q. x^2 - 12\nA: Yes, with p=2.\nB: Yes, with p=3.\nC: Yes, with p=5.\nD: No.",
+    "solution": "B",
+    "gpt_response": "To determine if the polynomial x^2 - 12 satisfies the Eisenstein criterion for irreducibility over Q, we look at the factors of the constant term (-12). \n\nIf we let p=2, the polynomial x^2 - 12 can be written as x^2 - 2^2*3. Since 2 divides -2^2, 2 divides -12, 2^2 does not divide -12, and 2^2 doesn't divide any other coefficient of the polynomial, we can say that the Eisenstein criterion is satisfied with p=2.\n\nTherefore, the correct answer is A: Yes, with p=2.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to B?: To determine if the polynomial x^2 - 12 satisfies the Eisenstein criterion for irreducibility over Q, we look at the factors of the constant term (-12). \n\nIf we let p=2, the polynomial x^2 - 12 can be written as x^2 - 2^2*3. Since 2 divides -2^2, 2 divides -12, 2^2 does not divide -12, and 2^2 doesn't divide any other coefficient of the polynomial, we can say that the Eisenstein criterion is satisfied with p=2.\n\nTherefore, the correct answer is A: Yes, with p=2.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

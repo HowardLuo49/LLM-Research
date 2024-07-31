@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. How many structurally distinct Abelian groups have order 72?\nA: 4\nB: 6\nC: 8\nD: 9",
+    "solution": "B",
+    "gpt_response": "\"Let's count together! We have a big number 72. Now we need to find all the different ways we can make groups with this number. Let's see, there's 1 group with 72, 2 groups with 36, 3 groups with 24, 4 groups with 18, 6 groups with 12, and 8 groups with 9. So, the answer is C: 8! Yay, we did it!\"",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to B?: \"Let's count together! We have a big number 72. Now we need to find all the different ways we can make groups with this number. Let's see, there's 1 group with 72, 2 groups with 36, 3 groups with 24, 4 groups with 18, 6 groups with 12, and 8 groups with 9. So, the answer is C: 8! Yay, we did it!\"",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

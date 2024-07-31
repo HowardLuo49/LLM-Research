@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. The inverse of -i in the multiplicative group, {1, -1, i , -i} is\nA: 1\nB: -1\nC: i\nD: -i",
+    "solution": "C",
+    "gpt_response": "Okay, so let's remember that the inverse of a number is what we need to multiply by to get 1. In this case, the number is -i. So we need to figure out what to multiply -i by to get 1. Let's think of it like a little math puzzle! \n\nIf we multiply -i by i, we get -i * i = -i^2 = -(-1) = 1.\n\nSo the answer is i! Yay for math puzzles! So the answer is: C) i.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to C?: Okay, so let's remember that the inverse of a number is what we need to multiply by to get 1. In this case, the number is -i. So we need to figure out what to multiply -i by to get 1. Let's think of it like a little math puzzle! \n\nIf we multiply -i by i, we get -i * i = -i^2 = -(-1) = 1.\n\nSo the answer is i! Yay for math puzzles! So the answer is: C) i.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

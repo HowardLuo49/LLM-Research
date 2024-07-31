@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. A 60 yr old chronic smoker presents with painless gross hematuria of 1 day duration. Investigation of choice to know the cause of hematuria\n1: USG\n2: X-ray KUB\n3: Urine routine\n4: Urine microscopy for malignant cytology cells",
+    "solution": 4,
+    "gpt_response": "As a doctor, when a 60-year-old chronic smoker presents with painless gross hematuria of 1 day duration, the investigation of choice to determine the cause of the hematuria would be option 4: Urine microscopy for malignant cytology cells. This test can help to identify any abnormal cells in the urine that may indicate a potential underlying malignancy such as bladder cancer. It is important to rule out any serious conditions in this patient population.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 4?: As a doctor, when a 60-year-old chronic smoker presents with painless gross hematuria of 1 day duration, the investigation of choice to determine the cause of the hematuria would be option 4: Urine microscopy for malignant cytology cells. This test can help to identify any abnormal cells in the urine that may indicate a potential underlying malignancy such as bladder cancer. It is important to rule out any serious conditions in this patient population.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

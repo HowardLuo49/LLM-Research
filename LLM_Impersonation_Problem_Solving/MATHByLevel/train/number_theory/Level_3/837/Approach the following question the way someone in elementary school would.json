@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. The time right now is exactly midnight. What time will it be in 1234 minutes?",
+    "solution": "There are $60$ minutes in an hour. When $1234$ is divided by $60$, you get $20$ with a remainder of $34$. Therefore, the time in $1234$ minutes will be $\\boxed{20\\!:\\!34}$ or $\\boxed{8\\!:\\!34 \\text{ p.m.}}$.",
+    "gpt_response": "If it's midnight right now and we add 60 minutes, it will be 1:00 AM. So, if we keep adding 60 minutes every hour, after 1234 minutes it will be 8:14 AM.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 20\\!:\\!34?: If it's midnight right now and we add 60 minutes, it will be 1:00 AM. So, if we keep adding 60 minutes every hour, after 1234 minutes it will be 8:14 AM.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

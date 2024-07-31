@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. What is the least four-digit whole number that is both a perfect square and a perfect cube?",
+    "solution": "Let $n$ be the least four-digit whole number that is both a perfect square and a perfect cube.  In order for a number to be a perfect cube and a perfect square, it must be a perfect sixth power. Now we choose the smallest $a$ such that $n$ is four-digit: $2^6=64$, $3^6=729$, $4^6=4096$. Thus, $n=\\boxed{4096}$.",
+    "gpt_response": "To find the least four-digit whole number that is both a perfect square and a perfect cube, let's start by looking at the first few four-digit numbers.\n\nTrying 1000, which is 10^3, we see that it is a perfect cube but not a perfect square.\n\nNext, let's try 1024, which is 32^2. We found our answer! 1024 is the least four-digit whole number that is both a perfect square (32^2) and a perfect cube (10^3).",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 4096?: To find the least four-digit whole number that is both a perfect square and a perfect cube, let's start by looking at the first few four-digit numbers.\n\nTrying 1000, which is 10^3, we see that it is a perfect cube but not a perfect square.\n\nNext, let's try 1024, which is 32^2. We found our answer! 1024 is the least four-digit whole number that is both a perfect square (32^2) and a perfect cube (10^3).",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

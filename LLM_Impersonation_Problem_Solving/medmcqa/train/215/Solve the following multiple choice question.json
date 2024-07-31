@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. Budding reproduction in tissue is seen in\n1: Cryptococcus, candida\n2: Candida, rhizopus\n3: Rhizopus, mucor\n4: Histoplasma, candida",
+    "solution": 1,
+    "gpt_response": "2: Candida, rhizopus",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: 2: Candida, rhizopus",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

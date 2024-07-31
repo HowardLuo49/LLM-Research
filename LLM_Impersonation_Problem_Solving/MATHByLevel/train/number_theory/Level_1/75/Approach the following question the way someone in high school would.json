@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. A total of 180 marbles (gray, white, and black) are placed in a line. The first five are gray, followed by four white, followed by three black, followed by five gray, followed by four white, followed by three black,.... If this pattern continues, what is the color of the 158th marble in this line?",
+    "solution": "We notice that the marbles appear in strings of 5 gray, 4 white, 3 black.  These strings have 12 marbles each.  Since  \\[158=13\\cdot12+2,\\]there are 13 full strings of marbles and 2 extras.  Since the first 5 marbles in any group are gray, the two extra marbles must be $\\boxed{\\text{gray}}$.",
+    "gpt_response": "To find the color of the 158th marble in the line, we need to identify the pattern that is repeating. The pattern is as follows: 5 gray, 4 white, 3 black.\n\nTo find which color the 158th marble will be, we need to find how many times the pattern repeats in the first 157 marbles. The pattern repeats 4 times in every 12 marbles (5 gray + 4 white + 3 black).\n\nWe divide 157 by 12 to find out how many times the pattern repeats fully: 157 / 12 = 13 with a remainder of 1.\n\nSince the remainder is 1, we know that the 158th marble will be the color that comes after 13 full patterns. In the pattern 5 gray, 4 white, 3 black, the color that comes after black is gray.\n\nTherefore, the 158th marble will be gray.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to \\text{gray?: To find the color of the 158th marble in the line, we need to identify the pattern that is repeating. The pattern is as follows: 5 gray, 4 white, 3 black.\n\nTo find which color the 158th marble will be, we need to find how many times the pattern repeats in the first 157 marbles. The pattern repeats 4 times in every 12 marbles (5 gray + 4 white + 3 black).\n\nWe divide 157 by 12 to find out how many times the pattern repeats fully: 157 / 12 = 13 with a remainder of 1.\n\nSince the remainder is 1, we know that the 158th marble will be the color that comes after 13 full patterns. In the pattern 5 gray, 4 white, 3 black, the color that comes after black is gray.\n\nTherefore, the 158th marble will be gray.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

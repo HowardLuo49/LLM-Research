@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. Gastrosplenic ligament is derived from?\n1: Splenic artery\n2: Splenic vein\n3: Dorsal mesogastrium\n4: Ventral mesogastrium",
+    "solution": 3,
+    "gpt_response": "3: Dorsal mesogastrium",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: 3: Dorsal mesogastrium",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

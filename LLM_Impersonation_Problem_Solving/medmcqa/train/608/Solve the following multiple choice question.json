@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. In a family, the father has widely spaced eyes, increased facial hair and deafness. One of the three children has deafness with similar facial features. The mother is normal. Which one of the following is most likely pattern of inheritance in this case?\n1: Autosomal dominant\n2: Autosomal recessive\n3: X-linked dominant\n4: X-linked recessive",
+    "solution": 1,
+    "gpt_response": "2: Autosomal recessive\n\nIn this case, since the father has the traits and one of the children has inherited these traits, it is most likely an autosomal recessive inheritance pattern. Autosomal recessive conditions usually require both parents to pass on a copy of the mutated gene in order for the traits to be expressed in the offspring. The fact that only one of the children has inherited the traits suggests a recessive pattern of inheritance.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: 2: Autosomal recessive\n\nIn this case, since the father has the traits and one of the children has inherited these traits, it is most likely an autosomal recessive inheritance pattern. Autosomal recessive conditions usually require both parents to pass on a copy of the mutated gene in order for the traits to be expressed in the offspring. The fact that only one of the children has inherited the traits suggests a recessive pattern of inheritance.",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

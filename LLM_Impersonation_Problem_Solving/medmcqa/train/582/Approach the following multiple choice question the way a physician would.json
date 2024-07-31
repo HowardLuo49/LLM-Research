@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Persistent vomiting in G.O.O. causes -a) Hyponatremic hyperchloremia occurb) Hypernatremia without \u2193ed Cl- alkalosisc) Hypokalemic metabolic alkalosisd) Paradoxical aciduria\n1: cd\n2: bc\n3: bd\n4: ac",
+    "solution": 1,
+    "gpt_response": "I would eliminate option 1 as it does not match the symptoms described in persistent vomiting. Next, I would consider the electrolyte imbalances that could occur with vomiting, leading me to select option 3 - hypokalemic metabolic alkalosis, as the correct answer. This is a common electrolyte disturbance seen in patients with persistent vomiting. Option 2 does not align with the typical electrolyte imbalances seen in this condition. Option 4, paradoxical aciduria, does not accurately describe the electrolyte abnormalities seen in vomiting.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: I would eliminate option 1 as it does not match the symptoms described in persistent vomiting. Next, I would consider the electrolyte imbalances that could occur with vomiting, leading me to select option 3 - hypokalemic metabolic alkalosis, as the correct answer. This is a common electrolyte disturbance seen in patients with persistent vomiting. Option 2 does not align with the typical electrolyte imbalances seen in this condition. Option 4, paradoxical aciduria, does not accurately describe the electrolyte abnormalities seen in vomiting.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

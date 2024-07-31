@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. If 52 cards are dealt to 8 people as evenly as possible, how many people will end up with fewer than 7 cards?",
+    "solution": "When you divide 52 by 8, you get 6 with a remainder of 4.  Therefore, 4 of the people will get an extra card, bringing their total to 7, while the remaining $\\boxed{4}$ people have only 6 cards.",
+    "gpt_response": "Okay, so let's first figure out how many cards each person would get if they were dealt out evenly. If 52 cards are divided among 8 people, each person would get 52 divided by 8, which equals 6 cards each. \n\nSo since each person is supposed to get 6 cards, we need to figure out how many people will end up with fewer than 7 cards. If each person is getting 6 cards, that means they will all have the same amount. So no one will end up with fewer than 7 cards because they're all getting 6 cards each.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 4?: Okay, so let's first figure out how many cards each person would get if they were dealt out evenly. If 52 cards are divided among 8 people, each person would get 52 divided by 8, which equals 6 cards each. \n\nSo since each person is supposed to get 6 cards, we need to figure out how many people will end up with fewer than 7 cards. If each person is getting 6 cards, that means they will all have the same amount. So no one will end up with fewer than 7 cards because they're all getting 6 cards each.",
+    "gpt_response_correct_incorrect": "No. The final solution obtained is not 4.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in engineering would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in engineering would. What is the SMILES expression of N-formyl-N-methylcyclopropanecarboxamide?\nAnswer:",
+    "solution": [
+        "CN(C=O)C(=O)C1CC1"
+    ],
+    "gpt_response": "The SMILES expression of N-formyl-N-methylcyclopropanecarboxamide is CC(=O)C1CC1C(=O)NC.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response ['CN(C=O)C(=O)C1CC1']?: The SMILES expression of N-formyl-N-methylcyclopropanecarboxamide is CC(=O)C1CC1C(=O)NC.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. Find the modular inverse of $4$, modulo $21$.\n\nExpress your answer as an integer from $0$ to $20$, inclusive.",
+    "solution": "We are looking for an integer $a$ such that $4a$ is congruent to 1 modulo 21. One approach is to check integers of the form $21k+1$, where $k\\geq 0$ is an integer, for divisibility by 4. We find that 22 and 43 are not divisible by 4, but $21(3)+1=64$ is equal to $4\\times 16$. Thus $\\boxed{16}$ times 4 is congruent to 1 modulo 21.",
+    "gpt_response": "To find the modular inverse of $4$ modulo $21$, we need to find a number $x$ such that $4x \\equiv 1 \\pmod{21}$.\n\nWe can start by listing out multiples of $4$ until we find one that is congruent to $1$ modulo $21$:\n$4 \\equiv 4 \\pmod{21}$\n$2(4) \\equiv 8 \\pmod{21}$\n$3(4) \\equiv 12 \\pmod{21}$\n$4(4) \\equiv 16 \\pmod{21}$\n$5(4) \\equiv 20 \\pmod{21}$\n$6(4) \\equiv 1 \\pmod{21}$\n\nSo the modular inverse of $4$ modulo $21$ is $6$, because $4 \\times 6 \\equiv 1 \\pmod{21}$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 16?: To find the modular inverse of $4$ modulo $21$, we need to find a number $x$ such that $4x \\equiv 1 \\pmod{21}$.\n\nWe can start by listing out multiples of $4$ until we find one that is congruent to $1$ modulo $21$:\n$4 \\equiv 4 \\pmod{21}$\n$2(4) \\equiv 8 \\pmod{21}$\n$3(4) \\equiv 12 \\pmod{21}$\n$4(4) \\equiv 16 \\pmod{21}$\n$5(4) \\equiv 20 \\pmod{21}$\n$6(4) \\equiv 1 \\pmod{21}$\n\nSo the modular inverse of $4$ modulo $21$ is $6$, because $4 \\times 6 \\equiv 1 \\pmod{21}$.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "5",
+    "difficulty_value": "5"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. A 59-year-old male is found to have a 3.5-cm mass in the right upper lobe of his lung. A biopsy of this mass is diagnosed as a moderately differentiated squamous cell carcinoma. Workup reveals that no bone metastases are present, but laboratory examination reveals that the man's serum calcium levels are 11.5 mg/dL. This patient's paraneoplastic syndrome is most likely the result of ectopic production of\n1: Parathyroid hormone\n2: Calcitonin\n3: Parathyroid hormone-related peptide\n4: Calcitonin-related peptide",
+    "solution": 3,
+    "gpt_response": "The paraneoplastic syndrome in this patient with squamous cell carcinoma of the lung and elevated serum calcium levels is most likely due to ectopic production of parathyroid hormone-related peptide (choice 3). This peptide can mimic the action of parathyroid hormone, leading to hypercalcemia in cancer patients.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: The paraneoplastic syndrome in this patient with squamous cell carcinoma of the lung and elevated serum calcium levels is most likely due to ectopic production of parathyroid hormone-related peptide (choice 3). This peptide can mimic the action of parathyroid hormone, leading to hypercalcemia in cancer patients.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

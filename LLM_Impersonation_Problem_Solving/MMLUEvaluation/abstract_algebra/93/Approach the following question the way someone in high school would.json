@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Find the maximum possible order for an element of S_n for n = 6.\nA: 6\nB: 12\nC: 30\nD: 105",
+    "solution": "A",
+    "gpt_response": "Hmm, to figure this out, I know that the maximum possible order for an element of S_n is n. Since n = 6 in this case, the maximum possible order for an element of S_6 would be 6. So, the answer is A: 6.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to A?: Hmm, to figure this out, I know that the maximum possible order for an element of S_n is n. Since n = 6 in this case, the maximum possible order for an element of S_6 would be 6. So, the answer is A: 6.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "D: 105",
+    "difficulty_value": "5"
+}

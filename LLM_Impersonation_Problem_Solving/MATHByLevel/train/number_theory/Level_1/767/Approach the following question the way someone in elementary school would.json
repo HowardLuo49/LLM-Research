@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. What is the greatest number of Sundays that can occur in the first $49$ days of a year?",
+    "solution": "49 days is seven full weeks, so there are always $\\boxed{7}$ Sundays.",
+    "gpt_response": "To figure out the greatest number of Sundays in the first 49 days of a year, we need to see how many weeks are in that time period. Since there are 7 days in a week, we can divide 49 by 7 to get the number of weeks. \n\n49 \u00f7 7 = 7\n\nThat means there are 7 weeks in the first 49 days of the year. Since there is always a Sunday at the start of the week, that means there are 7 Sundays in the first 49 days of the year. \n\nSo the greatest number of Sundays that can occur in the first 49 days of a year is 7.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 7?: To figure out the greatest number of Sundays in the first 49 days of a year, we need to see how many weeks are in that time period. Since there are 7 days in a week, we can divide 49 by 7 to get the number of weeks. \n\n49 \u00f7 7 = 7\n\nThat means there are 7 weeks in the first 49 days of the year. Since there is always a Sunday at the start of the week, that means there are 7 Sundays in the first 49 days of the year. \n\nSo the greatest number of Sundays that can occur in the first 49 days of a year is 7.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

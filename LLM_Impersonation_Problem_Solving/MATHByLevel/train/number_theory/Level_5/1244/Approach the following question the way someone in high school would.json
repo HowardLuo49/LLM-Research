@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. For how many integer values of $n$ between 1 and 474 inclusive does the decimal representation of $\\frac{n}{475}$ terminate?",
+    "solution": "Recall that the decimal representation of a simplified fraction terminates if and only if the denominator is divisible by no primes other than 2 and 5. Prime factorizing 475 as $5^2\\cdot 19$, we see that $\\frac{n}{475}$ terminates if and only if $n$ is divisible by 19. There are 24 multiples of 19 from 1 to 474, so there are $\\boxed{24}$ possible values of $n$ that make $\\frac{n}{475}$ a terminating decimal.",
+    "gpt_response": "To determine how many integer values of $n$ between 1 and 474 inclusive make the decimal representation of $\\frac{n}{475}$ terminate, we need to consider the prime factors of 475. Factoring 475, we get $475=5^2 \\times 19$. \n\nFor the decimal representation of a fraction to terminate, its denominator must only have prime factors of 2 and/or 5. Since 19 is also a prime factor of 475, the decimal representation of $\\frac{n}{475}$ will not terminate for any integer value of $n$ between 1 and 474 inclusive.\n\nTherefore, the number of integer values of $n$ between 1 and 474 inclusive that make the decimal representation of $\\frac{n}{475}$ terminate is $\\boxed{0}$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 24?: To determine how many integer values of $n$ between 1 and 474 inclusive make the decimal representation of $\\frac{n}{475}$ terminate, we need to consider the prime factors of 475. Factoring 475, we get $475=5^2 \\times 19$. \n\nFor the decimal representation of a fraction to terminate, its denominator must only have prime factors of 2 and/or 5. Since 19 is also a prime factor of 475, the decimal representation of $\\frac{n}{475}$ will not terminate for any integer value of $n$ between 1 and 474 inclusive.\n\nTherefore, the number of integer values of $n$ between 1 and 474 inclusive that make the decimal representation of $\\frac{n}{475}$ terminate is $\\boxed{0}$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

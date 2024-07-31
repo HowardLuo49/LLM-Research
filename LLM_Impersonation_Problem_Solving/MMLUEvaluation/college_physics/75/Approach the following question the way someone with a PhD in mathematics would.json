@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. The mean kinetic energy of the conduction electrons in metals is ordinarily much higher than kT because\nA: electrons have many more degrees of freedom than atoms do\nB: the electrons and the lattice are not in thermal equilibrium\nC: the electrons form a degenerate Fermi gas\nD: electrons in metals are highly relativistic",
+    "solution": "C",
+    "gpt_response": "The correct answer is C: the electrons form a degenerate Fermi gas.\n\nIn a metal, the electrons are confined to a lattice and are subject to the Pauli exclusion principle, which prohibits more than one electron from occupying the same quantum state. This leads to the formation of a degenerate Fermi gas, in which the electrons follow Fermi-Dirac statistics and occupy energy levels up to the Fermi energy.\n\nThe mean energy of the electrons in a Fermi gas is determined by the Fermi-Dirac distribution, which results in a high kinetic energy compared to the thermal energy kT at room temperature. This is why the mean kinetic energy of the conduction electrons in metals is often much higher than kT.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to C?: The correct answer is C: the electrons form a degenerate Fermi gas.\n\nIn a metal, the electrons are confined to a lattice and are subject to the Pauli exclusion principle, which prohibits more than one electron from occupying the same quantum state. This leads to the formation of a degenerate Fermi gas, in which the electrons follow Fermi-Dirac statistics and occupy energy levels up to the Fermi energy.\n\nThe mean energy of the electrons in a Fermi gas is determined by the Fermi-Dirac distribution, which results in a high kinetic energy compared to the thermal energy kT at room temperature. This is why the mean kinetic energy of the conduction electrons in metals is often much higher than kT.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

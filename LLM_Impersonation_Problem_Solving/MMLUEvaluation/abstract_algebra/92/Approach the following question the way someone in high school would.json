@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Which of the following statements is true?\nA: Every equivalence relation is a partial-ordering relation.\nB: Number of relations form A = {x, y, z} to B= (1, 2), is 64.\nC: Empty relation _ is reflexive\nD: Properties of a relation being symmetric and being un-symmetric are negative of each other.",
+    "solution": "B",
+    "gpt_response": "The correct statement is C: Empty relation _ is reflexive. This is because for a relation to be reflexive, it must contain all elements of the set it is defined on, and since an empty relation contains no elements, it automatically satisfies the reflexive property.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to B?: The correct statement is C: Empty relation _ is reflexive. This is because for a relation to be reflexive, it must contain all elements of the set it is defined on, and since an empty relation contains no elements, it automatically satisfies the reflexive property.",
+    "gpt_response_correct_incorrect": "No. The final solution obtained in the following scenario is C: Empty relation _ is reflexive, not B.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

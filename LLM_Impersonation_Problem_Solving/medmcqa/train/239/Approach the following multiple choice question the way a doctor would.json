@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Carotid artery stenosis screening invivo choice is -\n1: USG\n2: CT\n3: MRI\n4: Doppler",
+    "solution": 4,
+    "gpt_response": "As a doctor, when considering the best approach for carotid artery stenosis screening in vivo, the most appropriate choice would be option 4: Doppler. Doppler ultrasound is a non-invasive and effective method for assessing blood flow in the carotid arteries, allowing for the evaluation of stenosis or narrowing of the vessels. It is commonly used in clinical practice for screening, diagnosis, and monitoring of carotid artery disease. Options 1 (USG), 2 (CT), and 3 (MRI) may also provide valuable information, but for the specific purpose of screening for carotid artery stenosis in vivo, Doppler ultrasound is the preferred choice.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 4?: As a doctor, when considering the best approach for carotid artery stenosis screening in vivo, the most appropriate choice would be option 4: Doppler. Doppler ultrasound is a non-invasive and effective method for assessing blood flow in the carotid arteries, allowing for the evaluation of stenosis or narrowing of the vessels. It is commonly used in clinical practice for screening, diagnosis, and monitoring of carotid artery disease. Options 1 (USG), 2 (CT), and 3 (MRI) may also provide valuable information, but for the specific purpose of screening for carotid artery stenosis in vivo, Doppler ultrasound is the preferred choice.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

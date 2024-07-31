@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. If the least common multiple of $A$ and $B$ is $120$, and the ratio of $A$ to $B$ is $3:4$, then what is their greatest common divisor?",
+    "solution": "Since the ratio of $A$ to $B$ is $3:4$, there is an integer $k$ for which $A=3k$ and $B=4k$. Moveover, $k$ is the greatest common divisor of $A$ and $B$, since 3 and 4 are relatively prime. Recalling the identity $\\mathop{\\text{lcm}}[A,B]\\cdot\\gcd(A,B)=AB$, we find that $120k=(3k)(4k),$ which implies $k=120/12=\\boxed{10}$.",
+    "gpt_response": "Hmm, let's see! The least common multiple is 120, and the ratio of A to B is 3:4. That means A is 3 parts and B is 4 parts. So if we add up 3 + 4, we get 7 parts in total. And since the least common multiple is 120, we can divide 120 by 7 to find each part. So 120 \u00f7 7 = 17.14 (approximately). \n\nNow, we know that A is made up of 3 parts and B is made up of 4 parts. So we do 3 \u00d7 17.14 = 51.42 and 4 \u00d7 17.14 = 68.56. \n\nThe greatest common divisor of 51.42 and 68.56 is 17.14. So the greatest common divisor of A and B is 17.14. Yay!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 10?: Hmm, let's see! The least common multiple is 120, and the ratio of A to B is 3:4. That means A is 3 parts and B is 4 parts. So if we add up 3 + 4, we get 7 parts in total. And since the least common multiple is 120, we can divide 120 by 7 to find each part. So 120 \u00f7 7 = 17.14 (approximately). \n\nNow, we know that A is made up of 3 parts and B is made up of 4 parts. So we do 3 \u00d7 17.14 = 51.42 and 4 \u00d7 17.14 = 68.56. \n\nThe greatest common divisor of 51.42 and 68.56 is 17.14. So the greatest common divisor of A and B is 17.14. Yay!",
+    "gpt_response_correct_incorrect": "No, the final solution obtained is not equal to 10.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "5",
+    "difficulty_value": "5"
+}

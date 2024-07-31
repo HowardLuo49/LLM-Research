@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in literature would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in literature would. What is the kinetic energy released in a type Ia supernova explosion, assuming the entire mass of a white dwarf star (7.7solar masses) is converted into energy? Please note that the following content involves constants might be used in the calculations : solar mass = 1.989e30 kg ; velocity of light: c = 3e8 m/s. Additionally, please select the option from the given choices that you believe is closest to the correct answer!\n\nA. 4.67e+48 J\nB. 1.38e+48 J\nC. 7.82e+48 J\nD. 5.74e+48 J\n\nAnswer:",
+    "solution": [
+        "B"
+    ],
+    "gpt_response": "In order to calculate the kinetic energy released in a type Ia supernova explosion, we can use the formula E = mc^2, where E is the energy, m is the mass, and c is the speed of light. \n\nGiven that the mass of the white dwarf star is 7.7 solar masses, we can calculate the actual mass in kg by multiplying by the mass of the sun (1.989e30 kg):\n\nMass = 7.7 x 1.989e30 kg = 1.5333e31 kg\n\nNow, we can plug in the mass into the formula to calculate the energy released:\n\nE = 1.5333e31 kg x (3e8 m/s)^2\nE = 1.5333e31 kg x 9e16 m^2/s^2\nE = 1.38e48 J\n\nTherefore, the closest answer choice to the correct answer is B. 1.38e+48 J.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to ['B']?: In order to calculate the kinetic energy released in a type Ia supernova explosion, we can use the formula E = mc^2, where E is the energy, m is the mass, and c is the speed of light. \n\nGiven that the mass of the white dwarf star is 7.7 solar masses, we can calculate the actual mass in kg by multiplying by the mass of the sun (1.989e30 kg):\n\nMass = 7.7 x 1.989e30 kg = 1.5333e31 kg\n\nNow, we can plug in the mass into the formula to calculate the energy released:\n\nE = 1.5333e31 kg x (3e8 m/s)^2\nE = 1.5333e31 kg x 9e16 m^2/s^2\nE = 1.38e48 J\n\nTherefore, the closest answer choice to the correct answer is B. 1.38e+48 J.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a medical researcher would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a medical researcher would. Recommended daily dietary requirment of folate (folic acid) in children ?\n1: 80-120 mg\n2: 200 mg\n3: 400 mg\n4: 600 mg",
+    "solution": 1,
+    "gpt_response": "As a medical researcher, I would approach this question by first reviewing the current recommendations from reliable sources such as the World Health Organization or the Food and Nutrition Board. \n\nBased on the recommended daily dietary requirement for folate in children, the correct answer is likely to be 3: 400 mg. This is the typical daily amount of folate recommended for children to support proper growth and development. However, it is important to note that individual requirements may vary based on factors such as age, gender, and specific health conditions.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: As a medical researcher, I would approach this question by first reviewing the current recommendations from reliable sources such as the World Health Organization or the Food and Nutrition Board. \n\nBased on the recommended daily dietary requirement for folate in children, the correct answer is likely to be 3: 400 mg. This is the typical daily amount of folate recommended for children to support proper growth and development. However, it is important to note that individual requirements may vary based on factors such as age, gender, and specific health conditions.",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

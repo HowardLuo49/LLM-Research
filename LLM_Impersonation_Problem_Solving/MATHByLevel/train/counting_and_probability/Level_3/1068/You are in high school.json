@@ -1,0 +1,7 @@
+{
+    "prefix": "You are in high school.\n",
+    "problem_prompt": "You are in high school.\nHow many triangles can be formed using the vertices of a regular dodecagon (a 12-sided polygon)?",
+    "solution": "No three vertices are collinear, so any combination of 3 vertices will make a triangle. Choosing 3 out of 12 is $\\binom{12}{3}=\\boxed{220}.$",
+    "gpt_response": "ChatCompletion(id='chatcmpl-9A2pqRjFlx8D5zI9xvBFLSW5oEs8z', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='There are 220 triangles that can be formed using the vertices of a regular dodecagon.', role='assistant', function_call=None, tool_calls=None))], created=1712181206, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint='fp_b28b39ffa8', usage=CompletionUsage(completion_tokens=20, prompt_tokens=36, total_tokens=56))",
+    "yes_no": "yes"
+}

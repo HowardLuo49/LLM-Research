@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. Which of the following is true about any system that undergoes a reversible thermodynamic process?\nA: There are no changes in the internal energy of the system.\nB: The temperature of the system remains constant during the process.\nC: The entropy of the system and its environment remains unchanged.\nD: The entropy of the system and its environment must increase.",
+    "solution": "C",
+    "gpt_response": "Well, when a system goes through a reversible thermodynamic process, the temperature stays constant, so that means that B is true.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to C?: Well, when a system goes through a reversible thermodynamic process, the temperature stays constant, so that means that B is true.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. A particle is constrained to move in a circle with a 10-meter radius. At one instant, the particle\u2019s speed is 10 meters per second and is increasing at a rate of 10 meters per second squared. The angle between the particle\u2019s velocity and acceleration vectors is\nA: 0\u00b0\nB: 30\u00b0\nC: 45\u00b0\nD: 60\u00b0",
+    "solution": "C",
+    "gpt_response": "Ooh, let's pretend we're a little ball spinning around in a circle! We're going really fast and getting faster too! But how fast are we going and in what direction? Hmm, maybe we can draw some pictures to help us figure it out. Let's see... Oh, I think the angle between our speed and how fast we're speeding up is 60\u00b0. So, the answer is D: 60\u00b0! Yay, we did it! Good job spinning around in a circle, little ball!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to C?: Ooh, let's pretend we're a little ball spinning around in a circle! We're going really fast and getting faster too! But how fast are we going and in what direction? Hmm, maybe we can draw some pictures to help us figure it out. Let's see... Oh, I think the angle between our speed and how fast we're speeding up is 60\u00b0. So, the answer is D: 60\u00b0! Yay, we did it! Good job spinning around in a circle, little ball!",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

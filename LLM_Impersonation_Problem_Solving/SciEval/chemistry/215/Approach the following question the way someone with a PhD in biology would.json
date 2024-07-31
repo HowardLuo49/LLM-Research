@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. What is the SMILES expression of C4H10N2OS?\nAnswer:",
+    "solution": [
+        "C(CNC(=O)N)CS"
+    ],
+    "gpt_response": "The SMILES expression of a molecule represents its chemical structure in a condensed format using simple text strings. In the case of C4H10N2OS, which represents the molecule 2-amino-3-mercapto-4-methylpentan-1-ol, the SMILES expression would be CC(C)(CSCCN)CO. This string of characters provides a concise representation of the connectivity of atoms in the molecule, allowing for easy sharing and analyzing of structural information.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response ['C(CNC(=O)N)CS']?: The SMILES expression of a molecule represents its chemical structure in a condensed format using simple text strings. In the case of C4H10N2OS, which represents the molecule 2-amino-3-mercapto-4-methylpentan-1-ol, the SMILES expression would be CC(C)(CSCCN)CO. This string of characters provides a concise representation of the connectivity of atoms in the molecule, allowing for easy sharing and analyzing of structural information.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "5",
+    "difficulty_value": "5"
+}

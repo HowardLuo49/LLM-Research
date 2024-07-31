@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. Find the only positive real number $x$ for which $\\displaystyle \\frac{x-4}{9} = \\frac{4}{x-9}$.",
+    "solution": "The first approach that comes to mind is probably also the best one.  So we cross-multiply to obtain $(x-4)(x-9) = 36$.  Multiplying out the left-hand side and cancelling the 36 yields $x^2-13x = 0$, or $x(x-13)=0$.  This equation has two solutions, $x=0$ and 13.  Since we are looking for positive answers, we take $x=\\boxed{13}$.",
+    "gpt_response": "To find the positive real number $x$ that satisfies the given equation, we first multiply both sides by $9(x-9)$ to clear the denominators. This gives us:\n$$9(x-4) = 4(9)$$\nExpanding both sides further, we get:\n$$9x - 36 = 36$$\nAdding 36 to both sides yields:\n$$9x = 72$$\nDividing by 9 on both sides gives:\n$$x = 8$$\n\nTherefore, the only positive real number that satisfies the equation is $x=8$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 13?: To find the positive real number $x$ that satisfies the given equation, we first multiply both sides by $9(x-9)$ to clear the denominators. This gives us:\n$$9(x-4) = 4(9)$$\nExpanding both sides further, we get:\n$$9x - 36 = 36$$\nAdding 36 to both sides yields:\n$$9x = 72$$\nDividing by 9 on both sides gives:\n$$x = 8$$\n\nTherefore, the only positive real number that satisfies the equation is $x=8$.",
+    "gpt_response_correct_incorrect": "No",
+    "yes_no": "no"
+}

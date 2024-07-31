@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Position of vocal cord in cadaver is:\n1: Median\n2: Paramedian\n3: Intermediate\n4: Full Abduction",
+    "solution": 3,
+    "gpt_response": "As a physician, I would choose option 1: Median. This is because the vocal cords are positioned in the midline of the cadaver's larynx when they are in the resting position.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: As a physician, I would choose option 1: Median. This is because the vocal cords are positioned in the midline of the cadaver's larynx when they are in the resting position.",
+    "gpt_response_correct_incorrect": "No. The final solution obtained is option 1: Median.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

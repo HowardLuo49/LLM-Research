@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. How many distinct positive factors does 32 have?",
+    "solution": "Since 32 is a power of 2, its only factors are the powers of 2 less than or equal to it.  These are 1, 2, 4, 8, 16, and 32, so there are $\\boxed{6}$ positive factors of 32.",
+    "gpt_response": "To find the distinct positive factors of 32, we can list out all the factors: 1, 2, 4, 8, 16, and 32. So, 32 has 6 distinct positive factors.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 6?: To find the distinct positive factors of 32, we can list out all the factors: 1, 2, 4, 8, 16, and 32. So, 32 has 6 distinct positive factors.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

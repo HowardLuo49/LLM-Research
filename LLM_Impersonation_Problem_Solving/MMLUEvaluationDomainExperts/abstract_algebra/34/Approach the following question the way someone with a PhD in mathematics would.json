@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. Statement 1 | If T: V -> W is a linear transformation and dim(V ) < dim(W) < 1, then T must be injective. Statement 2 | Let dim(V) = n and suppose that T: V -> V is linear. If T is injective, then it is a bijection.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "A",
+    "gpt_response": "Statement 1 is true because if the dimension of the vector space W is greater than the dimension of the vector space V, then there must be more elements in W than in V. This implies that there cannot be any nontrivial null vectors in V, meaning that T must be injective.\n\nStatement 2 is false because a linear transformation T from a vector space V to itself being injective does not guarantee that it is also surjective. In order for T to be a bijection, it must be both injective and surjective.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to A?: Statement 1 is true because if the dimension of the vector space W is greater than the dimension of the vector space V, then there must be more elements in W than in V. This implies that there cannot be any nontrivial null vectors in V, meaning that T must be injective.\n\nStatement 2 is false because a linear transformation T from a vector space V to itself being injective does not guarantee that it is also surjective. In order for T to be a bijection, it must be both injective and surjective.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

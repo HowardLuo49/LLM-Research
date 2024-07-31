@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. How many atoms are there in C4H12O4?\nAnswer (numerical number):",
+    "solution": [
+        20
+    ],
+    "gpt_response": "There are 20 atoms in C4H12O4. \n\nExplanation: In the compound C4H12O4, there are 4 carbon atoms, 12 hydrogen atoms, and 4 oxygen atoms. To find the total number of atoms, we simply add the number of each type of atom together: \n\n4 (C) + 12 (H) + 4 (O) = 20 atoms in total.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response [20]?: There are 20 atoms in C4H12O4. \n\nExplanation: In the compound C4H12O4, there are 4 carbon atoms, 12 hydrogen atoms, and 4 oxygen atoms. To find the total number of atoms, we simply add the number of each type of atom together: \n\n4 (C) + 12 (H) + 4 (O) = 20 atoms in total.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "20",
+    "difficulty_value": "2"
+}

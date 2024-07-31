@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Statement 1 | There exists a free abelian group of every positive integer rank. Statement 2 | A finitely generated abelian group is free abelian if its Betti number equals the number of elements in some generating set.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "A",
+    "gpt_response": "Umm, okay so for the first statement, it's saying that you can have a free abelian group for any positive integer rank. I think that's true because you can basically just have a bunch of copies of Z added together. And for the second statement, it's saying that a finitely generated abelian group is free abelian if the Betti number equals the number of elements in a generating set. I'm not really sure what a Betti number is, but I do know that a free abelian group is one where you can have a basis where the elements are independent. So I think that one is false because just having the same number of elements in a generating set doesn't necessarily mean the group is free abelian. So I would go with option C: True, False.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to A?: Umm, okay so for the first statement, it's saying that you can have a free abelian group for any positive integer rank. I think that's true because you can basically just have a bunch of copies of Z added together. And for the second statement, it's saying that a finitely generated abelian group is free abelian if the Betti number equals the number of elements in a generating set. I'm not really sure what a Betti number is, but I do know that a free abelian group is one where you can have a basis where the elements are independent. So I think that one is false because just having the same number of elements in a generating set doesn't necessarily mean the group is free abelian. So I would go with option C: True, False.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

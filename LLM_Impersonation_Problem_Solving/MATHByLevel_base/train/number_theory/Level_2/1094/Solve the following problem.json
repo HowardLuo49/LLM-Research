@@ -1,0 +1,10 @@
+{
+    "prefix": "Solve the following problem. ",
+    "problem_prompt": "Solve the following problem. Suppose $173\\cdot 927\\equiv n\\pmod{50}$, where $0\\le n< 50$.\n\nWhat is the value of $n$?",
+    "solution": "Note that $173 \\equiv 23\\pmod{50}$ and $927\\equiv 27\\pmod{50}$. Therefore, \\begin{align*}\n173\\cdot 927 &\\equiv 23\\cdot 27 \\\\\n&= 621 \\\\\n&\\equiv \\boxed{21}\\quad\\pmod{50}.\n\\end{align*}",
+    "gpt_response": "We can find $n$ by computing $173\\cdot 927$ and then finding the remainder when divided by 50. \n\n$173\\cdot 927 = 160071$\n\nWhen we divide 160071 by 50, we get a quotient of 3201 and a remainder of 21. \n\nTherefore, $173\\cdot 927\\equiv \\boxed{21} \\pmod{50}$.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 21?: We can find $n$ by computing $173\\cdot 927$ and then finding the remainder when divided by 50. \n\n$173\\cdot 927 = 160071$\n\nWhen we divide 160071 by 50, we get a quotient of 3201 and a remainder of 21. \n\nTherefore, $173\\cdot 927\\equiv \\boxed{21} \\pmod{50}$.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes"
+}

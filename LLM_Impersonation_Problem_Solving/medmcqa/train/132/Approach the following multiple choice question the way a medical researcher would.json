@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a medical researcher would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a medical researcher would. A labourer involved with repair-work of sewers was admitted with fever, jaundice and renal failure. The most appropriate test to diagnose the infection in this patient is -\n1: Weil Felix test\n2: Paul Bunnell test\n3: Microscopic agglutination test\n4: Microimmunofluorescence test",
+    "solution": 3,
+    "gpt_response": "A medical researcher would approach this question by considering the symptoms of the patient (fever, jaundice, and renal failure) and the nature of their work (repair-work of sewers). Given the symptoms and exposure history, the most likely diagnosis is leptospirosis, a bacterial infection commonly associated with exposure to contaminated water or soil.\n\nThe most appropriate test to diagnose leptospirosis in this patient would be the microscopic agglutination test. This test is considered the gold standard for the diagnosis of leptospirosis as it detects antibodies in the patient's blood that are specific to the bacteria causing the infection. The Weil Felix test, Paul Bunnell test, and Microimmunofluorescence test are not typically used for the diagnosis of leptospirosis.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: A medical researcher would approach this question by considering the symptoms of the patient (fever, jaundice, and renal failure) and the nature of their work (repair-work of sewers). Given the symptoms and exposure history, the most likely diagnosis is leptospirosis, a bacterial infection commonly associated with exposure to contaminated water or soil.\n\nThe most appropriate test to diagnose leptospirosis in this patient would be the microscopic agglutination test. This test is considered the gold standard for the diagnosis of leptospirosis as it detects antibodies in the patient's blood that are specific to the bacteria causing the infection. The Weil Felix test, Paul Bunnell test, and Microimmunofluorescence test are not typically used for the diagnosis of leptospirosis.",
+    "gpt_response_correct_incorrect": "No, the final solution obtained is not option 3.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

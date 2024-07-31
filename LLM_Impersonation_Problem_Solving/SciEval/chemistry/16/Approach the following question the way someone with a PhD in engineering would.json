@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in engineering would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in engineering would. How many atoms are there in C7H14ClN5?\nAnswer (numerical number):",
+    "solution": [
+        27
+    ],
+    "gpt_response": "There are 27 atoms in C7H14ClN5. \n\nExplanation: \n- There are 7 carbon atoms (C) in C7\n- There are 14 hydrogen atoms (H) in H14\n- There is 1 chlorine atom (Cl) in Cl\n- There are 5 nitrogen atoms (N) in N5\n\n7 + 14 + 1 + 5 = 27 atoms in total.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response [27]?: There are 27 atoms in C7H14ClN5. \n\nExplanation: \n- There are 7 carbon atoms (C) in C7\n- There are 14 hydrogen atoms (H) in H14\n- There is 1 chlorine atom (Cl) in Cl\n- There are 5 nitrogen atoms (N) in N5\n\n7 + 14 + 1 + 5 = 27 atoms in total.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "27",
+    "difficulty_value": "2"
+}

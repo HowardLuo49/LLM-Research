@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. During Sx for meningioma, the left paracentral lobule was injured. It would lead to paresis of\n1: Rt. Leg and perineus\n2: Left face\n3: Right face\n4: Right shoulder & trunk",
+    "solution": 1,
+    "gpt_response": "As a physician, I would approach this multiple choice question by understanding the general anatomy of the brain, specifically the areas that control motor function. The left paracentral lobule is responsible for controlling motor function on the right side of the body. Therefore, the correct answer would be:\n\n1: Rt. Leg and perineus\n\nThis is because an injury to the left paracentral lobule would lead to paresis (weakness) on the right side of the body, including the right leg and perineus muscles. It is important to understand the neurological pathways and location of injuries in order to accurately predict the resulting symptoms in patients with brain injuries.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: As a physician, I would approach this multiple choice question by understanding the general anatomy of the brain, specifically the areas that control motor function. The left paracentral lobule is responsible for controlling motor function on the right side of the body. Therefore, the correct answer would be:\n\n1: Rt. Leg and perineus\n\nThis is because an injury to the left paracentral lobule would lead to paresis (weakness) on the right side of the body, including the right leg and perineus muscles. It is important to understand the neurological pathways and location of injuries in order to accurately predict the resulting symptoms in patients with brain injuries.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

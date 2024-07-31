@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Pain-sensitive intracranial structure is:\n1: Piamater\n2: Pial vassels\n3: Duramater\n4: Brain matter",
+    "solution": 3,
+    "gpt_response": "The pain-sensitive intracranial structure is the dura mater.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: The pain-sensitive intracranial structure is the dura mater.",
+    "gpt_response_correct_incorrect": "3: Yes\n\nThe dura mater is the outermost layer of the meninges, or protective membranes that surround the brain and spinal cord. It is pain-sensitive, meaning that it can cause significant discomfort when inflamed or irritated. So, the final solution to the question is indeed option 3.",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

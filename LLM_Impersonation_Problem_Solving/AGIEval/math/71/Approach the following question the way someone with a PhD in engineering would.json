@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in engineering would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in engineering would. Suppose $a<c$ and $b<0$. Which of the following must be true?\n\n$ab < ac$\n$a+b<c+b$\n$a-b < c-b$\n$c/a > 1$\n\nEnter your answer as a list of those options that are always true. For instance, if you think only the first and third are true, enter 'A, C'.",
+    "solution": "B, C",
+    "gpt_response": "In order to analyze which among the given options must be true, we can consider the inequalities provided: $a<c$ and $b<0$.\n\n1. $ab < ac$: Multiplying both sides of $a<c$ by $b$, we get $ab < bc$. Since $b < 0$, this means that $ab > ac$. Therefore, this option is not always true.\n\n2. $a+b < c+b$: Adding $b$ to both sides of $a<c$, we get $a+b < c+b$. Therefore, this option is always true.\n\n3. $a-b < c-b$: Subtracting $b$ from both sides of $a<c$, we get $a-b < c-b$. Therefore, this option is always true.\n\n4. $c/a > 1$: Dividing both sides of $a<c$ by $a$, we get $c/a > 1$. Therefore, this option is always true.\n\nTherefore, the correct answer is 'B, C, D'.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response B, C?: In order to analyze which among the given options must be true, we can consider the inequalities provided: $a<c$ and $b<0$.\n\n1. $ab < ac$: Multiplying both sides of $a<c$ by $b$, we get $ab < bc$. Since $b < 0$, this means that $ab > ac$. Therefore, this option is not always true.\n\n2. $a+b < c+b$: Adding $b$ to both sides of $a<c$, we get $a+b < c+b$. Therefore, this option is always true.\n\n3. $a-b < c-b$: Subtracting $b$ from both sides of $a<c$, we get $a-b < c-b$. Therefore, this option is always true.\n\n4. $c/a > 1$: Dividing both sides of $a<c$ by $a$, we get $c/a > 1$. Therefore, this option is always true.\n\nTherefore, the correct answer is 'B, C, D'.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Most common cause of neonatal meningitis-\n1: Staphylococcus\n2: E. coli\n3: H. influenze\n4: Pneumococcus",
+    "solution": 2,
+    "gpt_response": "When considering the most common cause of neonatal meningitis, it is important to take into account the patient's age, risk factors, and presenting symptoms. In the neonatal period, the most common cause of meningitis is often related to vertical transmission of bacteria from the mother to the newborn during delivery. In this context, E. coli is the most common cause of neonatal meningitis due to its presence in the maternal gastrointestinal tract.\n\nTherefore, I would select option 2: E. coli as the most likely cause of neonatal meningitis in this scenario.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: When considering the most common cause of neonatal meningitis, it is important to take into account the patient's age, risk factors, and presenting symptoms. In the neonatal period, the most common cause of meningitis is often related to vertical transmission of bacteria from the mother to the newborn during delivery. In this context, E. coli is the most common cause of neonatal meningitis due to its presence in the maternal gastrointestinal tract.\n\nTherefore, I would select option 2: E. coli as the most likely cause of neonatal meningitis in this scenario.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

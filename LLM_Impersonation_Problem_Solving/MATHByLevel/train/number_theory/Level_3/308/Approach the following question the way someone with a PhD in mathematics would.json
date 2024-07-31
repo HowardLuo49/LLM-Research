@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. If the 25th day of the year 2003 falls on a Saturday, on what day of the week did the 284th day of the year 2003 fall?",
+    "solution": "There are 7 days in a week.  Two days of the year fall on the same day of the week if and only if they are congruent modulo 7.  Notice that  \\[284\\equiv4\\pmod7\\] and  \\[25\\equiv4\\pmod7.\\] Therefore the 284th day and the 25th day fall on the same day of the week.  Therefore the 284th day of the year falls on a $\\boxed{\\text{Saturday}}$.",
+    "gpt_response": "To determine on which day of the week the 284th day of the year 2003 falls, we first note that there are 365 days in a non-leap year (2003 is not a leap year). \n\nSince the 25th day of the year 2003 falls on a Saturday, we can count how many days are between the 25th day and the 284th day. \n\nBy subtracting 25 from 284, we find that there are 259 days between these two dates. \n\nDividing 259 by 7 gives a quotient of 37 with a remainder of 0. This means that the day of the week for the 284th day of 2003 is the same as the day of the week for the 25th day, which is a Saturday.\n\nTherefore, the 284th day of the year 2003 also falls on a Saturday.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to \\text{Saturday?: To determine on which day of the week the 284th day of the year 2003 falls, we first note that there are 365 days in a non-leap year (2003 is not a leap year). \n\nSince the 25th day of the year 2003 falls on a Saturday, we can count how many days are between the 25th day and the 284th day. \n\nBy subtracting 25 from 284, we find that there are 259 days between these two dates. \n\nDividing 259 by 7 gives a quotient of 37 with a remainder of 0. This means that the day of the week for the 284th day of 2003 is the same as the day of the week for the 25th day, which is a Saturday.\n\nTherefore, the 284th day of the year 2003 also falls on a Saturday.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

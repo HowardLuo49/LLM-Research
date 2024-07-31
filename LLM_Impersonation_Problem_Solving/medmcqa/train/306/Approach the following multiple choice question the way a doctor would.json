@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Polymorphic ventricular tachycardia can occur when terfenadine(antihistaminic):\n1: Is coadministrator with azithromycin\n2: Is coadministrator with fluconazole\n3: Is given in higher doses\n4: Reduces QT interval",
+    "solution": 3,
+    "gpt_response": "Polymorphic ventricular tachycardia can occur when terfenadine is coadministered with azithromycin due to their potential to prolong the QT interval. This combination can lead to an increased risk of developing a serious cardiac arrhythmia known as torsades de pointes. It is important to take caution when prescribing these medications together, as it can lead to potentially life-threatening complications.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: Polymorphic ventricular tachycardia can occur when terfenadine is coadministered with azithromycin due to their potential to prolong the QT interval. This combination can lead to an increased risk of developing a serious cardiac arrhythmia known as torsades de pointes. It is important to take caution when prescribing these medications together, as it can lead to potentially life-threatening complications.",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "9",
+    "difficulty_value": "9"
+}

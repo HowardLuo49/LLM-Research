@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. What is the sum of the value(s) of $n$ for which $|2n - 7| = 3$?",
+    "solution": "The absolute value of a real number is equal to $3$ if and only if the number is $3$ or $-3$.  Solving $2n-7=3$ and $2n-7=-3$ we find the solutions $n=5$ and $n=2$.  The sum of these solutions is $5+2=\\boxed{7}$.",
+    "gpt_response": "To find the sum of the value(s) of $n$ for which $|2n - 7| = 3$, we need to figure out what numbers can go in place of $n.\n\nFirst, we know that $|2n - 7| = 3$. This means that either $2n - 7 = 3$ or $2n - 7 = -3$\n\nIf we solve for $n$ in the first equation, we get:\n\n$2n - 7 = 3$\n$2n = 10$\n$n = 5$\n\nIf we solve for $n$ in the second equation, we get:\n\n$2n - 7 = -3$\n$2n = 4$\n$n = 2$\n\nSo, the sum of the values of $n$ that satisfy the equation is $5 + 2 = 7$. \n\nTherefore, the sum of the value(s) of $n$ for which $|2n - 7| = 3$ is $7$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 7?: To find the sum of the value(s) of $n$ for which $|2n - 7| = 3$, we need to figure out what numbers can go in place of $n.\n\nFirst, we know that $|2n - 7| = 3$. This means that either $2n - 7 = 3$ or $2n - 7 = -3$\n\nIf we solve for $n$ in the first equation, we get:\n\n$2n - 7 = 3$\n$2n = 10$\n$n = 5$\n\nIf we solve for $n$ in the second equation, we get:\n\n$2n - 7 = -3$\n$2n = 4$\n$n = 2$\n\nSo, the sum of the values of $n$ that satisfy the equation is $5 + 2 = 7$. \n\nTherefore, the sum of the value(s) of $n$ for which $|2n - 7| = 3$ is $7$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in literature would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in literature would. The sign of the charge carriers in a doped semiconductor can be deduced by measuring which of the following properties?\nA: Magnetic susceptibility\nB: Hall coefficient\nC: Electrical resistivity\nD: Thermal conductivity",
+    "solution": "B",
+    "gpt_response": "To deduce the sign of the charge carriers in a doped semiconductor, a PhD in literature may consider the various properties of the material and how they relate to the nature of the carriers. In this case, the most relevant property to consider would be the Hall coefficient. The Hall coefficient provides information about the type of charge carriers present in a material, as well as their concentration and mobility. By measuring the Hall coefficient of a doped semiconductor, one can determine whether the majority charge carriers are electrons (negative) or holes (positive). The other properties mentioned - magnetic susceptibility, electrical resistivity, and thermal conductivity - may also provide some information about the material, but the Hall coefficient is most directly related to the sign of the charge carriers.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to B?: To deduce the sign of the charge carriers in a doped semiconductor, a PhD in literature may consider the various properties of the material and how they relate to the nature of the carriers. In this case, the most relevant property to consider would be the Hall coefficient. The Hall coefficient provides information about the type of charge carriers present in a material, as well as their concentration and mobility. By measuring the Hall coefficient of a doped semiconductor, one can determine whether the majority charge carriers are electrons (negative) or holes (positive). The other properties mentioned - magnetic susceptibility, electrical resistivity, and thermal conductivity - may also provide some information about the material, but the Hall coefficient is most directly related to the sign of the charge carriers.",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "5",
+    "difficulty_value": "5"
+}

@@ -1,0 +1,10 @@
+{
+    "prefix": "Solve the following problem. ",
+    "problem_prompt": "Solve the following problem. For how many integer values of $n$ between 1 and 1000 inclusive does the decimal representation of $\\frac{n}{1400}$ terminate?",
+    "solution": "The decimal representation of a simplified fraction terminates if and only if the denominator is divisible by no primes other than 2 and 5. The prime factorization of $1400$ is $2^3 \\cdot 5^2 \\cdot 7$. For the fraction to simplify to having only the primes $2$ and $5$ in the denominator, there must be a factor of $7$ in the numerator. There are $\\left\\lfloor\\frac{1000}{7}\\right\\rfloor=142$ multiples of $7$ between $1$ and $1000$, so there are $\\boxed{142}$ integers values for $n$.",
+    "gpt_response": "We know that the decimal representation of a fraction terminates if and only if the only prime factors in the denominator are 2's and 5's. \n\nThe prime factorization of 1400 is $2^3 \\cdot 5^2 \\cdot 7$. \n\nSince there is a prime factor of 7 in the denominator, the decimal representation of $\\frac{n}{1400}$ will not terminate for any integer $n$ such that $1 \\le n \\le 1000$. \n\nTherefore, the number of integer values of $n$ between 1 and 1000 inclusive for which the decimal representation of $\\frac{n}{1400}$ terminates is $\\boxed{0}$.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 142?: We know that the decimal representation of a fraction terminates if and only if the only prime factors in the denominator are 2's and 5's. \n\nThe prime factorization of 1400 is $2^3 \\cdot 5^2 \\cdot 7$. \n\nSince there is a prime factor of 7 in the denominator, the decimal representation of $\\frac{n}{1400}$ will not terminate for any integer $n$ such that $1 \\le n \\le 1000$. \n\nTherefore, the number of integer values of $n$ between 1 and 1000 inclusive for which the decimal representation of $\\frac{n}{1400}$ terminates is $\\boxed{0}$.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 3,
+    "yes_no": "yes"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Which of the following is measured by the device, Bellow's spirometer?\n1: TLC\n2: RV\n3: Closing volume\n4: ERV",
+    "solution": 4,
+    "gpt_response": "As a doctor, when using a Bellow's spirometer, I would primarily be measuring lung volumes and capacities. The device is commonly used to measure expiratory reserve volume (ERV), which is the maximum amount of air that can be forcefully exhaled after a normal exhalation. Therefore, the correct answer would be option 4: ERV.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 4?: As a doctor, when using a Bellow's spirometer, I would primarily be measuring lung volumes and capacities. The device is commonly used to measure expiratory reserve volume (ERV), which is the maximum amount of air that can be forcefully exhaled after a normal exhalation. Therefore, the correct answer would be option 4: ERV.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

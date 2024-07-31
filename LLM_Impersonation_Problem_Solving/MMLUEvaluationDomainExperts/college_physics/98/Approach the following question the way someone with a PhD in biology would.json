@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. A nonrelativistic particle with a charge twice that of an electron moves through a uniform magnetic field. The field has a strength of \u03c0/4 tesla and is perpendicular to the velocity of the particle. What is the particle\u2019s mass if it has a cyclotron frequency of 1,600 hertz?\nA: 2.5 * 10^-23 kg\nB: 1.2 * 10^-22 kg\nC: 3.3 * 10^-22 kg\nD: 5.0 * 10^-21 kg",
+    "solution": "A",
+    "gpt_response": "To calculate the mass of the particle, we can use the formula for the cyclotron frequency of a nonrelativistic charged particle moving in a magnetic field:\n\nf = (q * B) / (2\u03c0 * m)\n\nWhere:\nf = cyclotron frequency (1,600 Hz)\nq = charge of the particle (twice the charge of an electron, approximately 3.2 * 10^-19 C)\nB = strength of the magnetic field (\u03c0/4 T)\nm = mass of the particle (unknown)\n\nSubstitute the values into the equation:\n\n1600 = (3.2 * 10^-19 * \u03c0/4) / (2\u03c0 * m)\n\nSolve for m:\n\n1600 = (3.2 * 10^-19 * \u03c0 / 4) / (2\u03c0 * m)\n1600 = 2.51 * 10^-19 / (2\u03c0 * m)\n1600 = 2.51 * 10^-19 / 6.28 * 10 * m\n1600 = 0.399 * 10^-18 / m\nm = 0.399 * 10^-18 / 1600\nm = 2.493 * 10^-22 kg\n\nTherefore, the mass of the particle is approximately 2.5 * 10^-22 kg, which corresponds to option A.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to A?: To calculate the mass of the particle, we can use the formula for the cyclotron frequency of a nonrelativistic charged particle moving in a magnetic field:\n\nf = (q * B) / (2\u03c0 * m)\n\nWhere:\nf = cyclotron frequency (1,600 Hz)\nq = charge of the particle (twice the charge of an electron, approximately 3.2 * 10^-19 C)\nB = strength of the magnetic field (\u03c0/4 T)\nm = mass of the particle (unknown)\n\nSubstitute the values into the equation:\n\n1600 = (3.2 * 10^-19 * \u03c0/4) / (2\u03c0 * m)\n\nSolve for m:\n\n1600 = (3.2 * 10^-19 * \u03c0 / 4) / (2\u03c0 * m)\n1600 = 2.51 * 10^-19 / (2\u03c0 * m)\n1600 = 2.51 * 10^-19 / 6.28 * 10 * m\n1600 = 0.399 * 10^-18 / m\nm = 0.399 * 10^-18 / 1600\nm = 2.493 * 10^-22 kg\n\nTherefore, the mass of the particle is approximately 2.5 * 10^-22 kg, which corresponds to option A.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

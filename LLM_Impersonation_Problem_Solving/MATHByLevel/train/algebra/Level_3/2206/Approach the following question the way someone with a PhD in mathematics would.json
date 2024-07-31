@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. Rationalize the denominator: $\\sqrt{\\frac{3}{8}}.$",
+    "solution": "We have $$\\sqrt{\\frac{3}{8}} = \\frac{\\sqrt{3}}{\\sqrt{8}} = \\frac{\\sqrt{6}}{\\sqrt{16}} = \\boxed{\\frac{\\sqrt{6}}{4}}.$$",
+    "gpt_response": "To rationalize the denominator of $\\sqrt{\\frac{3}{8}},$ we need to eliminate the square root in the denominator by multiplying both the numerator and the denominator by the square root of the denominator. \n\nTherefore, $\\sqrt{\\frac{3}{8}} = \\frac{\\sqrt{3}}{\\sqrt{8}} = \\frac{\\sqrt{3}}{2\\sqrt{2}} = \\frac{\\sqrt{3}}{2\\sqrt{2}}\\cdot\\frac{\\sqrt{2}}{\\sqrt{2}} = \\frac{\\sqrt{6}}{4},$\n\nwhere we have rationalized the denominator by multiplying both the numerator and the denominator by $\\sqrt{2}$ to get $\\frac{\\sqrt{6}}{4}.$",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to \\frac{\\sqrt{6?: To rationalize the denominator of $\\sqrt{\\frac{3}{8}},$ we need to eliminate the square root in the denominator by multiplying both the numerator and the denominator by the square root of the denominator. \n\nTherefore, $\\sqrt{\\frac{3}{8}} = \\frac{\\sqrt{3}}{\\sqrt{8}} = \\frac{\\sqrt{3}}{2\\sqrt{2}} = \\frac{\\sqrt{3}}{2\\sqrt{2}}\\cdot\\frac{\\sqrt{2}}{\\sqrt{2}} = \\frac{\\sqrt{6}}{4},$\n\nwhere we have rationalized the denominator by multiplying both the numerator and the denominator by $\\sqrt{2}$ to get $\\frac{\\sqrt{6}}{4}.$",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

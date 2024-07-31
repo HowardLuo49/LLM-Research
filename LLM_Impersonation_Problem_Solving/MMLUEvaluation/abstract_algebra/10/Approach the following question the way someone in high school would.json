@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Statement 1 | If H is a subgroup of G and a belongs to G then |aH| = |Ha|. Statement 2 | If H is a subgroup of G and a and b belong to G, then aH and Hb are identical or disjoint.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "C",
+    "gpt_response": "Hmm, let me think about this. The first statement is talking about the order of the cosets of H in G, and the second statement is talking about the intersection of two cosets of H in G. \n\nFor the first statement, if H is a subgroup of G and a belongs to G, then the order of the coset aH should be the same as the order of the coset Ha. This makes sense because the cosets partition G into equal-sized sets.\n\nFor the second statement, if aH and Hb are identical, then that means they are the same coset. But if they are disjoint, that means they have no elements in common. \n\nSo, I think the correct answer is A: True, True.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to C?: Hmm, let me think about this. The first statement is talking about the order of the cosets of H in G, and the second statement is talking about the intersection of two cosets of H in G. \n\nFor the first statement, if H is a subgroup of G and a belongs to G, then the order of the coset aH should be the same as the order of the coset Ha. This makes sense because the cosets partition G into equal-sized sets.\n\nFor the second statement, if aH and Hb are identical, then that means they are the same coset. But if they are disjoint, that means they have no elements in common. \n\nSo, I think the correct answer is A: True, True.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

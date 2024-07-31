@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Which component transfers four protons:\n1: NADH-Q Oxidoreductase\n2: Cytochrome -C oxidase\n3: Cytochrome C - Q oxidoredictase\n4: Isocitrate Dehydrogenase",
+    "solution": 1,
+    "gpt_response": "Based on my knowledge of cellular respiration, the component that transfers four protons is Cytochrome -C oxidase.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: Based on my knowledge of cellular respiration, the component that transfers four protons is Cytochrome -C oxidase.",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

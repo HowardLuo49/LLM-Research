@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. There is a prime number which is a factor of every sum of three  consecutive integers. What is the number?",
+    "solution": "Let $n-1$, $n$, and $n+1$ be three consecutive integers. Their sum is $(n-1) + n + (n+1) = 3n$, which is always divisible by $\\boxed{3}$, but not necessarily by any other prime.",
+    "gpt_response": "Hi! To find the prime number, we first need to think about what it means to have consecutive integers. Consecutive integers are numbers that come one after the other, like 1, 2, 3 or 5, 6, 7.\n\nNow, let's add three consecutive integers together to see what we get. For example, if we add 1 + 2 + 3, we get 6. If we add 2 + 3 + 4, we get 9. And if we add 3 + 4 + 5, we get 12.\n\nDo you notice anything about these sums? They all have something in common - a prime number is a factor of each one! That's pretty cool, right?\n\nThe prime number that is a factor of every sum of three consecutive integers is 3. So, 3 is the number we were looking for. Yay, we did it!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 3?: Hi! To find the prime number, we first need to think about what it means to have consecutive integers. Consecutive integers are numbers that come one after the other, like 1, 2, 3 or 5, 6, 7.\n\nNow, let's add three consecutive integers together to see what we get. For example, if we add 1 + 2 + 3, we get 6. If we add 2 + 3 + 4, we get 9. And if we add 3 + 4 + 5, we get 12.\n\nDo you notice anything about these sums? They all have something in common - a prime number is a factor of each one! That's pretty cool, right?\n\nThe prime number that is a factor of every sum of three consecutive integers is 3. So, 3 is the number we were looking for. Yay, we did it!",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

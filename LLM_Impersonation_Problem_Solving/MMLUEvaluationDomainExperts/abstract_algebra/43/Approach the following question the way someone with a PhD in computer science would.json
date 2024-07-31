@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in computer science would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in computer science would. Statement 1 | Every integral domain with characteristic 0 is infinite. Statement 2 | Every integral domain with prime characteristic is finite.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "C",
+    "gpt_response": "C: True, False\n\nExplanation:\nAn integral domain with characteristic 0 means that it contains a subring isomorphic to the integers. In this case, the integral domain must be infinite because there are infinitely many integers.\n\nOn the other hand, an integral domain with prime characteristic means that the characteristic of the ring is a prime number. In this case, the ring could potentially be finite, such as the ring Z/pZ, where p is a prime number.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to C?: C: True, False\n\nExplanation:\nAn integral domain with characteristic 0 means that it contains a subring isomorphic to the integers. In this case, the integral domain must be infinite because there are infinitely many integers.\n\nOn the other hand, an integral domain with prime characteristic means that the characteristic of the ring is a prime number. In this case, the ring could potentially be finite, such as the ring Z/pZ, where p is a prime number.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "5",
+    "difficulty_value": "5"
+}

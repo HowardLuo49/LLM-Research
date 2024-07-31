@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a medical researcher would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a medical researcher would. In marasmus, which of the following is not seen?\n1: Edema\n2: Voracious appetite\n3: Hepatomegaly not seen\n4: Child is active",
+    "solution": 1,
+    "gpt_response": "Based on medical research and clinical observations, the correct answer is 3: Hepatomegaly not seen. Hepatomegaly, or an enlarged liver, is not typically seen in cases of marasmus. Other common symptoms include severe wasting, muscle atrophy, weakness, and a decreased appetite. Edema, or swelling due to fluid retention, is also not usually seen in cases of marasmus.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: Based on medical research and clinical observations, the correct answer is 3: Hepatomegaly not seen. Hepatomegaly, or an enlarged liver, is not typically seen in cases of marasmus. Other common symptoms include severe wasting, muscle atrophy, weakness, and a decreased appetite. Edema, or swelling due to fluid retention, is also not usually seen in cases of marasmus.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

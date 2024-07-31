@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. Statement 1 | Every free abelian group is torsion free. Statement 2 | Every finitely generated torsion-free abelian group is a free abelian group.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "A",
+    "gpt_response": "Umm...I think it's like this: Statement 1 is true because a free abelian group has no torsion elements in it. And Statement 2 is also true because if a group is finitely generated and torsion-free, then it must actually be a free abelian group. So I would choose A: True, True!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to A?: Umm...I think it's like this: Statement 1 is true because a free abelian group has no torsion elements in it. And Statement 2 is also true because if a group is finitely generated and torsion-free, then it must actually be a free abelian group. So I would choose A: True, True!",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

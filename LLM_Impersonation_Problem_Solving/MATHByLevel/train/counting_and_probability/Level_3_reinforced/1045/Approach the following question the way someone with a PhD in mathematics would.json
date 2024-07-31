@@ -1,0 +1,10 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. Find the last two digits of the following sum: $$5! + 10! + 15! + \\cdots + 100!$$",
+    "solution": "Since for all $n \\ge 10$, $n!$ has (at least) two factors of 5, we know that $n!$ will end in two zeros.  Therefore, if $n\\ge 10$, then $n!$ contributes nothing to the last two digits of the sum. So we need only compute $5! = 120$, and hence our answer is $\\boxed{20}$.",
+    "gpt_response": "To find the last two digits of the sum $5! + 10! + 15! + \\cdots + 100!$, we first need to consider the pattern of the last two digits of factorials.\n\nFor factorials of numbers greater than 4, the last two digits will always end in 00. This is because for any $n \\geq 5$, $n!$ will always have a factor of 2 and a factor of 5 in its prime factorization, which results in a factor of 10.\n\nTherefore, all terms in the sum $5! + 10! + 15! + \\cdots + 100!$ except for the first term $5!$ will end in 00.\n\nHence, the last two digits of the sum will be the last two digits of $5! = 120$, which is $\\boxed{20}$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 20?: To find the last two digits of the sum $5! + 10! + 15! + \\cdots + 100!$, we first need to consider the pattern of the last two digits of factorials.\n\nFor factorials of numbers greater than 4, the last two digits will always end in 00. This is because for any $n \\geq 5$, $n!$ will always have a factor of 2 and a factor of 5 in its prime factorization, which results in a factor of 10.\n\nTherefore, all terms in the sum $5! + 10! + 15! + \\cdots + 100!$ except for the first term $5!$ will end in 00.\n\nHence, the last two digits of the sum will be the last two digits of $5! = 120$, which is $\\boxed{20}$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes"
+}

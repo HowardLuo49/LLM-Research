@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Least conduction velocity is seen in:\n1: AV node\n2: Purkinje fibers\n3: Bundle of His\n4: Ventricular myocardial fibres",
+    "solution": 1,
+    "gpt_response": "The correct answer is 1: AV node. \n\nIn general, conduction velocity varies throughout the cardiac conduction system, with the slowest conduction occurring in the AV node. The AV node serves as a delay mechanism, allowing time for the atria to contract and fill the ventricles before the ventricles are activated. This slow conduction through the AV node is essential for the proper coordination of the heart's pumping function. The Purkinje fibers, Bundle of His, and ventricular myocardial fibers all have faster conduction velocities compared to the AV node.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: The correct answer is 1: AV node. \n\nIn general, conduction velocity varies throughout the cardiac conduction system, with the slowest conduction occurring in the AV node. The AV node serves as a delay mechanism, allowing time for the atria to contract and fill the ventricles before the ventricles are activated. This slow conduction through the AV node is essential for the proper coordination of the heart's pumping function. The Purkinje fibers, Bundle of His, and ventricular myocardial fibers all have faster conduction velocities compared to the AV node.",
+    "gpt_response_correct_incorrect": "Yes. The final solution obtained in the response is 1: AV node.",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

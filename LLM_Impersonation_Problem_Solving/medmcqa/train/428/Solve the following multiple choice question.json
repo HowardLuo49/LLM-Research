@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. A Patient who is on antihypertensive drug develops a dry cough. Which of the following drug might be responsible for the condition:\n1: Diuretics\n2: ACE inhibitors\n3: Calcium channel blockers\n4: Beta blockers",
+    "solution": 2,
+    "gpt_response": "2: ACE inhibitors\n\nACE inhibitors are known to commonly cause a dry cough as a side effect.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: 2: ACE inhibitors\n\nACE inhibitors are known to commonly cause a dry cough as a side effect.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. An astronomer observes a very small moon orbiting a planet and measures the moon\u2019s minimum and maximum distances from the planet\u2019s center and the moon\u2019s maximum orbital speed. Which of the following CANNOT be calculated from these measurements?\nA: Mass of the moon\nB: Mass of the planet\nC: Minimum speed of the moon\nD: Period of the orbit",
+    "solution": "A",
+    "gpt_response": "Hmm, let's see. If the astronomer knows the minimum and maximum distances from the planet's center and the maximum orbital speed of the moon, I think they could calculate the mass of the moon, since they can use the orbital speed and distance to figure that out. They could also probably calculate the mass of the planet, since the moon's orbit depends on the gravitational force between the two. I think they could also figure out the period of the orbit, since they have the speeds and distances. So, I believe the one thing that cannot be calculated from these measurements is the minimum speed of the moon. So, I would say the answer is C: Minimum speed of the moon.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to A?: Hmm, let's see. If the astronomer knows the minimum and maximum distances from the planet's center and the maximum orbital speed of the moon, I think they could calculate the mass of the moon, since they can use the orbital speed and distance to figure that out. They could also probably calculate the mass of the planet, since the moon's orbit depends on the gravitational force between the two. I think they could also figure out the period of the orbit, since they have the speeds and distances. So, I believe the one thing that cannot be calculated from these measurements is the minimum speed of the moon. So, I would say the answer is C: Minimum speed of the moon.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "5",
+    "difficulty_value": "5"
+}

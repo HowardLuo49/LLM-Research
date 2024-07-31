@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. Which of the following nerve is involved in Frey's syndrome?\n1: Trigeminal\n2: Mandibular\n3: Ariculo temporal\n4: Lingual",
+    "solution": 3,
+    "gpt_response": "3: Auriculotemporal\n\nFrey's syndrome, also known as gustatory sweating, is a condition where sweating occurs on one side of the face while eating, especially around the ear and cheek. This occurs due to misdirection of parasympathetic fibers of the auriculotemporal nerve to the sweat glands instead of the salivary glands.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: 3: Auriculotemporal\n\nFrey's syndrome, also known as gustatory sweating, is a condition where sweating occurs on one side of the face while eating, especially around the ear and cheek. This occurs due to misdirection of parasympathetic fibers of the auriculotemporal nerve to the sweat glands instead of the salivary glands.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

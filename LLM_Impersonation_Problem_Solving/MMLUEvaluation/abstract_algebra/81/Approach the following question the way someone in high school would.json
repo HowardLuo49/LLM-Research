@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Statement 1 | Every nonzero free abelian group has an infinite number of bases. Statement 2 | Every free abelian group of rank at least 2 has an infinite number of bases.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "D",
+    "gpt_response": "Um, I think both statements are true. Because even in high school math, we learned that a free abelian group means a group with a basis. And since a nonzero free abelian group would have at least one basis, it makes sense that it would have an infinite number of bases. And for the second statement, if a free abelian group has a rank of at least 2, then it would have more than one basis, right? So it should also have an infinite number of bases. So I think the answer is A: True, True.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: Um, I think both statements are true. Because even in high school math, we learned that a free abelian group means a group with a basis. And since a nonzero free abelian group would have at least one basis, it makes sense that it would have an infinite number of bases. And for the second statement, if a free abelian group has a rank of at least 2, then it would have more than one basis, right? So it should also have an infinite number of bases. So I think the answer is A: True, True.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

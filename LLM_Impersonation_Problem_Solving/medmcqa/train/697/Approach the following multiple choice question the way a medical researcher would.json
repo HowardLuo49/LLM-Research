@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a medical researcher would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a medical researcher would. SLE like reaction is caused by\n1: Hydralazine\n2: Rifampicin\n3: Paracetamol\n4: Furosemide",
+    "solution": 1,
+    "gpt_response": "When approaching this multiple choice question as a medical researcher, we would first need to assess each of the options in terms of their known effects and potential for causing a SLE (systemic lupus erythematosus) like reaction.\n\n1. Hydralazine: Hydralazine has been known to cause drug-induced lupus, which is a condition similar to SLE but usually resolves after discontinuation of the medication.\n\n2. Rifampicin: Rifampicin is an antibiotic that is not typically associated with causing SLE like reactions.\n\n3. Paracetamol: Paracetamol is not known to cause SLE or SLE like reactions.\n\n4. Furosemide: Furosemide is a diuretic that is not typically associated with causing SLE like reactions.\n\nBased on this analysis, the most likely cause of a SLE like reaction among the options provided would be hydralazine (option 1).",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: When approaching this multiple choice question as a medical researcher, we would first need to assess each of the options in terms of their known effects and potential for causing a SLE (systemic lupus erythematosus) like reaction.\n\n1. Hydralazine: Hydralazine has been known to cause drug-induced lupus, which is a condition similar to SLE but usually resolves after discontinuation of the medication.\n\n2. Rifampicin: Rifampicin is an antibiotic that is not typically associated with causing SLE like reactions.\n\n3. Paracetamol: Paracetamol is not known to cause SLE or SLE like reactions.\n\n4. Furosemide: Furosemide is a diuretic that is not typically associated with causing SLE like reactions.\n\nBased on this analysis, the most likely cause of a SLE like reaction among the options provided would be hydralazine (option 1).",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

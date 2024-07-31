@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Ligament teres is a remnant of ?\n1: Ductus aeriosus\n2: Umbilical aery\n3: Umbilical vein\n4: Ductus venosus",
+    "solution": 3,
+    "gpt_response": "The ligament teres is a remnant of the umbilical vein.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: The ligament teres is a remnant of the umbilical vein.",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

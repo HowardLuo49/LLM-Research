@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in literature would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in literature would. 25 students average 84 on a test. Another group of 20 students averages 66. Find the overall average.",
+    "solution": "76",
+    "gpt_response": "To find the overall average of the two groups of students, we must first calculate the total score of each group. \n\nThe first group of 25 students averaged 84 on the test, so their total score would be 25 * 84 = 2100. \n\nThe second group of 20 students averaged 66 on the test, so their total score would be 20 * 66 = 1320. \n\nNow, we add the total scores of both groups together to get the overall total score: 2100 + 1320 = 3420. \n\nTo find the overall average, we divide the overall total score by the total number of students: 3420 / (25 + 20) = 3420 / 45 = 76. \n\nTherefore, the overall average of the two groups of students is 76.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 76?: To find the overall average of the two groups of students, we must first calculate the total score of each group. \n\nThe first group of 25 students averaged 84 on the test, so their total score would be 25 * 84 = 2100. \n\nThe second group of 20 students averaged 66 on the test, so their total score would be 20 * 66 = 1320. \n\nNow, we add the total scores of both groups together to get the overall total score: 2100 + 1320 = 3420. \n\nTo find the overall average, we divide the overall total score by the total number of students: 3420 / (25 + 20) = 3420 / 45 = 76. \n\nTherefore, the overall average of the two groups of students is 76.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

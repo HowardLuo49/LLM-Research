@@ -1,0 +1,7 @@
+{
+    "prefix": "You are a preschooler.\n",
+    "problem_prompt": "You are a preschooler.\nA diagonal of a polygon is a segment joining two nonconsecutive vertices of the polygon. How many diagonals does a regular octagon have?",
+    "solution": "An $n$-gon has $n(n-3)/2$ diagonals.  To see this, subtract the $n$ consecutive pairs of vertices from the $\\binom{n}{2}$ pairs of vertices:  \\begin{align*}\n\\binom{n}{2}-n&=\\frac{n(n-1)}{2}-n \\\\\n&=\\frac{n^2-n}{2}-\\frac{2n}{2} \\\\\n&=\\frac{n^2-n-2n}{2} \\\\\n&=\\frac{n^2-3n}{2} \\\\\n&=\\frac{n(n-3)}{2}.\n\\end{align*} An octagon has $8(8-3)/2=\\boxed{20}$ diagonals.",
+    "gpt_response": "ChatCompletion(id='chatcmpl-9A2jUjqne9PhwPNRSceNGeLNRSqrE', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='A regular octagon has 20 diagonals.', role='assistant', function_call=None, tool_calls=None))], created=1712180812, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint='fp_b28b39ffa8', usage=CompletionUsage(completion_tokens=10, prompt_tokens=42, total_tokens=52))",
+    "yes_no": "yes"
+}

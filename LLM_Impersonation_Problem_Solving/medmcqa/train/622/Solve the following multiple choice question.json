@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. Acyl carnitine functions in:\n1: Transport of long chain fatty acid\n2: Transport of short chain fatty acid\n3: Transport of NADH\n4: Transport of FADH",
+    "solution": 1,
+    "gpt_response": "1: Transport of long chain fatty acid",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: 1: Transport of long chain fatty acid",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

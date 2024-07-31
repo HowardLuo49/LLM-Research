@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Per rectum examination is not a useful test for diagnosis of\n1: Anal fissure\n2: Hemorrhoid\n3: Pilonidal sinus\n4: Rectal ulcer",
+    "solution": 3,
+    "gpt_response": "As a doctor, I would approach this multiple choice question by considering the anatomy and pathology of each condition. \n\nPer rectum examination involves the insertion of a gloved and lubricated finger into the rectum to feel for abnormalities in the lower part of the colon and rectum. \n\nAnal fissure, hemorrhoids, and rectal ulcers can typically be diagnosed through a per rectum examination as they may be palpable or cause changes in the texture of the rectal wall.\n\nPilonidal sinus, on the other hand, is a condition that typically occurs in the natal cleft (the cleft between the buttocks) and is not located within the rectum. Therefore, a per rectum examination would not be useful for diagnosing a pilonidal sinus.\n\nTherefore, the correct answer to the multiple choice question is:\n\n3: Pilonidal sinus",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: As a doctor, I would approach this multiple choice question by considering the anatomy and pathology of each condition. \n\nPer rectum examination involves the insertion of a gloved and lubricated finger into the rectum to feel for abnormalities in the lower part of the colon and rectum. \n\nAnal fissure, hemorrhoids, and rectal ulcers can typically be diagnosed through a per rectum examination as they may be palpable or cause changes in the texture of the rectal wall.\n\nPilonidal sinus, on the other hand, is a condition that typically occurs in the natal cleft (the cleft between the buttocks) and is not located within the rectum. Therefore, a per rectum examination would not be useful for diagnosing a pilonidal sinus.\n\nTherefore, the correct answer to the multiple choice question is:\n\n3: Pilonidal sinus",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

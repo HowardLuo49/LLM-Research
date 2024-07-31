@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. If v is an eigenvector of an invertible matrix A, then which of the following is I are necessarily\ntrue?\nI. v is also an eigenvector of 2A.\nII. v is also an eigenvector of A^2.\nIII. v is also an eigenvector of A^(-1).\nA: I only\nB: II only\nC: III only\nD: I, II, and III",
+    "solution": "D",
+    "gpt_response": "If v is an eigenvector of an invertible matrix A, let's see which of these statements are true. Hmm, let me think. If we double A, v will still be an eigenvector, right? So I is true. But I'm not sure about II and III. Let's see, if we square A, v might not be an eigenvector anymore. And if we take the inverse of A, v might still be an eigenvector. So, the answer is A: I only.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: If v is an eigenvector of an invertible matrix A, let's see which of these statements are true. Hmm, let me think. If we double A, v will still be an eigenvector, right? So I is true. But I'm not sure about II and III. Let's see, if we square A, v might not be an eigenvector anymore. And if we take the inverse of A, v might still be an eigenvector. So, the answer is A: I only.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

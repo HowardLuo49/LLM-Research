@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Which anaesthetic agent increases intracranial tension among the following\n1: Thiopentone\n2: Propofol\n3: Lignocaine\n4: Sevoflurane",
+    "solution": 4,
+    "gpt_response": "As a doctor, when considering which anaesthetic agent increases intracranial tension, it is important to understand the effects of each option on the brain and central nervous system. \n\nThiopentone and Propofol are both commonly used intravenous anaesthetic agents that are known to reduce intracranial pressure and are often used in patients with head injuries or conditions that may increase intracranial pressure. Lignocaine is a local anaesthetic and would not have an effect on intracranial pressure. \n\nSevoflurane, on the other hand, is an inhaled anaesthetic agent that has been associated with an increase in intracranial pressure particularly in patients with head injuries or certain neurological conditions. Therefore, as a doctor, I would choose Sevoflurane as the anaesthetic agent that increases intracranial tension among the options provided.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 4?: As a doctor, when considering which anaesthetic agent increases intracranial tension, it is important to understand the effects of each option on the brain and central nervous system. \n\nThiopentone and Propofol are both commonly used intravenous anaesthetic agents that are known to reduce intracranial pressure and are often used in patients with head injuries or conditions that may increase intracranial pressure. Lignocaine is a local anaesthetic and would not have an effect on intracranial pressure. \n\nSevoflurane, on the other hand, is an inhaled anaesthetic agent that has been associated with an increase in intracranial pressure particularly in patients with head injuries or certain neurological conditions. Therefore, as a doctor, I would choose Sevoflurane as the anaesthetic agent that increases intracranial tension among the options provided.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

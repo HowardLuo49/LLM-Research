@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. What is the slope of a line parallel to $2x+4y=-17$? Express your answer as a common fraction.",
+    "solution": "We can rewrite the given equation as $y = -\\frac{1}{2}x - \\frac{17}4$.  Since all lines parallel to a given one have the same slope as the given line, our answer is $\\boxed{-\\frac{1}{2}}$.",
+    "gpt_response": "To find the slope of a line parallel to $2x+4y=-17$, we need to rewrite the equation in slope-intercept form, which is $y = mx + b$ where $m$ is the slope of the line. \n\nFirst, we need to solve for $y$ in the original equation:\n$2x + 4y = -17$\n$4y = -2x - 17$\n$y = -\\frac{1}{2}x - \\frac{17}{4}$\n\nNow, we can see that the slope of the line is $-\\frac{1}{2}$. Since we are looking for a line parallel to this one, the slope will be the same. \n\nTherefore, the slope of a line parallel to $2x + 4y = -17$ is $-\\frac{1}{2}$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to -\\frac{1?: To find the slope of a line parallel to $2x+4y=-17$, we need to rewrite the equation in slope-intercept form, which is $y = mx + b$ where $m$ is the slope of the line. \n\nFirst, we need to solve for $y$ in the original equation:\n$2x + 4y = -17$\n$4y = -2x - 17$\n$y = -\\frac{1}{2}x - \\frac{17}{4}$\n\nNow, we can see that the slope of the line is $-\\frac{1}{2}$. Since we are looking for a line parallel to this one, the slope will be the same. \n\nTherefore, the slope of a line parallel to $2x + 4y = -17$ is $-\\frac{1}{2}$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

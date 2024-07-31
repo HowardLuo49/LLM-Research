@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Statement 1 | Every quotient ring of every commutative ring is again a commutative ring. Statement 2 | An ideal N in a ring R with unity 1 is all of R if and only if 1 in N.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "C",
+    "gpt_response": "Statement 1 talks about quotient rings being commutative rings, which is always true. So I think that is true. Statement 2 is saying that an ideal N in a ring R is all of R if and only if 1 is in N. That sounds right to me too. So I think the answer is A: True, True.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to C?: Statement 1 talks about quotient rings being commutative rings, which is always true. So I think that is true. Statement 2 is saying that an ideal N in a ring R is all of R if and only if 1 is in N. That sounds right to me too. So I think the answer is A: True, True.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

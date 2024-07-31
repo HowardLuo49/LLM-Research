@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Mad Cow disease (Spongiform disease) occurs due to\n1: C J virus\n2: Arena Virus\n3: Kuru Virus\n4: Parvo Virus",
+    "solution": 1,
+    "gpt_response": "As a medical professional, I would approach this question by using my knowledge of infectious diseases and their causes. Mad Cow disease, also known as Spongiform disease, is caused by the abnormal prion protein. Therefore, none of the options provided (C J virus, Arena Virus, Kuru Virus, Parvo Virus) are correct as prions are not classified as viruses. It is important to stay up-to-date on emerging diseases and their causative agents in order to provide accurate information to patients.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: As a medical professional, I would approach this question by using my knowledge of infectious diseases and their causes. Mad Cow disease, also known as Spongiform disease, is caused by the abnormal prion protein. Therefore, none of the options provided (C J virus, Arena Virus, Kuru Virus, Parvo Virus) are correct as prions are not classified as viruses. It is important to stay up-to-date on emerging diseases and their causative agents in order to provide accurate information to patients.",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

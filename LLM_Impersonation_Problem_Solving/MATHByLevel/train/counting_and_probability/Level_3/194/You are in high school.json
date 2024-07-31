@@ -1,0 +1,7 @@
+{
+    "prefix": "You are in high school.\n",
+    "problem_prompt": "You are in high school.\nIn how many ways can 6 distinct beads be placed on a bracelet? (Note that two arrangements are the same if one can be rotated or reflected to produce the other.)",
+    "solution": "There are $6!$ ways to place the beads on the bracelet, but we must divide by 6 for rotational symmetry (6 rotations for each arrangement), and by 2 for reflectional symmetry (we can flip the bracelet to get the same arrangement).  The answer is $\\dfrac{6!}{6 \\times 2} = \\boxed{60}$.",
+    "gpt_response": "ChatCompletion(id='chatcmpl-9A2aTdCDFpAwXNFbKYohRxojevcBO', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='There are 6! (6 factorial) ways to arrange the 6 distinct beads in a line. However, when arranging beads on a bracelet, we need to account for the fact that rotating the bracelet will result in the same arrangement. \\n\\nSince a bracelet can be rotated in 6 different ways while still maintaining the same arrangement of beads, we can divide 6! by 6 to avoid counting the same arrangements multiple times.\\n\\nTherefore, the number of ways 6 distinct beads can be placed on a bracelet is 6!/6 = 120.', role='assistant', function_call=None, tool_calls=None))], created=1712180253, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint='fp_b28b39ffa8', usage=CompletionUsage(completion_tokens=112, prompt_tokens=48, total_tokens=160))",
+    "yes_no": "no"
+}

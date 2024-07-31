@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. The alveoli are filled with exudate. The air is displaced, converting the lung into a solid organ. This description suggests-\n1: Chronic bronchitis\n2: Bronchial asthma\n3: Bronchiectasis\n4: Lobar pneumonia",
+    "solution": 4,
+    "gpt_response": "4: Lobar pneumonia\n\nThis description suggests lobar pneumonia because it is characterized by the filling of the alveoli with exudate, leading to consolidation of the affected lobe of the lung.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 4?: 4: Lobar pneumonia\n\nThis description suggests lobar pneumonia because it is characterized by the filling of the alveoli with exudate, leading to consolidation of the affected lobe of the lung.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

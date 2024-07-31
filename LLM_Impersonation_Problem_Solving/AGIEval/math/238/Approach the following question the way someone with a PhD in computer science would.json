@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in computer science would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in computer science would. Let $\\alpha,$ $\\beta,$ $\\gamma,$ and $\\delta$ be the roots of\n\\[x^4 + kx^2 + 90x - 2009 = 0.\\]If $\\alpha \\beta = 49,$ find $k.$",
+    "solution": "7",
+    "gpt_response": "As a person with a PhD in computer science, I would approach this problem by first noticing that the given polynomial is symmetrical, so we can consider it as a quadratic in terms of $x^2$:\n\nLet $y = x^2.$ Then the given polynomial becomes $y^2 + ky + 90\\sqrt{y} - 2009 = 0.$\n\nBy Vieta's formulas, we have\n\\[\\alpha \\beta = 49 = -\\frac{k}{1} = -k,\\]so $k = \\boxed{-49}.$",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 7?: As a person with a PhD in computer science, I would approach this problem by first noticing that the given polynomial is symmetrical, so we can consider it as a quadratic in terms of $x^2$:\n\nLet $y = x^2.$ Then the given polynomial becomes $y^2 + ky + 90\\sqrt{y} - 2009 = 0.$\n\nBy Vieta's formulas, we have\n\\[\\alpha \\beta = 49 = -\\frac{k}{1} = -k,\\]so $k = \\boxed{-49}.$",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

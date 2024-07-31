@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Marfans Syndrome affecting eyes, skeletal system, and the cardiovascular system is caued by the mutation in the gene\n1: Fibrillin 1\n2: Fibrillin 2\n3: Fibulin\n4: Elastin",
+    "solution": 1,
+    "gpt_response": "The correct answer is: 1. Fibrillin 1\n\nAs a doctor, I would know that Marfan syndrome is caused by mutations in the fibrillin-1 gene, which plays a crucial role in the structure and function of connective tissue. Mutations in this gene lead to abnormalities in the eyes, skeletal system, and cardiovascular system seen in individuals with Marfan syndrome.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: The correct answer is: 1. Fibrillin 1\n\nAs a doctor, I would know that Marfan syndrome is caused by mutations in the fibrillin-1 gene, which plays a crucial role in the structure and function of connective tissue. Mutations in this gene lead to abnormalities in the eyes, skeletal system, and cardiovascular system seen in individuals with Marfan syndrome.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

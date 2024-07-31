@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. There are 25 suitcases, 5 of which are damaged. Three suitcases are selected at random. What is the probability that exactly 2 are damaged?\nA: 2/69\nB: 1/30\nC: 2/23\nD: 12/125",
+    "solution": "C",
+    "gpt_response": "Okay, friends! Let's count the suitcases together. We have 25 suitcases in total, and 5 of them are broken. We need to choose 3 suitcases randomly. We want to know the chance that exactly 2 of them are broken. \n\nLet's see...we have 5 broken suitcases and we need to choose 2 of them. That would be 5 choose 2, which equals 10. \n\nThen, we have 20 good suitcases left and we need to choose 1 of them. That's 20 choose 1, which equals 20. \n\nSo the total number of ways to choose 3 suitcases is 25 choose 3, which equals 2300. \n\nNow, to find the probability, we take the number of successful outcomes (choosing exactly 2 broken suitcases and 1 good suitcase) which is 10 * 20 = 200, and divide it by the total number of outcomes, which is 2300. \n\nSo our answer is 200/2300, which simplifies to 2/23. Yay, math is fun!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to C?: Okay, friends! Let's count the suitcases together. We have 25 suitcases in total, and 5 of them are broken. We need to choose 3 suitcases randomly. We want to know the chance that exactly 2 of them are broken. \n\nLet's see...we have 5 broken suitcases and we need to choose 2 of them. That would be 5 choose 2, which equals 10. \n\nThen, we have 20 good suitcases left and we need to choose 1 of them. That's 20 choose 1, which equals 20. \n\nSo the total number of ways to choose 3 suitcases is 25 choose 3, which equals 2300. \n\nNow, to find the probability, we take the number of successful outcomes (choosing exactly 2 broken suitcases and 1 good suitcase) which is 10 * 20 = 200, and divide it by the total number of outcomes, which is 2300. \n\nSo our answer is 200/2300, which simplifies to 2/23. Yay, math is fun!",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

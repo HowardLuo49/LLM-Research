@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. 1-a hydroxylation in Vitamin-D metabolism takes place in\n1: Skin\n2: Liver\n3: Kidney\n4: Blood",
+    "solution": 3,
+    "gpt_response": "The hydroxylation in Vitamin-D metabolism takes place in the liver and kidney.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: The hydroxylation in Vitamin-D metabolism takes place in the liver and kidney.",
+    "gpt_response_correct_incorrect": "No, the final solution obtained in the response is not number 3.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

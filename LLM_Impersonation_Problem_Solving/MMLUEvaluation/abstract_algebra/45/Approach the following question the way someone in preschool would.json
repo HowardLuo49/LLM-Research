@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Statement 1 | For any two groups G and G', there exists a homomorphism of G into G'. Statement 2 | Every homomorphism is a one-to-one map.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "C",
+    "gpt_response": "Hmm, let's see. Statement 1 is saying that we can have a homomorphism from one group to another. That sounds fun! So, I think it's true. And Statement 2 is saying that every homomorphism is a one-to-one map. What's a one-to-one map? I think it means that each thing in the first group goes to a different thing in the second group. But I don't think that's always true. Sometimes things in the first group can go to the same thing in the second group. So, I think Statement 2 is false. So my answer is C: True, False.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to C?: Hmm, let's see. Statement 1 is saying that we can have a homomorphism from one group to another. That sounds fun! So, I think it's true. And Statement 2 is saying that every homomorphism is a one-to-one map. What's a one-to-one map? I think it means that each thing in the first group goes to a different thing in the second group. But I don't think that's always true. Sometimes things in the first group can go to the same thing in the second group. So, I think Statement 2 is false. So my answer is C: True, False.",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

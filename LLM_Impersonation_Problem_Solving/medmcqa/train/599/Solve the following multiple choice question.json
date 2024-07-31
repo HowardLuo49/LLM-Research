@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. The following infection resembles malignancy -\n1: Echinococcus granulosus\n2: E. multilocularis\n3: E.vogeli\n4: E. oligarthus",
+    "solution": 2,
+    "gpt_response": "The correct answer is 2: E. multilocularis. This infection resembles malignancy because it forms infiltrative, tumor-like lesions in the liver which can spread to other organs in a similar manner to cancer.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: The correct answer is 2: E. multilocularis. This infection resembles malignancy because it forms infiltrative, tumor-like lesions in the liver which can spread to other organs in a similar manner to cancer.",
+    "gpt_response_correct_incorrect": "No, the final solution obtained is not option 2.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "5",
+    "difficulty_value": "5"
+}

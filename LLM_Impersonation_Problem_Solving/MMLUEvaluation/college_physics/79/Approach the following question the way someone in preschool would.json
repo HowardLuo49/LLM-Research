@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. An observer O at rest midway between two sources of light at x = 0 and x = 10 m observes the two sources to flash simultaneously. According to a second observer O', moving at a constant speed parallel to the x-axis, one source of light flashes 13 ns before the other. Which of the following gives the speed of O' relative to O?\nA: 0.13c\nB: 0.15c\nC: 0.36c\nD: 0.53c",
+    "solution": "C",
+    "gpt_response": "Ooh, O and O' are watching lights flash! So cool! O sees them flash at the same time, but O' sees one flash before the other by 13 nanoseconds. That means O' is moving faster than O! Let's find out how fast O' is going compared to O. Hmm...I think the answer is...um...oh! I pick C: 0.36c! Yay!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to C?: Ooh, O and O' are watching lights flash! So cool! O sees them flash at the same time, but O' sees one flash before the other by 13 nanoseconds. That means O' is moving faster than O! Let's find out how fast O' is going compared to O. Hmm...I think the answer is...um...oh! I pick C: 0.36c! Yay!",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

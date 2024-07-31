@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. According to Cicero, immorality is __________, and expediency is __________.\nA: repugnant to Nature; repugnant to Nature.\nB: repugnant to Nature; in accord with Nature.\nC: in accord with Nature; repugnant to Nature.\nD: in accord with Nature; in accord with Nature.",
+    "solution": "B",
+    "gpt_response": "C: in accord with Nature; repugnant to Nature.\n\nAs a biologist with a PhD, it is important to understand the relationship between morality and nature. According to the perspective of Cicero, immorality goes against the natural order and is therefore repugnant to Nature. On the other hand, expediency, or prioritizing what is convenient or advantageous, may go against morality and therefore be considered repugnant to Nature as well. This aligns with the idea that actions should be in accordance with the natural order of things in order to be considered moral.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to B?: C: in accord with Nature; repugnant to Nature.\n\nAs a biologist with a PhD, it is important to understand the relationship between morality and nature. According to the perspective of Cicero, immorality goes against the natural order and is therefore repugnant to Nature. On the other hand, expediency, or prioritizing what is convenient or advantageous, may go against morality and therefore be considered repugnant to Nature as well. This aligns with the idea that actions should be in accordance with the natural order of things in order to be considered moral.",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

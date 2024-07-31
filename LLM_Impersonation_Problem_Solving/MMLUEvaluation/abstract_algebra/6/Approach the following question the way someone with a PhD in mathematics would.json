@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. Statement 1 | Every homomorphic image of a group G is isomorphic to a factor group of G. Statement 2 | The homomorphic images of a group G are the same (up to isomorphism) as the factor groups of G.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "A",
+    "gpt_response": "Both statements are true. \nTo prove statement 1: Let f: G \u2192 H be a homomorphism where H is a group. By the First Isomorphism Theorem, G/ker(f) is isomorphic to Im(f), which is a homomorphic image of G. Therefore, every homomorphic image of G is isomorphic to a factor group of G. \nTo prove statement 2: Let K be a normal subgroup of G. Consider the canonical projection map \u03c0: G \u2192 G/K defined by \u03c0(g) = gK. This is a homomorphism and the factor group G/K is isomorphic to the image of this homomorphism, which is a homomorphic image of G. Therefore, the homomorphic images of G are the same (up to isomorphism) as the factor groups of G. \nThus, the correct answer is A: True, True.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to A?: Both statements are true. \nTo prove statement 1: Let f: G \u2192 H be a homomorphism where H is a group. By the First Isomorphism Theorem, G/ker(f) is isomorphic to Im(f), which is a homomorphic image of G. Therefore, every homomorphic image of G is isomorphic to a factor group of G. \nTo prove statement 2: Let K be a normal subgroup of G. Consider the canonical projection map \u03c0: G \u2192 G/K defined by \u03c0(g) = gK. This is a homomorphism and the factor group G/K is isomorphic to the image of this homomorphism, which is a homomorphic image of G. Therefore, the homomorphic images of G are the same (up to isomorphism) as the factor groups of G. \nThus, the correct answer is A: True, True.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

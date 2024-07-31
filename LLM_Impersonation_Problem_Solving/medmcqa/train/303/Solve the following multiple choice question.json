@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. . Sulphasalazine is NOT used for the treatment of-\n1: Crohn's disease\n2: Rheumatoid ahritis\n3: Sarcoidosis\n4: Ulcerative colitis",
+    "solution": 3,
+    "gpt_response": "3: Sarcoidosis",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: 3: Sarcoidosis",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

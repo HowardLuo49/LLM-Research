@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. How many positive two-digit integers have an odd number of positive factors?",
+    "solution": "Only square numbers have an odd number of factors. The $\\boxed{6}$ two-digit squares are 16, 25, 36, 49, 64 and 81.",
+    "gpt_response": "To find the number of positive two-digit integers with an odd number of positive factors, we first need to list out the two-digit numbers. These range from 10 to 99. \n\nNext, we need to determine the number of factors for each number. An odd number of factors means the number is a perfect square, since perfect squares have an odd number of factors. \n\nSo, let's find the perfect squares between 10 and 99. We have 16, 25, 36, 49, 64, 81. \n\nTherefore, there are 6 positive two-digit integers that have an odd number of positive factors.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 6?: To find the number of positive two-digit integers with an odd number of positive factors, we first need to list out the two-digit numbers. These range from 10 to 99. \n\nNext, we need to determine the number of factors for each number. An odd number of factors means the number is a perfect square, since perfect squares have an odd number of factors. \n\nSo, let's find the perfect squares between 10 and 99. We have 16, 25, 36, 49, 64, 81. \n\nTherefore, there are 6 positive two-digit integers that have an odd number of positive factors.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "5",
+    "difficulty_value": "5"
+}

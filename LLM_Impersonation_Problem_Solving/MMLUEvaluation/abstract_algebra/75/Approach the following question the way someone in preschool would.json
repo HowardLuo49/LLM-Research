@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Statement 1 | In a group (ab)^{-2} = b^{-2}a^{-2}. Statement 2 | In a group (ab)^n = a^nb^n.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "B",
+    "gpt_response": "Hmm, let's see. When we have (ab)^-2, that means we are going to do the opposite of a^2 and b^2. So it would be b^-2 and a^-2. And when we have (ab)^n, that means we multiply a and b n times. So it would be a^n and b^n. So yeah, the first statement is true and the second statement is also true. So the answer is A: True, True.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to B?: Hmm, let's see. When we have (ab)^-2, that means we are going to do the opposite of a^2 and b^2. So it would be b^-2 and a^-2. And when we have (ab)^n, that means we multiply a and b n times. So it would be a^n and b^n. So yeah, the first statement is true and the second statement is also true. So the answer is A: True, True.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

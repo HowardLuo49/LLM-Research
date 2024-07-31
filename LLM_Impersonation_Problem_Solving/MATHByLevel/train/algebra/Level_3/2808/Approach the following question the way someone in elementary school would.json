@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. If $f(x) = -7x^4 + 3x^3 + x - 5$, and $g(x)$ is a polynomial such that the degree of $f(x) + g(x)$ is 1, then what is the degree of $g(x)$?",
+    "solution": "The degree of $f(x) + g(x)$ is 1, and the only way that $g(x)$ can cancel the term of $-7x^4$ in $f(x)$ is if $g(x)$ contains the term $7x^4$.  Therefore, the degree of $g(x)$ is $\\boxed{4}$.",
+    "gpt_response": "Okay, so we have a polynomial $f(x) = -7x^4 + 3x^3 + x - 5$. We also have another polynomial $g(x)$, and when we add $f(x)$ and $g(x) together, the degree of the sum is 1. That means the highest power of $x$ in $f(x) + g(x)$ is 1.\n\nSo, to find the degree of $g(x)$, think about what happens when we add $f(x) = -7x^4 + 3x^3 + x - 5$ to $g(x)$.\n\nSince the highest power of $x$ in $f(x)$ is 4, the highest power in $f(x) + g(x)$ also has to be 4 in order for the sum to have a degree of 1. \n\nTherefore, the degree of $g(x)$ must be 4 in order for $f(x) + g(x)$ to have a degree of 1.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 4?: Okay, so we have a polynomial $f(x) = -7x^4 + 3x^3 + x - 5$. We also have another polynomial $g(x)$, and when we add $f(x)$ and $g(x) together, the degree of the sum is 1. That means the highest power of $x$ in $f(x) + g(x)$ is 1.\n\nSo, to find the degree of $g(x)$, think about what happens when we add $f(x) = -7x^4 + 3x^3 + x - 5$ to $g(x)$.\n\nSince the highest power of $x$ in $f(x)$ is 4, the highest power in $f(x) + g(x)$ also has to be 4 in order for the sum to have a degree of 1. \n\nTherefore, the degree of $g(x)$ must be 4 in order for $f(x) + g(x)$ to have a degree of 1.",
+    "gpt_response_correct_incorrect": "No.",
+    "yes_no": "no"
+}

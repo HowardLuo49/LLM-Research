@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. What is the sum of all of the two-digit primes that are greater than 12 but less than 99 and are still prime when their two digits are interchanged?",
+    "solution": "To solve this question we need to think about what the units digit of a prime number could be. A two-digit prime could end in 1, 3, 7 or 9; thus, we need to examine primes only in the 10s, 30s, 70s and 90s because when the digits are switched the tens digit will become the units digit. The primes greater than 12 but less than 99 that are still prime when their two digits are interchanged are 13, 17, 31, 37, 71, 73, 79 and 97. Their sum is $\\boxed{418}$.",
+    "gpt_response": "To solve this problem, let's start by listing out all the two-digit primes that meet the given conditions. We need to find prime numbers greater than 12 but less than 99, and that remain prime when their two digits are interchanged.\n\nWe can list out the primes meeting these conditions: 13, 17, 31, 37, 71, 73, 79, 97.\n\nNext, we need to find the sum of these primes:\n\n13 + 17 + 31 + 37 + 71 + 73 + 79 + 97 = 418.\n\nTherefore, the sum of all two-digit primes greater than 12 but less than 99, which remain prime when their two digits are interchanged, is 418.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 418?: To solve this problem, let's start by listing out all the two-digit primes that meet the given conditions. We need to find prime numbers greater than 12 but less than 99, and that remain prime when their two digits are interchanged.\n\nWe can list out the primes meeting these conditions: 13, 17, 31, 37, 71, 73, 79, 97.\n\nNext, we need to find the sum of these primes:\n\n13 + 17 + 31 + 37 + 71 + 73 + 79 + 97 = 418.\n\nTherefore, the sum of all two-digit primes greater than 12 but less than 99, which remain prime when their two digits are interchanged, is 418.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

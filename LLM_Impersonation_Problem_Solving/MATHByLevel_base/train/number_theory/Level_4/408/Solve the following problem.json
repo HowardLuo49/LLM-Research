@@ -1,0 +1,10 @@
+{
+    "prefix": "Solve the following problem. ",
+    "problem_prompt": "Solve the following problem. Find the integer $n$, $0 \\le n \\le 9$, that satisfies \\[n \\equiv -2187 \\pmod{10}.\\]",
+    "solution": "Since $-2187 \\equiv 3 \\pmod{10}$, the integer $n$ we seek is $n = \\boxed{3}$.",
+    "gpt_response": "Since $2187$ is congruent to $7$ modulo $10$, we have \\[n \\equiv -2187 \\equiv -7 \\equiv 3 \\pmod{10}.\\]Therefore, the integer $n$ that satisfies the given congruence is $n=\\boxed{3}$.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 3?: Since $2187$ is congruent to $7$ modulo $10$, we have \\[n \\equiv -2187 \\equiv -7 \\equiv 3 \\pmod{10}.\\]Therefore, the integer $n$ that satisfies the given congruence is $n=\\boxed{3}$.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes"
+}

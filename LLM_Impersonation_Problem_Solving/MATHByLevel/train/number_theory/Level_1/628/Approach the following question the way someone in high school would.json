@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. When three positive integers are divided by $12$, the remainders are $7,$ $9,$ and $10,$ respectively.\n\nWhen the sum of the three integers is divided by $12$, what is the remainder?",
+    "solution": "We can call the three integers in this problem $a,$ $b,$ and $c$. Then we have \\begin{align*}\na &\\equiv 7\\pmod{12}, \\\\\nb &\\equiv 9\\pmod{12}, \\\\\nc &\\equiv 10\\pmod{12}.\n\\end{align*}Adding these congruences, we have \\begin{align*}\na+b+c &\\equiv 7+9+10 \\\\\n&= 26\\pmod{12}.\n\\end{align*}Therefore, $a+b+c$ has the same remainder as $26$ upon division by $12$. This remainder is $\\boxed{2}$.",
+    "gpt_response": "Okay, so let's say the three integers are $a$, $b$, and $c$. We know that:\n\n$a \\equiv 7 \\pmod{12}$\n$b \\equiv 9 \\pmod{12}$\n$c \\equiv 10 \\pmod{12}$\n\nThis means that $a$, $b$, and $c$ can be written as:\n\n$a = 12k + 7$\n$b = 12m + 9$\n$c = 12n + 10$\n\nwhere $k$, $m$, and $n$ are integers.\n\nNow, to find the sum of $a$, $b$, and $c$, we add the above expressions:\n\n$a + b + c = (12k + 7) + (12m + 9) + (12n + 10)$\n$= 12(k + m + n) + 26$\n\nSo, when we divide the sum of $a$, $b$, and $c$ by $12$, the remainder is $\\boxed{2}$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 2?: Okay, so let's say the three integers are $a$, $b$, and $c$. We know that:\n\n$a \\equiv 7 \\pmod{12}$\n$b \\equiv 9 \\pmod{12}$\n$c \\equiv 10 \\pmod{12}$\n\nThis means that $a$, $b$, and $c$ can be written as:\n\n$a = 12k + 7$\n$b = 12m + 9$\n$c = 12n + 10$\n\nwhere $k$, $m$, and $n$ are integers.\n\nNow, to find the sum of $a$, $b$, and $c$, we add the above expressions:\n\n$a + b + c = (12k + 7) + (12m + 9) + (12n + 10)$\n$= 12(k + m + n) + 26$\n\nSo, when we divide the sum of $a$, $b$, and $c$ by $12$, the remainder is $\\boxed{2}$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

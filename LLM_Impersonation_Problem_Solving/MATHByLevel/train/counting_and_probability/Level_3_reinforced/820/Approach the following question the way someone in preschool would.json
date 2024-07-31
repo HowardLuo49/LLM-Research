@@ -1,0 +1,10 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Two different  numbers are selected simultaneously and at random from the set $\\{1, 2, 3, 4, 5, 6, 7\\}$. What is the probability that the positive difference between the two numbers is $2$ or greater? Express your answer as a common fraction.",
+    "solution": "The only time the two numbers selected will not have a positive difference which is 2 or greater is when the two numbers are consecutive. There are 6 pairs of consecutive numbers in the set $\\{1,2,3,4,5,6,7\\}$, and there are $\\binom{7}{2}=21$ pairs of numbers total. So, the probability that the pair of numbers chosen is not consecutive is $1-\\frac{6}{21}=\\frac{15}{21}=\\boxed{\\frac{5}{7}}$.",
+    "gpt_response": "Yay! Let's pick two numbers from the set {1, 2, 3, 4, 5, 6, 7}! We can pick any two numbers together. \n\nLet's see how many pairs of numbers have a positive difference of 2 or more. The pairs that work are (1, 3), (1, 4), (1, 5), (1, 6), (1, 7), (2, 4), (2, 5), (2, 6), (2, 7), (3, 5), (3, 6), (3, 7), (4, 6), (4, 7), (5, 7). \n\nThere are 15 pairs of numbers that have a positive difference of 2 or more. \n\nSo, the probability is $\\frac{15}{21} = \\frac{5}{7}$. Yay, we did it!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to \\frac{5?: Yay! Let's pick two numbers from the set {1, 2, 3, 4, 5, 6, 7}! We can pick any two numbers together. \n\nLet's see how many pairs of numbers have a positive difference of 2 or more. The pairs that work are (1, 3), (1, 4), (1, 5), (1, 6), (1, 7), (2, 4), (2, 5), (2, 6), (2, 7), (3, 5), (3, 6), (3, 7), (4, 6), (4, 7), (5, 7). \n\nThere are 15 pairs of numbers that have a positive difference of 2 or more. \n\nSo, the probability is $\\frac{15}{21} = \\frac{5}{7}$. Yay, we did it!",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes"
+}

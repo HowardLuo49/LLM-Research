@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. DOC for listeria meningitis:\n1: Ampicillin\n2: Cefotaxime\n3: Cefotriaxone\n4: Ciprofloxacin",
+    "solution": 1,
+    "gpt_response": "The correct answer is 1: Ampicillin. Ampicillin is the drug of choice for treating listeria meningitis.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: The correct answer is 1: Ampicillin. Ampicillin is the drug of choice for treating listeria meningitis.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

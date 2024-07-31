@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. What is the name of C1C(NCS1)C2=CON=N2\nAnswer:",
+    "solution": [
+        "4-(1,3-thiazolidin-4-yl)oxadiazole"
+    ],
+    "gpt_response": "The compound is called dicyandiamide. It is a nitrogen-rich organic molecule that is commonly used in the manufacturing of fertilizers and pesticides. It has a linear structure with two carbon atoms surrounded by three nitrogen atoms and two oxygen atoms. Dicyandiamide is also known for its diverse reactivity and ability to form complexes with various metal ions.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response ['4-(1,3-thiazolidin-4-yl)oxadiazole']?: The compound is called dicyandiamide. It is a nitrogen-rich organic molecule that is commonly used in the manufacturing of fertilizers and pesticides. It has a linear structure with two carbon atoms surrounded by three nitrogen atoms and two oxygen atoms. Dicyandiamide is also known for its diverse reactivity and ability to form complexes with various metal ions.",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. What is the greatest prime factor of 221?",
+    "solution": "Noticing that 221 is close to the perfect square 225, we write 221 as a difference of two squares: $221=225-4=15^2-2^2=(15-2)(15+2)=13\\cdot 17$.  The largest prime factor here is $\\boxed{17}$.",
+    "gpt_response": "First, let's find out what are prime numbers. Prime numbers are numbers that can only be divided by 1 and themselves. So, let's list the factors of 221: 1, 13, 17, and 221. The greatest prime factor is 17 because it is the biggest prime number in the list. So, the greatest prime factor of 221 is 17.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 17?: First, let's find out what are prime numbers. Prime numbers are numbers that can only be divided by 1 and themselves. So, let's list the factors of 221: 1, 13, 17, and 221. The greatest prime factor is 17 because it is the biggest prime number in the list. So, the greatest prime factor of 221 is 17.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

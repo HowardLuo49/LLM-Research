@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in physics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in physics would. What is the SMILES expression of (2R)-3-[[(2R)-butan-2-yl]amino]-1,1,1-trifluoropropan-2-ol?\nAnswer:",
+    "solution": [
+        "CCC(C)NCC(C(F)(F)F)O"
+    ],
+    "gpt_response": "The SMILES expression of (2R)-3-[[(2R)-butan-2-yl]amino]-1,1,1-trifluoropropan-2-ol is C[C@H](N[C@@H](C(F)(F)F)C(C)C)O. This notation represents the connection of atoms and the arrangement of chemical bonds in the molecule according to the Simplified Molecular Input Line Entry System (SMILES) formalism. The specific stereochemistry and branching of the molecule are denoted by the '@' symbol, and the connectivity of the atoms is described using a linear string of characters.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response ['CCC(C)NCC(C(F)(F)F)O']?: The SMILES expression of (2R)-3-[[(2R)-butan-2-yl]amino]-1,1,1-trifluoropropan-2-ol is C[C@H](N[C@@H](C(F)(F)F)C(C)C)O. This notation represents the connection of atoms and the arrangement of chemical bonds in the molecule according to the Simplified Molecular Input Line Entry System (SMILES) formalism. The specific stereochemistry and branching of the molecule are denoted by the '@' symbol, and the connectivity of the atoms is described using a linear string of characters.",
+    "gpt_response_correct_incorrect": "Yes. The final solution obtained in the response is ['CCC(C)NCC(C(F)(F)F)O'], which is different from the SMILES expression provided.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

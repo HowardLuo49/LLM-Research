@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Let $N$ be the sum of the divisors of $200$. What is the largest prime factor of $N$?",
+    "solution": "The prime factorization of $200$ is $2^3 \\cdot 5^2$. It follows that $N = (1 + 2 + 2^2 + 2^3)(1 + 5 + 5^2)$, as each factor of $200$ is represented when the product is expanded. It follows that $N = (1 + 2 + 4 + 8)(1 + 5 + 25) = (15)(31)$. The largest prime factor is $\\boxed{31}$.",
+    "gpt_response": "To find the sum of the divisors of 200, we need to first prime factorize 200. 200 can be written as $2^3 \\cdot 5^2$. \n\nThe sum of divisors of a number can be found using the formula: \n$$N = (1 + 2 + 2^2 + 2^3)(1 + 5 + 5^2)$$\n$$N = (1 + 2 + 4 + 8)(1 + 5 + 25)$$\n$$N = (15)(31)$$\n$$N = 465$$\n\nNow we need to find the largest prime factor of 465. To do this, we can find the prime factorization of 465:\n$465 = 3 \\cdot 5 \\cdot 31$\n\nThe largest prime factor of $N$ is 31.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 31?: To find the sum of the divisors of 200, we need to first prime factorize 200. 200 can be written as $2^3 \\cdot 5^2$. \n\nThe sum of divisors of a number can be found using the formula: \n$$N = (1 + 2 + 2^2 + 2^3)(1 + 5 + 5^2)$$\n$$N = (1 + 2 + 4 + 8)(1 + 5 + 25)$$\n$$N = (15)(31)$$\n$$N = 465$$\n\nNow we need to find the largest prime factor of 465. To do this, we can find the prime factorization of 465:\n$465 = 3 \\cdot 5 \\cdot 31$\n\nThe largest prime factor of $N$ is 31.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

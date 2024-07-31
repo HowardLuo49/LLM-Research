@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. 2 distinct vertices of an octagon are chosen at random.  What is the probability that they are adjacent?",
+    "solution": "After we choose the first vertex, there are 7 ways to choose the second.  There are only 2 of these that are adjacent to the first vertex, so the probability the two vertices are adjacent is $\\boxed{\\frac{2}{7}}$.",
+    "gpt_response": "To find the probability that two vertices of an octagon are adjacent, we first need to figure out how many total pairs of vertices we can choose from. \n\nAn octagon has 8 vertices, so there are 8 choose 2 ways to choose 2 vertices from the octagon. This is calculated as 8! / (2! * (8-2)!) = 28 ways.\n\nNow, let's find the number of ways we can choose 2 adjacent vertices. Since each vertex is adjacent to 2 other vertices, there are 8 ways to choose 2 adjacent vertices.\n\nTherefore, the probability of choosing 2 adjacent vertices is 8/28 = 2/7.\n\nSo, the probability that two vertices of an octagon are adjacent is 2/7.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to \\frac{2?: To find the probability that two vertices of an octagon are adjacent, we first need to figure out how many total pairs of vertices we can choose from. \n\nAn octagon has 8 vertices, so there are 8 choose 2 ways to choose 2 vertices from the octagon. This is calculated as 8! / (2! * (8-2)!) = 28 ways.\n\nNow, let's find the number of ways we can choose 2 adjacent vertices. Since each vertex is adjacent to 2 other vertices, there are 8 ways to choose 2 adjacent vertices.\n\nTherefore, the probability of choosing 2 adjacent vertices is 8/28 = 2/7.\n\nSo, the probability that two vertices of an octagon are adjacent is 2/7.",
+    "gpt_response_correct_incorrect": "No",
+    "yes_no": "no"
+}

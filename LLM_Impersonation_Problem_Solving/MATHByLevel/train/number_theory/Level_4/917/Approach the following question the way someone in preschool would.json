@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Find $2^{-1} \\pmod{185}$, as a residue modulo 185.  (Give an answer between 0 and 184, inclusive.)",
+    "solution": "Since $2 \\cdot 93 \\equiv 186 \\equiv 1 \\pmod{185}$, $2^{-1} \\equiv \\boxed{93} \\pmod{185}$.",
+    "gpt_response": "Let's see, to find $2^{-1} \\pmod{185}$, we need to find a number that, when multiplied by 2, gives us a remainder of 1 when divided by 185. Hmm, let's try some numbers!\n\n$2 \\times 92 = 184$, which leaves a remainder of 1 when divided by 185. So, $2^{-1} \\equiv 92 \\pmod{185}$.\n\nYay, we found the answer!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 93?: Let's see, to find $2^{-1} \\pmod{185}$, we need to find a number that, when multiplied by 2, gives us a remainder of 1 when divided by 185. Hmm, let's try some numbers!\n\n$2 \\times 92 = 184$, which leaves a remainder of 1 when divided by 185. So, $2^{-1} \\equiv 92 \\pmod{185}$.\n\nYay, we found the answer!",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

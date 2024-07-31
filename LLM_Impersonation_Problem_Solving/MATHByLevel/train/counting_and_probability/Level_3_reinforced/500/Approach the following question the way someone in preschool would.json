@@ -1,0 +1,10 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. How many ways are there to put 4 balls in 3 boxes if the balls are distinguishable and the boxes are distinguishable?",
+    "solution": "There are 3 options (boxes) for each of the 4 balls, so the number of ways is $3^4 = \\boxed{81}$.",
+    "gpt_response": "Let's count how many ways we can put the 4 balls into the 3 boxes! We can put the first ball in any of the 3 boxes. Then we can put the second ball in any of the 3 boxes as well. Same with the third and fourth ball! So, we have 3 possibilities for the first ball, 3 possibilities for the second ball, 3 possibilities for the third ball, and 3 possibilities for the fourth ball. To find the total number of ways, we just need to multiply these possibilities together! 3 x 3 x 3 x 3 = 81 ways to put the 4 balls in the 3 boxes! Wow, that's a lot of possibilities!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 81?: Let's count how many ways we can put the 4 balls into the 3 boxes! We can put the first ball in any of the 3 boxes. Then we can put the second ball in any of the 3 boxes as well. Same with the third and fourth ball! So, we have 3 possibilities for the first ball, 3 possibilities for the second ball, 3 possibilities for the third ball, and 3 possibilities for the fourth ball. To find the total number of ways, we just need to multiply these possibilities together! 3 x 3 x 3 x 3 = 81 ways to put the 4 balls in the 3 boxes! Wow, that's a lot of possibilities!",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes"
+}

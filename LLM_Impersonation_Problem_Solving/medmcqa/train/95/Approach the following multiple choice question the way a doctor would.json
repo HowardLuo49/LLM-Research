@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. IgA deposits on skin biopsy\n1: Henoch Schouleiln puspura\n2: Giant cell aeritis\n3: Microscopic polyangitis\n4: Wegener's granulomatosis",
+    "solution": 1,
+    "gpt_response": "Based on the presence of IgA deposits on skin biopsy, the most likely diagnosis would be Henoch Schoulein purpura. This is a vasculitis that commonly presents with palpable purpura, abdominal pain, joint pain, and renal involvement. IgA deposition is a key feature of this condition. While the other options may also involve vasculitis, they are not typically associated with IgA deposits.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: Based on the presence of IgA deposits on skin biopsy, the most likely diagnosis would be Henoch Schoulein purpura. This is a vasculitis that commonly presents with palpable purpura, abdominal pain, joint pain, and renal involvement. IgA deposition is a key feature of this condition. While the other options may also involve vasculitis, they are not typically associated with IgA deposits.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

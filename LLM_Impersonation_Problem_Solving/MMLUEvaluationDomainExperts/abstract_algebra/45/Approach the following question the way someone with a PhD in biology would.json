@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. Statement 1 | For any two groups G and G', there exists a homomorphism of G into G'. Statement 2 | Every homomorphism is a one-to-one map.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "C",
+    "gpt_response": "The correct answer is D: False, True.\n\nIn biology, a homomorphism is a structural similarity between two biological entities. Statement 1 is false because not every group G can be homomorphically mapped into another group G'. \n\nIn contrast, Statement 2 is true because every homomorphism in biology is typically a one-to-one map, ensuring that each element in the domain group corresponds to a unique element in the range group.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to C?: The correct answer is D: False, True.\n\nIn biology, a homomorphism is a structural similarity between two biological entities. Statement 1 is false because not every group G can be homomorphically mapped into another group G'. \n\nIn contrast, Statement 2 is true because every homomorphism in biology is typically a one-to-one map, ensuring that each element in the domain group corresponds to a unique element in the range group.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "9",
+    "difficulty_value": "9"
+}

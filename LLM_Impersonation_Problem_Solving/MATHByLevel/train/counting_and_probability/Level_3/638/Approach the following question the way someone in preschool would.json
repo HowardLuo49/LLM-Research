@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. How many diagonals does a regular seven-sided polygon contain?",
+    "solution": "A seven-sided polygon has seven vertices. There are ${7 \\choose 2} = 21$ ways to connect the pairs of these 7 points. But 7 of those pairs are pairs of consecutive vertices, so they are counted as sides. So, only $21 - 7 = \\boxed{14}$ of these segments are diagonals.",
+    "gpt_response": "Hmm, let's count the diagonals for our seven-sided shape! A diagonal is a line that connects two non-adjacent corners. Let's draw our shape and count how many diagonals we can see. \n\n1, 2, 3, 4, 5, 6 diagonals! Yay, our seven-sided polygon has 6 diagonals! Great job counting with me!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 14?: Hmm, let's count the diagonals for our seven-sided shape! A diagonal is a line that connects two non-adjacent corners. Let's draw our shape and count how many diagonals we can see. \n\n1, 2, 3, 4, 5, 6 diagonals! Yay, our seven-sided polygon has 6 diagonals! Great job counting with me!",
+    "gpt_response_correct_incorrect": "No.",
+    "yes_no": "no"
+}

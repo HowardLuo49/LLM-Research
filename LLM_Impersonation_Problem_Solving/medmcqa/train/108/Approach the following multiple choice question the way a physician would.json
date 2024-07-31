@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Which of the following is the main enzyme responsible for activation of xenobiotics?\n1: Cytochrome P-450\n2: Glucuronyl transferase\n3: Glutathione S-transferase\n4: NADPH cytochrome P-450-reductase",
+    "solution": 1,
+    "gpt_response": "As a physician, I would choose option 1: Cytochrome P-450 as the main enzyme responsible for the activation of xenobiotics. Cytochrome P-450 enzymes play a crucial role in the metabolism of drugs and other foreign compounds in the liver. These enzymes are responsible for the activation and detoxification of xenobiotics by catalyzing reactions that convert them into more water-soluble compounds that can be eliminated from the body. Glucuronyl transferase, glutathione S-transferase, and NADPH cytochrome P-450-reductase are also important enzymes involved in drug metabolism, but cytochrome P-450 is typically considered the primary enzyme responsible for xenobiotic activation.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: As a physician, I would choose option 1: Cytochrome P-450 as the main enzyme responsible for the activation of xenobiotics. Cytochrome P-450 enzymes play a crucial role in the metabolism of drugs and other foreign compounds in the liver. These enzymes are responsible for the activation and detoxification of xenobiotics by catalyzing reactions that convert them into more water-soluble compounds that can be eliminated from the body. Glucuronyl transferase, glutathione S-transferase, and NADPH cytochrome P-450-reductase are also important enzymes involved in drug metabolism, but cytochrome P-450 is typically considered the primary enzyme responsible for xenobiotic activation.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

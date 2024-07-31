@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Statement 1 | A homomorphism may have an empty kernel. Statement 2 | It is not possible to have a nontrivial homomorphism of some finite group into some infinite group.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "B",
+    "gpt_response": "What's a homomorphism? Um, well, I think it's when you match things up in a special way. Maybe like matching shapes or colors? So, I guess you could match things up in a way that leaves some things empty. And, um, I don't know about the other statement. Maybe if you have a small group, you can't match it up with a big group? So, um, maybe the first one is true and the second one is false? That's my guess!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to B?: What's a homomorphism? Um, well, I think it's when you match things up in a special way. Maybe like matching shapes or colors? So, I guess you could match things up in a way that leaves some things empty. And, um, I don't know about the other statement. Maybe if you have a small group, you can't match it up with a big group? So, um, maybe the first one is true and the second one is false? That's my guess!",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

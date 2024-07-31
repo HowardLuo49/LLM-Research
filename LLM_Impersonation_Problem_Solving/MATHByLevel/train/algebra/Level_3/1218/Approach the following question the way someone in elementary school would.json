@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. Find $h(x)$, with terms in order of decreasing degree, if  \\[9x^3-3x+1+h(x)=3x^2-5x+3.\\]",
+    "solution": "This equation is solved by \\[h(x)=(3x^2-5x+3)-(9x^3-3x+1)=\\boxed{-9x^3+3x^2-2x+2}\\]",
+    "gpt_response": "First we need to rearrange the equation so that like terms are next to each other. So let's rewrite the equation with the terms rearranged:\n\n$h(x) + 9x^3 - 3x + 1 = 3x^2 - 5x + 3$\n\nNow we need to isolate $h(x)$ by moving the other terms to the other side of the equation:\n\n$h(x) = 3x^2 - 5x + 3 - 9x^3 + 3x - 1$\n\nNow we can arrange the terms in order of decreasing degree:\n\n$h(x) = -9x^3 + 3x^2 - 2x + 2$\n\nSo $h(x) = -9x^3 + 3x^2 - 2x + 2$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to -9x^3+3x^2-2x+2?: First we need to rearrange the equation so that like terms are next to each other. So let's rewrite the equation with the terms rearranged:\n\n$h(x) + 9x^3 - 3x + 1 = 3x^2 - 5x + 3$\n\nNow we need to isolate $h(x)$ by moving the other terms to the other side of the equation:\n\n$h(x) = 3x^2 - 5x + 3 - 9x^3 + 3x - 1$\n\nNow we can arrange the terms in order of decreasing degree:\n\n$h(x) = -9x^3 + 3x^2 - 2x + 2$\n\nSo $h(x) = -9x^3 + 3x^2 - 2x + 2$.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "yes_no": "yes"
+}

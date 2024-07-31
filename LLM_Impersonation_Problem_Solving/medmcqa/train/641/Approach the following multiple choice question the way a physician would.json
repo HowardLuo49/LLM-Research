@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Surgery for elective hemicolectomy for carcinoma colon is described as -\n1: Clean\n2: Clean contaminated\n3: Dirty\n4: Contaminated",
+    "solution": 2,
+    "gpt_response": "The correct answer is 2: Clean contaminated. This type of surgery involves entering the gastrointestinal tract, which is considered a clean contaminated procedure due to the potential for microbial contamination during the operation.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: The correct answer is 2: Clean contaminated. This type of surgery involves entering the gastrointestinal tract, which is considered a clean contaminated procedure due to the potential for microbial contamination during the operation.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

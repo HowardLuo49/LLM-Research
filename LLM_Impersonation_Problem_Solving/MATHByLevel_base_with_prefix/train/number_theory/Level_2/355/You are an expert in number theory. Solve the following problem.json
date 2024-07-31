@@ -1,0 +1,10 @@
+{
+    "prefix": "You are an expert in number theory. Solve the following problem. ",
+    "problem_prompt": "You are an expert in number theory. Solve the following problem. One digit of the decimal representation of $\\frac{5}{7}$ is randomly selected. What is the probability that the digit is a 4? Express your answer as a common fraction.",
+    "solution": "The decimal representation of $\\frac{5}{7}$ is $0.\\overline{714285}$, which has a repeating block of 6 digits. Since 4 is one of those six digits that keep repeating, the probability that the selected digit is a 4 is $\\boxed{\\frac{1}{6}}$.",
+    "gpt_response": "To find the decimal representation of $\\frac{5}{7}$, we divide 5 by 7 to get $0.7142857142857143...$. This decimal repeats every 6 digits. \n\nTherefore, the probability of randomly selecting a 4 from the decimal representation of $\\frac{5}{7}$ is $\\frac{1}{6}$. \n\nSo, the probability that the randomly selected digit is a 4 is $\\boxed{\\frac{1}{6}}$.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response \\frac{1?: To find the decimal representation of $\\frac{5}{7}$, we divide 5 by 7 to get $0.7142857142857143...$. This decimal repeats every 6 digits. \n\nTherefore, the probability of randomly selecting a 4 from the decimal representation of $\\frac{5}{7}$ is $\\frac{1}{6}$. \n\nSo, the probability that the randomly selected digit is a 4 is $\\boxed{\\frac{1}{6}}$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes"
+}

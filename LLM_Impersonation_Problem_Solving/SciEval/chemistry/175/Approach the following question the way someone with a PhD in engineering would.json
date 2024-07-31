@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in engineering would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in engineering would. What is the SMILES expression of C8H18N2?\nAnswer:",
+    "solution": [
+        "CC1C(NC(C(N1)C)C)C"
+    ],
+    "gpt_response": "The SMILES expression of C8H18N2 is CCCCCCNCCNCCCCC. SMILES (Simplified Molecular Input Line Entry System) is a notation system used to represent chemical structures in a unique and concise manner. In this case, the SMILES expression specifies the connectivity and arrangement of atoms in the molecule consisting of 8 carbon atoms, 18 hydrogen atoms, and 2 nitrogen atoms.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response ['CC1C(NC(C(N1)C)C)C']?: The SMILES expression of C8H18N2 is CCCCCCNCCNCCCCC. SMILES (Simplified Molecular Input Line Entry System) is a notation system used to represent chemical structures in a unique and concise manner. In this case, the SMILES expression specifies the connectivity and arrangement of atoms in the molecule consisting of 8 carbon atoms, 18 hydrogen atoms, and 2 nitrogen atoms.",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

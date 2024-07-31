@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. Find a positive integer that is divisible by 14 and has a square root between 25 and 25.3.",
+    "solution": "The second condition tells us that the integer must be between $25^2 = 625$ and $(25.3)^2 \\approx 640$. The only multiple of 14 in this range is $\\boxed{630}.$  (One easy way to find a multiple of 14 is to find a number that is both a multiple of 2 and a multiple of 7.)",
+    "gpt_response": "To find a positive integer that is divisible by 14 and has a square root between 25 and 25.3, we can first consider the square roots of numbers that are multiples of 14. The square root of a number n is between a and b if a < sqrt(n) < b.\n\nWe know that 25 < sqrt(n) < 25.3, so squaring both sides of this inequality gives 625 < n < 640.09. The closest multiple of 14 within this range is 630, which is divisible by 14.\n\nTherefore, the positive integer that is divisible by 14 and has a square root between 25 and 25.3 is 630.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 630?: To find a positive integer that is divisible by 14 and has a square root between 25 and 25.3, we can first consider the square roots of numbers that are multiples of 14. The square root of a number n is between a and b if a < sqrt(n) < b.\n\nWe know that 25 < sqrt(n) < 25.3, so squaring both sides of this inequality gives 625 < n < 640.09. The closest multiple of 14 within this range is 630, which is divisible by 14.\n\nTherefore, the positive integer that is divisible by 14 and has a square root between 25 and 25.3 is 630.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

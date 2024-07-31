@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. Which anaesthetic agent increases intracranial tension among the following\n1: Thiopentone\n2: Propofol\n3: Lignocaine\n4: Sevoflurane",
+    "solution": 4,
+    "gpt_response": "1: Thiopentone",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 4?: 1: Thiopentone",
+    "gpt_response_correct_incorrect": "2: Propofol\n\n3: Midazolam\n\n4: Yes\n\nNo",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

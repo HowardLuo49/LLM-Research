@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. According to the BCS theory, the attraction between Cooper pairs in a superconductor is due to\nA: the weak nuclear force\nB: the strong nuclear force\nC: vacuum polarization\nD: interactions with the ionic lattice",
+    "solution": "D",
+    "gpt_response": "The correct answer is D: interactions with the ionic lattice. In the BCS theory of superconductivity, it is proposed that electrons form pairs (Cooper pairs) due to interactions with the vibrating ionic lattice. This interaction results in an attractive force that allows the electrons to overcome their mutual repulsion and form pairs with a net zero momentum, leading to the collective behavior observed in superconductors. This mechanism is distinct from the forces of the weak or strong nuclear force, or vacuum polarization.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: The correct answer is D: interactions with the ionic lattice. In the BCS theory of superconductivity, it is proposed that electrons form pairs (Cooper pairs) due to interactions with the vibrating ionic lattice. This interaction results in an attractive force that allows the electrons to overcome their mutual repulsion and form pairs with a net zero momentum, leading to the collective behavior observed in superconductors. This mechanism is distinct from the forces of the weak or strong nuclear force, or vacuum polarization.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

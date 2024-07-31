@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. The time right now is exactly midnight. What time will it be in 1234 minutes?",
+    "solution": "There are $60$ minutes in an hour. When $1234$ is divided by $60$, you get $20$ with a remainder of $34$. Therefore, the time in $1234$ minutes will be $\\boxed{20\\!:\\!34}$ or $\\boxed{8\\!:\\!34 \\text{ p.m.}}$.",
+    "gpt_response": "Hmm, let's see. Midnight is when the sun is sleeping, so if we add 60 minutes, that's one hour. And then if we add another 60 minutes, that's two hours. We keep adding more and more minutes until we get to 1234. So if we start at midnight and keep adding minutes, it will be 20 hours later! Wow, that's a long time!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 20\\!:\\!34?: Hmm, let's see. Midnight is when the sun is sleeping, so if we add 60 minutes, that's one hour. And then if we add another 60 minutes, that's two hours. We keep adding more and more minutes until we get to 1234. So if we start at midnight and keep adding minutes, it will be 20 hours later! Wow, that's a long time!",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

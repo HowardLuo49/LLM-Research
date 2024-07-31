@@ -1,0 +1,10 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. If the odds for pulling a prize out of the box are $3:4$, what is the probability of not pulling the prize out of the box? Express your answer as a common fraction.",
+    "solution": "If the odds for pulling a prize out of the box are $3:4$, that means that 3 out of 7 times will result in a prize, while 4 out of 7 times will not. So the probability of not pulling the prize out of the box is $\\boxed{\\frac{4}{7}}$.",
+    "gpt_response": "Oh boy, this is like a math problem we learned in school! So, if the odds are $3:4$, that means there are 3 chances to pull a prize out of the box and 4 chances to not pull a prize out. \n\nTo find the probability of not pulling a prize out of the box, we just need to use the number of chances of not pulling a prize out (4) and divide it by the total number of chances (3 + 4 = 7). \n\nSo, the probability of not pulling a prize out of the box is 4 out of 7, which can be written as a common fraction as $\\frac{4}{7}$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to \\frac{4?: Oh boy, this is like a math problem we learned in school! So, if the odds are $3:4$, that means there are 3 chances to pull a prize out of the box and 4 chances to not pull a prize out. \n\nTo find the probability of not pulling a prize out of the box, we just need to use the number of chances of not pulling a prize out (4) and divide it by the total number of chances (3 + 4 = 7). \n\nSo, the probability of not pulling a prize out of the box is 4 out of 7, which can be written as a common fraction as $\\frac{4}{7}$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes"
+}

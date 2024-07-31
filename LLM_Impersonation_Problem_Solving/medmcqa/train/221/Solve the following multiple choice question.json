@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. Patient diagnosed as squamous cell intraepithelial lesion which of the following has the highest risk for progression to carcinoma;\n1: Low grade squamous intraepithelial neoplasia\n2: High grade squamous intraepithelial neoplasia\n3: Squamous intraepithelial associated with HPV 16\n4: Squamous intraepithelial neoplasia associated with HIV",
+    "solution": 2,
+    "gpt_response": "The correct answer is:\n2: High grade squamous intraepithelial neoplasia\n\nHigh grade squamous intraepithelial neoplasia has the highest risk for progression to carcinoma compared to low grade squamous intraepithelial neoplasia. Additionally, HPV 16 is a high-risk subtype of human papillomavirus that is known to increase the risk of cervical cancer. HIV infection can also increase the risk of progression to carcinoma, but high grade squamous intraepithelial neoplasia poses the highest risk.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: The correct answer is:\n2: High grade squamous intraepithelial neoplasia\n\nHigh grade squamous intraepithelial neoplasia has the highest risk for progression to carcinoma compared to low grade squamous intraepithelial neoplasia. Additionally, HPV 16 is a high-risk subtype of human papillomavirus that is known to increase the risk of cervical cancer. HIV infection can also increase the risk of progression to carcinoma, but high grade squamous intraepithelial neoplasia poses the highest risk.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

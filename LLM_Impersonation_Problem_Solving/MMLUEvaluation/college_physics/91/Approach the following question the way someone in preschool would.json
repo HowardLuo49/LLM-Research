@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. The speed of light inside of a nonmagnetic dielectric material with a dielectric constant of 4.0 is\nA: 1.2 * 10^9 m/s\nB: 3.0 * 10^8 m/s\nC: 1.5 * 10^8 m/s\nD: 1.0 * 10^8 m/s",
+    "solution": "C",
+    "gpt_response": "Hmm, let's see! Light is really fast, like super-duper fast! So, if it's going through something like a nonmagnetic dielectric material with a dielectric constant of 4.0, it might slow down a bit. Let's think about it... oh, I know! It must be A: 1.2 * 10^9 m/s because it's still really fast but just a little slower than normal! Yay!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to C?: Hmm, let's see! Light is really fast, like super-duper fast! So, if it's going through something like a nonmagnetic dielectric material with a dielectric constant of 4.0, it might slow down a bit. Let's think about it... oh, I know! It must be A: 1.2 * 10^9 m/s because it's still really fast but just a little slower than normal! Yay!",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

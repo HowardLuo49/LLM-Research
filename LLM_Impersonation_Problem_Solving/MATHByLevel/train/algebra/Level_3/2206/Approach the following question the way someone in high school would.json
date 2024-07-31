@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Rationalize the denominator: $\\sqrt{\\frac{3}{8}}.$",
+    "solution": "We have $$\\sqrt{\\frac{3}{8}} = \\frac{\\sqrt{3}}{\\sqrt{8}} = \\frac{\\sqrt{6}}{\\sqrt{16}} = \\boxed{\\frac{\\sqrt{6}}{4}}.$$",
+    "gpt_response": "To rationalize the denominator, we want to get rid of the square root in the denominator. We can do this by multiplying by $\\frac{\\sqrt{8}}{\\sqrt{8}}$, which is just 1, since $\\sqrt{8}$ over itself equals 1.\n\nSo, $\\sqrt{\\frac{3}{8}} \\cdot \\frac{\\sqrt{8}}{\\sqrt{8}} = \\sqrt{\\frac{3 \\cdot 8}{8 \\cdot 8}} = \\sqrt{\\frac{24}{64}} = \\frac{\\sqrt{24}}{\\sqrt{64}}.$\n\nSince the square root of 64 is 8, our final answer is $\\frac{\\sqrt{24}}{8}$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to \\frac{\\sqrt{6?: To rationalize the denominator, we want to get rid of the square root in the denominator. We can do this by multiplying by $\\frac{\\sqrt{8}}{\\sqrt{8}}$, which is just 1, since $\\sqrt{8}$ over itself equals 1.\n\nSo, $\\sqrt{\\frac{3}{8}} \\cdot \\frac{\\sqrt{8}}{\\sqrt{8}} = \\sqrt{\\frac{3 \\cdot 8}{8 \\cdot 8}} = \\sqrt{\\frac{24}{64}} = \\frac{\\sqrt{24}}{\\sqrt{64}}.$\n\nSince the square root of 64 is 8, our final answer is $\\frac{\\sqrt{24}}{8}$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. In a patient with a type of familial dyslipidemias he presented with palmar Xanthomas and he ias at increased risk of atherosclerosis and CAD.In Lipid profile there was elevation of triacylglycerols and cholesterol.And the IDL and chylomicrons were elevated.What is the pathophysiology of the condition?\n1: LDL deficiency\n2: VLDL overproduction\n3: Apo C-2 deficiency\n4: Apo E deficiency",
+    "solution": 4,
+    "gpt_response": "The pathophysiology of the condition presented with palmar xanthomas, elevated triacylglycerols and cholesterol, and increased risk of atherosclerosis and CAD, is likely due to a deficiency in Apo E. This is because Apo E plays a key role in the metabolism of chylomicrons and IDL, which are both elevated in this patient. Apo E deficiency results in impaired clearance of these lipoproteins, leading to their accumulation and ultimately increasing the risk of atherosclerosis and CAD. Therefore, the correct answer is 4: Apo E deficiency.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 4?: The pathophysiology of the condition presented with palmar xanthomas, elevated triacylglycerols and cholesterol, and increased risk of atherosclerosis and CAD, is likely due to a deficiency in Apo E. This is because Apo E plays a key role in the metabolism of chylomicrons and IDL, which are both elevated in this patient. Apo E deficiency results in impaired clearance of these lipoproteins, leading to their accumulation and ultimately increasing the risk of atherosclerosis and CAD. Therefore, the correct answer is 4: Apo E deficiency.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "9",
+    "difficulty_value": "9"
+}

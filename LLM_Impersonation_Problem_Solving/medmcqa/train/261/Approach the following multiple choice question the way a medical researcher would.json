@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a medical researcher would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a medical researcher would. In which case cystometric study is indicated -\n1: Neurogenic bladder\n2: Stress incontinence\n3: Fistula\n4: Urge incontinence",
+    "solution": 1,
+    "gpt_response": "Cystometric study is indicated in cases where there is a need to assess bladder function and diagnose underlying conditions affecting bladder control. In this case, the most appropriate indication for cystometric study would be in a patient with neurogenic bladder, as this condition involves dysfunction of the nervous system controlling the bladder. It is important to monitor the bladder function in patients with neurogenic bladder to guide treatment and management.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: Cystometric study is indicated in cases where there is a need to assess bladder function and diagnose underlying conditions affecting bladder control. In this case, the most appropriate indication for cystometric study would be in a patient with neurogenic bladder, as this condition involves dysfunction of the nervous system controlling the bladder. It is important to monitor the bladder function in patients with neurogenic bladder to guide treatment and management.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. If $x (x+y) = 27$ and $y (x+y) = 54$, what is the value of $(x+y)^2$?",
+    "solution": "Notice that if we add $x(x+y)$ and $y(x+y)$, we can factor out a term of $(x+y)$ to obtain $x(x+y) + y(x+y) = (x+y)(x+y)$. Thus, $(x+y)^2 = x(x+y) + y(x+y)$, so $(x+y)^2 = 27 + 54 = \\boxed{81}$.",
+    "gpt_response": "Hmm, let's see... If we add the two equations together, we get:\n\n$x(x+y) + y(x+y) = 27 + 54$\n\nIf we factor out the common factor of $(x+y)$ on the left side, we get:\n\n$(x+y)(x+y) = 81$\n\nSo $(x+y)^2 = 81$. Yay, we did it!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 81?: Hmm, let's see... If we add the two equations together, we get:\n\n$x(x+y) + y(x+y) = 27 + 54$\n\nIf we factor out the common factor of $(x+y)$ on the left side, we get:\n\n$(x+y)(x+y) = 81$\n\nSo $(x+y)^2 = 81$. Yay, we did it!",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Ferruginous bodies are seen in?\n1: Silicosis\n2: Bysinosis\n3: Asbestosis\n4: Baggassosis",
+    "solution": 3,
+    "gpt_response": "Ferruginous bodies are commonly seen in patients with asbestosis.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: Ferruginous bodies are commonly seen in patients with asbestosis.",
+    "gpt_response_correct_incorrect": "Option 3: Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

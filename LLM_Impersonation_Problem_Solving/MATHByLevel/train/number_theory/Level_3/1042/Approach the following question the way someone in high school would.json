@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. The positive integer divisors of 175, except 1, are arranged around a circle so that every pair of adjacent integers has a common factor greater than 1. What is the sum of the two integers adjacent to 7?",
+    "solution": "$175=5^2\\cdot7^1$. To arrange the divisors of 175, we can (conveniently) start with the divisor 7. Since $\\gcd(5,7)=1$, the two divisors that are adjacent to 7 must be multiples of 7, which means they have to be $5^1\\cdot7=35$ and $5^2\\cdot7=175$. Thus, the sum of the two integers adjacent to 7 is $35+175=\\boxed{210}$.",
+    "gpt_response": "OK, so we know the divisors of 175 are 5, 7, 25, and 35. Since every pair of adjacent integers has a common factor greater than 1, we know that the divisors must be arranged as 5, 25, 5, 35, 7. \n\nNow, to find the sum of the two integers adjacent to 7, we look at the divisors that come before and after 7. In this case, it is 35 and 5. \n\nSo, the sum of the two integers adjacent to 7 is 35 + 5 = 40.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 210?: OK, so we know the divisors of 175 are 5, 7, 25, and 35. Since every pair of adjacent integers has a common factor greater than 1, we know that the divisors must be arranged as 5, 25, 5, 35, 7. \n\nNow, to find the sum of the two integers adjacent to 7, we look at the divisors that come before and after 7. In this case, it is 35 and 5. \n\nSo, the sum of the two integers adjacent to 7 is 35 + 5 = 40.",
+    "gpt_response_correct_incorrect": "No. 40 is not equal to 210.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "9",
+    "difficulty_value": "9"
+}

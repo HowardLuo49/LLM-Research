@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. Find the ordered pair $(x,y)$ if\n\n\\begin{align*}\nx+y&=(5-x)+(5-y),\\\\\nx-y&=(x-1)+(y-1).\n\\end{align*}",
+    "solution": "Adding the equations, we get\n\n$$2x=8\\Rightarrow x=4.$$Substituting this into the first equation, we get\n\n$$4+y=1+5-y\\Rightarrow y=1.$$Thus the ordered pair is $\\boxed{(4,1)}$.",
+    "gpt_response": "Okay, first let's look at the first equation: $x+y=(5-x)+(5-y)$.\n\nLet's simplify this equation. We can expand the right side to get $x+y=5-x+5-y$.\n\nNow, we add $x$ and $y$ to get $2x+2y=10$.\n\nDividing by $2$ on both sides, we get $x+y=5$.\n\nNow, let's look at the second equation: $x-y=(x-1)+(y-1)$.\n\nIf we simplify this equation by expanding the right side, we get $x-y=x-1+y-1$.\n\nSo, $-y=-1-1$. Adding $y$ on both sides we get $0=-2$. This means there is no solution to this equation.\n\nTherefore, the only solution is $x+y=5$. This means that $x$ and $y$ are simply numbers that add up to $5$, like $(1,4)$ or $(2,3)$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to (4,1)?: Okay, first let's look at the first equation: $x+y=(5-x)+(5-y)$.\n\nLet's simplify this equation. We can expand the right side to get $x+y=5-x+5-y$.\n\nNow, we add $x$ and $y$ to get $2x+2y=10$.\n\nDividing by $2$ on both sides, we get $x+y=5$.\n\nNow, let's look at the second equation: $x-y=(x-1)+(y-1)$.\n\nIf we simplify this equation by expanding the right side, we get $x-y=x-1+y-1$.\n\nSo, $-y=-1-1$. Adding $y$ on both sides we get $0=-2$. This means there is no solution to this equation.\n\nTherefore, the only solution is $x+y=5$. This means that $x$ and $y$ are simply numbers that add up to $5$, like $(1,4)$ or $(2,3)$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

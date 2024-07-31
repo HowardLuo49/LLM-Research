@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. A 1 year old child is brought to you with delayed milestones. On examination you note that the child is very fair with hypopigmented hair and blue eye. He has also got eczemas. The child was also very irritable. What is your diagnosis?\n1: Albinism\n2: Phenylketonuria\n3: Alkaptonuria\n4: Cystinosis",
+    "solution": 2,
+    "gpt_response": "1: Albinism\n\nThis child's presentation is classic for albinism, which is a genetic disorder characterized by a lack of melanin production resulting in fair skin, hypopigmented hair, and blue eyes. Eczema and irritability can also be seen in children with albinism. Phenylketonuria, Alkaptonuria, and Cystinosis do not typically present with these symptoms.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: 1: Albinism\n\nThis child's presentation is classic for albinism, which is a genetic disorder characterized by a lack of melanin production resulting in fair skin, hypopigmented hair, and blue eyes. Eczema and irritability can also be seen in children with albinism. Phenylketonuria, Alkaptonuria, and Cystinosis do not typically present with these symptoms.",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. Emily ordered her playing cards by suit in the order $$A,2,3,4,5,6,7,8,9,10,J,Q,K,A,2,3,\\cdots.$$What is the $42$nd card?",
+    "solution": "There are $13$ cards in the pattern from $A$ to $K$. When you divide $42$ by $13$, you get $3$ with a remainder of $3$. Therefore, the $42^\\text{nd}$ card is a $\\boxed{3}$.",
+    "gpt_response": "To find the 42nd card, we can count the cards one by one until we get to the 42nd card. Since each suit has 13 cards, that means we can multiply the number of full suits (3) by 13 to get 39 cards. Then we add on the 3 extra cards to get 42. So the 42nd card is a 3.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 3?: To find the 42nd card, we can count the cards one by one until we get to the 42nd card. Since each suit has 13 cards, that means we can multiply the number of full suits (3) by 13 to get 39 cards. Then we add on the 3 extra cards to get 42. So the 42nd card is a 3.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

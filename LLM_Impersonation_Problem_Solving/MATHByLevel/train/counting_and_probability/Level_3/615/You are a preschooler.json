@@ -1,0 +1,7 @@
+{
+    "prefix": "You are a preschooler.\n",
+    "problem_prompt": "You are a preschooler.\nHow many even three digit numbers are there such that the sum of the  tens and units digits is 10?",
+    "solution": "There are nine possible digits that the hundreds digit could be. However, there are only four possible endings for the number: 46, 64, 28, and 82. Thus, there are $9 \\cdot 4 = \\boxed{36}$ such numbers.",
+    "gpt_response": "ChatCompletion(id='chatcmpl-9A2qdMRnB05r0ffChwkdQSZgYnvDv', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='There are 45 even three digit numbers where the sum of the tens and units digits is 10.', role='assistant', function_call=None, tool_calls=None))], created=1712181255, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint='fp_b28b39ffa8', usage=CompletionUsage(completion_tokens=21, prompt_tokens=36, total_tokens=57))",
+    "yes_no": "no"
+}

@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. For any number $x$, we are told that $x\\&=7-x$ and $\\&x = x -7$. What is the value of $\\&(12\\&)$?",
+    "solution": "We have $\\&(12\\&)=\\&(7-12)=\\&(-5)=(-5-7)=\\boxed{-12}$.",
+    "gpt_response": "Ok, so first let's figure out what the operations $\\&$ mean. We are given that $x\\&=7-x$ and $\\&x = x -7$. \n\nSo let's substitute $x=12$ to find the value of $12\\&$. \n\n$12\\& = 7 -12 = -5$. \n\nNow let's find $\\&(-5)$ by substituting $x=-5$. \n\n$\\&(-5) = -5 - 7 = -12$. \n\nTherefore, the value of $\\&(12\\&)$ is $-12$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to -12?: Ok, so first let's figure out what the operations $\\&$ mean. We are given that $x\\&=7-x$ and $\\&x = x -7$. \n\nSo let's substitute $x=12$ to find the value of $12\\&$. \n\n$12\\& = 7 -12 = -5$. \n\nNow let's find $\\&(-5)$ by substituting $x=-5$. \n\n$\\&(-5) = -5 - 7 = -12$. \n\nTherefore, the value of $\\&(12\\&)$ is $-12$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

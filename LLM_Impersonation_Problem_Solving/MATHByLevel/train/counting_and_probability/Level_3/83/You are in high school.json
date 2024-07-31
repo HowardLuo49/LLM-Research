@@ -1,0 +1,7 @@
+{
+    "prefix": "You are in high school.\n",
+    "problem_prompt": "You are in high school.\nHow many ways are there to put 4 indistinguishable balls into 2 indistinguishable boxes?",
+    "solution": "In this problem, we only need to count the number of ways to split 4 items into two groups.  There are only 3 ways: $\\{4,0\\}$, $\\{3,1\\}$ and $\\{2,2\\}$.  Therefore, there are only $\\boxed{3}$ ways to put 4 indistinguishable balls in 2 indistinguishable boxes.",
+    "gpt_response": "ChatCompletion(id='chatcmpl-9A2x59IgTekZPwuwp2k25XlfZS7Fc', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content=\"There is only 1 way to put 4 indistinguishable balls into 2 indistinguishable boxes. This is because the balls and boxes are indistinguishable, so the arrangement of the balls doesn't matter in this case.\", role='assistant', function_call=None, tool_calls=None))], created=1712181655, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint='fp_b28b39ffa8', usage=CompletionUsage(completion_tokens=47, prompt_tokens=34, total_tokens=81))",
+    "yes_no": "yes"
+}

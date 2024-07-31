@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Which of the following is not a component of transpo system?\n1: Receptor activation\n2: Selective gate\n3: Non-selective channel\n4: Energy coupling system",
+    "solution": 1,
+    "gpt_response": "As a physician, I would approach this question from a scientific and physiological perspective. \n\nBased on my knowledge of transportation systems in the body, I can eliminate options that are not relevant. Receptor activation, selective gate, and non-selective channel are all components of transport systems in the body. These components play a role in facilitating the movement of molecules across cell membranes.\n\nTherefore, from a physiological standpoint, the component that is not typically associated with transport systems in the body is option 4: Energy coupling system. Energy coupling systems are more often associated with cellular processes such as ATP synthesis, rather than transport mechanisms.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: As a physician, I would approach this question from a scientific and physiological perspective. \n\nBased on my knowledge of transportation systems in the body, I can eliminate options that are not relevant. Receptor activation, selective gate, and non-selective channel are all components of transport systems in the body. These components play a role in facilitating the movement of molecules across cell membranes.\n\nTherefore, from a physiological standpoint, the component that is not typically associated with transport systems in the body is option 4: Energy coupling system. Energy coupling systems are more often associated with cellular processes such as ATP synthesis, rather than transport mechanisms.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

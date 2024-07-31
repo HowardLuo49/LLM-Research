@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Statement 1 | If H and K are subgroups of G and one of H or K is normal subgroup of G, then HK is a subgroup of G. Statement 2 | All groups of order p^2 where p is prime are Abelian.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "A",
+    "gpt_response": "Hmm, for the first statement, I know that if one of H or K is a normal subgroup of G, then their product HK is also a subgroup of G. So Statement 1 must be true. \n\nFor the second statement, oh, I'm not quite sure. I remember that groups of order p^2 are not necessarily Abelian, so Statement 2 must be false. \n\nSo my answer is C: True, False.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to A?: Hmm, for the first statement, I know that if one of H or K is a normal subgroup of G, then their product HK is also a subgroup of G. So Statement 1 must be true. \n\nFor the second statement, oh, I'm not quite sure. I remember that groups of order p^2 are not necessarily Abelian, so Statement 2 must be false. \n\nSo my answer is C: True, False.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

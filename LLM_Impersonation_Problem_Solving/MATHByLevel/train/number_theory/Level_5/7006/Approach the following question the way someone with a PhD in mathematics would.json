@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. What is that largest positive integer $n$ for which $n^3+100$ is divisible by $n+10$?\n",
+    "solution": "If $n+10 \\mid n^3+100$, $\\gcd(n^3+100,n+10)=n+10$. Using the Euclidean algorithm, we have $\\gcd(n^3+100,n+10)= \\gcd(-10n^2+100,n+10)$ $= \\gcd(100n+100,n+10)$ $= \\gcd(-900,n+10)$, so $n+10$ must divide $900$. The greatest integer $n$ for which $n+10$ divides $900$ is $\\boxed{890}$; we can double-check manually and we find that indeed $900\\mid 890^3+100$.",
+    "gpt_response": "To find the largest positive integer $n$ for which $n^3 + 100$ is divisible by $n + 10$, we can use the fact that if $n + 10$ divides $n^3 + 100$, then it must also divide $(n^3 + 100) - n(n + 10) = 100 - 10n$. \n\nTherefore, we need to find the largest positive integer $n$ such that $n+10$ divides $100-10n$. \n\nBy long division, we find that $100 - 10n = (10 - n)(n+10)$. \n\nThus, the largest positive integer $n$ for which $n^3 + 100$ is divisible by $n + 10$ is when $n = 10$. \n\nTherefore, the largest positive integer $n$ is $\\boxed{10}$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 890?: To find the largest positive integer $n$ for which $n^3 + 100$ is divisible by $n + 10$, we can use the fact that if $n + 10$ divides $n^3 + 100$, then it must also divide $(n^3 + 100) - n(n + 10) = 100 - 10n$. \n\nTherefore, we need to find the largest positive integer $n$ such that $n+10$ divides $100-10n$. \n\nBy long division, we find that $100 - 10n = (10 - n)(n+10)$. \n\nThus, the largest positive integer $n$ for which $n^3 + 100$ is divisible by $n + 10$ is when $n = 10$. \n\nTherefore, the largest positive integer $n$ is $\\boxed{10}$.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

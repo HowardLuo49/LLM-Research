@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. What is the molecular formula of but-2-yne;ethane;propane;sulfanylidene-(sulfanylidene-\u00ce\u00bb4-sulfanylidene)-\u00ce\u00bb4-sulfane?\nAnswer:",
+    "solution": [
+        "C9H20S4"
+    ],
+    "gpt_response": "The molecular formula of but-2-yne is C4H6, ethane is C2H6, propane is C3H8, and sulfanylidene-(sulfanylidene-\u03bb4-sulfanylidene)-\u03bb4-sulfane is S8.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response ['C9H20S4']?: The molecular formula of but-2-yne is C4H6, ethane is C2H6, propane is C3H8, and sulfanylidene-(sulfanylidene-\u03bb4-sulfanylidene)-\u03bb4-sulfane is S8.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. What is the units digit of $31^3+13^3$?",
+    "solution": "The units digit of $31^3$ is the same as the units digit of $1^3$, which is 1.  The units digit of $13^3$ is the same as the units digit of $3^3$, which is 7.  Therefore, the units digit of $31^3+13^3$ is $\\boxed{8}$.",
+    "gpt_response": "Alright, so let's look at the units digit of each number when raised to the third power. For $31^3$, we can see that the units digit of 31 is 1, so when raised to the third power, it will always end in 1. Now let's look at $13^3$, where the units digit of 13 is 3. When raised to the third power, 3 will end in 7.\n\nNow if we add the units digits of 1 and 7 together, we get 8. Therefore, the units digit of $31^3+13^3$ is 8.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 8?: Alright, so let's look at the units digit of each number when raised to the third power. For $31^3$, we can see that the units digit of 31 is 1, so when raised to the third power, it will always end in 1. Now let's look at $13^3$, where the units digit of 13 is 3. When raised to the third power, 3 will end in 7.\n\nNow if we add the units digits of 1 and 7 together, we get 8. Therefore, the units digit of $31^3+13^3$ is 8.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

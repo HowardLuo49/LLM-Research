@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. A cat has found $432_{9}$ methods in which to extend each of her nine lives.  How many methods are there in base 10?",
+    "solution": "$432_{9} = 2\\cdot9^{0}+3\\cdot9^{1}+4\\cdot9^{2} = 2+27+324 = \\boxed{353}$.",
+    "gpt_response": "To find out how many methods are there in base 10, we need to convert the number of methods from base 9 to base 10.\n\nIn base 9, the number of methods is $432_9$. This means,\n$4*(9^2) + 3*(9^1) + 2*(9^0) = 4*81 + 3*9 + 2*1 = 324 + 27 + 2 = 353$\n\nSo, there are 353 methods in base 10 for the cat to extend each of her nine lives.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 353?: To find out how many methods are there in base 10, we need to convert the number of methods from base 9 to base 10.\n\nIn base 9, the number of methods is $432_9$. This means,\n$4*(9^2) + 3*(9^1) + 2*(9^0) = 4*81 + 3*9 + 2*1 = 324 + 27 + 2 = 353$\n\nSo, there are 353 methods in base 10 for the cat to extend each of her nine lives.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

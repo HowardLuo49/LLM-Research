@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. How many distinct four-digit numbers are divisible by 3 and have 23 as their last two digits?",
+    "solution": "A number is divisible by 3 if and only if the sum of its digits is divisible by 3. So a  four-digit number $ab23$ is divisible by $3$ if and only if the two-digit number $ab$ leaves a remainder of 1 when divided by 3. There are 90 two-digit numbers, of which $90/3 = \\boxed{30}$ leave a remainder of 1 when divided by 3.",
+    "gpt_response": "To find the answer to this question, we first need to understand what it means for a number to be divisible by 3. A number is divisible by 3 if the sum of its digits is also divisible by 3. \n\nSince we are looking for four-digit numbers with 23 as their last two digits, we can list all possible combinations for the first two digits (00-99) and then check which of these numbers are divisible by 3. \n\nFor example, if we take the number 1000 with 23 as the last two digits, the total sum of the digits is 1 + 0 + 0 + 0 + 2 + 3 = 6, which is divisible by 3. Therefore, 1023 is a valid number. \n\nWe can continue this process for all possible combinations of two-digit numbers and find that there are 34 distinct four-digit numbers that are both divisible by 3 and have 23 as their last two digits.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 30?: To find the answer to this question, we first need to understand what it means for a number to be divisible by 3. A number is divisible by 3 if the sum of its digits is also divisible by 3. \n\nSince we are looking for four-digit numbers with 23 as their last two digits, we can list all possible combinations for the first two digits (00-99) and then check which of these numbers are divisible by 3. \n\nFor example, if we take the number 1000 with 23 as the last two digits, the total sum of the digits is 1 + 0 + 0 + 0 + 2 + 3 = 6, which is divisible by 3. Therefore, 1023 is a valid number. \n\nWe can continue this process for all possible combinations of two-digit numbers and find that there are 34 distinct four-digit numbers that are both divisible by 3 and have 23 as their last two digits.",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

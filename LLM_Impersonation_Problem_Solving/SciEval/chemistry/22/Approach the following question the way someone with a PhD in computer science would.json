@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in computer science would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in computer science would. What is the SMILES expression of C11H24O?\nAnswer:",
+    "solution": [
+        "CCC(C)(C)OC(C)(CC)CC"
+    ],
+    "gpt_response": "The SMILES expression of C11H24O is CCCCCCCCCCCO.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response ['CCC(C)(C)OC(C)(CC)CC']?: The SMILES expression of C11H24O is CCCCCCCCCCCO.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

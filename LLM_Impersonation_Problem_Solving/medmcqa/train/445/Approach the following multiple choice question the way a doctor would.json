@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Which of the following is non-competitive inhibitor of intestinal alkaline phosphatase?\n1: L-Alanine\n2: L-Tyrosine\n3: L-Tryptophan\n4: L-Phenylalanine",
+    "solution": 4,
+    "gpt_response": "As a doctor, I would approach this question by first understanding the concept of competitive and non-competitive inhibitors in enzyme inhibition. \n\nCompetitive inhibitors bind to the active site of the enzyme, competing with the substrate for binding, while non-competitive inhibitors bind to a different site on the enzyme and prevent the enzyme-substrate complex from forming. \n\nIn this case, we are looking for a non-competitive inhibitor of intestinal alkaline phosphatase. To determine the correct answer, I would need to evaluate each of the options and determine if any of them fit the criteria of a non-competitive inhibitor. \n\nBased on my knowledge of biochemistry, I know that L-Tryptophan is a non-competitive inhibitor of intestinal alkaline phosphatase. Therefore, my answer would be 3: L-Tryptophan.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 4?: As a doctor, I would approach this question by first understanding the concept of competitive and non-competitive inhibitors in enzyme inhibition. \n\nCompetitive inhibitors bind to the active site of the enzyme, competing with the substrate for binding, while non-competitive inhibitors bind to a different site on the enzyme and prevent the enzyme-substrate complex from forming. \n\nIn this case, we are looking for a non-competitive inhibitor of intestinal alkaline phosphatase. To determine the correct answer, I would need to evaluate each of the options and determine if any of them fit the criteria of a non-competitive inhibitor. \n\nBased on my knowledge of biochemistry, I know that L-Tryptophan is a non-competitive inhibitor of intestinal alkaline phosphatase. Therefore, my answer would be 3: L-Tryptophan.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. The inverse of -i in the multiplicative group, {1, -1, i , -i} is\nA: 1\nB: -1\nC: i\nD: -i",
+    "solution": "C",
+    "gpt_response": "The multiplicative group {1, -1, i, -i} is a group under multiplication, where each element is its own multiplicative inverse. Therefore, the inverse of -i in this group is -i. So the correct answer is D: -i.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to C?: The multiplicative group {1, -1, i, -i} is a group under multiplication, where each element is its own multiplicative inverse. Therefore, the inverse of -i in this group is -i. So the correct answer is D: -i.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

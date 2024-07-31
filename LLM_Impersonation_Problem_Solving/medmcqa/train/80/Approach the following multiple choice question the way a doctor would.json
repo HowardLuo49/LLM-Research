@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Which of the following muscle is not a hybrid muscle\n1: Pectoralis major\n2: Extensor digitorum\n3: Flexor digitorum profundus\n4: Brachialis",
+    "solution": 2,
+    "gpt_response": "To determine which muscle is not a hybrid muscle, we must first understand what a hybrid muscle is. A hybrid muscle is a muscle that exhibits characteristics of both fast-twitch (Type II) and slow-twitch (Type I) muscle fibers.\n\n1. Pectoralis major: This muscle is primarily a fast-twitch muscle with some slow-twitch characteristics, making it a hybrid muscle.\n\n2. Extensor digitorum: This muscle is primarily a fast-twitch muscle, making it a non-hybrid muscle.\n\n3. Flexor digitorum profundus: This muscle is primarily a fast-twitch muscle, making it a non-hybrid muscle.\n\n4. Brachialis: This muscle is primarily a slow-twitch muscle with some fast-twitch characteristics, making it a hybrid muscle.\n\nTherefore, the muscle that is not a hybrid muscle is the Extensor digitorum.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: To determine which muscle is not a hybrid muscle, we must first understand what a hybrid muscle is. A hybrid muscle is a muscle that exhibits characteristics of both fast-twitch (Type II) and slow-twitch (Type I) muscle fibers.\n\n1. Pectoralis major: This muscle is primarily a fast-twitch muscle with some slow-twitch characteristics, making it a hybrid muscle.\n\n2. Extensor digitorum: This muscle is primarily a fast-twitch muscle, making it a non-hybrid muscle.\n\n3. Flexor digitorum profundus: This muscle is primarily a fast-twitch muscle, making it a non-hybrid muscle.\n\n4. Brachialis: This muscle is primarily a slow-twitch muscle with some fast-twitch characteristics, making it a hybrid muscle.\n\nTherefore, the muscle that is not a hybrid muscle is the Extensor digitorum.",
+    "gpt_response_correct_incorrect": "No. The final solution obtained in the response is 2, which is \"Extensor digitorum\". So, the answer is yes.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

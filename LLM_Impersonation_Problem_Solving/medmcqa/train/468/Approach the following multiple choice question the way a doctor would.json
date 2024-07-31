@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Which of the following endocrine tumors is most commonly seen in MEN I ?\n1: Insulinoma\n2: Gastrinoma\n3: Glucagonoma\n4: Somatotrophinoma",
+    "solution": 2,
+    "gpt_response": "As a doctor, when considering endocrine tumors most commonly seen in MEN I, I would prioritize the options based on their relevance to this specific condition. In MEN I, patients typically develop tumors involving the parathyroid glands, pancreas, and pituitary gland. \n\nBased on this information, the most commonly seen endocrine tumor in MEN I is typically a pancreatic neuroendocrine tumor, such as a gastrinoma. Therefore, the correct answer would be:\n\n2: Gastrinoma",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: As a doctor, when considering endocrine tumors most commonly seen in MEN I, I would prioritize the options based on their relevance to this specific condition. In MEN I, patients typically develop tumors involving the parathyroid glands, pancreas, and pituitary gland. \n\nBased on this information, the most commonly seen endocrine tumor in MEN I is typically a pancreatic neuroendocrine tumor, such as a gastrinoma. Therefore, the correct answer would be:\n\n2: Gastrinoma",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

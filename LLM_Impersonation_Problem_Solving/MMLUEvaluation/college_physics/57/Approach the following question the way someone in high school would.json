@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. If the absolute temperature of a blackbody is increased by a factor of 3, the energy radiated per second per unit area does which of the following?\nA: Decreases by a factor of 81.\nB: Decreases by a factor of 9.\nC: Increases by a factor of 9.\nD: Increases by a factor of 81.",
+    "solution": "D",
+    "gpt_response": "So, if the absolute temperature of a blackbody is increased by a factor of 3, that means the temperature is tripled. Since the energy radiated by a blackbody is proportional to the fourth power of its temperature (Stefan-Boltzmann law), when the temperature is tripled (3^4 = 81), the energy radiated per second per unit area would increase by a factor of 81. So the correct answer is option D: Increases by a factor of 81.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: So, if the absolute temperature of a blackbody is increased by a factor of 3, that means the temperature is tripled. Since the energy radiated by a blackbody is proportional to the fourth power of its temperature (Stefan-Boltzmann law), when the temperature is tripled (3^4 = 81), the energy radiated per second per unit area would increase by a factor of 81. So the correct answer is option D: Increases by a factor of 81.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "9",
+    "difficulty_value": "9"
+}

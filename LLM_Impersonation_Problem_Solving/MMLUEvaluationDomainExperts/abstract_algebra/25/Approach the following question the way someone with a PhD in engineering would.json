@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in engineering would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in engineering would. Let G denoted the set of all n x n non-singular matrices with rational numbers as entries. Then under multiplication G is a/an\nA: subgroup\nB: finite abelian group\nC: infinite, non abelian group\nD: ininite, abelian",
+    "solution": "C",
+    "gpt_response": "The set G of all n x n non-singular matrices with rational numbers as entries can be considered as a subset of the general linear group GL(n, Q). This set G is closed under multiplication since the product of two non-singular matrices is also non-singular, hence G forms a subgroup of GL(n, Q).\n\nTherefore, the correct answer is:\n\nA: subgroup",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to C?: The set G of all n x n non-singular matrices with rational numbers as entries can be considered as a subset of the general linear group GL(n, Q). This set G is closed under multiplication since the product of two non-singular matrices is also non-singular, hence G forms a subgroup of GL(n, Q).\n\nTherefore, the correct answer is:\n\nA: subgroup",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "A: 8",
+    "difficulty_value": "8"
+}

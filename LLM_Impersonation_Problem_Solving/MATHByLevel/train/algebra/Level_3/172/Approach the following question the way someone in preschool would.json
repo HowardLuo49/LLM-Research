@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. How many distinct $x$-intercepts does the graph of $y = (x-5)(x^2+5x+6)$ have?",
+    "solution": "An $x$-intercept occurs when $y=0$.  So, the $x$-intercepts are the solutions to the equation $0 = (x-5)(x^2+5x+6)$.  From this equation, we see that solutions occur when $x-5=0$ and when $x^2+5x+6=0$.  Now, $x^2+5x+6$ factors to $(x+3)(x+2)$.  So, the solutions are $5, -2, -3$, which comes to $\\boxed{3}$ intercepts.",
+    "gpt_response": "To find the $x$-intercepts, we need to see where the graph of the equation touches or crosses the x-axis. \n\nFirst, we can factor the equation $y = (x-5)(x^2+5x+6)$ into $y = (x-5)(x+2)(x+3)$. \n\nThis means that the x-intercepts occur when $x-5=0$, $x+2=0$, or $x+3=0$. \n\nWhen $x-5=0$, we get $x=5$. This is one distinct $x$-intercept. \n\nWhen $x+2=0$, we get $x=-2$. This is another distinct $x$-intercept. \n\nWhen $x+3=0$, we get $x=-3$. This is also another distinct $x$-intercept. \n\nSo, the graph of the equation $y = (x-5)(x^2+5x+6)$ has three distinct $x$-intercepts.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 3?: To find the $x$-intercepts, we need to see where the graph of the equation touches or crosses the x-axis. \n\nFirst, we can factor the equation $y = (x-5)(x^2+5x+6)$ into $y = (x-5)(x+2)(x+3)$. \n\nThis means that the x-intercepts occur when $x-5=0$, $x+2=0$, or $x+3=0$. \n\nWhen $x-5=0$, we get $x=5$. This is one distinct $x$-intercept. \n\nWhen $x+2=0$, we get $x=-2$. This is another distinct $x$-intercept. \n\nWhen $x+3=0$, we get $x=-3$. This is also another distinct $x$-intercept. \n\nSo, the graph of the equation $y = (x-5)(x^2+5x+6)$ has three distinct $x$-intercepts.",
+    "gpt_response_correct_incorrect": "No",
+    "yes_no": "no"
+}

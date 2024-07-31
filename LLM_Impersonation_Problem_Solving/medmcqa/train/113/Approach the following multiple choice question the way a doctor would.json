@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Which of the following condition is necessary prerequisite for this change?\n1: Rupture of membranes\n2: Scanty liquor amnii\n3: Adequate liquor amnii\n4: Air inside the uterine cavity",
+    "solution": 3,
+    "gpt_response": "As a doctor, I would approach this question by considering the physiological aspects of pregnancy and labor. In order for the change to occur, it is necessary for the membranes to rupture, allowing for the amniotic fluid to flow out. This suggests option 1: Rupture of membranes is the necessary prerequisite for this change. Option 2 (Scanty liquor amnii) may indicate a potential issue with the amount of amniotic fluid present, but it is not a necessary prerequisite for the change. Option 3 (Adequate liquor amnii) would be ideal for a healthy pregnancy, but it is not a specific prerequisite for this change. Option 4 (Air inside the uterine cavity) is not typically part of the normal labor process and would not be a prerequisite for this change.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: As a doctor, I would approach this question by considering the physiological aspects of pregnancy and labor. In order for the change to occur, it is necessary for the membranes to rupture, allowing for the amniotic fluid to flow out. This suggests option 1: Rupture of membranes is the necessary prerequisite for this change. Option 2 (Scanty liquor amnii) may indicate a potential issue with the amount of amniotic fluid present, but it is not a necessary prerequisite for the change. Option 3 (Adequate liquor amnii) would be ideal for a healthy pregnancy, but it is not a specific prerequisite for this change. Option 4 (Air inside the uterine cavity) is not typically part of the normal labor process and would not be a prerequisite for this change.",
+    "gpt_response_correct_incorrect": "No. The final solution obtained in the response is option 1: Rupture of membranes is the necessary prerequisite for this change.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

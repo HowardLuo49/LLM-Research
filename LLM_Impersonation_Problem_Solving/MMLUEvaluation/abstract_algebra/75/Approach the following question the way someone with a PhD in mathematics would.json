@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. Statement 1 | In a group (ab)^{-2} = b^{-2}a^{-2}. Statement 2 | In a group (ab)^n = a^nb^n.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "B",
+    "gpt_response": "The first statement is true in a group since the order of elements within a group does not affect the result of the operation. This is a property of groups known as the commutative property of multiplication. The second statement is false in general for groups, as the order of elements does matter in exponentiation operations within groups. Therefore, the answer is: C: True, False.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to B?: The first statement is true in a group since the order of elements within a group does not affect the result of the operation. This is a property of groups known as the commutative property of multiplication. The second statement is false in general for groups, as the order of elements does matter in exponentiation operations within groups. Therefore, the answer is: C: True, False.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

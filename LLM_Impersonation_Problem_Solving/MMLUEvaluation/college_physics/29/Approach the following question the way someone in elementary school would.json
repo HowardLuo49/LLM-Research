@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. A magnetic field is directed perpendicular to the plane of a circular coil of area 0.2 m^2 and 250 turns. If the magnetic field is increased from 0.01 T to 0.06 T during a time interval of 0.25 s, the average induced EMF in the coil is\nA: 0.04 V\nB: 0.1 V\nC: 2.5 V\nD: 10 V",
+    "solution": "D",
+    "gpt_response": "Okay, so we have a question about a magnetic field and a coil. The magnetic field is going up and down through the coil, which is like a circle. The coil has a size of 0.2 square meters and has 250 turns around it. The magnetic field is getting stronger from 0.01 Tesla to 0.06 Tesla in 0.25 seconds.\n\nTo find the average induced EMF in the coil, we need to do some math. First, we need to find the change in magnetic field. The change in magnetic field is 0.06 Tesla - 0.01 Tesla, which equals 0.05 Tesla.\n\nThen, we need to find the average EMF. The formula for average EMF is change in magnetic field multiplied by the area of the coil multiplied by the number of turns in the coil, all divided by the time interval. So, average EMF = (0.05 Tesla * 0.2 m^2 * 250 turns) / 0.25 s.\n\nNow, we can do the math. (0.05 * 0.2 * 250) / 0.25 = 0.1 V. \n\nSo, the correct answer is B: 0.1 V.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: Okay, so we have a question about a magnetic field and a coil. The magnetic field is going up and down through the coil, which is like a circle. The coil has a size of 0.2 square meters and has 250 turns around it. The magnetic field is getting stronger from 0.01 Tesla to 0.06 Tesla in 0.25 seconds.\n\nTo find the average induced EMF in the coil, we need to do some math. First, we need to find the change in magnetic field. The change in magnetic field is 0.06 Tesla - 0.01 Tesla, which equals 0.05 Tesla.\n\nThen, we need to find the average EMF. The formula for average EMF is change in magnetic field multiplied by the area of the coil multiplied by the number of turns in the coil, all divided by the time interval. So, average EMF = (0.05 Tesla * 0.2 m^2 * 250 turns) / 0.25 s.\n\nNow, we can do the math. (0.05 * 0.2 * 250) / 0.25 = 0.1 V. \n\nSo, the correct answer is B: 0.1 V.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

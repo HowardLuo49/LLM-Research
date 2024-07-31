@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. What is the sum of the proper divisors of 256?",
+    "solution": "Since $256=2^8$ the divisors of $256$ are the powers of 2 up to $2^8$. So the sum of the proper factors of 256 is $2^0+2^1+2^2+2^3+2^4+2^5+2^6+2^7=\\boxed{255}$.",
+    "gpt_response": "Proper divisors are like friends that can help you share a number. The number 256 has friends like 1, 2, 4, 8, 16, 32, 64, and 128. Let's invite all these friends to a party and add them up. So, 1 + 2 + 4 + 8 + 16 + 32 + 64 + 128 equals... drumroll please... 255! Yay, we added all the proper divisors of 256 and got the sum!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 255?: Proper divisors are like friends that can help you share a number. The number 256 has friends like 1, 2, 4, 8, 16, 32, 64, and 128. Let's invite all these friends to a party and add them up. So, 1 + 2 + 4 + 8 + 16 + 32 + 64 + 128 equals... drumroll please... 255! Yay, we added all the proper divisors of 256 and got the sum!",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "9",
+    "difficulty_value": "9"
+}

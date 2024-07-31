@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. In how many ways can 6 distinct beads be placed on a bracelet? (Note that two arrangements are the same if one can be rotated or reflected to produce the other.)",
+    "solution": "There are $6!$ ways to place the beads on the bracelet, but we must divide by 6 for rotational symmetry (6 rotations for each arrangement), and by 2 for reflectional symmetry (we can flip the bracelet to get the same arrangement).  The answer is $\\dfrac{6!}{6 \\times 2} = \\boxed{60}$.",
+    "gpt_response": "Let's count all the ways we can put the beads on the bracelet! We can move them around and flip them over, but if they end up looking the same, we only count it as one way. Let's try to see how many different ways there are. One, two, three, four, five, six! There are six different ways to put the beads on the bracelet! Yay!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 60?: Let's count all the ways we can put the beads on the bracelet! We can move them around and flip them over, but if they end up looking the same, we only count it as one way. Let's try to see how many different ways there are. One, two, three, four, five, six! There are six different ways to put the beads on the bracelet! Yay!",
+    "gpt_response_correct_incorrect": "No",
+    "yes_no": "no"
+}

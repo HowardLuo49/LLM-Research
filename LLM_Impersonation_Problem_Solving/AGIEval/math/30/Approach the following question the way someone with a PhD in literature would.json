@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in literature would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in literature would. Theo has one sphere with radius 5; Akshaj has two spheres with radius 2.  What is the ratio of the surface area of Theo's sphere to the total surface area of Akshaj's spheres?",
+    "solution": "\\frac{25}{8}",
+    "gpt_response": "In analyzing this problem, we must first understand the formula for finding the surface area of a sphere, which is given by A=4\u03c0r^2, where A is the surface area and r is the radius of the sphere. \n\nTherefore, the surface area of Theo's sphere can be calculated as A_theo = 4\u03c0(5)^2 = 100\u03c0.\n\nSimilarly, the surface area of one of Akshaj's spheres can be calculated as A_akshaj = 4\u03c0(2)^2 = 16\u03c0. Since Akshaj has two spheres, the total surface area of his spheres is 2A_akshaj = 32\u03c0.\n\nTo find the ratio of the surface area of Theo's sphere to the total surface area of Akshaj's spheres, we divide A_theo by the total surface area of Akshaj's spheres:\n\nRatio = A_theo / (2A_akshaj) = 100\u03c0 / (32\u03c0) = 25 / 8.\n\nTherefore, the ratio of the surface area of Theo's sphere to the total surface area of Akshaj's spheres is 25:8.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response \\frac{25}{8}?: In analyzing this problem, we must first understand the formula for finding the surface area of a sphere, which is given by A=4\u03c0r^2, where A is the surface area and r is the radius of the sphere. \n\nTherefore, the surface area of Theo's sphere can be calculated as A_theo = 4\u03c0(5)^2 = 100\u03c0.\n\nSimilarly, the surface area of one of Akshaj's spheres can be calculated as A_akshaj = 4\u03c0(2)^2 = 16\u03c0. Since Akshaj has two spheres, the total surface area of his spheres is 2A_akshaj = 32\u03c0.\n\nTo find the ratio of the surface area of Theo's sphere to the total surface area of Akshaj's spheres, we divide A_theo by the total surface area of Akshaj's spheres:\n\nRatio = A_theo / (2A_akshaj) = 100\u03c0 / (32\u03c0) = 25 / 8.\n\nTherefore, the ratio of the surface area of Theo's sphere to the total surface area of Akshaj's spheres is 25:8.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

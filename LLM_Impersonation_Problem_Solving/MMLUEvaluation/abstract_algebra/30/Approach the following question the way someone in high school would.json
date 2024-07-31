@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Statement 1 | If H is a subgroup of a group G and a belongs to G, then aH = Ha. Statement 2 | If H is normal of G and a belongs to G, then ah = ha for all h in H.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "B",
+    "gpt_response": "Hmm, I remember learning about subgroups and normal subgroups in my high school math class. So statement 1 is saying that if H is a subgroup of G and a belongs to G, then aH is the same as Ha. And statement 2 is saying that if H is a normal subgroup of G, then ah is equal to ha for all h in H. I think statement 1 is true because in a group, left cosets are the same as right cosets. And statement 2 is also true because in a normal subgroup, the left and right cosets are the same. So, I would say the answer is A: True, True.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to B?: Hmm, I remember learning about subgroups and normal subgroups in my high school math class. So statement 1 is saying that if H is a subgroup of G and a belongs to G, then aH is the same as Ha. And statement 2 is saying that if H is a normal subgroup of G, then ah is equal to ha for all h in H. I think statement 1 is true because in a group, left cosets are the same as right cosets. And statement 2 is also true because in a normal subgroup, the left and right cosets are the same. So, I would say the answer is A: True, True.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "5",
+    "difficulty_value": "5"
+}

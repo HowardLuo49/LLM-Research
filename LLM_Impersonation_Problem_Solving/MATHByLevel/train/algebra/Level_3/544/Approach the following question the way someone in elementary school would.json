@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. In solving the system of equations $y = 7$ and $x^2+ y^2= 100,$ what is the sum of the solutions for $x?$",
+    "solution": "$y = 7$ represents a horizontal line that intersects a circle of radius $10$ around the origin. The symmetry of the circle guarantees that the points of intersection have a sum which add up to $0.$\n\nAlternatively, we can simply substitute $7$ into the second equation for $y,$ to get that $x^2 = 51.$ Then, the two possible values for $x$ are $\\sqrt{51},-\\sqrt{51}.$ It's clear that they add up to $\\boxed{0}.$",
+    "gpt_response": "Okay, so first we know that $y = 7.$ That means $y$ is 7. \n\nNow we have the equation $x^2 + y^2 = 100.$ Since $y = 7,$ we can plug that in to get $x^2 + 7^2 = 100.$ That simplifies to $x^2 + 49 = 100.$\n\nNext, we can subtract 49 from both sides to get $x^2 = 51.$ That means $x$ could be both positive and negative  \u221a51.\n\nTo find the sum of the solutions for $x$, we add the two possible values: \u221a51 + (-\u221a51)= 0.\n\nTherefore, the sum of the solutions for $x$ is 0.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 0?: Okay, so first we know that $y = 7.$ That means $y$ is 7. \n\nNow we have the equation $x^2 + y^2 = 100.$ Since $y = 7,$ we can plug that in to get $x^2 + 7^2 = 100.$ That simplifies to $x^2 + 49 = 100.$\n\nNext, we can subtract 49 from both sides to get $x^2 = 51.$ That means $x$ could be both positive and negative  \u221a51.\n\nTo find the sum of the solutions for $x$, we add the two possible values: \u221a51 + (-\u221a51)= 0.\n\nTherefore, the sum of the solutions for $x$ is 0.",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

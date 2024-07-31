@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Unpolarized light is incident on a pair of ideal linear polarizers whose transmission axes make an angle of 45q with each other. The transmitted light intensity through both polarizers is what percentage of the incident intensity?\nA: 100%\nB: 75%\nC: 50%\nD: 25%",
+    "solution": "D",
+    "gpt_response": "Wow, okay, so unpolarized light is like a bunch of spaghetti noodles all jumbled together. When it goes through the first polarizer, it becomes like organized noodles all going in one direction. Then when it goes through the second polarizer at an angle, it can still go through because some of the noodles are still lined up with the second polarizer. So, I think the transmitted light intensity through both polarizers would be like almost all of the incident intensity, maybe 100%? Yay, we did it! 100%! A!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: Wow, okay, so unpolarized light is like a bunch of spaghetti noodles all jumbled together. When it goes through the first polarizer, it becomes like organized noodles all going in one direction. Then when it goes through the second polarizer at an angle, it can still go through because some of the noodles are still lined up with the second polarizer. So, I think the transmitted light intensity through both polarizers would be like almost all of the incident intensity, maybe 100%? Yay, we did it! 100%! A!",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "5",
+    "difficulty_value": "5"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. How many numbers from $1$ to $150$ are not perfect squares or perfect cubes?",
+    "solution": "The largest perfect square less than $150$ is $12^2=144$. Therefore, there are $12$ perfect squares between $1$ and $150$.\n\nThe largest perfect cube less than $150$ is $5^3=125$. Therefore, there are $5$ perfect cubes between $1$ and $150$.\n\nHowever, there are numbers between $1$ and $150$ that are both perfect squares and perfect cubes. For a number to be both a perfect square and perfect cube, it must be a 6th power. The largest sixth power less than $150$ is $2^6=64$. Therefore, there are $2$ sixth powers between $1$ and $150$. Those two numbers are counted twice, so we have to subtract $2$ from the number of numbers that are a perfect square or perfect cube.\n\nTherefore, there are $12+5-2=15$ numbers that are either a perfect square or perfect cube. Therefore, there are $150-15= \\boxed{135}$ numbers that are neither a perfect square or a perfect cube.",
+    "gpt_response": "Let's count together! We start with the number $1$. It is both a perfect square and a perfect cube, so it is not what we are looking for. Next, we have $2, 3, 5, 6, 7, 10, 11, 13, 14, 15, 17, 19,$ and so on. We keep going until we reach $150$. Let's count the numbers together, one by one, and find out how many of them are not perfect squares or perfect cubes.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 135?: Let's count together! We start with the number $1$. It is both a perfect square and a perfect cube, so it is not what we are looking for. Next, we have $2, 3, 5, 6, 7, 10, 11, 13, 14, 15, 17, 19,$ and so on. We keep going until we reach $150$. Let's count the numbers together, one by one, and find out how many of them are not perfect squares or perfect cubes.",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

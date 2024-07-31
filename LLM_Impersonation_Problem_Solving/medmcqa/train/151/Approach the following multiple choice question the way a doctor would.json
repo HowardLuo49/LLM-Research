@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. To feel comfoable and cool in a factory the conrrected effective temperature ( in degree Farenheit) should be -\n1: Less tha 69\n2: Between 69 and 76\n3: Between 77 and 80\n4: Between 81 and 82",
+    "solution": 2,
+    "gpt_response": "As a doctor, it is important to consider the comfort and well-being of individuals working in a factory setting. In order to provide optimal conditions for employees, the correct effective temperature should be between 69 and 76 degrees Fahrenheit. This range helps to ensure that individuals are neither too hot nor too cold, allowing them to work efficiently and comfortably. It is important to monitor and adjust the temperature as needed to maintain a safe and healthy work environment.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: As a doctor, it is important to consider the comfort and well-being of individuals working in a factory setting. In order to provide optimal conditions for employees, the correct effective temperature should be between 69 and 76 degrees Fahrenheit. This range helps to ensure that individuals are neither too hot nor too cold, allowing them to work efficiently and comfortably. It is important to monitor and adjust the temperature as needed to maintain a safe and healthy work environment.",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

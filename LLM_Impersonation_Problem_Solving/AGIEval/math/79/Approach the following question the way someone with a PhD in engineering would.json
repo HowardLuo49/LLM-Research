@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in engineering would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in engineering would. Simplify\n\\[\\frac{\\cos x}{1 - \\sin x} - \\frac{\\cos x}{1 + \\sin x}.\\]",
+    "solution": "2 \\tan x",
+    "gpt_response": "To simplify the expression given, we first combine the terms together:\n\n\\[\\frac{\\cos x}{1 - \\sin x} - \\frac{\\cos x}{1 + \\sin x} = \\frac{(1+\\sin x)\\cos x - (1-\\sin x)\\cos x}{(1-\\sin x)(1+\\sin x)}.\\]\n\nNow simplify the numerator in the fraction:\n\n\\[\\frac{(1+\\sin x)\\cos x - (1-\\sin x)\\cos x}{(1-\\sin x)(1+\\sin x)} = \\frac{\\cos x + \\sin x \\cos x - \\cos x + \\sin x \\cos x}{1 - \\sin^2 x}.\\]\n\nFurther simplify the expression:\n\n\\[\\frac{\\cos x + \\sin x \\cos x - \\cos x + \\sin x \\cos x}{1 - \\sin^2 x} = \\frac{2\\sin x \\cos x}{\\cos^2 x} = 2\\tan x.\\]\n\nTherefore, the simplified expression is \\(2\\tan x\\).",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 2 \\tan x?: To simplify the expression given, we first combine the terms together:\n\n\\[\\frac{\\cos x}{1 - \\sin x} - \\frac{\\cos x}{1 + \\sin x} = \\frac{(1+\\sin x)\\cos x - (1-\\sin x)\\cos x}{(1-\\sin x)(1+\\sin x)}.\\]\n\nNow simplify the numerator in the fraction:\n\n\\[\\frac{(1+\\sin x)\\cos x - (1-\\sin x)\\cos x}{(1-\\sin x)(1+\\sin x)} = \\frac{\\cos x + \\sin x \\cos x - \\cos x + \\sin x \\cos x}{1 - \\sin^2 x}.\\]\n\nFurther simplify the expression:\n\n\\[\\frac{\\cos x + \\sin x \\cos x - \\cos x + \\sin x \\cos x}{1 - \\sin^2 x} = \\frac{2\\sin x \\cos x}{\\cos^2 x} = 2\\tan x.\\]\n\nTherefore, the simplified expression is \\(2\\tan x\\).",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

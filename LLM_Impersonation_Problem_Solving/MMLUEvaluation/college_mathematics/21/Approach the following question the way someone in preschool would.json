@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. For how many positive integers k does the ordinary decimal representation of the integer k! end in exactly 99 zeros?\nA: None\nB: One\nC: Four\nD: Five",
+    "solution": "D",
+    "gpt_response": "Hmm let's count on our fingers! So if we have 5 zeros, that means there are 5 factors of 10 in k!. And since each factor of 10 comes from pairs of factors of 2 and 5, we need to count how many factors of 5 are in k!. Let's count... 5, 10, 15, 20, 25, 30... oh no we only have 2 factors of 5! So I think the answer is A: None!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: Hmm let's count on our fingers! So if we have 5 zeros, that means there are 5 factors of 10 in k!. And since each factor of 10 comes from pairs of factors of 2 and 5, we need to count how many factors of 5 are in k!. Let's count... 5, 10, 15, 20, 25, 30... oh no we only have 2 factors of 5! So I think the answer is A: None!",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "D: Five",
+    "difficulty_value": "5"
+}

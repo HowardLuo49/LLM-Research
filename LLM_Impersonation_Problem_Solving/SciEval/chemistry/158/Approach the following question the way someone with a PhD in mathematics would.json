@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. What is the molecular weight of CC(C)C(CCN)C1=NSC=N1?\nAnswer (numerical number):",
+    "solution": [
+        "185.29"
+    ],
+    "gpt_response": "The molecular weight of CC(C)C(CCN)C1=NSC=N1 is 284.44 g/mol. \n\nThis can be calculated by adding up the atomic weights of each element in the compound. The molecular formula can be parsed as follows: \n\n- The molecular weight of a single carbon atom (C) is 12.01 g/mol\n- The molecular weight of a single nitrogen atom (N) is 14.01 g/mol\n- The molecular weight of a single sulfur atom (S) is 32.07 g/mol\n- The molecular weight of a single hydrogen atom (H) is 1.01 g/mol\n\nAdding up the molecular weights of each atom:\n- Total molecular weight = 4(C) + 6(H) + 1(S) + 1(N)\n\nTotal molecular weight = (4 x 12.01) + (6 x 1.01) + 32.07 + 14.01\nTotal molecular weight = 48.04 + 6.06 + 32.07 + 14.01\nTotal molecular weight = 284.44 g/mol\n\nTherefore, the molecular weight of CC(C)C(CCN)C1=NSC=N1 is 284.44 g/mol.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response ['185.29']?: The molecular weight of CC(C)C(CCN)C1=NSC=N1 is 284.44 g/mol. \n\nThis can be calculated by adding up the atomic weights of each element in the compound. The molecular formula can be parsed as follows: \n\n- The molecular weight of a single carbon atom (C) is 12.01 g/mol\n- The molecular weight of a single nitrogen atom (N) is 14.01 g/mol\n- The molecular weight of a single sulfur atom (S) is 32.07 g/mol\n- The molecular weight of a single hydrogen atom (H) is 1.01 g/mol\n\nAdding up the molecular weights of each atom:\n- Total molecular weight = 4(C) + 6(H) + 1(S) + 1(N)\n\nTotal molecular weight = (4 x 12.01) + (6 x 1.01) + 32.07 + 14.01\nTotal molecular weight = 48.04 + 6.06 + 32.07 + 14.01\nTotal molecular weight = 284.44 g/mol\n\nTherefore, the molecular weight of CC(C)C(CCN)C1=NSC=N1 is 284.44 g/mol.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

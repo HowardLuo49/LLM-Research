@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Pearsonian measure of skewness -\n1: Mode - Mean/ SD\n2: Mean - Mode/ SD\n3: SD/Mode - mean\n4: Mean - Mode/ SD",
+    "solution": 2,
+    "gpt_response": "The correct answer is: 1: Mode - Mean/ SD\n\nAs a physician, I would understand skewness as the measure of asymmetry in a distribution. The Pearsonian measure of skewness is calculated by subtracting the mean from the mode and dividing by the standard deviation. This formula helps us understand how the data is distributed and can provide insights into the shape of the distribution.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: The correct answer is: 1: Mode - Mean/ SD\n\nAs a physician, I would understand skewness as the measure of asymmetry in a distribution. The Pearsonian measure of skewness is calculated by subtracting the mean from the mode and dividing by the standard deviation. This formula helps us understand how the data is distributed and can provide insights into the shape of the distribution.",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

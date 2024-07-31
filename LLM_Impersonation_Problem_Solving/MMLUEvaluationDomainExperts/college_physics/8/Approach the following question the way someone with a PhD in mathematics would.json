@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. De Broglie hypothesized that the linear momentum and wavelength of a free massive particle are related by which of the following constants?\nA: Planck\u2019s constant\nB: Boltzmann\u2019s constant\nC: The Rydberg constant\nD: The speed of light",
+    "solution": "A",
+    "gpt_response": "As a PhD in mathematics, I would approach this question by first recalling the concept of de Broglie's hypothesis, which states that every particle or object exhibits both particle-like and wave-like properties. This hypothesis suggests that the linear momentum (p) of a particle is inversely proportional to its wavelength (\u03bb), with the constant of proportionality being known as the de Broglie wavelength constant.\n\nIn this case, the de Broglie wavelength constant is related to Planck's constant (h), which is denoted by option A in the provided choices. Therefore, the correct answer to the question is A: Planck's constant.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to A?: As a PhD in mathematics, I would approach this question by first recalling the concept of de Broglie's hypothesis, which states that every particle or object exhibits both particle-like and wave-like properties. This hypothesis suggests that the linear momentum (p) of a particle is inversely proportional to its wavelength (\u03bb), with the constant of proportionality being known as the de Broglie wavelength constant.\n\nIn this case, the de Broglie wavelength constant is related to Planck's constant (h), which is denoted by option A in the provided choices. Therefore, the correct answer to the question is A: Planck's constant.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

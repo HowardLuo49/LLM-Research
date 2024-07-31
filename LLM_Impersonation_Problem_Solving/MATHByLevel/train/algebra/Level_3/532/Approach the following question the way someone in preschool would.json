@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. What is the discriminant of $3x^2 - 7x - 12$?",
+    "solution": "We simply plug into $b^2 - 4ac = (-7)^2 - 4(3)(-12) = 49 + 144 = \\boxed{193},$ and that is our answer.",
+    "gpt_response": "The discriminant is a math thing that helps us figure out how many solutions a quadratic equation has. To find it, we use a secret formula: $b^2 - 4ac$. In our equation $3x^2 - 7x - 12$, the values of $a$, $b$, and $c$ are like special friends. So let's put those values into the formula and see what we get! It's like a fun math puzzle.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 193?: The discriminant is a math thing that helps us figure out how many solutions a quadratic equation has. To find it, we use a secret formula: $b^2 - 4ac$. In our equation $3x^2 - 7x - 12$, the values of $a$, $b$, and $c$ are like special friends. So let's put those values into the formula and see what we get! It's like a fun math puzzle.",
+    "gpt_response_correct_incorrect": "No",
+    "yes_no": "no"
+}

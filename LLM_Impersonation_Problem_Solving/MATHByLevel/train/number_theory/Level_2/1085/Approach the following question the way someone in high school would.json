@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. A number $n$ has $3$ divisors. How many divisors does $n^2$ have?",
+    "solution": "If $n$ has $3$ divisors, since it is divisible by both $1$ and $n$, the only possibility for a third unique divisor is $\\sqrt{n}$, which must be prime. Therefore, $n$ is the square of a prime number. As a result, $n^2$ is the fourth power of a prime. Let $n^2 = p^4$ for the prime $p$. There are $\\boxed{5}$ divisors of $p^4$, namely $p^0$, $p^1$, $p^2$, $p^3$, and $p^4$.",
+    "gpt_response": "Let's break this down step by step. First, let's figure out which numbers have exactly $3$ divisors.\n\nA number with exactly $3$ divisors must be a prime number, because a prime number only has $2$ divisors (itself and $1$), and $1$ and the number itself are $2$ divisors. So, if $n$ has exactly $3$ divisors, then $n$ must be a prime number.\n\nNow, let's figure out how many divisors $n^2$ has. Since $n$ is a prime number, $n^2$ is the square of a prime number. Any square of a prime number has a total of $3 \\cdot 2 = 6$ divisors.\n\nTherefore, if $n$ has $3$ divisors, then $n^2$ has $6$ divisors.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 5?: Let's break this down step by step. First, let's figure out which numbers have exactly $3$ divisors.\n\nA number with exactly $3$ divisors must be a prime number, because a prime number only has $2$ divisors (itself and $1$), and $1$ and the number itself are $2$ divisors. So, if $n$ has exactly $3$ divisors, then $n$ must be a prime number.\n\nNow, let's figure out how many divisors $n^2$ has. Since $n$ is a prime number, $n^2$ is the square of a prime number. Any square of a prime number has a total of $3 \\cdot 2 = 6$ divisors.\n\nTherefore, if $n$ has $3$ divisors, then $n^2$ has $6$ divisors.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

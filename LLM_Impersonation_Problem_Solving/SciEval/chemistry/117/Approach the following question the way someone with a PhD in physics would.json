@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in physics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in physics would. What is the SMILES expression of C5H11NO3S?\nAnswer:",
+    "solution": [
+        "C1CS(=O)(=O)CC1CNO"
+    ],
+    "gpt_response": "The SMILES expression of C5H11NO3S is CC(C)(C)C(N)S(=O)(=O)O. This represents the chemical structure of the compound in a simplified and standardized format for use in computational chemistry and chemical informatics.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response ['C1CS(=O)(=O)CC1CNO']?: The SMILES expression of C5H11NO3S is CC(C)(C)C(N)S(=O)(=O)O. This represents the chemical structure of the compound in a simplified and standardized format for use in computational chemistry and chemical informatics.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

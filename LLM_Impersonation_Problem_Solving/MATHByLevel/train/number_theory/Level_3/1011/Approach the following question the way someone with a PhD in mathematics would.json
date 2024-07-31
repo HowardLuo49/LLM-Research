@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. Let $n$ be a positive integer and $a,b$ be invertible integers modulo $n$ such that $a\\equiv b^{-1}\\pmod n$. What is the remainder when $ab$ is divided by $n$?",
+    "solution": "Since $a\\equiv b^{-1}\\pmod n$, \\[ab\\equiv b^{-1}b\\equiv \\boxed{1}\\pmod n.\\]",
+    "gpt_response": "We have $a \\equiv b^{-1} \\pmod n$, which means $ab \\equiv 1 \\pmod n$. Therefore, the remainder when $ab$ is divided by $n$ is 1.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 1?: We have $a \\equiv b^{-1} \\pmod n$, which means $ab \\equiv 1 \\pmod n$. Therefore, the remainder when $ab$ is divided by $n$ is 1.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

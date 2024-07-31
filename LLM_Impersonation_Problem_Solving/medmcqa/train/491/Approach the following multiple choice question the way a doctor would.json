@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. A four-fold increase in the titre obtained in Weil- Felix reaction is diagnostic of -\n1: Rickettsial infection\n2: Fungal infection\n3: Spirochetal infection\n4: Viral infection",
+    "solution": 1,
+    "gpt_response": "As a doctor, when presented with a four-fold increase in titre obtained in Weil-Felix reaction, I would consider this result as diagnostic of a spirochetal infection. This is because the Weil-Felix reaction is commonly used to diagnose certain rickettsial infections, particularly those caused by species of the genus Rickettsia which are spirochetal bacteria. Therefore, a four-fold increase in titre indicates a significant rise in antibody levels against the specific spirochetal pathogen, confirming the presence of a spirochetal infection.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: As a doctor, when presented with a four-fold increase in titre obtained in Weil-Felix reaction, I would consider this result as diagnostic of a spirochetal infection. This is because the Weil-Felix reaction is commonly used to diagnose certain rickettsial infections, particularly those caused by species of the genus Rickettsia which are spirochetal bacteria. Therefore, a four-fold increase in titre indicates a significant rise in antibody levels against the specific spirochetal pathogen, confirming the presence of a spirochetal infection.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

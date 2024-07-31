@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. Which of the following agents is most commonly associated with recurrent meningitis due to CSF leaks?\n1: Meningococci\n2: Pneumococci\n3: Hemophilus Influenza\n4: E. Coli",
+    "solution": 2,
+    "gpt_response": "2: Pneumococci\n\nPneumococci are the most commonly associated agent with recurrent meningitis due to cerebrospinal fluid (CSF) leaks. This is because pneumococci are a common cause of bacterial meningitis and can infect the CNS through leaks in the meninges caused by trauma, surgery, or other factors.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: 2: Pneumococci\n\nPneumococci are the most commonly associated agent with recurrent meningitis due to cerebrospinal fluid (CSF) leaks. This is because pneumococci are a common cause of bacterial meningitis and can infect the CNS through leaks in the meninges caused by trauma, surgery, or other factors.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

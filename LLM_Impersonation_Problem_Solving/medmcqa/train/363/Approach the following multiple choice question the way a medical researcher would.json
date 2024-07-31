@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a medical researcher would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a medical researcher would. Vitamin K is ivolved in the posttranslational modification?\n1: Glutamate\n2: Aspartate\n3: Leucine\n4: Lysine",
+    "solution": 1,
+    "gpt_response": "The correct answer is: 1: Glutamate\n\nMedical researchers would approach this question by recalling their knowledge of vitamin K's role in the posttranslational modification of proteins. Vitamin K is essential for the conversion of glutamate residues on certain proteins to gamma-carboxyglutamate residues, which is important for their proper functioning in a variety of physiological processes. Therefore, the correct answer is glutamate.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: The correct answer is: 1: Glutamate\n\nMedical researchers would approach this question by recalling their knowledge of vitamin K's role in the posttranslational modification of proteins. Vitamin K is essential for the conversion of glutamate residues on certain proteins to gamma-carboxyglutamate residues, which is important for their proper functioning in a variety of physiological processes. Therefore, the correct answer is glutamate.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

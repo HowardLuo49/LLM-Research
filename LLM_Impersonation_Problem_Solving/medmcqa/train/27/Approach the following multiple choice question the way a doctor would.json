@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Which of the following agents is most commonly associated with recurrent meningitis due to CSF leaks?\n1: Meningococci\n2: Pneumococci\n3: Hemophilus Influenza\n4: E. Coli",
+    "solution": 2,
+    "gpt_response": "As a doctor, when considering the potential cause of recurrent meningitis due to cerebrospinal fluid leaks, I would need to take into account the most common pathogens associated with this condition. In this case, the most likely agent would be pneumococci, as they are one of the leading causes of bacterial meningitis in adults and are commonly associated with recurrent cases as well. Therefore, my choice would be option 2: Pneumococci.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: As a doctor, when considering the potential cause of recurrent meningitis due to cerebrospinal fluid leaks, I would need to take into account the most common pathogens associated with this condition. In this case, the most likely agent would be pneumococci, as they are one of the leading causes of bacterial meningitis in adults and are commonly associated with recurrent cases as well. Therefore, my choice would be option 2: Pneumococci.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "9",
+    "difficulty_value": "9"
+}

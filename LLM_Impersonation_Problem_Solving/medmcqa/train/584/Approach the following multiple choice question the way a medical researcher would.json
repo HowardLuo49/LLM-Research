@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a medical researcher would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a medical researcher would. Mucositis is caused by:\n1: 5-Fluorouracil\n2: Methotrexate\n3: Paclitaxel\n4: Cisplatin",
+    "solution": 1,
+    "gpt_response": "To determine the cause of mucositis, a medical researcher would first review the known side effects of each medication listed in the multiple choice question. Next, they would examine existing literature and clinical studies to see if there is evidence linking any of these medications to the development of mucositis. Finally, they may conduct their own research or clinical trial to further investigate the relationship between these medications and mucositis. \n\nIn this case, mucositis is commonly associated with 5-Fluorouracil, Methotrexate, and Cisplatin, but less so with Paclitaxel. Based on current literature and studies, the most likely cause of mucositis among the options provided would be 5-Fluorouracil. However, it is important for a medical researcher to thoroughly analyze all available evidence before coming to a definitive conclusion.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: To determine the cause of mucositis, a medical researcher would first review the known side effects of each medication listed in the multiple choice question. Next, they would examine existing literature and clinical studies to see if there is evidence linking any of these medications to the development of mucositis. Finally, they may conduct their own research or clinical trial to further investigate the relationship between these medications and mucositis. \n\nIn this case, mucositis is commonly associated with 5-Fluorouracil, Methotrexate, and Cisplatin, but less so with Paclitaxel. Based on current literature and studies, the most likely cause of mucositis among the options provided would be 5-Fluorouracil. However, it is important for a medical researcher to thoroughly analyze all available evidence before coming to a definitive conclusion.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

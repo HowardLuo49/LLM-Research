@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. By definition, the electric displacement current through a surface S is proportional to the\nA: rate of change of the electric flux through S\nB: electric flux through S\nC: time integral of the magnetic flux through S\nD: rate of change of the magnetic flux through S",
+    "solution": "A",
+    "gpt_response": "A: rate of change of the electric flux through S\n\nThis is because the electric displacement current is directly related to how the electric flux is changing over time through a particular surface. As the electric flux through the surface S changes, the displacement current will also change accordingly.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to A?: A: rate of change of the electric flux through S\n\nThis is because the electric displacement current is directly related to how the electric flux is changing over time through a particular surface. As the electric flux through the surface S changes, the displacement current will also change accordingly.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

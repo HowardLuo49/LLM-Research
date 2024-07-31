@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in physics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in physics would. If $500 - 90 + 7 = 400 - 60 + 5 + N$, what is the value of $N$?",
+    "solution": "72",
+    "gpt_response": "Given the equation $500 - 90 + 7 = 400 - 60 + 5 + N$, we can simplify both sides as follows:\n\n$500 - 90 + 7 = 417$\n$400 - 60 + 5 + N = 345 + N$\n\nNow, we can set these simplified equations equal to each other:\n\n$417 = 345 + N$\n\nSubtracting 345 from both sides, we get:\n\n$417 - 345 = N$\n$72 = N$\n\nTherefore, the value of $N$ is 72.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 72?: Given the equation $500 - 90 + 7 = 400 - 60 + 5 + N$, we can simplify both sides as follows:\n\n$500 - 90 + 7 = 417$\n$400 - 60 + 5 + N = 345 + N$\n\nNow, we can set these simplified equations equal to each other:\n\n$417 = 345 + N$\n\nSubtracting 345 from both sides, we get:\n\n$417 - 345 = N$\n$72 = N$\n\nTherefore, the value of $N$ is 72.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

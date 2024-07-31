@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in engineering would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in engineering would. Below is a drawing of all $26$ letters in the English alphabet. As drawn below, some of these letters could be portions of the graph of a function, and some cannot. For example, the $\\textsf{O}$ resembles an ellipse, which cannot be part of the graph of a function.\n\nAs drawn below, which of these letters could be portions of the graph of a function? (You may not rotate them.)\n\nGive your answer as a list of letters with no spaces or other punctuation between them, in alphabetic order.\n\n$$\\begin{array}{c c c c c}\n\\textsf{A} & \\textsf{B} & \\textsf{C} & \\textsf{D} & \\textsf{E}\\\\\\\\\n\\textsf{F} & \\textsf{G} & \\textsf{H} & \\textsf{I} & \\textsf{J}\\\\\\\\\n\\textsf{K} & \\textsf{L} & \\textsf{M} & \\textsf{N} & \\textsf{O}\\\\\\\\\n\\textsf{P} & \\textsf{Q} & \\textsf{R} & \\textsf{S} & \\textsf{T}\\\\\\\\\n\\textsf{U} & \\textsf{V} & \\textsf{W} & \\textsf{X} & \\textsf{Y}\\\\\\\\\n&& \\textsf{Z} &&\n\\end{array}$$",
+    "solution": "\\text{VW}",
+    "gpt_response": "In order for a letter to be a portion of the graph of a function, it must pass the vertical line test. This means that each vertical line should intersect the graph at most once.\n\nFrom the letters shown in the drawing, the following could be portions of the graph of a function: $\\textsf{B, F, G, H, I, J, L, N, P, R, S, U, V, M, X, Y, Z}$\n\nTherefore, the list of letters that could be portions of the graph of a function is $\\textsf{BFGHIJLNPQRSUVWXYZ}$.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response \\text{VW}?: In order for a letter to be a portion of the graph of a function, it must pass the vertical line test. This means that each vertical line should intersect the graph at most once.\n\nFrom the letters shown in the drawing, the following could be portions of the graph of a function: $\\textsf{B, F, G, H, I, J, L, N, P, R, S, U, V, M, X, Y, Z}$\n\nTherefore, the list of letters that could be portions of the graph of a function is $\\textsf{BFGHIJLNPQRSUVWXYZ}$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

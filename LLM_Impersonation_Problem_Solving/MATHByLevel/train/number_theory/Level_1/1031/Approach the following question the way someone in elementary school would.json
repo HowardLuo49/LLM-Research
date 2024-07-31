@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. Bryan has some 3 cent stamps and some 4 cent stamps. What is the least number of stamps he can combine so the value of the stamps is 33 cents?",
+    "solution": "Let $c$ and $f$ be the number of 3 cent stamps and 4 cent stamps that Bryan can use, respectively. We have $3c+4f=33$. To minimize $c+f$, we must minimize the number of 3 cent stamps used. Since $f$ must be an integer, the smallest possible value for $c$ is $c=3$, in which case $4f=33-3c=33-3\\times3=24\\Rightarrow f=6$. The least value is therefore $c+f=3+6=\\boxed{9}$ stamps.",
+    "gpt_response": "Let's use our math skills to help Bryan figure this out! To make 33 cents using only 3 cent and 4 cent stamps, Bryan can use 11 of the 3 cent stamps. If he uses any more 3 cent stamps, the total will be more than 33 cents. Bryan can combine 11 of the 3 cent stamps and 2 of the 4 cent stamps to make 33 cents. That's the least number of stamps he can use! Great job helping Bryan with his stamp problem!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 9?: Let's use our math skills to help Bryan figure this out! To make 33 cents using only 3 cent and 4 cent stamps, Bryan can use 11 of the 3 cent stamps. If he uses any more 3 cent stamps, the total will be more than 33 cents. Bryan can combine 11 of the 3 cent stamps and 2 of the 4 cent stamps to make 33 cents. That's the least number of stamps he can use! Great job helping Bryan with his stamp problem!",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

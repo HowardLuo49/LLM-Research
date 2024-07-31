@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Recommended daily dietary requirment of folate (folic acid) in children ?\n1: 80-120 mg\n2: 200 mg\n3: 400 mg\n4: 600 mg",
+    "solution": 1,
+    "gpt_response": "As a physician, I would recommend the daily dietary requirement of folate (folic acid) in children to be 400 mcg (micrograms), which is option 3. This is the recommended amount to support normal growth and development in children.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: As a physician, I would recommend the daily dietary requirement of folate (folic acid) in children to be 400 mcg (micrograms), which is option 3. This is the recommended amount to support normal growth and development in children.",
+    "gpt_response_correct_incorrect": "No, the final solution obtained in the response is not option 1.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

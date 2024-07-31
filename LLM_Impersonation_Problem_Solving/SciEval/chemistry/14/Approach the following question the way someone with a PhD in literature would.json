@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in literature would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in literature would. How many atoms are there in C6H6N2O?\nAnswer (numerical number):",
+    "solution": [
+        15
+    ],
+    "gpt_response": "19\n\nA molecule of C6H6N2O contains 6 carbon atoms, 6 hydrogen atoms, 2 nitrogen atoms, and 1 oxygen atom. Therefore, the total number of atoms in C6H6N2O is 6 + 6 + 2 + 1 = 19.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response [15]?: 19\n\nA molecule of C6H6N2O contains 6 carbon atoms, 6 hydrogen atoms, 2 nitrogen atoms, and 1 oxygen atom. Therefore, the total number of atoms in C6H6N2O is 6 + 6 + 2 + 1 = 19.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "14",
+    "difficulty_value": "4"
+}

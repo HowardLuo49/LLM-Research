@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. In a nonrelativistic, one-dimensional collision, a particle of mass 2m collides with a particle of mass m at rest. If the particles stick together after the collision, what fraction of the initial kinetic energy is lost in the collision?\nA: 0\nB: 1/4\nC: 1/3\nD: 1/2",
+    "solution": "C",
+    "gpt_response": "Hmm, let's see. Two particles are playing tag and one is twice as heavy as the other. The heavier one runs into the lighter one, and they stick together like peanut butter and jelly. How much energy do they lose in the collision? Oh, I know! They don't lose any energy because they stick together and their energy just transforms into something else. So the answer is A: 0! Yay, no energy lost!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to C?: Hmm, let's see. Two particles are playing tag and one is twice as heavy as the other. The heavier one runs into the lighter one, and they stick together like peanut butter and jelly. How much energy do they lose in the collision? Oh, I know! They don't lose any energy because they stick together and their energy just transforms into something else. So the answer is A: 0! Yay, no energy lost!",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

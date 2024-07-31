@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. In caloric test, cold water stimulation causes movement of eye -\n1: Some side\n2: Opposite side\n3: Up\n4: Do\\vn",
+    "solution": 2,
+    "gpt_response": "2: Opposite side\n\nExplanation: In a caloric test, cold water stimulation of the ear causes nystagmus, which is a rapid involuntary movement of the eyes. The movement usually occurs towards the opposite side of the ear being stimulated.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: 2: Opposite side\n\nExplanation: In a caloric test, cold water stimulation of the ear causes nystagmus, which is a rapid involuntary movement of the eyes. The movement usually occurs towards the opposite side of the ear being stimulated.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

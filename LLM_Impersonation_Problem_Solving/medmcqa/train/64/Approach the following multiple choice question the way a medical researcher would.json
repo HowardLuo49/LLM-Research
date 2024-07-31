@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a medical researcher would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a medical researcher would. Drug causing malignant hyperthermia:(Asked twice in the exam)\n1: Cisatracurium\n2: Suxamethonium\n3: Propofol\n4: Thiopentone",
+    "solution": 2,
+    "gpt_response": "To determine which drug is most likely to cause malignant hyperthermia, a medical researcher would first review the literature and existing research on the topic. They would also consider the known mechanisms of action of each drug and any reported cases of malignant hyperthermia associated with their use.\n\nIn this case, both suxamethonium and inhaled anesthetics such as halothane are known to be triggers of malignant hyperthermia due to their effects on calcium release from the sarcoplasmic reticulum. Cisatracurium, propofol, and thiopentone are not typically associated with malignant hyperthermia.\n\nTherefore, the most likely drug to cause malignant hyperthermia based on current knowledge would be suxamethonium.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: To determine which drug is most likely to cause malignant hyperthermia, a medical researcher would first review the literature and existing research on the topic. They would also consider the known mechanisms of action of each drug and any reported cases of malignant hyperthermia associated with their use.\n\nIn this case, both suxamethonium and inhaled anesthetics such as halothane are known to be triggers of malignant hyperthermia due to their effects on calcium release from the sarcoplasmic reticulum. Cisatracurium, propofol, and thiopentone are not typically associated with malignant hyperthermia.\n\nTherefore, the most likely drug to cause malignant hyperthermia based on current knowledge would be suxamethonium.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

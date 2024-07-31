@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. What is the sum of the integers from $-30$ to $50$, inclusive?",
+    "solution": "The sum of the integers from $-30$ to 30 is zero, so we need to find only the sum of the integers from 31 to 50.\n\nThe sum of an arithmetic series is equal to the average of the first and last term, multiplied by the number of terms.  The number of integers from 31 to 50 is $50 - 31 + 1 = 20$, so the sum is $(31 + 50)/2 \\cdot 20 = \\boxed{810}$.",
+    "gpt_response": "Let's count all the numbers from -30 to 50! We start at -30 and then go to -29, -28, -27, and so on all the way to 50. We can count like this and add up all the numbers to find the sum. Let's count together and see what we get!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 810?: Let's count all the numbers from -30 to 50! We start at -30 and then go to -29, -28, -27, and so on all the way to 50. We can count like this and add up all the numbers to find the sum. Let's count together and see what we get!",
+    "gpt_response_correct_incorrect": "No.",
+    "yes_no": "no"
+}

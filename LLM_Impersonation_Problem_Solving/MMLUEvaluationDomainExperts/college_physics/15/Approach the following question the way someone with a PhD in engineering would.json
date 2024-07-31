@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in engineering would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in engineering would. Which of the following statements about bosons and/or fermions is true?\nA: Bosons have symmetric wave functions and obey the Pauli exclusion principle.\nB: Bosons have antisymmetric wave functions and do not obey the Pauli exclusion principle.\nC: Fermions have symmetric wave functions and obey the Pauli exclusion principle.\nD: Fermions have antisymmetric wave functions and obey the Pauli exclusion principle.",
+    "solution": "D",
+    "gpt_response": "The correct statement is D: Fermions have antisymmetric wave functions and obey the Pauli exclusion principle. This is a fundamental concept in quantum mechanics, where fermions such as electrons, protons, and neutrons have antisymmetric wave functions that describe their behavior and obey the Pauli exclusion principle, which states that no two fermions can occupy the same quantum state simultaneously. Bosons, on the other hand, have symmetric wave functions and do not obey the Pauli exclusion principle, allowing multiple bosons to occupy the same quantum state. This distinction between fermions and bosons is crucial in understanding the behavior of particles in quantum mechanics and plays a significant role in various phenomena such as superconductivity and superfluidity.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: The correct statement is D: Fermions have antisymmetric wave functions and obey the Pauli exclusion principle. This is a fundamental concept in quantum mechanics, where fermions such as electrons, protons, and neutrons have antisymmetric wave functions that describe their behavior and obey the Pauli exclusion principle, which states that no two fermions can occupy the same quantum state simultaneously. Bosons, on the other hand, have symmetric wave functions and do not obey the Pauli exclusion principle, allowing multiple bosons to occupy the same quantum state. This distinction between fermions and bosons is crucial in understanding the behavior of particles in quantum mechanics and plays a significant role in various phenomena such as superconductivity and superfluidity.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

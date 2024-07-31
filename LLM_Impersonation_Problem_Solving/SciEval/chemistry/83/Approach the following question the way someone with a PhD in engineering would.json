@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in engineering would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in engineering would. What is the SMILES expression of C9H17N?\nAnswer:",
+    "solution": [
+        "C1CCCC2C(CC1)CN2"
+    ],
+    "gpt_response": "The SMILES expression of C9H17N is CC(C)C1=NC=CC=C1CC(C)C. This is a condensed chemical formula that represents the structure of the molecule in a linear format using specific rules for indicating the connectivity of atoms. Using the SMILES notation, chemists and engineers can easily convey structural information for chemical compounds in a concise and standardized manner.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response ['C1CCCC2C(CC1)CN2']?: The SMILES expression of C9H17N is CC(C)C1=NC=CC=C1CC(C)C. This is a condensed chemical formula that represents the structure of the molecule in a linear format using specific rules for indicating the connectivity of atoms. Using the SMILES notation, chemists and engineers can easily convey structural information for chemical compounds in a concise and standardized manner.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

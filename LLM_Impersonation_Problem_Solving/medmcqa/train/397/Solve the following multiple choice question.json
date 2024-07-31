@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. Causative agent of Favus is:\n1: Tinea schoenleinii\n2: Tinea rubrum\n3: Malassezia furfur\n4: Epidermophyton floccosum",
+    "solution": 1,
+    "gpt_response": "1: Tinea schoenleinii",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: 1: Tinea schoenleinii",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

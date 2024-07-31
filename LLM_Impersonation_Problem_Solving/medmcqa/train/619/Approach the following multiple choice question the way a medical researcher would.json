@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a medical researcher would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a medical researcher would. The most impoant prognostic factor of Wilms tumor-\n1: Histopathology\n2: Ploidy of cells\n3: Age < 1 y\n4: Mutation of c 1p gene",
+    "solution": 1,
+    "gpt_response": "The most important prognostic factor of Wilms tumor is typically histopathology. While ploidy of cells, age at diagnosis, and specific genetic mutations can also play a role in predicting prognosis, histopathology, which involves analyzing the microscopic structure of tumor tissue, is crucial in determining the aggressiveness of the tumor and guiding treatment decisions.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: The most important prognostic factor of Wilms tumor is typically histopathology. While ploidy of cells, age at diagnosis, and specific genetic mutations can also play a role in predicting prognosis, histopathology, which involves analyzing the microscopic structure of tumor tissue, is crucial in determining the aggressiveness of the tumor and guiding treatment decisions.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "5",
+    "difficulty_value": "5"
+}

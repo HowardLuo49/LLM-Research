@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Lucy was born on Wednesday, December 1st, 2004. That Wednesday was the first day of her life. Her parents held a party for her on the $1000$th day of her life. On which day of the week was the party?",
+    "solution": "Since there are 7 days in a week, Lucy's 1st day, 8th day, 15th day, 22nd day, etc. were on Wednesday. When $1000$ is divided by $7$, the remainder is $6$. Therefore, the 1002nd day was a Wednesday (since 1002 is one more than a multiple of 7).  So the 1000th day, was two days earlier on a $\\boxed{\\text{Monday}}$.",
+    "gpt_response": "Let's count together! We know Lucy was born on a Wednesday, so we start with Wednesday as the first day. \n\nIf we count by sevens, we can find out what day of the week the party was on. \n\n1st day: Wednesday\n8th day: Wednesday\n15th day: Wednesday\n...\n... continue counting by sevens until we reach the 1000th day.\n\nWhen we count by sevens and get to the 1000th day, we can see that it falls on a Wednesday again. So, Lucy's party was also on a Wednesday! Yay!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to \\text{Monday?: Let's count together! We know Lucy was born on a Wednesday, so we start with Wednesday as the first day. \n\nIf we count by sevens, we can find out what day of the week the party was on. \n\n1st day: Wednesday\n8th day: Wednesday\n15th day: Wednesday\n...\n... continue counting by sevens until we reach the 1000th day.\n\nWhen we count by sevens and get to the 1000th day, we can see that it falls on a Wednesday again. So, Lucy's party was also on a Wednesday! Yay!",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

@@ -1,0 +1,10 @@
+{
+    "prefix": "You are an expert in number theory. Solve the following problem. ",
+    "problem_prompt": "You are an expert in number theory. Solve the following problem. Name the greatest whole number less than $100$ that has an odd number of positive factors.",
+    "solution": "We claim that a number has an odd number of positive factors if and only if it is a perfect square. Indeed, for all non-square numbers $x$, we can pair each factor $f$ with another factor $\\frac{x}{f}$, so there must be an even number of factors. For perfect squares, this argument fails only for $\\sqrt{x}$, so there are an odd number of factors for perfect squares. Thus we seek the greatest perfect square below $100$, which is $\\boxed{81}$.",
+    "gpt_response": "A number has an odd number of factors if it is a perfect square. So we need to find the greatest perfect square less than 100. \nThe perfect squares less than 100 are $1, 4, 9, 16, 25, 36, 49, 64, 81$. \nThe greatest perfect square less than 100 is $\\boxed{81}$ as it has an odd number of factors (9 factors: 1, 3, 9, 1x3, 1x9, 3x9, 1x3x9).",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 81?: A number has an odd number of factors if it is a perfect square. So we need to find the greatest perfect square less than 100. \nThe perfect squares less than 100 are $1, 4, 9, 16, 25, 36, 49, 64, 81$. \nThe greatest perfect square less than 100 is $\\boxed{81}$ as it has an odd number of factors (9 factors: 1, 3, 9, 1x3, 1x9, 3x9, 1x3x9).",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes"
+}

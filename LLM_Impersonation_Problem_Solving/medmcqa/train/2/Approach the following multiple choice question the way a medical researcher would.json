@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a medical researcher would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a medical researcher would. Which vitamin is supplied from only animal source:\n1: Vitamin C\n2: Vitamin B7\n3: Vitamin B12\n4: Vitamin D",
+    "solution": 3,
+    "gpt_response": "The correct answer is 3: Vitamin B12. This vitamin is found exclusively in animal products such as meat, fish, dairy, and eggs. It is not found in plant-based foods, making it essential for vegetarians and vegans to supplement or consume fortified foods to meet their needs.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: The correct answer is 3: Vitamin B12. This vitamin is found exclusively in animal products such as meat, fish, dairy, and eggs. It is not found in plant-based foods, making it essential for vegetarians and vegans to supplement or consume fortified foods to meet their needs.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

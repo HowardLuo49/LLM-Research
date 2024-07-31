@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Pyogenic granuloma is associated with\n1: Gastric adenocarcinoma\n2: Pseudomonas infection\n3: Ulcerative colitis\n4: Intestinal tuberculosis",
+    "solution": 3,
+    "gpt_response": "As a physician, I would approach this multiple choice question by ruling out the unlikely options first based on my knowledge of pyogenic granuloma. Pyogenic granuloma is a benign vascular lesion that commonly occurs on the skin and mucous membranes, so options 1 and 4 (Gastric adenocarcinoma and Intestinal tuberculosis) are unlikely associations. Pseudomonas infection is more commonly associated with biofilm-related infections, so option 2 is also unlikely. \n\nUlcerative colitis, on the other hand, is a chronic inflammatory condition that affects the colon and rectum, and it has been reported to be associated with pyogenic granuloma in some cases. Therefore, my approach as a physician would be to select option 3: Ulcerative colitis as the association with pyogenic granuloma.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: As a physician, I would approach this multiple choice question by ruling out the unlikely options first based on my knowledge of pyogenic granuloma. Pyogenic granuloma is a benign vascular lesion that commonly occurs on the skin and mucous membranes, so options 1 and 4 (Gastric adenocarcinoma and Intestinal tuberculosis) are unlikely associations. Pseudomonas infection is more commonly associated with biofilm-related infections, so option 2 is also unlikely. \n\nUlcerative colitis, on the other hand, is a chronic inflammatory condition that affects the colon and rectum, and it has been reported to be associated with pyogenic granuloma in some cases. Therefore, my approach as a physician would be to select option 3: Ulcerative colitis as the association with pyogenic granuloma.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

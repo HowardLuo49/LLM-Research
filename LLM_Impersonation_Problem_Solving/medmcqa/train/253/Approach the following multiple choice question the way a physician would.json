@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Spore forming anaerobic gram positive bacilli ?\n1: Bacillus Anthracis\n2: Clostridia\n3: Corynebacterium\n4: Peptostreptococcus",
+    "solution": 2,
+    "gpt_response": "The correct answer is 2: Clostridia. These organisms are known for their ability to form spores, be anaerobic, and be gram positive bacilli. Examples include Clostridium perfringens, Clostridium botulinum, and Clostridium difficile.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: The correct answer is 2: Clostridia. These organisms are known for their ability to form spores, be anaerobic, and be gram positive bacilli. Examples include Clostridium perfringens, Clostridium botulinum, and Clostridium difficile.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

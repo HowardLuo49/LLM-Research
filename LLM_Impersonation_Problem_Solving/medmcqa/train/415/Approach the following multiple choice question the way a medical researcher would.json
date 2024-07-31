@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a medical researcher would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a medical researcher would. Bence jones proteinuria is derived from?\n1: Alpha globulins\n2: Light chain globulins\n3: Gamma globulins\n4: Delta globulins",
+    "solution": 2,
+    "gpt_response": "Medical researchers would approach this question by understanding the pathophysiology of Bence Jones proteinuria. Bence Jones proteins are abnormal monoclonal proteins produced by plasma cells, typically seen in conditions such as multiple myeloma. These proteins are composed of light chain immunoglobulins (specifically kappa or lambda).\n\nTherefore, the correct answer is:\n\n2: Light chain globulins",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: Medical researchers would approach this question by understanding the pathophysiology of Bence Jones proteinuria. Bence Jones proteins are abnormal monoclonal proteins produced by plasma cells, typically seen in conditions such as multiple myeloma. These proteins are composed of light chain immunoglobulins (specifically kappa or lambda).\n\nTherefore, the correct answer is:\n\n2: Light chain globulins",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

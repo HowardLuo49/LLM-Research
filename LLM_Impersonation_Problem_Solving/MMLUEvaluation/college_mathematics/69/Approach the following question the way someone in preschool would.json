@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Suppose today is Wednesday. What day of the week will it be 10^(10^(10)) days from now?\nA: Sunday\nB: Monday\nC: Tuesday\nD: Wednesday",
+    "solution": "A",
+    "gpt_response": "Hmm let me think. Today is Wednesday, so let's count ahead: Thursday, Friday, Saturday, Sunday. So 4 days from now is Sunday. But for a really big number like 10^(10^(10)), I think we just keep counting in cycles of 7 days. So if we count 10 times of 10 times of 10 days, we would end up back at Sunday. So the answer is A: Sunday!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to A?: Hmm let me think. Today is Wednesday, so let's count ahead: Thursday, Friday, Saturday, Sunday. So 4 days from now is Sunday. But for a really big number like 10^(10^(10)), I think we just keep counting in cycles of 7 days. So if we count 10 times of 10 times of 10 days, we would end up back at Sunday. So the answer is A: Sunday!",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

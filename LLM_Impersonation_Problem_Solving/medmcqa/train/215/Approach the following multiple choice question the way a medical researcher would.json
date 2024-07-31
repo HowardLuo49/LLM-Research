@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a medical researcher would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a medical researcher would. Budding reproduction in tissue is seen in\n1: Cryptococcus, candida\n2: Candida, rhizopus\n3: Rhizopus, mucor\n4: Histoplasma, candida",
+    "solution": 1,
+    "gpt_response": "To answer this question, a medical researcher would need to review the characteristics and biology of each organism listed in the options.\n\nBudding reproduction is a form of asexual reproduction seen in yeast-like fungi. Among the options provided:\n1. Cryptococcus and Candida are both yeast-like fungi known to reproduce by budding.\n2. Rhizopus is a filamentous fungus that reproduces through spore formation, not budding.\n3. Mucor is another filamentous fungus that reproduces through spore formation, not budding.\n4. Histoplasma is a dimorphic fungus that reproduces through budding in its yeast phase, but the primary form of reproduction in this organism is through the formation of spores as well.\n\nBased on this information, option 1 (Cryptococcus, candida) would be the correct answer as both organisms exhibit budding reproduction in tissue.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: To answer this question, a medical researcher would need to review the characteristics and biology of each organism listed in the options.\n\nBudding reproduction is a form of asexual reproduction seen in yeast-like fungi. Among the options provided:\n1. Cryptococcus and Candida are both yeast-like fungi known to reproduce by budding.\n2. Rhizopus is a filamentous fungus that reproduces through spore formation, not budding.\n3. Mucor is another filamentous fungus that reproduces through spore formation, not budding.\n4. Histoplasma is a dimorphic fungus that reproduces through budding in its yeast phase, but the primary form of reproduction in this organism is through the formation of spores as well.\n\nBased on this information, option 1 (Cryptococcus, candida) would be the correct answer as both organisms exhibit budding reproduction in tissue.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

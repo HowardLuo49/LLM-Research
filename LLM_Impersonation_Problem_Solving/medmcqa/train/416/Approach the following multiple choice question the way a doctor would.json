@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Which of the following drugs used to treat type II diabetes mellitus causes weight loss:\n1: Metformin\n2: Glimepiride\n3: Repaglinide\n4: Gliclazide",
+    "solution": 1,
+    "gpt_response": "The drug that is known to cause weight loss in patients with type II diabetes mellitus is Metformin. It works by decreasing glucose production in the liver and increasing insulin sensitivity in the muscles. This can lead to weight loss in some patients. Glimepiride, Repaglinide, and Gliclazide are all sulfonylureas which can cause weight gain as a side effect.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: The drug that is known to cause weight loss in patients with type II diabetes mellitus is Metformin. It works by decreasing glucose production in the liver and increasing insulin sensitivity in the muscles. This can lead to weight loss in some patients. Glimepiride, Repaglinide, and Gliclazide are all sulfonylureas which can cause weight gain as a side effect.",
+    "gpt_response_correct_incorrect": "Yes, the final solution is obtained in this response (Option 1).",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

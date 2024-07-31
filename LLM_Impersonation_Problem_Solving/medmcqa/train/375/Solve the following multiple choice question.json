@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. Macrosomia is a\n1: Large size baby\n2: Big mouth\n3: Large head\n4: Large tongue",
+    "solution": 1,
+    "gpt_response": "1: Large size baby",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: 1: Large size baby",
+    "gpt_response_correct_incorrect": "No, the final solution obtained in the response is not \"Large size baby.\"",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

@@ -1,0 +1,10 @@
+{
+    "prefix": "You are an expert in number theory. Solve the following problem. ",
+    "problem_prompt": "You are an expert in number theory. Solve the following problem. The $24^\\text{th}$ day of a particular month is a Saturday. On what day of the week was the first day of that month?",
+    "solution": "If the $24$th is a Saturday, the $17$th was also a Saturday, as were the $10$th and the $3$rd.  So the $2$nd was a Friday and the $1$st was a $\\boxed{\\text{Thursday}}$.",
+    "gpt_response": "To solve this problem, we will use the fact that there are 7 days in a week. \n\nSince the $24^\\text{th}$ day of the month is a Saturday, we can count backwards to find out what day of the week the first day of the month was.\n\nIf we count backwards from the $24^\\text{th}$ day by 6 days (one less than a full week), we will reach the first day of the month.\n\nSo, if we count backwards from Saturday by 6 days, we get Monday. \n\nTherefore, the first day of that month was a Monday.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response \\text{Thursday?: To solve this problem, we will use the fact that there are 7 days in a week. \n\nSince the $24^\\text{th}$ day of the month is a Saturday, we can count backwards to find out what day of the week the first day of the month was.\n\nIf we count backwards from the $24^\\text{th}$ day by 6 days (one less than a full week), we will reach the first day of the month.\n\nSo, if we count backwards from Saturday by 6 days, we get Monday. \n\nTherefore, the first day of that month was a Monday.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes"
+}

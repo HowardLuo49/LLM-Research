@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. What is the positive difference between the two largest prime factors of $159137$?",
+    "solution": "Let's find the prime factorization of 159137: $159137=11\\cdot14467=11\\cdot17\\cdot851=11\\cdot17\\cdot23\\cdot37$. The positive difference between the two largest prime factors of 159137 is therefore $37-23=\\boxed{14}$.",
+    "gpt_response": "Hmm, let's see. In order to find the two largest prime factors of 159137, we need to break it down into smaller numbers. The factors of 159137 are 1, 223, 727, and 159137 itself. The two largest prime factors are 727 and 223. \n\nThe positive difference between 727 and 223 is the answer we're looking for! So, we can subtract 223 from 727 to find the difference. \n\nThe answer is...  504! Yay!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 14?: Hmm, let's see. In order to find the two largest prime factors of 159137, we need to break it down into smaller numbers. The factors of 159137 are 1, 223, 727, and 159137 itself. The two largest prime factors are 727 and 223. \n\nThe positive difference between 727 and 223 is the answer we're looking for! So, we can subtract 223 from 727 to find the difference. \n\nThe answer is...  504! Yay!",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

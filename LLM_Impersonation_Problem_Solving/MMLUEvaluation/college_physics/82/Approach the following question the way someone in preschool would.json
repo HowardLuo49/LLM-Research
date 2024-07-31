@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. A single-electron atom has the electron in the l = 2 state. The number of allowed values of the quantum number m_l is\nA: 5\nB: 4\nC: 3\nD: 2",
+    "solution": "A",
+    "gpt_response": "Hmm, let's see. So the electron is in the l = 2 state. That means the possible values for ml are -2, -1, 0, 1, and 2. So that means there are 5 allowed values of the quantum number ml. The answer is A: 5! Yay!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to A?: Hmm, let's see. So the electron is in the l = 2 state. That means the possible values for ml are -2, -1, 0, 1, and 2. So that means there are 5 allowed values of the quantum number ml. The answer is A: 5! Yay!",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

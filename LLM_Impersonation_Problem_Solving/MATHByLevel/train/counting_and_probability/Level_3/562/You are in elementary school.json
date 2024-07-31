@@ -1,0 +1,7 @@
+{
+    "prefix": "You are in elementary school.\n",
+    "problem_prompt": "You are in elementary school.\nCoach Grunt is preparing the 5-person starting lineup for his basketball team, the Grunters.  There are 12 players on the team.  Two of them, Ace and Zeppo, are league All-Stars, so they'll definitely be in the starting lineup.  How many different starting lineups are possible?  (The order of the players in a basketball lineup doesn't matter.)",
+    "solution": "Coach Grunt has to choose 3 players from the 10 players that are remaining after Ace and Zeppo have been placed in the lineup.  The order in which the players are chosen doesn't matter, so the answer is $$ \\binom{10}{3} = \\frac{10 \\times 9 \\times 8}{3 \\times 2 \\times 1} = \\boxed{120}. $$",
+    "gpt_response": "ChatCompletion(id='chatcmpl-9A2TwVvdlnzT80lCCpCQr16fIyrgB', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='There are 10 players left to choose from to fill the remaining 3 spots in the starting lineup. Therefore, the number of different starting lineups possible is:\\n\\n10 choose 3 = 10! / (3! * 7!) = 120 different starting lineups\\n\\nSo, there are 120 different starting lineups possible for the Grunters.', role='assistant', function_call=None, tool_calls=None))], created=1712179848, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint='fp_b28b39ffa8', usage=CompletionUsage(completion_tokens=74, prompt_tokens=95, total_tokens=169))",
+    "yes_no": "yes"
+}

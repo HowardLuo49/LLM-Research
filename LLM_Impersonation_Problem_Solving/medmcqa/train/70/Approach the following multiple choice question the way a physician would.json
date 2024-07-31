@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Which of the following is a newly emerging food poisoning organism\n1: Salmonella typhimurium\n2: Enterococcus\n3: Diphtheria\n4: Pseudomonas",
+    "solution": 1,
+    "gpt_response": "As a physician, I would approach this question by considering the characteristics of each organism and their potential association with food poisoning. Salmonella typhimurium is a well-known cause of food poisoning and has been studied for many years. Enterococcus is also a common bacterium found in the gut, but it is not typically associated with food poisoning. Diphtheria is a bacterial infection that primarily affects the respiratory system and is not a typical cause of food poisoning. Pseudomonas is a bacterium that is often found in soil and water and can cause infections in hospitalized patients, but it is not typically associated with food poisoning. \n\nBased on this analysis, I would conclude that Enterococcus is the newly emerging food poisoning organism among the options provided.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: As a physician, I would approach this question by considering the characteristics of each organism and their potential association with food poisoning. Salmonella typhimurium is a well-known cause of food poisoning and has been studied for many years. Enterococcus is also a common bacterium found in the gut, but it is not typically associated with food poisoning. Diphtheria is a bacterial infection that primarily affects the respiratory system and is not a typical cause of food poisoning. Pseudomonas is a bacterium that is often found in soil and water and can cause infections in hospitalized patients, but it is not typically associated with food poisoning. \n\nBased on this analysis, I would conclude that Enterococcus is the newly emerging food poisoning organism among the options provided.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

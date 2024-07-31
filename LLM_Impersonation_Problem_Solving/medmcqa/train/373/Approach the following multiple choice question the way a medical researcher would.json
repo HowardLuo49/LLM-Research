@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a medical researcher would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a medical researcher would. According to Spetzler-Main criteria, how much score is given for a 5 cm nidus with AV malformation?\n1: 3\n2: 4\n3: 2\n4: 5",
+    "solution": 3,
+    "gpt_response": "As a medical researcher, I would approach this question by understanding the Spetzler-Main criteria, which is a grading system used to evaluate the risk of surgical resection for brain arteriovenous malformations (AVMs). In this system, points are assigned based on the size of the nidus, location, eloquence of the surrounding brain tissue, and presence of deep venous drainage.\n\nFor a 5 cm nidus with AV malformation, according to the Spetzler-Main criteria, the score given would be 4 points.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: As a medical researcher, I would approach this question by understanding the Spetzler-Main criteria, which is a grading system used to evaluate the risk of surgical resection for brain arteriovenous malformations (AVMs). In this system, points are assigned based on the size of the nidus, location, eloquence of the surrounding brain tissue, and presence of deep venous drainage.\n\nFor a 5 cm nidus with AV malformation, according to the Spetzler-Main criteria, the score given would be 4 points.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

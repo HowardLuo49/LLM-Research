@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Statement 1 | The set of 2 x 2 matrices with integer entries and nonzero determinant is a group under matrix multiplication. Statement 2 | The set of 2 x 2 matrices with integer entries and determinant 1 is a group under matrix multiplication.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "D",
+    "gpt_response": "I think the first statement is true because a group is a set with an associative binary operation, an identity element, and inverses for all elements. The set of 2 x 2 matrices with integer entries and nonzero determinant satisfies these conditions.\n\nI'm not sure about the second statement though. I know that the set of 2 x 2 matrices with determinant 1 is called the special linear group, but I'm not sure if it forms a group under matrix multiplication. So I would say Statement 1 is true and Statement 2 is false. So my answer would be C: True, False.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: I think the first statement is true because a group is a set with an associative binary operation, an identity element, and inverses for all elements. The set of 2 x 2 matrices with integer entries and nonzero determinant satisfies these conditions.\n\nI'm not sure about the second statement though. I know that the set of 2 x 2 matrices with determinant 1 is called the special linear group, but I'm not sure if it forms a group under matrix multiplication. So I would say Statement 1 is true and Statement 2 is false. So my answer would be C: True, False.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

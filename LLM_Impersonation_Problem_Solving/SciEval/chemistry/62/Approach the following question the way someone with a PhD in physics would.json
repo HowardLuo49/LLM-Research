@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in physics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in physics would. What is the molecular formula of CNC1CCCCCC1N2CCOCC2?\nAnswer:",
+    "solution": [
+        "C12H24N2O"
+    ],
+    "gpt_response": "The molecular formula of CNC1CCCCCC1N2CCOCC2 can be determined by counting the number of each type of atom present in the compound. In this case, the molecular formula can be simplified to C10H20N2O1. This compound contains 10 carbon atoms, 20 hydrogen atoms, 2 nitrogen atoms, and 1 oxygen atom.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response ['C12H24N2O']?: The molecular formula of CNC1CCCCCC1N2CCOCC2 can be determined by counting the number of each type of atom present in the compound. In this case, the molecular formula can be simplified to C10H20N2O1. This compound contains 10 carbon atoms, 20 hydrogen atoms, 2 nitrogen atoms, and 1 oxygen atom.",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "5",
+    "difficulty_value": "5"
+}

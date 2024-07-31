@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in literature would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in literature would. According to Hobbes, the definition of injustice is _____.\nA: disobedience to a sovereign\nB: disobedience to God's law\nC: failure to abide by a contract\nD: failure to respect inherent rights",
+    "solution": "C",
+    "gpt_response": "According to Hobbes, the definition of injustice is disobedience to a sovereign. In his seminal work, Leviathan, Hobbes argues that in order to establish a stable and harmonious society, individuals must enter into a social contract with a sovereign authority who acts as a central power to maintain order and prevent the state of nature, which he famously described as \"solitary, poor, nasty, brutish, and short.\" In this framework, disobedience to the sovereign disrupts the social contract and undermines the foundation of civil society, leading to a breakdown of order and the potential for chaos. Thus, according to Hobbes, injustice is fundamentally tied to disobedience to the sovereign authority that holds power and enforces the social contract.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to C?: According to Hobbes, the definition of injustice is disobedience to a sovereign. In his seminal work, Leviathan, Hobbes argues that in order to establish a stable and harmonious society, individuals must enter into a social contract with a sovereign authority who acts as a central power to maintain order and prevent the state of nature, which he famously described as \"solitary, poor, nasty, brutish, and short.\" In this framework, disobedience to the sovereign disrupts the social contract and undermines the foundation of civil society, leading to a breakdown of order and the potential for chaos. Thus, according to Hobbes, injustice is fundamentally tied to disobedience to the sovereign authority that holds power and enforces the social contract.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

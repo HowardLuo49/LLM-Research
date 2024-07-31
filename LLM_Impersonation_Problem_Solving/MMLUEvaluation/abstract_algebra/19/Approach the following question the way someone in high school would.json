@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Statement 1| Every group of order p^2 where p is prime is Abelian. Statement 2 | For a fixed prime p a Sylow p-subgroup of a group G is a normal subgroup of G if and only if it is the only Sylow p-subgroup of G.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "A",
+    "gpt_response": "Umm, so for Statement 1, if we have a group of order p^2 where p is prime, then it's always Abelian. Like, all groups of order p^2 are like that. And for Statement 2, a Sylow p-subgroup of a group is a normal subgroup if and only if it's the only one of its kind in the group. So, um, I think both statements are true. So, like, the answer would be A: True, True.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to A?: Umm, so for Statement 1, if we have a group of order p^2 where p is prime, then it's always Abelian. Like, all groups of order p^2 are like that. And for Statement 2, a Sylow p-subgroup of a group is a normal subgroup if and only if it's the only one of its kind in the group. So, um, I think both statements are true. So, like, the answer would be A: True, True.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

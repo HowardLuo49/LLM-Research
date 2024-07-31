@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a medical researcher would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a medical researcher would. DOC for listeria meningitis:\n1: Ampicillin\n2: Cefotaxime\n3: Cefotriaxone\n4: Ciprofloxacin",
+    "solution": 1,
+    "gpt_response": "When approaching this multiple choice question as a medical researcher, it is important to consider the most appropriate treatment option for listeria meningitis. Listeria meningitis is a serious infection that requires prompt and effective treatment to prevent complications.\n\nIn the case of listeria meningitis, the drug of choice (DOC) is Ampicillin, which is a beta-lactam antibiotic. Ampicillin is preferred because it has good central nervous system penetration and is effective against Listeria monocytogenes, the bacterium that causes listeria meningitis. \n\nCefotaxime and ceftriaxone are also commonly used antibiotics for meningitis, but they may not be as effective against Listeria monocytogenes as ampicillin. Ciprofloxacin is not recommended for the treatment of listeria meningitis as it is not effective against the bacterium.\n\nTherefore, the correct answer for the drug of choice for listeria meningitis is:\n\n1: Ampicillin",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: When approaching this multiple choice question as a medical researcher, it is important to consider the most appropriate treatment option for listeria meningitis. Listeria meningitis is a serious infection that requires prompt and effective treatment to prevent complications.\n\nIn the case of listeria meningitis, the drug of choice (DOC) is Ampicillin, which is a beta-lactam antibiotic. Ampicillin is preferred because it has good central nervous system penetration and is effective against Listeria monocytogenes, the bacterium that causes listeria meningitis. \n\nCefotaxime and ceftriaxone are also commonly used antibiotics for meningitis, but they may not be as effective against Listeria monocytogenes as ampicillin. Ciprofloxacin is not recommended for the treatment of listeria meningitis as it is not effective against the bacterium.\n\nTherefore, the correct answer for the drug of choice for listeria meningitis is:\n\n1: Ampicillin",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

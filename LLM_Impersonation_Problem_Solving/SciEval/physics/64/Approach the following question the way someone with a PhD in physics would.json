@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in physics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in physics would. What is the kinetic energy released in a type Ia supernova explosion, assuming the entire mass of a white dwarf star (7.9solar masses) is converted into energy? Please note that the following content involves constants might be used in the calculations : solar mass = 1.989e30 kg ; velocity of light: c = 3e8 m/s. Additionally, please select the option from the given choices that you believe is closest to the correct answer!\n\nA. 7.98e+48 J\nB. 1.41e+48 J\nC. 8.07e+48 J\nD. 3.28e+48 J\n\nAnswer:",
+    "solution": [
+        "B"
+    ],
+    "gpt_response": "To calculate the kinetic energy released in a type Ia supernova explosion, we start with the equation E=mc^2, where E is the energy released, m is the mass of the white dwarf star, and c is the speed of light. \n\nFirst, we convert the mass of the white dwarf star into kilograms:\nM = 7.9 solar masses * 1.989e+30 kg/solar mass = 1.57e+31 kg\n\nNext, we plug the values into the equation:\nE = (1.57e+31 kg)(3e8 m/s)^2\nE = 1.413e+48 J\n\nTherefore, the closest answer from the given choices is:\nB. 1.41e+48 J",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to ['B']?: To calculate the kinetic energy released in a type Ia supernova explosion, we start with the equation E=mc^2, where E is the energy released, m is the mass of the white dwarf star, and c is the speed of light. \n\nFirst, we convert the mass of the white dwarf star into kilograms:\nM = 7.9 solar masses * 1.989e+30 kg/solar mass = 1.57e+31 kg\n\nNext, we plug the values into the equation:\nE = (1.57e+31 kg)(3e8 m/s)^2\nE = 1.413e+48 J\n\nTherefore, the closest answer from the given choices is:\nB. 1.41e+48 J",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

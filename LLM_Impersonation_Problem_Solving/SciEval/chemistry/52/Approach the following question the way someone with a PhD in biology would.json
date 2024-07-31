@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. What is the molecular weight of C14H27Br?\nAnswer (numerical number):",
+    "solution": [
+        "275.27"
+    ],
+    "gpt_response": "The molecular weight of C14H27Br would be calculated as follows:\n\nCarbon has a molecular weight of approximately 12.01 g/mol.\nHydrogen has a molecular weight of approximately 1.008 g/mol.\nBromine has a molecular weight of approximately 79.90 g/mol.\n\nTo calculate the molecular weight of C14H27Br, we multiply the number of atoms of each element by their respective molecular weights and sum these values:\n\n(14 atoms of C x 12.01 g/mol) + (27 atoms of H x 1.008 g/mol) + (1 atom of Br x 79.90 g/mol)\n\n= (168.14) + (27.22) + (79.90)\n\n= 275.26 g/mol\n\nTherefore, the molecular weight of C14H27Br is 275.26 g/mol.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response ['275.27']?: The molecular weight of C14H27Br would be calculated as follows:\n\nCarbon has a molecular weight of approximately 12.01 g/mol.\nHydrogen has a molecular weight of approximately 1.008 g/mol.\nBromine has a molecular weight of approximately 79.90 g/mol.\n\nTo calculate the molecular weight of C14H27Br, we multiply the number of atoms of each element by their respective molecular weights and sum these values:\n\n(14 atoms of C x 12.01 g/mol) + (27 atoms of H x 1.008 g/mol) + (1 atom of Br x 79.90 g/mol)\n\n= (168.14) + (27.22) + (79.90)\n\n= 275.26 g/mol\n\nTherefore, the molecular weight of C14H27Br is 275.26 g/mol.",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "312",
+    "difficulty_value": "2"
+}

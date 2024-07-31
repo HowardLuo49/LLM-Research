@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. The most sensitive method for detecting cervical Chlamydia trachomatis infection is:\n1: Direct fluorescent antibody test\n2: Enzyme immunoassay\n3: Polymerase chain reaction\n4: Culture on irradiated McConkey cells",
+    "solution": 3,
+    "gpt_response": "As a doctor, I would recommend using Polymerase chain reaction (PCR) as the most sensitive method for detecting cervical Chlamydia trachomatis infection. PCR is highly sensitive and specific, making it the preferred method for diagnosing this type of infection.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: As a doctor, I would recommend using Polymerase chain reaction (PCR) as the most sensitive method for detecting cervical Chlamydia trachomatis infection. PCR is highly sensitive and specific, making it the preferred method for diagnosing this type of infection.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

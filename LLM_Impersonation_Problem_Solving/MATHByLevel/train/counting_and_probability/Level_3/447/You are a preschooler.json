@@ -1,0 +1,7 @@
+{
+    "prefix": "You are a preschooler.\n",
+    "problem_prompt": "You are a preschooler.\nThere are 12 different-colored crayons in a box. How many ways can Karl select four crayons if the order in which he draws them out does not matter?",
+    "solution": "There are 12 ways to select the first crayon, 11 ways to select the second, 10 ways to select the third, and 9 ways to select the last. However, since order does not matter, we must divide by the number of ways he can draw out the crayons, which is $4!$.\n\nThe answer is $\\dfrac{12\\times11\\times10\\times9}{4!}=\\boxed{495}$ ways.",
+    "gpt_response": "ChatCompletion(id='chatcmpl-9A2YiF73Ut1evALtNXaDardEnIk32', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='This is a combination problem. The formula for combinations is nCr = n!/r!(n-r)!, where n is the total number of items to choose from and r is the number of items to choose.\\n\\nIn this case, n = 12 (the number of crayons) and r = 4 (the number of crayons Karl wants to select).\\n\\nTherefore, the number of ways Karl can select four crayons from the box is:\\n\\n12C4 = 12! / 4!(12-4)!\\n      = 12! / 4!8!\\n      = (12*11*10*9) / (4*3*2*1)\\n      = 495\\n\\nSo, Karl can select four crayons in 495 different ways.', role='assistant', function_call=None, tool_calls=None))], created=1712180144, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint='fp_b28b39ffa8', usage=CompletionUsage(completion_tokens=157, prompt_tokens=47, total_tokens=204))",
+    "yes_no": "yes"
+}

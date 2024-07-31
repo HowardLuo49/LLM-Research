@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. Suppose $173\\cdot 927\\equiv n\\pmod{50}$, where $0\\le n< 50$.\n\nWhat is the value of $n$?",
+    "solution": "Note that $173 \\equiv 23\\pmod{50}$ and $927\\equiv 27\\pmod{50}$. Therefore, \\begin{align*}\n173\\cdot 927 &\\equiv 23\\cdot 27 \\\\\n&= 621 \\\\\n&\\equiv \\boxed{21}\\quad\\pmod{50}.\n\\end{align*}",
+    "gpt_response": "To find the value of $n$, we first need to multiply 173 and 927. When we do that, we get 160,071. \n\nNext, we need to find the remainder when we divide 160,071 by 50. \n\nSo, 160,071 divided by 50 equals 3,201 with a remainder of 21. \n\nTherefore, the value of $n$ is 21.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 21?: To find the value of $n$, we first need to multiply 173 and 927. When we do that, we get 160,071. \n\nNext, we need to find the remainder when we divide 160,071 by 50. \n\nSo, 160,071 divided by 50 equals 3,201 with a remainder of 21. \n\nTherefore, the value of $n$ is 21.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "21",
+    "difficulty_value": "2"
+}

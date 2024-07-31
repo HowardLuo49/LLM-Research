@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in computer science would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in computer science would. It takes Michael 0.30 hours to walk to school. How many seconds does it take him to walk to school?",
+    "solution": "1080",
+    "gpt_response": "To calculate the number of seconds it takes for Michael to walk to school, we first convert the time from hours to seconds. There are 3600 seconds in an hour, so 0.30 hours is equal to 0.30 * 3600 = 1080 seconds. Therefore, it takes Michael 1080 seconds to walk to school.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 1080?: To calculate the number of seconds it takes for Michael to walk to school, we first convert the time from hours to seconds. There are 3600 seconds in an hour, so 0.30 hours is equal to 0.30 * 3600 = 1080 seconds. Therefore, it takes Michael 1080 seconds to walk to school.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

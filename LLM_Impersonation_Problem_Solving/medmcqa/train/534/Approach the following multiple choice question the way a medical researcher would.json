@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a medical researcher would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a medical researcher would. What is an ideal method to prevent aspiration pneumonia?\n1: Cuffed endotracheal tube\n2: Inhalational anaesthesia\n3: Increased intra abdominal pressure\n4: Full stomach",
+    "solution": 1,
+    "gpt_response": "As a medical researcher, the ideal method to prevent aspiration pneumonia would be the use of a cuffed endotracheal tube. This is because a cuffed endotracheal tube helps to seal off the airway, preventing the aspiration of gastric contents into the lungs. Inhalational anesthesia, increased intra-abdominal pressure, and a full stomach can all potentially increase the risk of aspiration pneumonia.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: As a medical researcher, the ideal method to prevent aspiration pneumonia would be the use of a cuffed endotracheal tube. This is because a cuffed endotracheal tube helps to seal off the airway, preventing the aspiration of gastric contents into the lungs. Inhalational anesthesia, increased intra-abdominal pressure, and a full stomach can all potentially increase the risk of aspiration pneumonia.",
+    "gpt_response_correct_incorrect": "Yes, option 1 is obtained in the response.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

@@ -1,0 +1,8 @@
+{
+    "problem_prompt": "Your job is to consider a number theory problem, and leave a plan for the next person to solve it. The problem will be revealed one sentence at a time. You do not have the entire problem yet, thus just do whatever calcluations/planning you think will be useful for the next person. If you don't think you can make any progress, say so. The following is a portion of the entire problem, and the work/progress/message the previous person left for you. There may be errors in the provided work that was previously done and left for you, so check and fix them if necessary.\nTo prepare for her half-marathon, Mary ran a total of $2847_9$ miles.\n",
+    "solution": "$2847_9=2\\cdot9^3+8\\cdot9^2+4\\cdot9^1+7\\cdot9^0=1458+648+36+7=\\boxed{2149}$ miles.",
+    "gpt_response": "Converting $2847_9$ to base 10, we get $2(9^3) + 8(9^2) + 4(9^1) + 7(9^0) = 2(729) + 8(81) + 4(9) + 7(1) = 1458 + 648 + 36 + 7 = 2149$ miles.",
+    "solution_prompt": "Question partition not complete yet",
+    "gpt_response_correct_incorrect": "Question partition not complete yet",
+    "yes_no": "Question partition not complete yet"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Determination of Pulp vitality by pulse oximeter based on:\n1: Beer's law.\n2: Pascal's law.\n3: Doppler law.\n4: Poisslues law.",
+    "solution": 1,
+    "gpt_response": "As a doctor, I would select option 3: Doppler law. Doppler law is commonly used in medical diagnostics to measure blood flow and detect pulse waves. In dentistry, pulse oximeters can be used to determine the vitality of the pulp by measuring blood flow in the dental pulp.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: As a doctor, I would select option 3: Doppler law. Doppler law is commonly used in medical diagnostics to measure blood flow and detect pulse waves. In dentistry, pulse oximeters can be used to determine the vitality of the pulp by measuring blood flow in the dental pulp.",
+    "gpt_response_correct_incorrect": "No. The final solution obtained in the response is not option 1.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

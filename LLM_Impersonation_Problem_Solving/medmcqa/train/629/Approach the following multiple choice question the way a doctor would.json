@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Duhamel procedure is done for -\n1: Hirschsprung's disease\n2: HPSS\n3: Meckels diverticulum\n4: Volvulus",
+    "solution": 1,
+    "gpt_response": "Duhamel procedure is typically performed for Hirschsprung's disease, also known as congenital aganglionic megacolon. This procedure involves creating a new rectal reservoir from the healthy portion of the colon in order to bypass the affected area of the colon. This helps to alleviate the symptoms of chronic constipation and bowel obstruction associated with Hirschsprung's disease.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: Duhamel procedure is typically performed for Hirschsprung's disease, also known as congenital aganglionic megacolon. This procedure involves creating a new rectal reservoir from the healthy portion of the colon in order to bypass the affected area of the colon. This helps to alleviate the symptoms of chronic constipation and bowel obstruction associated with Hirschsprung's disease.",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a medical researcher would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a medical researcher would. Which of the following drug acts against Pseudomonas -\n1: Piperacillin\n2: Methicillin\n3: Nafcillin\n4: Cloxacillin",
+    "solution": 1,
+    "gpt_response": "To determine which of the following drugs acts against Pseudomonas, a medical researcher would consider the antibiotic spectrum of each drug. Pseudomonas is a Gram-negative bacterium, so the drug that would be most effective against it would be one with activity against Gram-negative bacteria.\n\nOut of the options provided:\n1. Piperacillin: Piperacillin is a broad-spectrum antibiotic that is effective against both Gram-positive and Gram-negative bacteria, including Pseudomonas.\n2. Methicillin, 3. Nafcillin, and 4. Cloxacillin: These drugs are all beta-lactam antibiotics that are primarily effective against Gram-positive bacteria and are not typically used to treat Pseudomonas infections.\n\nTherefore, the drug that acts against Pseudomonas out of the options provided is Piperacillin.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: To determine which of the following drugs acts against Pseudomonas, a medical researcher would consider the antibiotic spectrum of each drug. Pseudomonas is a Gram-negative bacterium, so the drug that would be most effective against it would be one with activity against Gram-negative bacteria.\n\nOut of the options provided:\n1. Piperacillin: Piperacillin is a broad-spectrum antibiotic that is effective against both Gram-positive and Gram-negative bacteria, including Pseudomonas.\n2. Methicillin, 3. Nafcillin, and 4. Cloxacillin: These drugs are all beta-lactam antibiotics that are primarily effective against Gram-positive bacteria and are not typically used to treat Pseudomonas infections.\n\nTherefore, the drug that acts against Pseudomonas out of the options provided is Piperacillin.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

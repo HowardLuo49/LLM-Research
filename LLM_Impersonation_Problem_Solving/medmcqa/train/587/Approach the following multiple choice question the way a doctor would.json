@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Investigation of choice in bronchiectasis is\n1: Bronchoscopy\n2: MRI thorax\n3: HRCT lung\n4: Chest X-ray",
+    "solution": 3,
+    "gpt_response": "As a doctor, when investigating bronchiectasis, the preferred method of choice would be high-resolution CT (HRCT) of the lung. This imaging technique provides detailed images of the lungs and is the most accurate method for diagnosing bronchiectasis. Bronchoscopy may also be used in some cases to visualize the airways directly, but HRCT is usually the initial investigation of choice. MRI thorax and chest X-ray are not as sensitive or specific for detecting bronchiectasis compared to HRCT.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: As a doctor, when investigating bronchiectasis, the preferred method of choice would be high-resolution CT (HRCT) of the lung. This imaging technique provides detailed images of the lungs and is the most accurate method for diagnosing bronchiectasis. Bronchoscopy may also be used in some cases to visualize the airways directly, but HRCT is usually the initial investigation of choice. MRI thorax and chest X-ray are not as sensitive or specific for detecting bronchiectasis compared to HRCT.",
+    "gpt_response_correct_incorrect": "Option 3: Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

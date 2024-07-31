@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. A university\u2019s mathematics department has 10 professors and will offer 20 different courses next semester. Each professor will be assigned to teach exactly 2 of the courses, and each course will have exactly one professor assigned to teach it. If any professor can be assigned to teach any course, how many different complete assignments of the 10 professors to the 20 courses are possible?\nA: 20!/2^(10)\nB: 10!/2^9\nC: 10^(20) - 2^(10)\nD: 10^(20) - 100",
+    "solution": "A",
+    "gpt_response": "To approach this problem as someone with a PhD in mathematics would, we need to analyze the problem systematically.\n\nWe have 10 professors and 20 courses. Each professor can be assigned to teach 2 courses, and each course will have exactly one professor assigned to it.\n\nTo find the total number of different complete assignments, we first need to choose which 2 courses each professor will teach. This can be done in C(20, 2) ways for the first professor, C(18, 2) ways for the second professor, and so on, resulting in C(20, 2) * C(18, 2) * ... * C(4, 2) * C(2, 2) ways in total.\n\nThis simplifies to (20! / (2! * 18!)) * (18! / (2! * 16!)) * ... * (2! / (2! * 0!)), which becomes 20! / (2^10 * 10!).\n\nTherefore, the correct answer is A: 20! / 2^10.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to A?: To approach this problem as someone with a PhD in mathematics would, we need to analyze the problem systematically.\n\nWe have 10 professors and 20 courses. Each professor can be assigned to teach 2 courses, and each course will have exactly one professor assigned to it.\n\nTo find the total number of different complete assignments, we first need to choose which 2 courses each professor will teach. This can be done in C(20, 2) ways for the first professor, C(18, 2) ways for the second professor, and so on, resulting in C(20, 2) * C(18, 2) * ... * C(4, 2) * C(2, 2) ways in total.\n\nThis simplifies to (20! / (2! * 18!)) * (18! / (2! * 16!)) * ... * (2! / (2! * 0!)), which becomes 20! / (2^10 * 10!).\n\nTherefore, the correct answer is A: 20! / 2^10.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

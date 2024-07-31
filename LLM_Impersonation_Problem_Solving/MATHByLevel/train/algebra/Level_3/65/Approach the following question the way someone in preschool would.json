@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. A television's price was discounted $40\\%$ and then slashed another $40\\%$ during a liquidation sale. By what percent has the original price been reduced?",
+    "solution": "Let the original price of the television be $T$. Then the price is now $0.6(0.6T)=0.36T$. Thus overall the price has been reduced by $1-0.36=\\boxed{64\\%}$.",
+    "gpt_response": "Okay, so let's pretend we have a yummy cookie that we want to sell on the playground. We decide to give a big discount of $40\\%$ off the original price. Then, we decide to give another $40\\%$ off during a big sale.\n\nWhen we give the first $40\\%$ discount, that means we only charge $60\\%$ of the original price. Then, when we give the second $40\\%$ discount, we only charge $60\\%$ of the remaining $60\\%$.\n\nTo figure out how much we are charging after both discounts, we can multiply $60\\%$ by $60\\%$ to get $36\\%$. So, the original price has been reduced by $100\\% - 36\\% = 64\\%$. Wow, that's a big discount!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 64\\%?: Okay, so let's pretend we have a yummy cookie that we want to sell on the playground. We decide to give a big discount of $40\\%$ off the original price. Then, we decide to give another $40\\%$ off during a big sale.\n\nWhen we give the first $40\\%$ discount, that means we only charge $60\\%$ of the original price. Then, when we give the second $40\\%$ discount, we only charge $60\\%$ of the remaining $60\\%$.\n\nTo figure out how much we are charging after both discounts, we can multiply $60\\%$ by $60\\%$ to get $36\\%$. So, the original price has been reduced by $100\\% - 36\\% = 64\\%$. Wow, that's a big discount!",
+    "gpt_response_correct_incorrect": "Yes.",
+    "yes_no": "yes"
+}

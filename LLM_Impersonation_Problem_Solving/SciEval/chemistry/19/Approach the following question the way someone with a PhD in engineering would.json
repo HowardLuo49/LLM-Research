@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in engineering would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in engineering would. What is the SMILES expression of C13H27NO?\nAnswer:",
+    "solution": [
+        "CCCNC(CC)CCC1CCCOC1"
+    ],
+    "gpt_response": "The SMILES expression of C13H27NO is [NH2+]CC(CCCCCCCCCCCCC)C. This representation provides a compact and simplified way to describe the chemical structure of the given molecule using a linear notation format. This notation is commonly used in computational chemistry and molecular modeling to represent and encode chemical structures for further analysis and simulations.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response ['CCCNC(CC)CCC1CCCOC1']?: The SMILES expression of C13H27NO is [NH2+]CC(CCCCCCCCCCCCC)C. This representation provides a compact and simplified way to describe the chemical structure of the given molecule using a linear notation format. This notation is commonly used in computational chemistry and molecular modeling to represent and encode chemical structures for further analysis and simulations.",
+    "gpt_response_correct_incorrect": "No, the final solution obtained in the response is not ['CCCNC(CC)CCC1CCCOC1'].",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

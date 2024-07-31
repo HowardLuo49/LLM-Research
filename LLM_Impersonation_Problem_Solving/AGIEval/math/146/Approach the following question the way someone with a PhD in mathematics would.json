@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. 25 students average 84 on a test. Another group of 20 students averages 66. Find the overall average.",
+    "solution": "76",
+    "gpt_response": "To find the overall average, it is necessary to calculate the total sum of scores and then divide by the total number of students.\n\nLet x be the total sum of scores for the first group of 25 students, and y be the total sum of scores for the second group of 20 students. We know that the average score for the first group is 84 and the average score for the second group is 66.\n\nTherefore, we have the following equations:\n\nx/25 = 84\ny/20 = 66\n\nMultiplying both sides of the equations by 25 and 20 respectively, we get:\n\nx = 2100\ny = 1320\n\nThe total sum of scores for all students is x + y = 2100 + 1320 = 3420.\n\nThe total number of students is 25 + 20 = 45.\n\nTherefore, the overall average is 3420/45 = 76.\n\nTherefore, the overall average score for all 45 students is 76.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 76?: To find the overall average, it is necessary to calculate the total sum of scores and then divide by the total number of students.\n\nLet x be the total sum of scores for the first group of 25 students, and y be the total sum of scores for the second group of 20 students. We know that the average score for the first group is 84 and the average score for the second group is 66.\n\nTherefore, we have the following equations:\n\nx/25 = 84\ny/20 = 66\n\nMultiplying both sides of the equations by 25 and 20 respectively, we get:\n\nx = 2100\ny = 1320\n\nThe total sum of scores for all students is x + y = 2100 + 1320 = 3420.\n\nThe total number of students is 25 + 20 = 45.\n\nTherefore, the overall average is 3420/45 = 76.\n\nTherefore, the overall average score for all 45 students is 76.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

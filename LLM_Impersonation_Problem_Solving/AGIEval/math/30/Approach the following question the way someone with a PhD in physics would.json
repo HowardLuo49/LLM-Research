@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in physics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in physics would. Theo has one sphere with radius 5; Akshaj has two spheres with radius 2.  What is the ratio of the surface area of Theo's sphere to the total surface area of Akshaj's spheres?",
+    "solution": "\\frac{25}{8}",
+    "gpt_response": "To determine the surface area of a sphere, one can use the formula A = 4\u03c0r\u00b2, where A is the surface area and r is the radius of the sphere. \n\nFor Theo's sphere, with a radius of 5, the surface area can be calculated as A_theo = 4\u03c0(5)\u00b2 = 100\u03c0. \n\nFor Akshaj's spheres, each with a radius of 2, the total surface area can be calculated as A_akshaj = 2 * 4\u03c0(2)\u00b2 = 32\u03c0. \n\nTherefore, the ratio of the surface area of Theo's sphere to the total surface area of Akshaj's spheres is A_theo / A_akshaj = (100\u03c0) / (32\u03c0) = 100 / 32 = 25 / 8. \n\nHence, the ratio of the surface area of Theo's sphere to the total surface area of Akshaj's spheres is 25:8.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response \\frac{25}{8}?: To determine the surface area of a sphere, one can use the formula A = 4\u03c0r\u00b2, where A is the surface area and r is the radius of the sphere. \n\nFor Theo's sphere, with a radius of 5, the surface area can be calculated as A_theo = 4\u03c0(5)\u00b2 = 100\u03c0. \n\nFor Akshaj's spheres, each with a radius of 2, the total surface area can be calculated as A_akshaj = 2 * 4\u03c0(2)\u00b2 = 32\u03c0. \n\nTherefore, the ratio of the surface area of Theo's sphere to the total surface area of Akshaj's spheres is A_theo / A_akshaj = (100\u03c0) / (32\u03c0) = 100 / 32 = 25 / 8. \n\nHence, the ratio of the surface area of Theo's sphere to the total surface area of Akshaj's spheres is 25:8.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

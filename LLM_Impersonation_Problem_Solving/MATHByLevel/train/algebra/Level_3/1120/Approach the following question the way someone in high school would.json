@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Compute $\\frac{x^8+12x^4+36}{x^4+6}$ when $x=5$.",
+    "solution": "Note that $\\left(x^4+6\\right)^2=x^8+12x^4+36$. So $\\frac{x^8+12x^4+36}{x^4+6}=\\frac{\\left(x^4+6\\right)^2}{x^4+6}=x^4+6$. Our answer is therefore $5^4+6=625+6=\\boxed{631}$.",
+    "gpt_response": "To find  $\\frac{x^8+12x^4+36}{x^4+6}$ when  $x=5$, we substitute $x=5$ into the expression. \n\nSo, we have $\\frac{5^8+12(5)^4+36}{5^4+6}$. \n\nSimplify the expression by substituting $x=5$ into the expression. \n\nThis gives $\\frac{39061}{31}$. \n\nTherefore, $\\frac{x^8+12x^4+36}{x^4+6}$ when $x=5$ equals $\\frac{39061}{31}$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 631?: To find  $\\frac{x^8+12x^4+36}{x^4+6}$ when  $x=5$, we substitute $x=5$ into the expression. \n\nSo, we have $\\frac{5^8+12(5)^4+36}{5^4+6}$. \n\nSimplify the expression by substituting $x=5$ into the expression. \n\nThis gives $\\frac{39061}{31}$. \n\nTherefore, $\\frac{x^8+12x^4+36}{x^4+6}$ when $x=5$ equals $\\frac{39061}{31}$.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "yes_no": "yes"
+}

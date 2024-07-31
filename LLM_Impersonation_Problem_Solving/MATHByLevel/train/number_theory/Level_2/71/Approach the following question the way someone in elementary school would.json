@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. How many two-digit numbers can be written in the form $2^n$ where $n$ is an integer?",
+    "solution": "The smallest $n$ that works is $4$ with $2^4=16$ and the largest is $6$ with $2^6=64,$ so $n$ can be $4,\\ 5,$ or $6$ for $\\boxed{3}$ such numbers.",
+    "gpt_response": "Let's start by finding the smallest and largest possible values of $n$ for two-digit numbers. The smallest two-digit number is 10, which can be written as $2^3$. The largest two-digit number is 99, which can be written as $2^6$. \n\nSo, we need to find how many integers are between 3 and 6. These integers are 3, 4, 5, and 6. \n\nTherefore, there are $\\boxed{4}$ two-digit numbers that can be written in the form $2^n$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 3?: Let's start by finding the smallest and largest possible values of $n$ for two-digit numbers. The smallest two-digit number is 10, which can be written as $2^3$. The largest two-digit number is 99, which can be written as $2^6$. \n\nSo, we need to find how many integers are between 3 and 6. These integers are 3, 4, 5, and 6. \n\nTherefore, there are $\\boxed{4}$ two-digit numbers that can be written in the form $2^n$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "5",
+    "difficulty_value": "5"
+}

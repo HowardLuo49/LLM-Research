@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a medical researcher would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a medical researcher would. Serological testing of patient shows HBsAg, IgM Anti-HBc and HBeAg positive . The patient has-\n1: Chronic hepatitis B with low infectivity\n2: Acute hepatitis B with high infectivity\n3: Chronic hepatitis with high in fectivity\n4: Acute on chronic hepatitis",
+    "solution": 2,
+    "gpt_response": "To approach this question as a medical researcher, we need to understand the significance of the serological markers mentioned. HBsAg (hepatitis B surface antigen) indicates a current infection with hepatitis B virus. IgM Anti-HBc (IgM antibody to hepatitis B core antigen) is indicative of recent infection, while HBeAg (hepatitis B e antigen) is a marker of high infectivity.\n\nGiven that the patient is positive for HBsAg, IgM Anti-HBc, and HBeAg, this suggests an acute infection with hepatitis B virus and high infectivity. Therefore, the correct answer would be 2: Acute hepatitis B with high infectivity.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: To approach this question as a medical researcher, we need to understand the significance of the serological markers mentioned. HBsAg (hepatitis B surface antigen) indicates a current infection with hepatitis B virus. IgM Anti-HBc (IgM antibody to hepatitis B core antigen) is indicative of recent infection, while HBeAg (hepatitis B e antigen) is a marker of high infectivity.\n\nGiven that the patient is positive for HBsAg, IgM Anti-HBc, and HBeAg, this suggests an acute infection with hepatitis B virus and high infectivity. Therefore, the correct answer would be 2: Acute hepatitis B with high infectivity.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

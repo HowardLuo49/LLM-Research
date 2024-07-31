@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in philosophy would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in philosophy would. Let $\\alpha,$ $\\beta,$ $\\gamma,$ and $\\delta$ be the roots of\n\\[x^4 + kx^2 + 90x - 2009 = 0.\\]If $\\alpha \\beta = 49,$ find $k.$",
+    "solution": "7",
+    "gpt_response": "We are given that $\\alpha,$ $\\beta,$ $\\gamma,$ and $\\delta$ are the roots of the quartic polynomial\n\\[x^4 + kx^2 + 90x - 2009 = 0.\\]Since $\\alpha \\beta = 49,$ we know that\n\\[(x - \\alpha)(x - \\beta) = x^2 - (\\alpha + \\beta)x + \\alpha \\beta = x^2 - (90 + \\gamma + \\delta)x + 49.\\]By Vieta's formulas, the sum of the roots of this quadratic is $90 + \\gamma + \\delta.$  Hence, by Vieta's formulas, $90 + \\gamma + \\delta = 0,$ which means $\\gamma + \\delta = -90.$\n\nThen by Vieta's formulas again, $\\gamma \\delta = -\\frac{2009}{1} = -2009.$  Thus, $\\gamma$ and $\\delta$ are the roots of\n\\[x^2 + 90x - 2009 = 0.\\]Solving, we find the roots are $7$ and $-287.$\n\nThus, $k = \\alpha \\beta + \\gamma + \\delta = 49 + 7 - 287 = \\boxed{-231}.$\n\nGeneralizing, we see that we do not even need to find the roots $\\gamma$ and $\\delta$ to find $k.$",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 7?: We are given that $\\alpha,$ $\\beta,$ $\\gamma,$ and $\\delta$ are the roots of the quartic polynomial\n\\[x^4 + kx^2 + 90x - 2009 = 0.\\]Since $\\alpha \\beta = 49,$ we know that\n\\[(x - \\alpha)(x - \\beta) = x^2 - (\\alpha + \\beta)x + \\alpha \\beta = x^2 - (90 + \\gamma + \\delta)x + 49.\\]By Vieta's formulas, the sum of the roots of this quadratic is $90 + \\gamma + \\delta.$  Hence, by Vieta's formulas, $90 + \\gamma + \\delta = 0,$ which means $\\gamma + \\delta = -90.$\n\nThen by Vieta's formulas again, $\\gamma \\delta = -\\frac{2009}{1} = -2009.$  Thus, $\\gamma$ and $\\delta$ are the roots of\n\\[x^2 + 90x - 2009 = 0.\\]Solving, we find the roots are $7$ and $-287.$\n\nThus, $k = \\alpha \\beta + \\gamma + \\delta = 49 + 7 - 287 = \\boxed{-231}.$\n\nGeneralizing, we see that we do not even need to find the roots $\\gamma$ and $\\delta$ to find $k.$",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in computer science would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in computer science would. How many atoms are there in COCC(CCN1CC(C1=O)N)O?\nAnswer (numerical number):",
+    "solution": [
+        29
+    ],
+    "gpt_response": "There are a total of 43 atoms in the chemical compound COCC(CCN1CC(C1=O)N)O.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response [29]?: There are a total of 43 atoms in the chemical compound COCC(CCN1CC(C1=O)N)O.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "26",
+    "difficulty_value": "2"
+}

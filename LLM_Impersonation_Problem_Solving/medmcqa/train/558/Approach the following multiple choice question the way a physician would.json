@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Gastric irritation is least with following NSA1D: (PGI June 2008)\n1: Diclofenac\n2: Acetaminophen\n3: Ibuprofen\n4: Naproxen",
+    "solution": 2,
+    "gpt_response": "As a physician, I would approach this question by analyzing the pharmacology of each NSAID and their potential for causing gastric irritation. \n\nDiclofenac is known to have a higher risk of causing gastric irritation compared to other NSAIDs, so it is not the correct answer. \n\nAcetaminophen is not a NSAID, so it does not have the same mechanism of action as the other options. It is not typically associated with gastric irritation. \n\nIbuprofen is known to have a moderate risk of causing gastric irritation, so it is not the correct answer. \n\nNaproxen is associated with the least risk of causing gastric irritation among the NSAIDs listed, making it the correct answer in this scenario. \n\nTherefore, as a physician, I would select option 4: Naproxen as the NSAID least likely to cause gastric irritation.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: As a physician, I would approach this question by analyzing the pharmacology of each NSAID and their potential for causing gastric irritation. \n\nDiclofenac is known to have a higher risk of causing gastric irritation compared to other NSAIDs, so it is not the correct answer. \n\nAcetaminophen is not a NSAID, so it does not have the same mechanism of action as the other options. It is not typically associated with gastric irritation. \n\nIbuprofen is known to have a moderate risk of causing gastric irritation, so it is not the correct answer. \n\nNaproxen is associated with the least risk of causing gastric irritation among the NSAIDs listed, making it the correct answer in this scenario. \n\nTherefore, as a physician, I would select option 4: Naproxen as the NSAID least likely to cause gastric irritation.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

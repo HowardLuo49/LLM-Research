@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. According to the BCS theory, the attraction between Cooper pairs in a superconductor is due to\nA: the weak nuclear force\nB: the strong nuclear force\nC: vacuum polarization\nD: interactions with the ionic lattice",
+    "solution": "D",
+    "gpt_response": "The correct answer is D: interactions with the ionic lattice. \n\nAccording to the BCS theory (Bardeen-Cooper-Schrieffer theory), the attraction between Cooper pairs in a superconductor is due to their interactions with the phonons of the ionic lattice. This lattice creates a periodic potential in the material, which allows for the formation of electron pairs with opposite momentum and spin. These Cooper pairs have lower energy than individual electrons due to this lattice-mediated attraction, leading to the phenomenon of superconductivity. The weak and strong nuclear forces as well as vacuum polarization are not involved in the mechanism of Cooper pair formation in superconductors.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: The correct answer is D: interactions with the ionic lattice. \n\nAccording to the BCS theory (Bardeen-Cooper-Schrieffer theory), the attraction between Cooper pairs in a superconductor is due to their interactions with the phonons of the ionic lattice. This lattice creates a periodic potential in the material, which allows for the formation of electron pairs with opposite momentum and spin. These Cooper pairs have lower energy than individual electrons due to this lattice-mediated attraction, leading to the phenomenon of superconductivity. The weak and strong nuclear forces as well as vacuum polarization are not involved in the mechanism of Cooper pair formation in superconductors.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

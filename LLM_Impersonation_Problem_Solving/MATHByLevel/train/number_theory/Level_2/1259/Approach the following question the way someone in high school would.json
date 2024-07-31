@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Find the greatest common factor of 5! and 6!.  (Reminder: If $n$ is a positive integer, then $n!$ stands for the product $1\\cdot 2\\cdot 3\\cdot \\cdots \\cdot (n-1)\\cdot n$.)",
+    "solution": "Note that $6!=6\\cdot5!$. Therefore, the greatest common factor must be $5!=\\boxed{120}$.",
+    "gpt_response": "To find the greatest common factor of two numbers, we need to find the prime factorizations of both numbers. \n\nFirst, let's find the prime factorization of $5!$:\n$5! = 5\\cdot 4\\cdot 3\\cdot 2\\cdot 1 = 2^3\\cdot 3\\cdot 5$\n\nNow, let's find the prime factorization of $6!$:\n$6! = 6\\cdot 5! = 6\\cdot 2^3\\cdot 3\\cdot 5 = 2^4\\cdot 3^2\\cdot 5$\n\nThe greatest common factor is the product of the common prime factors raised to the smallest exponent they appear in either number. In this case, the greatest common factor of $5!$ and $6!$ is $2^3\\cdot 3\\cdot 5 = \\boxed{120}$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 120?: To find the greatest common factor of two numbers, we need to find the prime factorizations of both numbers. \n\nFirst, let's find the prime factorization of $5!$:\n$5! = 5\\cdot 4\\cdot 3\\cdot 2\\cdot 1 = 2^3\\cdot 3\\cdot 5$\n\nNow, let's find the prime factorization of $6!$:\n$6! = 6\\cdot 5! = 6\\cdot 2^3\\cdot 3\\cdot 5 = 2^4\\cdot 3^2\\cdot 5$\n\nThe greatest common factor is the product of the common prime factors raised to the smallest exponent they appear in either number. In this case, the greatest common factor of $5!$ and $6!$ is $2^3\\cdot 3\\cdot 5 = \\boxed{120}$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

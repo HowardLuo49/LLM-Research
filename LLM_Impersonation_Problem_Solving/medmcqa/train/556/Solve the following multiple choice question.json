@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. You are conducting a survey in your village and the person you are interviewing is a 32 year old post graduate working as a clerk. His total family income is 20,000 Rs per month. According to Kuppuswamy's socio economic status scale, he belongs to:\n1: Upper socioeconomic class\n2: Upper socioeconomic class\n3: Lower middle socioeconomic class\n4: Upper lower socioeconomic class",
+    "solution": 2,
+    "gpt_response": "3: Lower middle socioeconomic class\n\nExplanation:\nAccording to Kuppuswamy's socio-economic status scale, the socio-economic status of an individual is determined based on their education, occupation, and family income. In this case, the person is a post-graduate working as a clerk with a total family income of 20,000 Rs per month. This places him in the lower middle socio-economic class category.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: 3: Lower middle socioeconomic class\n\nExplanation:\nAccording to Kuppuswamy's socio-economic status scale, the socio-economic status of an individual is determined based on their education, occupation, and family income. In this case, the person is a post-graduate working as a clerk with a total family income of 20,000 Rs per month. This places him in the lower middle socio-economic class category.",
+    "gpt_response_correct_incorrect": "No. The final solution obtained in the response is not 2, it is 3: Lower middle socioeconomic class.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

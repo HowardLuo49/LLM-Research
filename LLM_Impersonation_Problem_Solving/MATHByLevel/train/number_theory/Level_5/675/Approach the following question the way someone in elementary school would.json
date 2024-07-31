@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. The sum of two positive integers $a$ and $b$ is 1001.  What is the largest possible value of $\\gcd(a,b)$?",
+    "solution": "Note that $\\gcd(a,b)$ divides both $a$ and $b$, so $\\gcd(a,b)$ must also divide $a + b = 1001$.  Clearly, $\\gcd(a,b)$ cannot be equal to 1001 (because both $a$ and $b$ must be less than 1001).  The next-largest divisor of 1001 is 143.  If $a = 143$ and $b = 1001 - 143 = 858$, then $\\gcd(a,b) = \\gcd(143,858) = 143$.  Therefore, the largest possible value of $\\gcd(a,b)$ is $\\boxed{143}$.",
+    "gpt_response": "To find the largest possible value of the greatest common divisor (gcd) of two numbers, we need to find the greatest common factor that divides both numbers evenly. \n\nSince $a + b = 1001$, the gcd of $a$ and $b$ must be a factor of 1001. \n\nTo find the largest factor of 1001, we can factorize 1001 as 7 * 11 * 13. \n\nSince the numbers are positive integers, the largest possible value of the gcd of $a$ and $b$ is 13.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 143?: To find the largest possible value of the greatest common divisor (gcd) of two numbers, we need to find the greatest common factor that divides both numbers evenly. \n\nSince $a + b = 1001$, the gcd of $a$ and $b$ must be a factor of 1001. \n\nTo find the largest factor of 1001, we can factorize 1001 as 7 * 11 * 13. \n\nSince the numbers are positive integers, the largest possible value of the gcd of $a$ and $b$ is 13.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

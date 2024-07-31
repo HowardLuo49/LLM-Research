@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. Statement 1 | If a group has an element of order 15 it must have at least 8 elements of order 15. Statement 2 | If a group has more than 8 elements of order 15, it must have at least 16 elements of order 15.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "A",
+    "gpt_response": "Hmm, let me think like someone in elementary school... Statement 1 says that if a group has an element of order 15, it must have at least 8 elements of order 15. That sounds true to me because having just one element of order 15 means there could be more. Statement 2 says if a group has more than 8 elements of order 15, it must have at least 16 elements of order 15. That also sounds true because if there are more than 8 elements of order 15, there must be even more elements to make at least 16. So, based on my elementary school thinking, I would say the answer is C: True, False.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to A?: Hmm, let me think like someone in elementary school... Statement 1 says that if a group has an element of order 15, it must have at least 8 elements of order 15. That sounds true to me because having just one element of order 15 means there could be more. Statement 2 says if a group has more than 8 elements of order 15, it must have at least 16 elements of order 15. That also sounds true because if there are more than 8 elements of order 15, there must be even more elements to make at least 16. So, based on my elementary school thinking, I would say the answer is C: True, False.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

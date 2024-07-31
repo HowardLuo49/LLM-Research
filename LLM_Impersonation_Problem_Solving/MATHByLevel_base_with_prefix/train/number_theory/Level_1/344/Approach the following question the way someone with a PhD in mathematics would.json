@@ -1,0 +1,10 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. What is the greatest three-digit multiple of 19?",
+    "solution": "Since 19 is close to 20 and $20\\cdot50=1000$, we consider \\[19\\cdot50=950.\\] From here we skip-count by 19s: \\[950,969,988,1007,\\ldots\\] The largest three-digit multiple of 19 is $\\boxed{988}$.",
+    "gpt_response": "To find the greatest three-digit multiple of 19, we can use the fact that the largest three-digit number is 999. We want to find the largest multiple of 19 that is less than or equal to 999.\n\nTo do this, we divide 999 by 19 and find that it goes in 52 times with a remainder of 7. Therefore, the largest multiple of 19 less than or equal to 999 is 52 * 19 = 988. Therefore, the greatest three-digit multiple of 19 is 988.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 988?: To find the greatest three-digit multiple of 19, we can use the fact that the largest three-digit number is 999. We want to find the largest multiple of 19 that is less than or equal to 999.\n\nTo do this, we divide 999 by 19 and find that it goes in 52 times with a remainder of 7. Therefore, the largest multiple of 19 less than or equal to 999 is 52 * 19 = 988. Therefore, the greatest three-digit multiple of 19 is 988.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes"
+}

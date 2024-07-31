@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. A line is parameterized by\n\\[\\begin{pmatrix} x \\\\ y \\end{pmatrix} = \\begin{pmatrix} -3 \\\\ -4 \\end{pmatrix} + t \\begin{pmatrix} 7 \\\\ -2 \\end{pmatrix}.\\]The equation of the line can be expressed in the form $y = mx + b.$  Enter the ordered pair $(m,b).$",
+    "solution": "\\left( -\\frac{2}{7}, -\\frac{34}{7} \\right)",
+    "gpt_response": "A line in two dimensions can be represented in vector form as $\\begin{pmatrix} x \\\\ y \\end{pmatrix} = \\begin{pmatrix} x_0 \\\\ y_0 \\end{pmatrix} + t \\begin{pmatrix} a \\\\ b \\end{pmatrix},$ where $\\begin{pmatrix} x_0 \\\\ y_0 \\end{pmatrix}$ is a point on the line and $\\begin{pmatrix} a \\\\ b \\end{pmatrix}$ is the direction vector of the line.\n\nIn this case, the line is parameterized as $\\begin{pmatrix} x \\\\ y \\end{pmatrix} = \\begin{pmatrix} -3 \\\\ -4 \\end{pmatrix} + t \\begin{pmatrix} 7 \\\\ -2 \\end{pmatrix}.$  By isolating $y$ in terms of $x,$ we have\n\\[y = -4 - 2t = -4 - 2 \\cdot \\frac{x + 3}{7} = -\\frac{2}{7} x - \\frac{26}{7}.\\]Therefore, the ordered pair $(m,b)$ is $\\boxed{\\left( -\\frac{2}{7}, -\\frac{26}{7} \\right)}.$",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response \\left( -\\frac{2}{7}, -\\frac{34}{7} \\right)?: A line in two dimensions can be represented in vector form as $\\begin{pmatrix} x \\\\ y \\end{pmatrix} = \\begin{pmatrix} x_0 \\\\ y_0 \\end{pmatrix} + t \\begin{pmatrix} a \\\\ b \\end{pmatrix},$ where $\\begin{pmatrix} x_0 \\\\ y_0 \\end{pmatrix}$ is a point on the line and $\\begin{pmatrix} a \\\\ b \\end{pmatrix}$ is the direction vector of the line.\n\nIn this case, the line is parameterized as $\\begin{pmatrix} x \\\\ y \\end{pmatrix} = \\begin{pmatrix} -3 \\\\ -4 \\end{pmatrix} + t \\begin{pmatrix} 7 \\\\ -2 \\end{pmatrix}.$  By isolating $y$ in terms of $x,$ we have\n\\[y = -4 - 2t = -4 - 2 \\cdot \\frac{x + 3}{7} = -\\frac{2}{7} x - \\frac{26}{7}.\\]Therefore, the ordered pair $(m,b)$ is $\\boxed{\\left( -\\frac{2}{7}, -\\frac{26}{7} \\right)}.$",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "-938.",
+    "difficulty_value": "3"
+}

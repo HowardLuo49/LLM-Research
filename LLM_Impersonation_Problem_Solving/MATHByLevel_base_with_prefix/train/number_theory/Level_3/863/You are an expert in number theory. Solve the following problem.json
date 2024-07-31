@@ -1,0 +1,10 @@
+{
+    "prefix": "You are an expert in number theory. Solve the following problem. ",
+    "problem_prompt": "You are an expert in number theory. Solve the following problem. How many positive three-digit integers are divisible by both 11 and 5?",
+    "solution": "To be divisible by both 5 and 11, an integer must be a multiple of 55.  The smallest three-digit multiple of 55 is $2 \\cdot 55 = 110,$ and the largest three-digit multiple of 55 is $18 \\cdot 55 = 990$. So we can count the number of integers by the number of multiples, $2, 3, \\ldots , 17 , 18$, of which there are $\\boxed{17}$.",
+    "gpt_response": "To find the number of positive three-digit integers that are divisible by both 11 and 5, we need to find the least common multiple (LCM) of 11 and 5, which is 55. \n\nNow we need to find the number of multiples of 55 between 100 and 999. \n\nThe smallest three-digit number that is divisible by 55 is 110, and the largest three-digit number that is divisible by 55 is 990. \n\nTo find how many numbers are there between 110 and 990 that are divisible by 55, we can calculate:\n\n(990 - 110) / 55 + 1 = 17 + 1 = 18\n\nTherefore, there are 18 positive three-digit integers that are divisible by both 11 and 5.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 17?: To find the number of positive three-digit integers that are divisible by both 11 and 5, we need to find the least common multiple (LCM) of 11 and 5, which is 55. \n\nNow we need to find the number of multiples of 55 between 100 and 999. \n\nThe smallest three-digit number that is divisible by 55 is 110, and the largest three-digit number that is divisible by 55 is 990. \n\nTo find how many numbers are there between 110 and 990 that are divisible by 55, we can calculate:\n\n(990 - 110) / 55 + 1 = 17 + 1 = 18\n\nTherefore, there are 18 positive three-digit integers that are divisible by both 11 and 5.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes"
+}

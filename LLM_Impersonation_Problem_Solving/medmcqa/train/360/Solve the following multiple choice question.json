@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. Thymic hypoplsia is seen in which of the following\n1: Wiskott Aldrich syndrome\n2: Digeorge syndrome\n3: IgA deficiency\n4: Agammaglobulinamia",
+    "solution": 4,
+    "gpt_response": "2: Digeorge syndrome",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 4?: 2: Digeorge syndrome",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

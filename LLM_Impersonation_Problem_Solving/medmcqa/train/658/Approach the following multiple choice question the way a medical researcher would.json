@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a medical researcher would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a medical researcher would. Contraception with increased risk of actinomycosis -\n1: OCPs\n2: Condom\n3: IUCD\n4: Vaginal",
+    "solution": 3,
+    "gpt_response": "1: OCPs - OCPs have been associated with an increased risk of actinomycosis due to their effect on vaginal flora and mucosa, potentially leading to an overgrowth of Actinomyces species.\n\n2: Condom - Condoms have not been specifically associated with an increased risk of actinomycosis.\n\n3: IUCD - Intrauterine contraceptive devices (IUCDs) have been linked to an increased risk of actinomycosis, likely due to the presence of a foreign body in the uterus providing a site for Actinomyces colonization.\n\n4: Vaginal - It is unclear what is meant by \"vaginal\" in this context. If referring to vaginal contraceptive methods, they may be associated with an increased risk of actinomycosis if they disrupt the normal vaginal flora and create an environment conducive to Actinomyces growth.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: 1: OCPs - OCPs have been associated with an increased risk of actinomycosis due to their effect on vaginal flora and mucosa, potentially leading to an overgrowth of Actinomyces species.\n\n2: Condom - Condoms have not been specifically associated with an increased risk of actinomycosis.\n\n3: IUCD - Intrauterine contraceptive devices (IUCDs) have been linked to an increased risk of actinomycosis, likely due to the presence of a foreign body in the uterus providing a site for Actinomyces colonization.\n\n4: Vaginal - It is unclear what is meant by \"vaginal\" in this context. If referring to vaginal contraceptive methods, they may be associated with an increased risk of actinomycosis if they disrupt the normal vaginal flora and create an environment conducive to Actinomyces growth.",
+    "gpt_response_correct_incorrect": "Yes, the final solution obtained in the response is option 3, which states that IUCDs have been linked to an increased risk of actinomycosis.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

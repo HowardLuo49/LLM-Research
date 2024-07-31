@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a medical researcher would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a medical researcher would. Quinine given to a patient of falciparum malaria caused sweating and palpitation, the likely cause is?\n1: Cinchonism\n2: Hyperglycemia\n3: Hypoglycemia\n4: Hypokalemia",
+    "solution": 3,
+    "gpt_response": "As a medical researcher, I would approach this question by considering the known effects of quinine and its mechanism of action in treating falciparum malaria. Quinine is known to cause cinchonism, which includes symptoms such as sweating and palpitations. Therefore, the likely cause of the patient's symptoms is 1: Cinchonism.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: As a medical researcher, I would approach this question by considering the known effects of quinine and its mechanism of action in treating falciparum malaria. Quinine is known to cause cinchonism, which includes symptoms such as sweating and palpitations. Therefore, the likely cause of the patient's symptoms is 1: Cinchonism.",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

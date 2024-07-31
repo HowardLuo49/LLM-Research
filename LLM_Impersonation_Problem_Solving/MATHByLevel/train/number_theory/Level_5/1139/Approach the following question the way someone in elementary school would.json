@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. Tom's graduating class has 288 students. At the graduation ceremony, the students will sit in rows with the same number of students in each row. If there must be at least 10 rows and at least 15 students in each row, then there can be $x$ students in each row. What is the sum of all possible values of $x$?",
+    "solution": "If $x$ students sit in each row and there is a total of $y$ rows, then $xy=288=2^5\\cdot3^2$. Given that $x\\ge15$ and $y\\ge10$, the possible values for $x$ are $2^4=16$, $2^3\\cdot3=24$, and $2\\cdot3^2=18$. Their sum is $16+24+18=\\boxed{58}$.",
+    "gpt_response": "First, we know that there must be at least 10 rows, so let's start there. If there are 10 rows with the same number of students in each row, we can divide 288 by 10 to find out how many students are in each row. 288 divided by 10 is 28.8, but since we can't have a fraction of a student, we round down to the nearest whole number, which is 28. \n\nNow, we also know that there must be at least 15 students in each row. So let's see how many rows we can have if there are 15 students in each row. 288 divided by 15 is 19.2, but we round down to the nearest whole number, which is 19. \n\nSo, the possible values of x are 28 and 19. We need to find the sum of these two numbers, which is 28 + 19 = 47. \n\nTherefore, the sum of all possible values of x is 47.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 58?: First, we know that there must be at least 10 rows, so let's start there. If there are 10 rows with the same number of students in each row, we can divide 288 by 10 to find out how many students are in each row. 288 divided by 10 is 28.8, but since we can't have a fraction of a student, we round down to the nearest whole number, which is 28. \n\nNow, we also know that there must be at least 15 students in each row. So let's see how many rows we can have if there are 15 students in each row. 288 divided by 15 is 19.2, but we round down to the nearest whole number, which is 19. \n\nSo, the possible values of x are 28 and 19. We need to find the sum of these two numbers, which is 28 + 19 = 47. \n\nTherefore, the sum of all possible values of x is 47.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a medical researcher would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a medical researcher would. In caloric test, cold water stimulation causes movement of eye -\n1: Some side\n2: Opposite side\n3: Up\n4: Do\\vn",
+    "solution": 2,
+    "gpt_response": "A medical researcher would approach this question by considering the physiological response of the eye to cold water stimulation in a caloric test. \n\nIn a caloric test, cold water irrigation into the ear canal stimulates the vestibular system, which can cause nystagmus or involuntary eye movements. The direction of the nystagmus indicates the function of the vestibular system in the inner ear.\n\nBased on this information, the correct answer would be:\n2: Opposite side \n\nThis is because cold water stimulation typically causes horizontal nystagmus towards the opposite side of the ear being irrigated.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: A medical researcher would approach this question by considering the physiological response of the eye to cold water stimulation in a caloric test. \n\nIn a caloric test, cold water irrigation into the ear canal stimulates the vestibular system, which can cause nystagmus or involuntary eye movements. The direction of the nystagmus indicates the function of the vestibular system in the inner ear.\n\nBased on this information, the correct answer would be:\n2: Opposite side \n\nThis is because cold water stimulation typically causes horizontal nystagmus towards the opposite side of the ear being irrigated.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

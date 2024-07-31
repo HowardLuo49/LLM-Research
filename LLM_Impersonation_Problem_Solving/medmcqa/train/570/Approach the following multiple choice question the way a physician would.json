@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Which of the following is used in exocytosis?\n1: Ca\n2: Mg\n3: Na\n4: K",
+    "solution": 1,
+    "gpt_response": "1: Ca\n\nExocytosis is a cellular process in which vesicles inside the cell fuse with the cell membrane and release their contents outside of the cell. Calcium ions play a crucial role in the regulation of this process by triggering the fusion of the vesicle with the cell membrane. Therefore, calcium is the correct answer in this case.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: 1: Ca\n\nExocytosis is a cellular process in which vesicles inside the cell fuse with the cell membrane and release their contents outside of the cell. Calcium ions play a crucial role in the regulation of this process by triggering the fusion of the vesicle with the cell membrane. Therefore, calcium is the correct answer in this case.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

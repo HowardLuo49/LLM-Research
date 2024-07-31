@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. The sign of the charge carriers in a doped semiconductor can be deduced by measuring which of the following properties?\nA: Specific heat\nB: Thermal conductivity\nC: Electrical resistivity\nD: Hall coefficient",
+    "solution": "D",
+    "gpt_response": "To find out if the charge carriers in a doped semiconductor are positive or negative, we can measure the electrical resistivity!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: To find out if the charge carriers in a doped semiconductor are positive or negative, we can measure the electrical resistivity!",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

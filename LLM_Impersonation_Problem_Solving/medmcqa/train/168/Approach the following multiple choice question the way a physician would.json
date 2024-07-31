@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Which of the following vitamin enhances intestinal absorption of calcium?\n1: Vitamin D\n2: Vitamin K\n3: Vitamin B1\n4: Vitamin B2",
+    "solution": 1,
+    "gpt_response": "As a physician, I would choose option 1: Vitamin D. Vitamin D is responsible for enhancing intestinal absorption of calcium, which is essential for maintaining strong and healthy bones.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: As a physician, I would choose option 1: Vitamin D. Vitamin D is responsible for enhancing intestinal absorption of calcium, which is essential for maintaining strong and healthy bones.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

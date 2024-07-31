@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. Not a premalignant condition: March 2005\n1: Retinitis pigmentosa\n2: Crohn's disease\n3: Ulcerative colitis\n4: Leukoplakia",
+    "solution": 1,
+    "gpt_response": "1: Retinitis pigmentosa",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: 1: Retinitis pigmentosa",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

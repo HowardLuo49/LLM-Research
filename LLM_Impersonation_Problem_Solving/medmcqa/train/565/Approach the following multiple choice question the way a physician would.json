@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Muscle relaxant used in renal failure :\n1: Ketamine\n2: Atracurium\n3: Pancuronium\n4: Fentanyl",
+    "solution": 2,
+    "gpt_response": "As a physician, when considering muscle relaxants in a patient with renal failure, it is important to choose a medication that is not renally eliminated to avoid potential drug accumulation and toxicity. \n\nIn this case, the most appropriate muscle relaxant for a patient with renal failure would be Atracurium. Atracurium is metabolized by Hofmann elimination and ester hydrolysis, independent of renal function, making it a safer choice in patients with impaired kidney function. \n\nKetamine, Pancuronium, and Fentanyl are not ideal choices for muscle relaxation in patients with renal failure due to their renal elimination and potential for accumulation in the body.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: As a physician, when considering muscle relaxants in a patient with renal failure, it is important to choose a medication that is not renally eliminated to avoid potential drug accumulation and toxicity. \n\nIn this case, the most appropriate muscle relaxant for a patient with renal failure would be Atracurium. Atracurium is metabolized by Hofmann elimination and ester hydrolysis, independent of renal function, making it a safer choice in patients with impaired kidney function. \n\nKetamine, Pancuronium, and Fentanyl are not ideal choices for muscle relaxation in patients with renal failure due to their renal elimination and potential for accumulation in the body.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

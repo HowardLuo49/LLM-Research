@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. When a person changes position from standing to lying down, following change is seen:\n1: Hea rate increases\n2: Venous return to hea increases immediately\n3: Cerebral blood flow increases\n4: Blood flow at apices of lung decreases",
+    "solution": 2,
+    "gpt_response": "4: Blood flow at apices of lung decreases",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: 4: Blood flow at apices of lung decreases",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

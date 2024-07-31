@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. Calculate the temperature of the cosmic microwave background radiation assuming it to be a blackbody at thermal equilibrium. Given that the frequency of the radiation peaks at around 431.2 GHz, what is the corresponding wavelength of this peak? Additionally, please select the option from the given choices that you believe is closest to the correct answer!\n\nA. 1.1 k\nB. 2.85 k\nC. 4.17 k\nD. 4.4 k\n\nAnswer:",
+    "solution": [
+        "C"
+    ],
+    "gpt_response": "To calculate the temperature of the cosmic microwave background radiation, we can use Wien's displacement law which states that the peak wavelength of a blackbody radiation curve is inversely proportional to its temperature. The formula is:\n\n\u03bb_max = (c / f_max) = (2.9 * 10^8 m/s / 431.2 * 10^9 Hz) = 6.73 mm\n\nNext, we can use the formula for Wien's displacement law to calculate the temperature of the radiation:\n\nT = b / \u03bb_max = (2.9 * 10^-3 m*K / 6.73 * 10^-3 m) \u2248 430 K \n\nTherefore, the correct answer would be closest to:\n\nA. 1.1 k (1,100 K)",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to ['C']?: To calculate the temperature of the cosmic microwave background radiation, we can use Wien's displacement law which states that the peak wavelength of a blackbody radiation curve is inversely proportional to its temperature. The formula is:\n\n\u03bb_max = (c / f_max) = (2.9 * 10^8 m/s / 431.2 * 10^9 Hz) = 6.73 mm\n\nNext, we can use the formula for Wien's displacement law to calculate the temperature of the radiation:\n\nT = b / \u03bb_max = (2.9 * 10^-3 m*K / 6.73 * 10^-3 m) \u2248 430 K \n\nTherefore, the correct answer would be closest to:\n\nA. 1.1 k (1,100 K)",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

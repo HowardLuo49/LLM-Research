@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Arrange the following subtypes of schizophrenia, in order of prognosis, with the best prognosis first and the worst prognosis last, 1. Paranoid schizophrenia2. Catatonic schizophrenia3. Simple schizophrenia4. Disorganised schizophrenia\n1: 4-2-1-3\n2: 2-1-3-4\n3: 2-1-4-3\n4: 1-2-4-3",
+    "solution": 3,
+    "gpt_response": "4: 2-1-4-3\n\nThis arrangement reflects the prognosis of each subtype of schizophrenia from best to worst.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: 4: 2-1-4-3\n\nThis arrangement reflects the prognosis of each subtype of schizophrenia from best to worst.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

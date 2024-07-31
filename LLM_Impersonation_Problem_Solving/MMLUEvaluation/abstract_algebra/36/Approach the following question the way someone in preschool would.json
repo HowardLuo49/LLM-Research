@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Compute the product in the given ring. (20)(-8) in Z_26\nA: 0\nB: 1\nC: 11\nD: 22",
+    "solution": "D",
+    "gpt_response": "Let's try counting on our fingers! 20 times -8 is the same as 20 groups of -8. Let's count together: 0, -8, -16, -24, -2... Uh oh, it looks like we ran out of fingers! Let's start over and subtract 26 each time we reach a new finger. So 20 times -8 is 22! So the answer is D: 22. Yay, we did it!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: Let's try counting on our fingers! 20 times -8 is the same as 20 groups of -8. Let's count together: 0, -8, -16, -24, -2... Uh oh, it looks like we ran out of fingers! Let's start over and subtract 26 each time we reach a new finger. So 20 times -8 is 22! So the answer is D: 22. Yay, we did it!",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

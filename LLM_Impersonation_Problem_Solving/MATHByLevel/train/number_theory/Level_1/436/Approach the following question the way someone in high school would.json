@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. What is the remainder when 2007 is divided by 25?",
+    "solution": "Since 25 divides evenly into 2000 and 2007 is 7 more than 2000, the remainder when 2007 is divided by 25 is $\\boxed{7}$.",
+    "gpt_response": "When you divide 2007 by 25, you get 80 as the quotient with a remainder of 7.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 7?: When you divide 2007 by 25, you get 80 as the quotient with a remainder of 7.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

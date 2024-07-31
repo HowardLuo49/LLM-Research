@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. Expand the product $(9x+2)(4x^2+3)$.",
+    "solution": "Multiplying out the expression, we find that $(9x+2)(4x^2+3)=\\boxed{36x^3+8x^2+27x+6}$.",
+    "gpt_response": "To expand the product $(9x+2)(4x^2+3)$, we must first distribute each term in the first expression $(9x+2)$ by each term in the second expression $(4x^2+3)$.\n\nTherefore, we have:\n$9x * 4x^2 + 9x * 3 + 2 * 4x^2 + 2 * 3$\n\nSimplifying each term, we get:\n$36x^3 + 27x + 8x^2 + 6$\n\nCombining like terms, we obtain the final expanded form of the product:\n$36x^3 + 8x^2 + 27x + 6$",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 36x^3+8x^2+27x+6?: To expand the product $(9x+2)(4x^2+3)$, we must first distribute each term in the first expression $(9x+2)$ by each term in the second expression $(4x^2+3)$.\n\nTherefore, we have:\n$9x * 4x^2 + 9x * 3 + 2 * 4x^2 + 2 * 3$\n\nSimplifying each term, we get:\n$36x^3 + 27x + 8x^2 + 6$\n\nCombining like terms, we obtain the final expanded form of the product:\n$36x^3 + 8x^2 + 27x + 6$",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

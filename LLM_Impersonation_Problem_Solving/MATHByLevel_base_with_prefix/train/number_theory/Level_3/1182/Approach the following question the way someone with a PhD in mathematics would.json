@@ -1,0 +1,10 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. Find the residue of $182\\cdot 12 - 15\\cdot 7 + 3\\pmod{14}$.",
+    "solution": "Since $182$ is divisible by 14, the first term does not affect the residue of the whole expression, modulo 14. Since $15\\cdot 7$ is divisible by 7 but not by 14 (since it isn't even), it has a residue of 7. So the residue of the sum is  $$\n182\\cdot 12 - 15\\cdot 7 + 3 \\equiv 0 - 7 + 3 \\equiv -4 \\equiv \\boxed{10} \\pmod{14}.\n$$",
+    "gpt_response": "To find the residue of the expression $182\\cdot 12 - 15\\cdot 7 + 3$ modulo 14, we first need to simplify the expression. \n\n$182\\cdot 12 - 15\\cdot 7 + 3 = 2184 - 105 + 3 = 2082$\n\nNext, we need to find the residue of 2082 modulo 14. We can do this by dividing 2082 by 14 and finding the remainder:\n\n$2082 \\div 14 = 148 r 10$\n\nTherefore, the residue of $182\\cdot 12 - 15\\cdot 7 + 3$ modulo 14 is 10.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 10?: To find the residue of the expression $182\\cdot 12 - 15\\cdot 7 + 3$ modulo 14, we first need to simplify the expression. \n\n$182\\cdot 12 - 15\\cdot 7 + 3 = 2184 - 105 + 3 = 2082$\n\nNext, we need to find the residue of 2082 modulo 14. We can do this by dividing 2082 by 14 and finding the remainder:\n\n$2082 \\div 14 = 148 r 10$\n\nTherefore, the residue of $182\\cdot 12 - 15\\cdot 7 + 3$ modulo 14 is 10.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. Theo has one sphere with radius 5; Akshaj has two spheres with radius 2.  What is the ratio of the surface area of Theo's sphere to the total surface area of Akshaj's spheres?",
+    "solution": "\\frac{25}{8}",
+    "gpt_response": "To calculate the surface area of a sphere, we use the formula 4\u03c0r^2, where r is the radius of the sphere. \n\nThe surface area of Theo's sphere can be calculated as 4\u03c0(5)^2 = 4\u03c0(25) = 100\u03c0.\n\nThe surface area of one of Akshaj's spheres can be calculated as 4\u03c0(2)^2 = 4\u03c0(4) = 16\u03c0. Since Akshaj has two spheres, the total surface area of Akshaj's spheres is 2 * 16\u03c0 = 32\u03c0.\n\nTherefore, the ratio of the surface area of Theo's sphere to the total surface area of Akshaj's spheres is 100\u03c0 : 32\u03c0, which simplifies to 25:8.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response \\frac{25}{8}?: To calculate the surface area of a sphere, we use the formula 4\u03c0r^2, where r is the radius of the sphere. \n\nThe surface area of Theo's sphere can be calculated as 4\u03c0(5)^2 = 4\u03c0(25) = 100\u03c0.\n\nThe surface area of one of Akshaj's spheres can be calculated as 4\u03c0(2)^2 = 4\u03c0(4) = 16\u03c0. Since Akshaj has two spheres, the total surface area of Akshaj's spheres is 2 * 16\u03c0 = 32\u03c0.\n\nTherefore, the ratio of the surface area of Theo's sphere to the total surface area of Akshaj's spheres is 100\u03c0 : 32\u03c0, which simplifies to 25:8.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

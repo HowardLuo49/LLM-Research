@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Acute appendicitis is best diagnosed by -\n1: History\n2: Physical examination\n3: X-ray abdomen\n4: Ba meal",
+    "solution": 2,
+    "gpt_response": "As a physician, the best way to diagnose acute appendicitis is through a combination of history, physical examination, and potentially further diagnostic testing such as imaging studies. While all of the options listed can provide valuable information, a thorough history and physical examination are typically the most important initial steps in diagnosing appendicitis. X-ray and Ba meal studies may be helpful in certain cases, but are less commonly used compared to imaging studies such as ultrasound or CT scan.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: As a physician, the best way to diagnose acute appendicitis is through a combination of history, physical examination, and potentially further diagnostic testing such as imaging studies. While all of the options listed can provide valuable information, a thorough history and physical examination are typically the most important initial steps in diagnosing appendicitis. X-ray and Ba meal studies may be helpful in certain cases, but are less commonly used compared to imaging studies such as ultrasound or CT scan.",
+    "gpt_response_correct_incorrect": "No. The final solution obtained in the response is not option 2.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

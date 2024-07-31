@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Metachromatic granules are stained by?\n1: Ponder's stain\n2: Negative stain\n3: Gram's stain\n4: Leishman stain",
+    "solution": 1,
+    "gpt_response": "As a physician, I would choose option 1: Ponder's stain. Metachromatic granules are structures found in certain bacteria and are known to be stained by Ponder's stain, which helps visualize these granules under a microscope.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: As a physician, I would choose option 1: Ponder's stain. Metachromatic granules are structures found in certain bacteria and are known to be stained by Ponder's stain, which helps visualize these granules under a microscope.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

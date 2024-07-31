@@ -1,0 +1,10 @@
+{
+    "prefix": "Solve the following problem. ",
+    "problem_prompt": "Solve the following problem. Abigail, Beatrice, and Carson combine their eggs to sell them at the market. If Abigail has 37 eggs, Beatrice has 49 eggs, and Carson has 14 eggs, and if eggs can only be sold in cartons of 12, how many eggs will be left over if all cartons are sold?",
+    "solution": "The remainder when $37+49+14$ is divided by $12$ is the same as the remainder when the congruences of each number mod 12 are summed and then divided by 12. In other words, since we have \\begin{align*}\n37 &\\equiv 1\\pmod{12}\\\\\n49 &\\equiv 1\\pmod{12} \\\\\n14 &\\equiv 2\\pmod{12}\n\\end{align*}then therefore, $37+49+14 \\equiv1+1+2 \\equiv \\boxed{4}\\pmod{12}$.",
+    "gpt_response": "Abigail has 37 eggs, Beatrice has 49 eggs, and Carson has 14 eggs.\n\nTotal number of eggs = 37 + 49 + 14 = 100 eggs\n\nIf eggs are sold in cartons of 12, the number of cartons that can be made is 100 / 12 = 8 cartons\n\nThe number of eggs left over after all cartons are sold is 100 - (8 * 12) = 4 eggs\n\nTherefore, there will be 4 eggs left over if all cartons are sold.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 4?: Abigail has 37 eggs, Beatrice has 49 eggs, and Carson has 14 eggs.\n\nTotal number of eggs = 37 + 49 + 14 = 100 eggs\n\nIf eggs are sold in cartons of 12, the number of cartons that can be made is 100 / 12 = 8 cartons\n\nThe number of eggs left over after all cartons are sold is 100 - (8 * 12) = 4 eggs\n\nTherefore, there will be 4 eggs left over if all cartons are sold.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes"
+}

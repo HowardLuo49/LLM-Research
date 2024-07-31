@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. The energy required to remove both electrons from the helium atom in its ground state is 79.0 eV. How much energy is required to ionize helium (i.e., to remove one electron)?\nA: 24.6 eV\nB: 39.5 eV\nC: 51.8 eV\nD: 54.4 eV",
+    "solution": "A",
+    "gpt_response": "To find the energy required to ionize helium (remove one electron), we can divide the total energy required to remove both electrons by 2. \n\nTherefore, the energy required to ionize helium (remove one electron) is 79.0 eV / 2 = 39.5 eV.\n\nSo, the correct answer is B: 39.5 eV.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to A?: To find the energy required to ionize helium (remove one electron), we can divide the total energy required to remove both electrons by 2. \n\nTherefore, the energy required to ionize helium (remove one electron) is 79.0 eV / 2 = 39.5 eV.\n\nSo, the correct answer is B: 39.5 eV.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. In pyogenic liver abscess commonest route of spread\n1: Hematogenous through poal vein.\n2: Ascending infection through biliary tract\n3: Hepatic aery\n4: Local spread",
+    "solution": 2,
+    "gpt_response": "1: Hematogenous through portal vein.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: 1: Hematogenous through portal vein.",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

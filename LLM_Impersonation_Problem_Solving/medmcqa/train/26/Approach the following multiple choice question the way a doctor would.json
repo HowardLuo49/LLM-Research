@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. A 6hours old snake bite patient comes to emergency with mild local edema at the injury site. On examination no abnormalities detected and lab repos are normal. Most appropriate management is\n1: Incision and suction\n2: Wait and watch\n3: Local subcutaneous antisnake venom\n4: Intravenous antisnake venom",
+    "solution": 2,
+    "gpt_response": "As a doctor, I would approach this situation by first assessing the severity of the snake bite and determining the type of snake involved. In this case, with mild local edema and normal lab results, the snake bite is likely non-venomous or from a non-dangerous species.\n\nGiven the mild symptoms and lack of abnormalities, the most appropriate management would be option 2: Wait and watch. It is important to monitor the patient closely for any worsening symptoms and provide supportive care as needed. In cases where there is uncertainty or if the patient's condition deteriorates, further intervention such as local subcutaneous antisnake venom or intravenous antisnake venom may be considered. However, in this case, it is best to take a conservative approach and reevaluate if necessary.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: As a doctor, I would approach this situation by first assessing the severity of the snake bite and determining the type of snake involved. In this case, with mild local edema and normal lab results, the snake bite is likely non-venomous or from a non-dangerous species.\n\nGiven the mild symptoms and lack of abnormalities, the most appropriate management would be option 2: Wait and watch. It is important to monitor the patient closely for any worsening symptoms and provide supportive care as needed. In cases where there is uncertainty or if the patient's condition deteriorates, further intervention such as local subcutaneous antisnake venom or intravenous antisnake venom may be considered. However, in this case, it is best to take a conservative approach and reevaluate if necessary.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

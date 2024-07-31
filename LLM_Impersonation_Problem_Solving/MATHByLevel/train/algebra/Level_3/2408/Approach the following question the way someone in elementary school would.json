@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. Evaluate $\\lceil-2.4\\rceil$.",
+    "solution": "The smallest integer that is greater than or equal to $-2.4$ is $-2$. Therefore, $\\lceil-2.4\\rceil=\\boxed{-2}$.",
+    "gpt_response": "To find the answer, we need to round the number -2.4 up to the next whole number. Since -2.4 is less than -2, it will round up to -2. \n\nSo, $\\lceil-2.4\\rceil = -2$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to -2?: To find the answer, we need to round the number -2.4 up to the next whole number. Since -2.4 is less than -2, it will round up to -2. \n\nSo, $\\lceil-2.4\\rceil = -2$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

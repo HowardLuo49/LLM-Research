@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Find the slope of the line that is perpendicular to the line $2x + 3y = 6$.",
+    "solution": "The given line has slope $-\\frac{2}{3}$, so the line perpendicular to this line has slope $-\\frac{1}{-2/3} = \\boxed{\\frac{3}{2}}$.",
+    "gpt_response": "To find the slope of a line that is perpendicular to another line, we need to first find the slope of the original line. \n\nTo do this, we need to rewrite the equation in slope-intercept form, which is y = mx + b, where m is the slope. \n\nFirst, let's rewrite the original equation 2x + 3y = 6 in slope-intercept form:\n3y = -2x + 6\ny = (-2/3)x + 2\n\nNow we can see that the slope of the original line is -2/3.\n\nTo find the slope of a line perpendicular to this, we need to find the negative reciprocal of -2/3. Flipping the fraction and changing the sign, we get 3/2.\n\nSo, the slope of the line that is perpendicular to the line 2x + 3y = 6 is 3/2.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to \\frac{3?: To find the slope of a line that is perpendicular to another line, we need to first find the slope of the original line. \n\nTo do this, we need to rewrite the equation in slope-intercept form, which is y = mx + b, where m is the slope. \n\nFirst, let's rewrite the original equation 2x + 3y = 6 in slope-intercept form:\n3y = -2x + 6\ny = (-2/3)x + 2\n\nNow we can see that the slope of the original line is -2/3.\n\nTo find the slope of a line perpendicular to this, we need to find the negative reciprocal of -2/3. Flipping the fraction and changing the sign, we get 3/2.\n\nSo, the slope of the line that is perpendicular to the line 2x + 3y = 6 is 3/2.",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

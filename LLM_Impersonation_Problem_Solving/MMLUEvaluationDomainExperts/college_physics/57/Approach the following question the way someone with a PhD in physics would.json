@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in physics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in physics would. If the absolute temperature of a blackbody is increased by a factor of 3, the energy radiated per second per unit area does which of the following?\nA: Decreases by a factor of 81.\nB: Decreases by a factor of 9.\nC: Increases by a factor of 9.\nD: Increases by a factor of 81.",
+    "solution": "D",
+    "gpt_response": "To answer this question, we can use the Stefan-Boltzmann law, which states that the total energy radiated per unit area of a blackbody is proportional to the fourth power of its absolute temperature. Mathematically, this is represented as:\n\nE \u221d T^4\n\nWhere E is the energy radiated per second per unit area and T is the absolute temperature.\n\nIf the absolute temperature of the blackbody is increased by a factor of 3, we can represent this as T' = 3T. Substituting this into the Stefan-Boltzmann law, we get:\n\nE' \u221d (3T)^4\nE' \u221d 81T^4\n\nTherefore, the energy radiated per second per unit area increases by a factor of 81. So, the correct answer is:\n\nD: Increases by a factor of 81.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: To answer this question, we can use the Stefan-Boltzmann law, which states that the total energy radiated per unit area of a blackbody is proportional to the fourth power of its absolute temperature. Mathematically, this is represented as:\n\nE \u221d T^4\n\nWhere E is the energy radiated per second per unit area and T is the absolute temperature.\n\nIf the absolute temperature of the blackbody is increased by a factor of 3, we can represent this as T' = 3T. Substituting this into the Stefan-Boltzmann law, we get:\n\nE' \u221d (3T)^4\nE' \u221d 81T^4\n\nTherefore, the energy radiated per second per unit area increases by a factor of 81. So, the correct answer is:\n\nD: Increases by a factor of 81.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "9",
+    "difficulty_value": "9"
+}

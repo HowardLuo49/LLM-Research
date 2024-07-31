@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in engineering would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in engineering would. What is the name of C1CC(C1)C2=NOC(C2)N\nAnswer:",
+    "solution": [
+        "3-cyclobutyl-4,5-dihydro-1,2-oxazol-5-amine"
+    ],
+    "gpt_response": "The compound C1CC(C1)C2=NOC(C2)N is named as 1,2-dioxolane-3-amine.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response ['3-cyclobutyl-4,5-dihydro-1,2-oxazol-5-amine']?: The compound C1CC(C1)C2=NOC(C2)N is named as 1,2-dioxolane-3-amine.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "5",
+    "difficulty_value": "5"
+}

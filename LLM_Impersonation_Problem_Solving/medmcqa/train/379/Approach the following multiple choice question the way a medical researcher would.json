@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a medical researcher would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a medical researcher would. Urine osmolality in Diabetes insipidus is\n1: <150 mmol/L\n2: <300 mmol/L\n3: <600 mmol/L\n4: <900 mmol/L",
+    "solution": 1,
+    "gpt_response": "A medical researcher would approach this question by first understanding the normal range for urine osmolality in healthy individuals, which is typically between 500-800 mmol/L. In Diabetes insipidus, there is impaired water conservation in the kidneys leading to dilute urine. Therefore, the correct answer would be option 4: <900 mmol/L, as urine osmolality in Diabetes insipidus is usually below this level.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: A medical researcher would approach this question by first understanding the normal range for urine osmolality in healthy individuals, which is typically between 500-800 mmol/L. In Diabetes insipidus, there is impaired water conservation in the kidneys leading to dilute urine. Therefore, the correct answer would be option 4: <900 mmol/L, as urine osmolality in Diabetes insipidus is usually below this level.",
+    "gpt_response_correct_incorrect": "No, the final solution obtained is not option 1.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

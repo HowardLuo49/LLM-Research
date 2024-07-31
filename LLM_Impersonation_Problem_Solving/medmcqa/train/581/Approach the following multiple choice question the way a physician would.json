@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Triamterene causes\n1: Better glucose tolerance\n2: Muscle cramps\n3: Decrease in urea level\n4: Hypokalemia",
+    "solution": 2,
+    "gpt_response": "As a physician, I would approach this question by considering the pharmacological profile of Triamterene. Triamterene is a potassium-sparing diuretic, which means it helps the body retain potassium while eliminating sodium and water. \n\nKnowing this, I would eliminate option 1, as diuretics like Triamterene can actually cause glucose intolerance and potential worsening of diabetes. \n\nOption 2 is a common side effect of Triamterene, as potassium-sparing diuretics can lead to electrolyte imbalances, including muscle cramps.\n\nOption 3, a decrease in urea level, is not typically associated with Triamterene use. \n\nTherefore, the correct answer is option 4: Hypokalemia, as potassium-sparing diuretics like Triamterene can lead to low potassium levels in the blood, which can result in hypokalemia.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: As a physician, I would approach this question by considering the pharmacological profile of Triamterene. Triamterene is a potassium-sparing diuretic, which means it helps the body retain potassium while eliminating sodium and water. \n\nKnowing this, I would eliminate option 1, as diuretics like Triamterene can actually cause glucose intolerance and potential worsening of diabetes. \n\nOption 2 is a common side effect of Triamterene, as potassium-sparing diuretics can lead to electrolyte imbalances, including muscle cramps.\n\nOption 3, a decrease in urea level, is not typically associated with Triamterene use. \n\nTherefore, the correct answer is option 4: Hypokalemia, as potassium-sparing diuretics like Triamterene can lead to low potassium levels in the blood, which can result in hypokalemia.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

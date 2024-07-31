@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. The relationship of mean height of two group of children is best studied by-\n1: Student's test\n2: Linear regression\n3: Chi-square test\n4: Test of propoions",
+    "solution": 1,
+    "gpt_response": "The relationship of mean height in two groups of children would be best studied by comparing the means using a statistical test. In this case, the appropriate test would be the Student's t-test. This test is used to determine if there is a significant difference between the means of two independent groups. Linear regression is used to study the relationship between two continuous variables, while the chi-square test and test of proportions are used to analyze categorical data.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: The relationship of mean height in two groups of children would be best studied by comparing the means using a statistical test. In this case, the appropriate test would be the Student's t-test. This test is used to determine if there is a significant difference between the means of two independent groups. Linear regression is used to study the relationship between two continuous variables, while the chi-square test and test of proportions are used to analyze categorical data.",
+    "gpt_response_correct_incorrect": "Yes, the final solution obtained in this response is option 1.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

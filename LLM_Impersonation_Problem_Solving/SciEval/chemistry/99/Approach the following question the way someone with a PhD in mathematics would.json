@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. How many atoms are there in C8H17NOS?\nAnswer (numerical number):",
+    "solution": [
+        28
+    ],
+    "gpt_response": "There are 31 atoms in C8H17NOS. \n\nExplanation: \n-Carbon has 8 atoms\n-Hydrogen has 17 atoms\n-Nitrogen has 1 atom\n-Oxygen has 1 atom\n-Sulfur has 1 atom\n\nTotal = 8 + 17 + 1 + 1 + 1 = 31 atoms",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response [28]?: There are 31 atoms in C8H17NOS. \n\nExplanation: \n-Carbon has 8 atoms\n-Hydrogen has 17 atoms\n-Nitrogen has 1 atom\n-Oxygen has 1 atom\n-Sulfur has 1 atom\n\nTotal = 8 + 17 + 1 + 1 + 1 = 31 atoms",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "11",
+    "difficulty_value": "1"
+}

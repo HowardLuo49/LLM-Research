@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. If 52 cards are dealt to 8 people as evenly as possible, how many people will end up with fewer than 7 cards?",
+    "solution": "When you divide 52 by 8, you get 6 with a remainder of 4.  Therefore, 4 of the people will get an extra card, bringing their total to 7, while the remaining $\\boxed{4}$ people have only 6 cards.",
+    "gpt_response": "To figure out how many people will end up with fewer than 7 cards, we can first calculate how many cards each person would get if they were divided evenly. Since there are 52 cards and 8 people, each person would get 52 divided by 8, which is 6 cards.\n\nThis means that initially, each person would have 6 cards. However, since the number of cards cannot be divided evenly among the 8 people, there will be a remainder. To find out who will get the extra cards, we can subtract the 6 cards each person should have from the total number of cards available (52).\n\n52 - (6 x 8) = 52 - 48 = 4\n\nThis means that there will be 4 remaining cards to distribute among the 8 people. The people who receive these extra cards will end up with fewer than 7 cards. So, there will be 4 people who will end up with fewer than 7 cards.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 4?: To figure out how many people will end up with fewer than 7 cards, we can first calculate how many cards each person would get if they were divided evenly. Since there are 52 cards and 8 people, each person would get 52 divided by 8, which is 6 cards.\n\nThis means that initially, each person would have 6 cards. However, since the number of cards cannot be divided evenly among the 8 people, there will be a remainder. To find out who will get the extra cards, we can subtract the 6 cards each person should have from the total number of cards available (52).\n\n52 - (6 x 8) = 52 - 48 = 4\n\nThis means that there will be 4 remaining cards to distribute among the 8 people. The people who receive these extra cards will end up with fewer than 7 cards. So, there will be 4 people who will end up with fewer than 7 cards.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

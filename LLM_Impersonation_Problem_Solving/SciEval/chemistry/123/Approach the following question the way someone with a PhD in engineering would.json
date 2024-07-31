@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in engineering would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in engineering would. What is the molecular weight of C10H21NO2?\nAnswer (numerical number):",
+    "solution": [
+        "187.28"
+    ],
+    "gpt_response": "Defining the molar mass of each element:\nC (Carbon): 12.01 g/mol\nH (Hydrogen): 1.008 g/mol\nN (Nitrogen): 14.01 g/mol\nO (Oxygen): 16.00 g/mol\n\nCalculating the molecular weight of C10H21NO2:\n(10 x C) + (21 x H) + (1 x N) + (2 x O)\n= (10 x 12.01 g/mol) + (21 x 1.008 g/mol) + (1 x 14.01 g/mol) + (2 x 16.00 g/mol)\n= 120.1 g/mol + 21.168 g/mol + 14.01 g/mol + 32.00 g/mol\n= 187.278 g/mol\n\nTherefore, the molecular weight of C10H21NO2 is 187.278 g/mol.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response ['187.28']?: Defining the molar mass of each element:\nC (Carbon): 12.01 g/mol\nH (Hydrogen): 1.008 g/mol\nN (Nitrogen): 14.01 g/mol\nO (Oxygen): 16.00 g/mol\n\nCalculating the molecular weight of C10H21NO2:\n(10 x C) + (21 x H) + (1 x N) + (2 x O)\n= (10 x 12.01 g/mol) + (21 x 1.008 g/mol) + (1 x 14.01 g/mol) + (2 x 16.00 g/mol)\n= 120.1 g/mol + 21.168 g/mol + 14.01 g/mol + 32.00 g/mol\n= 187.278 g/mol\n\nTherefore, the molecular weight of C10H21NO2 is 187.278 g/mol.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "181.29",
+    "difficulty_value": "2"
+}

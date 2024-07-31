@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a medical researcher would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a medical researcher would. One of the following is the first enzyme to be released at the site of wound?\n1: Aminopeptidase\n2: ATPase\n3: Acid phosphatase\n4: Alkaline phosphatase",
+    "solution": 2,
+    "gpt_response": "To determine the first enzyme to be released at the site of a wound, a medical researcher would consider the physiological processes involved in wound healing. Specifically, they would look at the initial response of the body to tissue injury.\n\nIn this context, the most likely enzyme to be released first at the site of a wound would be an enzyme involved in inflammation and immune response, rather than one involved in digestion or cellular metabolism. Aminopeptidase is a type of protease enzyme that is involved in breaking down proteins, which are important in the inflammatory response to injury. Therefore, a medical researcher would likely choose Aminopeptidase as the first enzyme to be released at the site of a wound.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: To determine the first enzyme to be released at the site of a wound, a medical researcher would consider the physiological processes involved in wound healing. Specifically, they would look at the initial response of the body to tissue injury.\n\nIn this context, the most likely enzyme to be released first at the site of a wound would be an enzyme involved in inflammation and immune response, rather than one involved in digestion or cellular metabolism. Aminopeptidase is a type of protease enzyme that is involved in breaking down proteins, which are important in the inflammatory response to injury. Therefore, a medical researcher would likely choose Aminopeptidase as the first enzyme to be released at the site of a wound.",
+    "gpt_response_correct_incorrect": "Option 1: Yes",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

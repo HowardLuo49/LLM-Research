@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Evaluate $\\lfloor 3.2\\rfloor$.",
+    "solution": "Since $3$ is the greatest integer that is less than or equal to $3.2,$ we have that $\\lfloor 3.2\\rfloor = \\boxed{3}.$",
+    "gpt_response": "To find the value of $\\lfloor 3.2\\rfloor$, we need to round down to the nearest whole number. Since 3.2 is closer to 3 than to 4, the floor function of 3.2 is equal to 3. So, $\\lfloor 3.2\\rfloor = 3$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 3?: To find the value of $\\lfloor 3.2\\rfloor$, we need to round down to the nearest whole number. Since 3.2 is closer to 3 than to 4, the floor function of 3.2 is equal to 3. So, $\\lfloor 3.2\\rfloor = 3$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in computer science would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in computer science would. Simplify\n\\[\\frac{\\cos x}{1 - \\sin x} - \\frac{\\cos x}{1 + \\sin x}.\\]",
+    "solution": "2 \\tan x",
+    "gpt_response": "To simplify the expression, we can combine the fractions by finding a common denominator. We have:\n\\begin{align*}\n\\frac{\\cos x}{1 - \\sin x} - \\frac{\\cos x}{1 + \\sin x} &= \\frac{\\cos x(1 + \\sin x) - \\cos x(1 - \\sin x)}{(1 - \\sin x)(1 + \\sin x)} \\\\\n&= \\frac{\\cos x + \\cos x \\sin x - \\cos x + \\cos x \\sin x}{1 - \\sin^2 x} \\\\\n&= \\frac{2\\cos x \\sin x}{\\cos^2 x} \\\\\n&= \\frac{2\\sin x}{\\cos x} \\\\\n&= 2\\tan x.\n\\end{align*}Therefore, the simplified expression is $2\\tan x$.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 2 \\tan x?: To simplify the expression, we can combine the fractions by finding a common denominator. We have:\n\\begin{align*}\n\\frac{\\cos x}{1 - \\sin x} - \\frac{\\cos x}{1 + \\sin x} &= \\frac{\\cos x(1 + \\sin x) - \\cos x(1 - \\sin x)}{(1 - \\sin x)(1 + \\sin x)} \\\\\n&= \\frac{\\cos x + \\cos x \\sin x - \\cos x + \\cos x \\sin x}{1 - \\sin^2 x} \\\\\n&= \\frac{2\\cos x \\sin x}{\\cos^2 x} \\\\\n&= \\frac{2\\sin x}{\\cos x} \\\\\n&= 2\\tan x.\n\\end{align*}Therefore, the simplified expression is $2\\tan x$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

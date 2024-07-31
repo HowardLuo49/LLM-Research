@@ -1,0 +1,10 @@
+{
+    "prefix": "You are an expert in number theory. Solve the following problem. ",
+    "problem_prompt": "You are an expert in number theory. Solve the following problem. Find the residue of $182\\cdot 12 - 15\\cdot 7 + 3\\pmod{14}$.",
+    "solution": "Since $182$ is divisible by 14, the first term does not affect the residue of the whole expression, modulo 14. Since $15\\cdot 7$ is divisible by 7 but not by 14 (since it isn't even), it has a residue of 7. So the residue of the sum is  $$\n182\\cdot 12 - 15\\cdot 7 + 3 \\equiv 0 - 7 + 3 \\equiv -4 \\equiv \\boxed{10} \\pmod{14}.\n$$",
+    "gpt_response": "To find the residue of the expression $182\\cdot 12 - 15\\cdot 7 + 3\\pmod{14}$, we first evaluate the expression modulo $14$:\n\n$182\\cdot 12 \\equiv 0 \\pmod{14}$ (since $182 = 13\\cdot 14$)\n\nSimilarly, $15\\cdot 7 \\equiv 1\\cdot 7 \\equiv 7\\pmod{14}$\n\nTherefore, the expression becomes:\n\n$0 - 7 + 3 \\equiv -4 \\equiv 10\\pmod{14}$\n\nSo, the residue of $182\\cdot 12 - 15\\cdot 7 + 3\\pmod{14}$ is $\\boxed{10}$.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 10?: To find the residue of the expression $182\\cdot 12 - 15\\cdot 7 + 3\\pmod{14}$, we first evaluate the expression modulo $14$:\n\n$182\\cdot 12 \\equiv 0 \\pmod{14}$ (since $182 = 13\\cdot 14$)\n\nSimilarly, $15\\cdot 7 \\equiv 1\\cdot 7 \\equiv 7\\pmod{14}$\n\nTherefore, the expression becomes:\n\n$0 - 7 + 3 \\equiv -4 \\equiv 10\\pmod{14}$\n\nSo, the residue of $182\\cdot 12 - 15\\cdot 7 + 3\\pmod{14}$ is $\\boxed{10}$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes"
+}

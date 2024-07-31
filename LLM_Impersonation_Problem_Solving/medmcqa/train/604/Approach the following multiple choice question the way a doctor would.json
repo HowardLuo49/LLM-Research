@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Serological testing of patient shows HBsAg, IgM Anti-HBc and HBeAg positive . The patient has-\n1: Chronic hepatitis B with low infectivity\n2: Acute hepatitis B with high infectivity\n3: Chronic hepatitis with high in fectivity\n4: Acute on chronic hepatitis",
+    "solution": 2,
+    "gpt_response": "As a doctor, I would approach this question by first understanding the significance of each of the markers mentioned in the serological testing results.\n\nHBsAg is the surface antigen of the hepatitis B virus, which indicates current infection. IgM Anti-HBc is an antibody against the core antigen of the virus, seen in acute infection. HBeAg is another antigen produced by the virus during active replication.\n\nGiven that the patient has all three markers positive, it indicates acute hepatitis B with high infectivity. Acute hepatitis B is characterized by a recent infection with active viral replication, indicated by the presence of HBeAg. The presence of IgM Anti-HBc further supports the acute nature of the infection.\n\nTherefore, the correct answer is:\n2: Acute hepatitis B with high infectivity",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: As a doctor, I would approach this question by first understanding the significance of each of the markers mentioned in the serological testing results.\n\nHBsAg is the surface antigen of the hepatitis B virus, which indicates current infection. IgM Anti-HBc is an antibody against the core antigen of the virus, seen in acute infection. HBeAg is another antigen produced by the virus during active replication.\n\nGiven that the patient has all three markers positive, it indicates acute hepatitis B with high infectivity. Acute hepatitis B is characterized by a recent infection with active viral replication, indicated by the presence of HBeAg. The presence of IgM Anti-HBc further supports the acute nature of the infection.\n\nTherefore, the correct answer is:\n2: Acute hepatitis B with high infectivity",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

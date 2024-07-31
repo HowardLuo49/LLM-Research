@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. How many diagonals does a regular seven-sided polygon contain?",
+    "solution": "A seven-sided polygon has seven vertices. There are ${7 \\choose 2} = 21$ ways to connect the pairs of these 7 points. But 7 of those pairs are pairs of consecutive vertices, so they are counted as sides. So, only $21 - 7 = \\boxed{14}$ of these segments are diagonals.",
+    "gpt_response": "A regular seven-sided polygon is also called a heptagon. To find out how many diagonals a regular heptagon has, we can use a formula that says the number of diagonals in a polygon with n sides is n*(n-3)/2.\n\nSo for a regular heptagon, which has 7 sides, we plug in n=7 to the formula:\n\n7*(7-3)/2 = 7*4/2 = 28/2 = 14\n\nTherefore, a regular heptagon contains 14 diagonals.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 14?: A regular seven-sided polygon is also called a heptagon. To find out how many diagonals a regular heptagon has, we can use a formula that says the number of diagonals in a polygon with n sides is n*(n-3)/2.\n\nSo for a regular heptagon, which has 7 sides, we plug in n=7 to the formula:\n\n7*(7-3)/2 = 7*4/2 = 28/2 = 14\n\nTherefore, a regular heptagon contains 14 diagonals.",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

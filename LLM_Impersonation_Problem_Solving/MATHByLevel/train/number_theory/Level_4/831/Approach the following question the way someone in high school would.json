@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Let $S = 1 - 2 + 3 - 4 + \\cdots + 2009 - 2010$. What is the residue of $S$, modulo 2010?",
+    "solution": "Note that $x + 2010 \\equiv x \\pmod{2010}$. Add 2010 to every negative summand and rearrange the terms to find $S \\equiv 0 + 1 + 2 + 3 + \\cdots + 2008 + 2009 \\pmod{2010}$. The right-hand side is the sum of the integers from 1 to 2010, so $S \\equiv \\frac{2010 \\cdot 2011}{2} \\equiv 1005 \\cdot 2011 \\equiv 1005 \\cdot 1 \\equiv \\boxed{1005} \\pmod{2010}$.",
+    "gpt_response": "To find the residue of $S$ modulo 2010, we can first group the terms in pairs. Each pair consists of a positive term and a negative term. \n\nFor example, the first pair is $1 - 2$, which equals $-1$. \nThe second pair is $3 - 4$, which equals $-1$. \nThis pattern continues for all pairs, each with a residue of $-1$ modulo 2010.\n\nSince there are 1005 pairs in total, the residue of $S$ modulo 2010 is $-1 \\times 1005 = -1005 \\equiv 1005 \\pmod{2010}$. \n\nTherefore, the residue of $S$, modulo 2010, is 1005.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 1005?: To find the residue of $S$ modulo 2010, we can first group the terms in pairs. Each pair consists of a positive term and a negative term. \n\nFor example, the first pair is $1 - 2$, which equals $-1$. \nThe second pair is $3 - 4$, which equals $-1$. \nThis pattern continues for all pairs, each with a residue of $-1$ modulo 2010.\n\nSince there are 1005 pairs in total, the residue of $S$ modulo 2010 is $-1 \\times 1005 = -1005 \\equiv 1005 \\pmod{2010}$. \n\nTherefore, the residue of $S$, modulo 2010, is 1005.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "5",
+    "difficulty_value": "5"
+}

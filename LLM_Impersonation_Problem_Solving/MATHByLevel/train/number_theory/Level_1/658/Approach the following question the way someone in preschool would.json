@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. If 25,197,624 hot dogs are packaged in sets of 4, how many will be left over?",
+    "solution": "We look for the remainder when $25,197,624$ is divided by $4$. We could manually divide to see that $4$ divides evenly into $25,197,624$ for a remainder of $0$, but the quicker way is to know the divisibility rule for $4$. If the last two digits of the number form a multiple of $4$, then the number itself is divisible by $4$.  In this case, $24$ is a multiple of $4$, so $25,197,624$ is also a multiple of $4$. That means $\\boxed{0}$ hot dogs will be left over.",
+    "gpt_response": "Let's count the hot dogs together! We have 25,197,624 hot dogs and we are putting them into sets of 4. Let's see how many sets we can make. \n\n25,197,624 divided by 4 equals 6,299,406 sets of hot dogs. Now let's see how many are left over. \n\nTo find out, we need to subtract the total sets from the original number of hot dogs. \n\n25,197,624 - (4 x 6,299,406) = 25,197,624 - 25,197,624 = 0 hot dogs left over!\n\nYay! No hot dogs are left over! We did a great job counting together.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 0?: Let's count the hot dogs together! We have 25,197,624 hot dogs and we are putting them into sets of 4. Let's see how many sets we can make. \n\n25,197,624 divided by 4 equals 6,299,406 sets of hot dogs. Now let's see how many are left over. \n\nTo find out, we need to subtract the total sets from the original number of hot dogs. \n\n25,197,624 - (4 x 6,299,406) = 25,197,624 - 25,197,624 = 0 hot dogs left over!\n\nYay! No hot dogs are left over! We did a great job counting together.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

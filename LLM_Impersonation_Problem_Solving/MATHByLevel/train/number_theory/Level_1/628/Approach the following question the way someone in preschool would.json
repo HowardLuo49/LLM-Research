@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. When three positive integers are divided by $12$, the remainders are $7,$ $9,$ and $10,$ respectively.\n\nWhen the sum of the three integers is divided by $12$, what is the remainder?",
+    "solution": "We can call the three integers in this problem $a,$ $b,$ and $c$. Then we have \\begin{align*}\na &\\equiv 7\\pmod{12}, \\\\\nb &\\equiv 9\\pmod{12}, \\\\\nc &\\equiv 10\\pmod{12}.\n\\end{align*}Adding these congruences, we have \\begin{align*}\na+b+c &\\equiv 7+9+10 \\\\\n&= 26\\pmod{12}.\n\\end{align*}Therefore, $a+b+c$ has the same remainder as $26$ upon division by $12$. This remainder is $\\boxed{2}$.",
+    "gpt_response": "Okay! So we have three numbers and when we divide each of them by 12, we get remainders of 7, 9, and 10. Now we want to find the remainder when we add all three numbers together and divide by 12.\n\nLet's imagine we have some blocks to represent the three numbers. We have one block with 7 dots, one block with 9 dots, and one block with 10 dots. When we put all the blocks together and count all the dots, we get a total of 26 dots.\n\nNow, let's try to divide these 26 dots by 12. We can fit in 2 groups of 12 dots, which makes 24 dots. We have 2 dots left over as a remainder.\n\nSo, the remainder when we add the three numbers and divide by 12 is 2!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 2?: Okay! So we have three numbers and when we divide each of them by 12, we get remainders of 7, 9, and 10. Now we want to find the remainder when we add all three numbers together and divide by 12.\n\nLet's imagine we have some blocks to represent the three numbers. We have one block with 7 dots, one block with 9 dots, and one block with 10 dots. When we put all the blocks together and count all the dots, we get a total of 26 dots.\n\nNow, let's try to divide these 26 dots by 12. We can fit in 2 groups of 12 dots, which makes 24 dots. We have 2 dots left over as a remainder.\n\nSo, the remainder when we add the three numbers and divide by 12 is 2!",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "5",
+    "difficulty_value": "5"
+}

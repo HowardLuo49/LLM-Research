@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. How many odd whole numbers are factors of 180?",
+    "solution": "Factoring out the highest power of 2 that divides 180, we get $180=2^2\\cdot45$. Thus, the odd factors of 180 are all the factors of $45=3^2\\cdot5^1$, which has $(2+1)(1+1)=\\boxed{6}$ factors.",
+    "gpt_response": "To find the odd factors of 180, we first need to find all the factors of 180. \n\nThe factors of 180 are 1, 2, 3, 4, 5, 6, 9, 10, 12, 15, 18, 20, 30, 36, 45, 60, 90, and 180. \n\nOut of these, the odd factors are 1, 3, 5, 9, 15, 45. \n\nSo, there are 6 odd whole numbers that are factors of 180 - 1, 3, 5, 9, 15, and 45.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 6?: To find the odd factors of 180, we first need to find all the factors of 180. \n\nThe factors of 180 are 1, 2, 3, 4, 5, 6, 9, 10, 12, 15, 18, 20, 30, 36, 45, 60, 90, and 180. \n\nOut of these, the odd factors are 1, 3, 5, 9, 15, 45. \n\nSo, there are 6 odd whole numbers that are factors of 180 - 1, 3, 5, 9, 15, and 45.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

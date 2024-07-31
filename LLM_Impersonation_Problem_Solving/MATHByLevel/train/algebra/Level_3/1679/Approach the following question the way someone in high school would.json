@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. What is the product of the coordinates of the midpoint of a line segment with endpoints at $(2,3)$ and $(-6,5)$?",
+    "solution": "Since the midpoint of a segment has coordinates that are the average of the endpoints, we see that the midpoint has coordinates $\\left(\\frac{2 - 6}{2}, \\frac{3+5}{2}\\right) = (-2, 4)$.  Thus our desired answer is $-2\\cdot 4 = \\boxed{-8}$.",
+    "gpt_response": "To find the midpoint of a line segment, we average the x-coordinates and the y-coordinates of the endpoints. \n\nThe x-coordinate of the midpoint is $\\dfrac{2 + (-6)}{2} = \\dfrac{-4}{2} = -2$.\n\nThe y-coordinate of the midpoint is $\\dfrac{3 + 5}{2} = \\dfrac{8}{2} = 4$.\n\nSo, the coordinates of the midpoint are $(-2, 4)$.\n\nThe product of the coordinates of the midpoint is $-2 \\times 4 = \\boxed{-8}$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to -8?: To find the midpoint of a line segment, we average the x-coordinates and the y-coordinates of the endpoints. \n\nThe x-coordinate of the midpoint is $\\dfrac{2 + (-6)}{2} = \\dfrac{-4}{2} = -2$.\n\nThe y-coordinate of the midpoint is $\\dfrac{3 + 5}{2} = \\dfrac{8}{2} = 4$.\n\nSo, the coordinates of the midpoint are $(-2, 4)$.\n\nThe product of the coordinates of the midpoint is $-2 \\times 4 = \\boxed{-8}$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

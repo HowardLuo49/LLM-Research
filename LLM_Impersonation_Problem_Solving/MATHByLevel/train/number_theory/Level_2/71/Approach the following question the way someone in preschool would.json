@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. How many two-digit numbers can be written in the form $2^n$ where $n$ is an integer?",
+    "solution": "The smallest $n$ that works is $4$ with $2^4=16$ and the largest is $6$ with $2^6=64,$ so $n$ can be $4,\\ 5,$ or $6$ for $\\boxed{3}$ such numbers.",
+    "gpt_response": "Let's count together! We can start with n = 0, and then try n = 1, n = 2, n = 3, and so on. Can you help me count how many two-digit numbers we can make with the form $2^n$? Let's see how many we can find!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 3?: Let's count together! We can start with n = 0, and then try n = 1, n = 2, n = 3, and so on. Can you help me count how many two-digit numbers we can make with the form $2^n$? Let's see how many we can find!",
+    "gpt_response_correct_incorrect": "No, the final solution is not equal to 3.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

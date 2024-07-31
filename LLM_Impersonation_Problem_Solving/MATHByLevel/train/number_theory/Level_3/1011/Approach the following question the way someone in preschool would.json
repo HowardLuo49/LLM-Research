@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Let $n$ be a positive integer and $a,b$ be invertible integers modulo $n$ such that $a\\equiv b^{-1}\\pmod n$. What is the remainder when $ab$ is divided by $n$?",
+    "solution": "Since $a\\equiv b^{-1}\\pmod n$, \\[ab\\equiv b^{-1}b\\equiv \\boxed{1}\\pmod n.\\]",
+    "gpt_response": "Hmm, okay, let's see. So we have these numbers $a$ and $b$ that are special because they're invertible integers modulo $n.\" Invertible means that they have a special friend that, when they hang out together (or multiply), they make a special number. \n\nIn this case, $a\\equiv b^{-1}\\pmod n$\" means that when $a$ hangs out with its special friend $b$, they make a special number that is like, well, the opposite of $b$ (or, the inverse, you know?). So when we multiply $a$ and $b$ together, we get this super cool number.\n\nNow, we want to figure out what happens when we divide this cool number by $n$. Hmmm, let's think. Since $a$ and $b$ are special friends, maybe the remainder when we divide $ab$ by $n$ is like... zero? Or maybe it's a super tiny number, like $1$ or something. I'm not sure, but maybe we can color a picture or use some blocks to figure it out!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 1?: Hmm, okay, let's see. So we have these numbers $a$ and $b$ that are special because they're invertible integers modulo $n.\" Invertible means that they have a special friend that, when they hang out together (or multiply), they make a special number. \n\nIn this case, $a\\equiv b^{-1}\\pmod n$\" means that when $a$ hangs out with its special friend $b$, they make a special number that is like, well, the opposite of $b$ (or, the inverse, you know?). So when we multiply $a$ and $b$ together, we get this super cool number.\n\nNow, we want to figure out what happens when we divide this cool number by $n$. Hmmm, let's think. Since $a$ and $b$ are special friends, maybe the remainder when we divide $ab$ by $n$ is like... zero? Or maybe it's a super tiny number, like $1$ or something. I'm not sure, but maybe we can color a picture or use some blocks to figure it out!",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "5",
+    "difficulty_value": "5"
+}

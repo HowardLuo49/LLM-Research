@@ -1,0 +1,8 @@
+{
+    "problem_prompt": "Your job is to consider a number theory problem, and leave a plan for the next person to solve it. The problem will be revealed one sentence at a time. You do not have the entire problem yet, thus just do whatever calcluations/planning you think will be useful for the next person. If you don't think you can make any progress, say so. The following is a portion of the entire problem, and the work/progress/message the previous person left for you. There may be errors in the provided work that was previously done and left for you, so check and fix them if necessary.\nLet $T$ be a positive integer whose only digits are 0s and 1s.\n",
+    "solution": "Since $T$ is divisible by 12, it must be divisible by both 3 and 4.  Hence, the sum of its digits is divisible by 3 and its last two digits are divisible by 4.  By inspection, we see that $T$ must end in 00 and therefore the smallest such $T$ is 11100.  Calculating, $X = \\boxed{925}$.",
+    "gpt_response": "Since $T$ is a positive integer, its leftmost digit cannot be a 0, so let's denote $T = 1...$ where the dots represent the remaining digits. \n\nWe know that $T$ is divisible by 3 if the sum of its digits is divisible by 3. Let's try to find patterns in the sums of the digits of $T$ for different values of $T$.",
+    "solution_prompt": "Question partition not complete yet",
+    "gpt_response_correct_incorrect": "Question partition not complete yet",
+    "yes_no": "Question partition not complete yet"
+}

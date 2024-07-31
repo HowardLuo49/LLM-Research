@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. What is the molecular weight of C7H12O3?\nAnswer (numerical number):",
+    "solution": [
+        "144.17"
+    ],
+    "gpt_response": "144.17 g/mol\n\nExplanation: To calculate the molecular weight of C7H12O3, we first need to determine the atomic weights of carbon (C), hydrogen (H), and oxygen (O). The atomic weight of carbon is 12.01 g/mol, the atomic weight of hydrogen is 1.008 g/mol, and the atomic weight of oxygen is 16.00 g/mol.\n\nNext, we multiply the number of each type of atom by its atomic weight and sum the results:\n\n(7 x 12.01) + (12 x 1.008) + (3 x 16) = 84.07 + 12.096 + 48 = 144.17 g/mol\n\nTherefore, the molecular weight of C7H12O3 is 144.17 g/mol.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response ['144.17']?: 144.17 g/mol\n\nExplanation: To calculate the molecular weight of C7H12O3, we first need to determine the atomic weights of carbon (C), hydrogen (H), and oxygen (O). The atomic weight of carbon is 12.01 g/mol, the atomic weight of hydrogen is 1.008 g/mol, and the atomic weight of oxygen is 16.00 g/mol.\n\nNext, we multiply the number of each type of atom by its atomic weight and sum the results:\n\n(7 x 12.01) + (12 x 1.008) + (3 x 16) = 84.07 + 12.096 + 48 = 144.17 g/mol\n\nTherefore, the molecular weight of C7H12O3 is 144.17 g/mol.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "118",
+    "difficulty_value": "8"
+}

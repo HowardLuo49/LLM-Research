@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. A 40-year old diabetic patient presents with proptosis of one eye and black eschar over palate. The likely organism is :\n1: Pseudomonas\n2: Candida\n3: E. coli\n4: Mucor",
+    "solution": 4,
+    "gpt_response": "Based on the clinical presentation of proptosis of one eye and a black eschar over the palate in a diabetic patient, the likely organism causing this infection is Mucor. This is a fungal infection known as mucormycosis, which is more common in immunocompromised individuals such as those with diabetes. The black eschar is a characteristic finding in mucormycosis.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 4?: Based on the clinical presentation of proptosis of one eye and a black eschar over the palate in a diabetic patient, the likely organism causing this infection is Mucor. This is a fungal infection known as mucormycosis, which is more common in immunocompromised individuals such as those with diabetes. The black eschar is a characteristic finding in mucormycosis.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

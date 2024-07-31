@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Solve for $x$: $$\\sqrt[3]{3-\\frac{1}{x}}=-4$$",
+    "solution": "We cube both sides to eliminate the cube root: $3-\\frac{1}{x}=-64$.   Simplifying gives $\\frac{1}{x}=67$ and taking the reciprocal of both sides gives $\\boxed{x=\\frac{1}{67}}$.",
+    "gpt_response": "First, we need to make it fun and easy! Let's pretend we are building a tower of blocks with x blocks. We start with 3 blocks and then subtract 1/x block. Next, we take the cube root of the tower of blocks, which means finding the block that, when multiplied by itself 3 times, gives us the tower of blocks.\n\nNow, the answer is -4. So, we need to find a way to make our tower of blocks equal to -4. Hmmm, this is a tricky one! Let's try using our imagination and see if we can figure it out together. Let's have fun and see where our creativity takes us!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to x=\\frac{1?: First, we need to make it fun and easy! Let's pretend we are building a tower of blocks with x blocks. We start with 3 blocks and then subtract 1/x block. Next, we take the cube root of the tower of blocks, which means finding the block that, when multiplied by itself 3 times, gives us the tower of blocks.\n\nNow, the answer is -4. So, we need to find a way to make our tower of blocks equal to -4. Hmmm, this is a tricky one! Let's try using our imagination and see if we can figure it out together. Let's have fun and see where our creativity takes us!",
+    "gpt_response_correct_incorrect": "No",
+    "yes_no": "no"
+}

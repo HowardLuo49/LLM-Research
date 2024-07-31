@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Confirmatory test for syphilis is-rpt qun\n1: FTA-ABS\n2: VDRL\n3: PCR\n4: Culture and sensitivity",
+    "solution": 1,
+    "gpt_response": "As a doctor, the confirmatory test for syphilis is typically the FTA-ABS (Fluorescent Treponemal Antibody Absorption) test. This test is highly specific for syphilis and confirms the presence of antibodies to the bacterium Treponema pallidum. The VDRL test (Venereal Disease Research Laboratory) is a screening test for syphilis, but a positive VDRL result must be confirmed with the FTA-ABS test. PCR (Polymerase Chain Reaction) testing can be used to detect the genetic material of the syphilis bacterium, and culture and sensitivity tests may also be used in certain cases. However, for confirmatory testing, the FTA-ABS test is typically the most reliable.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: As a doctor, the confirmatory test for syphilis is typically the FTA-ABS (Fluorescent Treponemal Antibody Absorption) test. This test is highly specific for syphilis and confirms the presence of antibodies to the bacterium Treponema pallidum. The VDRL test (Venereal Disease Research Laboratory) is a screening test for syphilis, but a positive VDRL result must be confirmed with the FTA-ABS test. PCR (Polymerase Chain Reaction) testing can be used to detect the genetic material of the syphilis bacterium, and culture and sensitivity tests may also be used in certain cases. However, for confirmatory testing, the FTA-ABS test is typically the most reliable.",
+    "gpt_response_correct_incorrect": "No. The final solution obtained in the response is 2 - No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

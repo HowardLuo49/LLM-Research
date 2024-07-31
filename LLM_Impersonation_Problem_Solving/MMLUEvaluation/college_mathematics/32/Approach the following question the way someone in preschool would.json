@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. For which integers n such that 3 <= n <= 11 is there only one group of order n (up to isomorphism)?\nA: For no such integer n\nB: For 3, 5, 7, and 11 only\nC: For 3, 5, 7, 9, and 11 only\nD: For 4, 6, 8, and 10 only",
+    "solution": "B",
+    "gpt_response": "Teacher: Okay class, today we're going to talk about groups! Groups are like special teams that like to do things together. Now, let's think about which teams have the most members. Can anyone tell me which numbers have only one group of order n? Let's count together, starting from 3! \n\nClass: 3, 4, 5, 6, 7, 8, 9, 10, 11!\n\nTeacher: Great job! Now, let's see which numbers have only one group of order n. Is it A: for no such integer n, B: for 3, 5, 7, and 11 only, C: for 3, 5, 7, 9, and 11 only, or D: for 4, 6, 8, and 10 only?\n\nClass: B: for 3, 5, 7, and 11 only!\n\nTeacher: Good thinking, class! Those are the numbers that have only one special team. Keep up the great work!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to B?: Teacher: Okay class, today we're going to talk about groups! Groups are like special teams that like to do things together. Now, let's think about which teams have the most members. Can anyone tell me which numbers have only one group of order n? Let's count together, starting from 3! \n\nClass: 3, 4, 5, 6, 7, 8, 9, 10, 11!\n\nTeacher: Great job! Now, let's see which numbers have only one group of order n. Is it A: for no such integer n, B: for 3, 5, 7, and 11 only, C: for 3, 5, 7, 9, and 11 only, or D: for 4, 6, 8, and 10 only?\n\nClass: B: for 3, 5, 7, and 11 only!\n\nTeacher: Good thinking, class! Those are the numbers that have only one special team. Keep up the great work!",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "5",
+    "difficulty_value": "5"
+}

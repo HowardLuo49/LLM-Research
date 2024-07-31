@@ -1,0 +1,10 @@
+{
+    "prefix": "Solve the following problem. ",
+    "problem_prompt": "Solve the following problem. What is the remainder when 2007 is divided by 25?",
+    "solution": "Since 25 divides evenly into 2000 and 2007 is 7 more than 2000, the remainder when 2007 is divided by 25 is $\\boxed{7}$.",
+    "gpt_response": "To find the remainder when 2007 is divided by 25, we need to divide 2007 by 25:\n\n2007 \u00f7 25 = 80 with a remainder of 7\n\nTherefore, the remainder when 2007 is divided by 25 is 7.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 7?: To find the remainder when 2007 is divided by 25, we need to divide 2007 by 25:\n\n2007 \u00f7 25 = 80 with a remainder of 7\n\nTherefore, the remainder when 2007 is divided by 25 is 7.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes"
+}

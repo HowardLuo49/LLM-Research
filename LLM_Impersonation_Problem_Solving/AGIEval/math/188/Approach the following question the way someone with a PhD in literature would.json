@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in literature would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in literature would. The larger circle has center $O$ and passes through $D$. The smaller circle has diameter $OD$. What percent of the larger circle's area is gray?\n\n[asy]import graph;\ndraw(Circle((0,0),30),black);\nfill(Circle((0,-15),15),gray(.6));\ndraw(Circle((0,-15),15),black);\ndraw((0,0)--(0,-30),black);\nlabel(\"O\",(0,0),N);\nlabel(\"D\",(0,-30),S);\n[/asy]",
+    "solution": "25\\%",
+    "gpt_response": "To solve this problem, we first need to find the ratio of the areas of the two circles. The larger circle has radius $OD$, while the smaller circle has radius $0.5 \\cdot OD$. Hence, the ratio of the areas is $(0.5 \\cdot OD)^2 : OD^2 = 0.25 : 1$.\n\nTherefore, the gray area is $0.25$ of the larger circle's area. To calculate this as a percentage, we can multiply by $100$ to get $25\\%$. \n\nIn conclusion, $25\\%$ of the larger circle's area is gray.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 25\\%?: To solve this problem, we first need to find the ratio of the areas of the two circles. The larger circle has radius $OD$, while the smaller circle has radius $0.5 \\cdot OD$. Hence, the ratio of the areas is $(0.5 \\cdot OD)^2 : OD^2 = 0.25 : 1$.\n\nTherefore, the gray area is $0.25$ of the larger circle's area. To calculate this as a percentage, we can multiply by $100$ to get $25\\%$. \n\nIn conclusion, $25\\%$ of the larger circle's area is gray.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

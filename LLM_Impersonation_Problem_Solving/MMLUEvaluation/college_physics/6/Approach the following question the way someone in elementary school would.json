@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. Consider three identical, ideal capacitors. The first capacitor is charged to a voltage and then disconnected from the battery. The other two capacitors, initially uncharged and connected in series, are then connected across the first capacitor. What is the final voltage on the first capacitor?\nA: V_0/5\nB: V_0/3\nC: V_0/2\nD: 2V_0/3",
+    "solution": "D",
+    "gpt_response": "First, we have to imagine that the capacitors are like little buckets that hold electricity. When one bucket is full (charged) and disconnected from the battery, and then connected to two empty buckets (uncharged) connected together, the electricity will spread out evenly between the buckets.\n\nSince the three capacitors are identical, the final voltage on the first capacitor will be the sum of the individual voltages divided by 3. Therefore, the final voltage on the first capacitor will be V_0/3.\n\nSo, the answer is B: V_0/3.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: First, we have to imagine that the capacitors are like little buckets that hold electricity. When one bucket is full (charged) and disconnected from the battery, and then connected to two empty buckets (uncharged) connected together, the electricity will spread out evenly between the buckets.\n\nSince the three capacitors are identical, the final voltage on the first capacitor will be the sum of the individual voltages divided by 3. Therefore, the final voltage on the first capacitor will be V_0/3.\n\nSo, the answer is B: V_0/3.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

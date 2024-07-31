@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. The integer $m$ is between $30$ and $80$ and is a multiple of $6$. When $m$ is divided by $8,$ the remainder is $2$. Similarly, when $m$ is divided by $5,$ the remainder is $2$. What is the value of $m$?",
+    "solution": "According to the problem statement, we have the system of linear congruences \\begin{align*}\nm &\\equiv 0 \\pmod{6} \\\\\nm &\\equiv 2 \\pmod{8} \\\\\nm &\\equiv 2 \\pmod{5}.\n\\end{align*} It follows by the Chinese Remainder Theorem that $m \\equiv 2 \\pmod{40}$. The only number that satisfies this criterion for $30 \\le m \\le 80$ is $m = \\boxed{42}$, which is indeed divisible by $6$.",
+    "gpt_response": "Let's start by counting by 6 and seeing which number is between 30 and 80! So we have 36, 42, 48, 54, 60, 66, 72, and 78. Now let's try dividing each of these numbers by 8. We see that only 72 gives a remainder of 2! Yay! Now let's check if 72 gives a remainder of 2 when divided by 5. It does! So the value of $m$ is $\\boxed{72}$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 42?: Let's start by counting by 6 and seeing which number is between 30 and 80! So we have 36, 42, 48, 54, 60, 66, 72, and 78. Now let's try dividing each of these numbers by 8. We see that only 72 gives a remainder of 2! Yay! Now let's check if 72 gives a remainder of 2 when divided by 5. It does! So the value of $m$ is $\\boxed{72}$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

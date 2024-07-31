@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. What is the sum of the prime numbers less than 10?",
+    "solution": "The prime numbers less than $10$ are $2,3,5,7$, so the sum is $2+3+5+7=\\boxed{17}$.",
+    "gpt_response": "Let's count the prime numbers less than 10. The prime numbers less than 10 are 2, 3, 5, and 7. Now, let's add them up. 2 + 3 + 5 + 7 = 17. So, the sum of the prime numbers less than 10 is 17! Yay!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 17?: Let's count the prime numbers less than 10. The prime numbers less than 10 are 2, 3, 5, and 7. Now, let's add them up. 2 + 3 + 5 + 7 = 17. So, the sum of the prime numbers less than 10 is 17! Yay!",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

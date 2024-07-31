@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. The positive number $a$ is chosen such that the terms $20, a, \\frac{5}{4}$ are the first, second and third terms, respectively, of a geometric sequence. What is the value of $a$, if $a$ is positive?",
+    "solution": "Let the common ratio of the geometric sequence be $r$. We have the equations $20\\cdot r = a$ and $a \\cdot r = \\frac{5}{4}$. In the first equation, we solve for $r$ to get $r=\\frac{a}{20}$, and substitute this into the second equation to eliminate $r$, resulting in $a \\cdot \\frac{a}{20} = \\frac{5}{4}$, or $a = \\boxed{5}$.",
+    "gpt_response": "To find the value of $a$, we need to figure out how the terms are related in the sequence. In a geometric sequence, each term is found by multiplying the previous term by a constant number called the common ratio.\n\nSo to find $a$, we can divide the second term by the first term, and then divide the third term by the second term to see what the common ratio is.\n\n$\\frac{a}{20} = \\frac{5}{4}$\n$a = 20 \\times \\frac{5}{4}$\n$a = 25$\n\nSo the value of $a$ is 25.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 5?: To find the value of $a$, we need to figure out how the terms are related in the sequence. In a geometric sequence, each term is found by multiplying the previous term by a constant number called the common ratio.\n\nSo to find $a$, we can divide the second term by the first term, and then divide the third term by the second term to see what the common ratio is.\n\n$\\frac{a}{20} = \\frac{5}{4}$\n$a = 20 \\times \\frac{5}{4}$\n$a = 25$\n\nSo the value of $a$ is 25.",
+    "gpt_response_correct_incorrect": "No",
+    "yes_no": "no"
+}

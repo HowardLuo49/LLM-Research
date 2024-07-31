@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. A line with slope 3 intersects a line with slope 5 at the point $(10,15)$. What is the distance between the $x$-intercepts of these two lines?",
+    "solution": "The two lines have equations \\[\ny -15=3(x-10)\\quad\\text{and}\\quad y -15=5(x-10).\n\\]The $x$-intercepts, obtained by setting $y=0$ in the respective equations, are 5 and 7.  The distance between the  points $(5,0)$ and $(7,0)$ is $\\boxed{2}$.",
+    "gpt_response": "I like lines! The line with slope 3 and the line with slope 5 met at a special spot called $(10,15)$. We want to find how far apart their x-friends are. Let's think together how we can find this out! Maybe we can make a picture with blocks or use our fingers to measure. Let's count together to find the answer! 1, 2, 3...",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 2?: I like lines! The line with slope 3 and the line with slope 5 met at a special spot called $(10,15)$. We want to find how far apart their x-friends are. Let's think together how we can find this out! Maybe we can make a picture with blocks or use our fingers to measure. Let's count together to find the answer! 1, 2, 3...",
+    "gpt_response_correct_incorrect": "No.",
+    "yes_no": "no"
+}

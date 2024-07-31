@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. If $f(x) = -7x^4 + 3x^3 + x - 5$, and $g(x)$ is a polynomial such that the degree of $f(x) + g(x)$ is 1, then what is the degree of $g(x)$?",
+    "solution": "The degree of $f(x) + g(x)$ is 1, and the only way that $g(x)$ can cancel the term of $-7x^4$ in $f(x)$ is if $g(x)$ contains the term $7x^4$.  Therefore, the degree of $g(x)$ is $\\boxed{4}$.",
+    "gpt_response": "To find the degree of $g(x)$, we need to consider the highest degree term in the sum $f(x) + g(x)$. Since the highest degree term in $f(x)$ is $-7x^4$, and we know that the degree of $f(x) + g(x)$ is 1, the highest degree term in $g(x)$ must be $7x^4$ for the sum to have a degree of 1.\n\nTherefore, the degree of $g(x)$ is 4.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 4?: To find the degree of $g(x)$, we need to consider the highest degree term in the sum $f(x) + g(x)$. Since the highest degree term in $f(x)$ is $-7x^4$, and we know that the degree of $f(x) + g(x)$ is 1, the highest degree term in $g(x)$ must be $7x^4$ for the sum to have a degree of 1.\n\nTherefore, the degree of $g(x)$ is 4.",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

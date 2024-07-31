@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. Find all solutions to the equation $\\!\\sqrt{2-3z} = 9$.  Express your answer as a common fraction.",
+    "solution": "We square both sides to get rid of the square root sign.  This gives us $2-3z = 81$.  Solving for $z$ gives $z = \\boxed{-\\frac{79}{3}}$.  We squared an equation, so we have to test our solution to make sure it isn't extraneous.  We have \\[\\sqrt{2 - 3\\left(-\\frac{79}{3}\\right)} =\\sqrt{2+79} = 9,\\]so our solution is valid.",
+    "gpt_response": "To find the solutions, we need to figure out what number z is equal to when you take the square root of 2 minus 3 times z, and that answer is 9.\n\nFirst, let's square both sides of the equation to get rid of the square root. That gives us 2-3z = 81.\n\nNow, let's solve for z by adding 3z to both sides, getting 2 = 81 + 3z.\n\nNext, subtract 81 from both sides to get 3z = -79. \n\nFinally, divide by 3 to find the solution: z = -79/3.\n\nSo the solution to the equation $\\!\\sqrt{2-3z} = 9$ is z = -79/3.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to -\\frac{79?: To find the solutions, we need to figure out what number z is equal to when you take the square root of 2 minus 3 times z, and that answer is 9.\n\nFirst, let's square both sides of the equation to get rid of the square root. That gives us 2-3z = 81.\n\nNow, let's solve for z by adding 3z to both sides, getting 2 = 81 + 3z.\n\nNext, subtract 81 from both sides to get 3z = -79. \n\nFinally, divide by 3 to find the solution: z = -79/3.\n\nSo the solution to the equation $\\!\\sqrt{2-3z} = 9$ is z = -79/3.",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

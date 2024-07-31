@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Fries test is used in the diagnosis of:\n1: Gonorrhoea\n2: Herpes\n3: Chanchroid\n4: Granuloma venereum",
+    "solution": 4,
+    "gpt_response": "As a physician, I would choose option 4: Granuloma venereum. The Fries test is a diagnostic test for Granuloma venereum, which is a sexually transmitted infection caused by the bacterium Chlamydia trachomatis.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 4?: As a physician, I would choose option 4: Granuloma venereum. The Fries test is a diagnostic test for Granuloma venereum, which is a sexually transmitted infection caused by the bacterium Chlamydia trachomatis.",
+    "gpt_response_correct_incorrect": "Yes, the final solution obtained in the response is option 4: Granuloma venereum.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

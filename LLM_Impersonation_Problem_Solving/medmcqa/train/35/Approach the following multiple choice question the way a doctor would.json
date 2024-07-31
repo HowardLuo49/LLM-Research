@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. 25 year old patient Suspected to have a pneumoperitoneum. Patient is unable to stand. Best x-ray view is\n1: Left lateral decubitus view\n2: Right lateral decubitus view\n3: Supine\n4: Prone",
+    "solution": 1,
+    "gpt_response": "The best x-ray view for a patient suspected to have a pneumoperitoneum who is unable to stand would be the supine position. This position allows for the detection of free air in the peritoneal cavity, which is characteristic of a pneumoperitoneum.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: The best x-ray view for a patient suspected to have a pneumoperitoneum who is unable to stand would be the supine position. This position allows for the detection of free air in the peritoneal cavity, which is characteristic of a pneumoperitoneum.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "5",
+    "difficulty_value": "5"
+}

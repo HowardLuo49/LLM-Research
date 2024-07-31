@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. On Monday, I worked $t-6$ hours and earned $2t-5$ dollars per hour. My friend Andrew worked $2t-8$ hours but only earned $t-5$ dollars an hour. As it turns out, we earned the same amount. What is the value of $t$?",
+    "solution": "Since we both earned the same amount, \\begin{align*}\n(t-6) (2t-5) &= (2t-8)(t-5) \\\\\n\\Rightarrow \\qquad 2t^2-17t+30 &= 2t^2 - 18t+ 40.\n\\end{align*}Simplifying gives $t = \\boxed{10}$.",
+    "gpt_response": "Let $W$ represent the total earnings of an individual. We can express the total earnings as follows:\n\nFor myself: $W_1 = (t-6)(2t-5)$\nFor Andrew: $W_2 = (2t-8)(t-5)$\n\nAccording to the problem, our total earnings are equal, hence:\n\n$(t-6)(2t-5) = (2t-8)(t-5)$\nExpanding both sides gives:\n$2t^2 - 10t - 12t + 30 = 2t^2 - 10t - 8t + 40$\n$2t^2 - 22t + 30 = 2t^2 - 18t + 40$\n$-4t = 10$\n$t =  -\\frac{10}{4}$\n$t = -2.5$\n\nTherefore, the value of $t$ is $-2.5$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 10?: Let $W$ represent the total earnings of an individual. We can express the total earnings as follows:\n\nFor myself: $W_1 = (t-6)(2t-5)$\nFor Andrew: $W_2 = (2t-8)(t-5)$\n\nAccording to the problem, our total earnings are equal, hence:\n\n$(t-6)(2t-5) = (2t-8)(t-5)$\nExpanding both sides gives:\n$2t^2 - 10t - 12t + 30 = 2t^2 - 10t - 8t + 40$\n$2t^2 - 22t + 30 = 2t^2 - 18t + 40$\n$-4t = 10$\n$t =  -\\frac{10}{4}$\n$t = -2.5$\n\nTherefore, the value of $t$ is $-2.5$.",
+    "gpt_response_correct_incorrect": "No",
+    "yes_no": "no"
+}

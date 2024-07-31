@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. What is the constant term in the expansion of $(x^4+x+5)(x^5+x^3+15)$?",
+    "solution": "We only need to look at the constant terms; all the other terms will have variables in them when multiplied.  Thus we have $(5)(15)$, which equals $\\boxed{75}$.",
+    "gpt_response": "To find the constant term in the expansion, we need to multiply the constant terms in each of the two binomials. In this case, the constant terms are 5 and 15. When we multiply them together, we get 75. So, the constant term in the expansion of $(x^4+x+5)(x^5+x^3+15)$ is 75.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 75?: To find the constant term in the expansion, we need to multiply the constant terms in each of the two binomials. In this case, the constant terms are 5 and 15. When we multiply them together, we get 75. So, the constant term in the expansion of $(x^4+x+5)(x^5+x^3+15)$ is 75.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "yes_no": "yes"
+}

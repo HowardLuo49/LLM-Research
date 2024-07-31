@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. What is the SMILES expression of 2-amino-3-pentan-2-yloxypropanenitrile?\nAnswer:",
+    "solution": [
+        "CCCC(C)OCC(C#N)N"
+    ],
+    "gpt_response": "The SMILES expression of 2-amino-3-pentan-2-yloxypropanenitrile can be represented as CC(C)(N)COC(C)(C)C(C#N)(N)C.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response ['CCCC(C)OCC(C#N)N']?: The SMILES expression of 2-amino-3-pentan-2-yloxypropanenitrile can be represented as CC(C)(N)COC(C)(C)C(C#N)(N)C.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

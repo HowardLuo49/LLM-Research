@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. Assuming $x\\ne0$, simplify $\\frac{12}{x \\cdot x} \\cdot \\frac{x^4}{14x}\\cdot \\frac{35}{3x}$.",
+    "solution": "10",
+    "gpt_response": "To simplify the given expression, we first combine the numerators and denominators by multiplication:\n\n$\\frac{12}{x \\cdot x} \\cdot \\frac{x^4}{14x}\\cdot \\frac{35}{3x} = \\frac{12 \\cdot x^4 \\cdot 35}{x \\cdot x \\cdot 14x \\cdot 3x}$\n\nMultiplying the terms in the numerator and denominator:\n\n$\\frac{12 \\cdot x^4 \\cdot 35}{x \\cdot x \\cdot 14x \\cdot 3x} = \\frac{12 \\cdot x^4 \\cdot 35}{42x^4}$\n\nNext, we simplify the expression further by canceling out common factors:\n\n$\\frac{12 \\cdot x^4 \\cdot 35}{42x^4} = \\frac{12 \\cdot 35}{42} = \\frac{420}{42} = 10$\n\nTherefore, the simplified expression is $10$.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 10?: To simplify the given expression, we first combine the numerators and denominators by multiplication:\n\n$\\frac{12}{x \\cdot x} \\cdot \\frac{x^4}{14x}\\cdot \\frac{35}{3x} = \\frac{12 \\cdot x^4 \\cdot 35}{x \\cdot x \\cdot 14x \\cdot 3x}$\n\nMultiplying the terms in the numerator and denominator:\n\n$\\frac{12 \\cdot x^4 \\cdot 35}{x \\cdot x \\cdot 14x \\cdot 3x} = \\frac{12 \\cdot x^4 \\cdot 35}{42x^4}$\n\nNext, we simplify the expression further by canceling out common factors:\n\n$\\frac{12 \\cdot x^4 \\cdot 35}{42x^4} = \\frac{12 \\cdot 35}{42} = \\frac{420}{42} = 10$\n\nTherefore, the simplified expression is $10$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "9",
+    "difficulty_value": "9"
+}

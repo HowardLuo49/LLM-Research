@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. It takes 24 minutes for Jana to walk one mile. At that rate, how far in miles will she walk in 10 minutes? Express your answer as a decimal to the nearest tenth.",
+    "solution": "Using dimensional analysis, we have $\\dfrac{1\\mbox{ mile}}{24\\mbox{ min}} \\times 10\\mbox{ min} = \\dfrac{5}{12}$ miles, or $\\boxed{0.4\\mbox{ miles}}$ to the nearest tenth.",
+    "gpt_response": "To find out how far Jana will walk in 10 minutes, I will divide 10 (minutes) by 24 (minutes per mile), which gives me 0.4167. Therefore, Jana will walk approximately 0.4 miles in 10 minutes.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 0.4\\mbox{ miles?: To find out how far Jana will walk in 10 minutes, I will divide 10 (minutes) by 24 (minutes per mile), which gives me 0.4167. Therefore, Jana will walk approximately 0.4 miles in 10 minutes.",
+    "gpt_response_correct_incorrect": "No",
+    "yes_no": "no"
+}

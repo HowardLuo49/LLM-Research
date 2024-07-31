@@ -1,0 +1,10 @@
+{
+    "prefix": "You are an expert in number theory. Solve the following problem. ",
+    "problem_prompt": "You are an expert in number theory. Solve the following problem. A $\\textit{composite number}$ is a number that has two or more prime factors. The number 87 can be expressed as the sum of two composite numbers in many ways. What is the minimum positive difference between two such numbers?",
+    "solution": "The minimum difference between two numbers whose sum is 87 is achieved when the numbers are as close as possible to $87\\div2=43.5$. These numbers are 43 and 44, but 43 is prime, so we consider the next pair, 42 and 45, both of which are composite. Thus, the minimum positive difference is $45-42=\\boxed{3}$.",
+    "gpt_response": "To find the minimum positive difference between two composite numbers that add up to 87, we need to find the two composite numbers that are closest together.\n\nFirst, let's factorize 87:\n\n$87 = 3 \\times 29$\n\nNow, let's consider all the possible combinations of two composite numbers whose product is 87:\n\n$87 = 3 \\times 29$\n\nThe closest two composite numbers are 3 and 29, and their difference is $29 - 3 = 26$.\n\nTherefore, the minimum positive difference between two composite numbers that add up to 87 is $\\boxed{26}$.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 3?: To find the minimum positive difference between two composite numbers that add up to 87, we need to find the two composite numbers that are closest together.\n\nFirst, let's factorize 87:\n\n$87 = 3 \\times 29$\n\nNow, let's consider all the possible combinations of two composite numbers whose product is 87:\n\n$87 = 3 \\times 29$\n\nThe closest two composite numbers are 3 and 29, and their difference is $29 - 3 = 26$.\n\nTherefore, the minimum positive difference between two composite numbers that add up to 87 is $\\boxed{26}$.",
+    "gpt_response_correct_incorrect": "No, the final solution obtained in the response is 26, not 3.",
+    "attempts": 3,
+    "yes_no": "no"
+}

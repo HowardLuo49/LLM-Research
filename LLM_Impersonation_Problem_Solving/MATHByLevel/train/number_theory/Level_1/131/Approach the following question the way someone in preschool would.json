@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Daniel has exactly $20$ pieces of candy. He has to divide them equally among his $3$ sisters. What is the least number of pieces he should take away so that he could distribute the candy equally?",
+    "solution": "When you divide $20$ by $3$, you get $6$ with a remainder of $2$. Therefore, he should take away $\\boxed{2 \\text{ pieces}}$ so he could give each of his sisters $6$ pieces.",
+    "gpt_response": "To share the candy equally with his sisters, Daniel needs to make sure he has the same amount of candy left over after he gives some to each of them. Since $20$ can't be divided equally into $3$ parts, Daniel should take away $2$ pieces of candy so that he can share the remaining $18$ pieces equally among his $3$ sisters.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 2 \\text{ pieces?: To share the candy equally with his sisters, Daniel needs to make sure he has the same amount of candy left over after he gives some to each of them. Since $20$ can't be divided equally into $3$ parts, Daniel should take away $2$ pieces of candy so that he can share the remaining $18$ pieces equally among his $3$ sisters.",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

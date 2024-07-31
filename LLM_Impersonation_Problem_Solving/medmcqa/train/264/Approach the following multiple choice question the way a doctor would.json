@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. A 49-year-old female taking ibuprofen for increasing joint pain in her hands presents with increasing pain in her midsternal area. Gastroscopy reveals multiple, scattered, punctate hemorrhagic areas in her gastric mucosa. Biopsies from one of these hemorrhagic lesions reveal mucosal erosions with edema and hemorrhage. No mucosal ulceration is seen.\n1: Active chronic gastritis\n2: Acute gastritis\n3: Autoimmune gastritis\n4: Chronic gastritis",
+    "solution": 2,
+    "gpt_response": "Based on the patient's symptoms and findings on gastroscopy, the most likely diagnosis is acute gastritis. Acute gastritis is characterized by inflammation of the stomach lining, which can be caused by various factors such as medication use (such as ibuprofen in this case), infections, or alcohol consumption. The presence of mucosal erosions with edema and hemorrhage in the gastric mucosa is consistent with acute inflammation. It is important to discontinue ibuprofen use and potentially consider other medications to manage the joint pain that do not exacerbate the gastritis. Further management and follow-up should be guided by a gastroenterologist.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: Based on the patient's symptoms and findings on gastroscopy, the most likely diagnosis is acute gastritis. Acute gastritis is characterized by inflammation of the stomach lining, which can be caused by various factors such as medication use (such as ibuprofen in this case), infections, or alcohol consumption. The presence of mucosal erosions with edema and hemorrhage in the gastric mucosa is consistent with acute inflammation. It is important to discontinue ibuprofen use and potentially consider other medications to manage the joint pain that do not exacerbate the gastritis. Further management and follow-up should be guided by a gastroenterologist.",
+    "gpt_response_correct_incorrect": "No, the final solution is not obtained in response 2.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

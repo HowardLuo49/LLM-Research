@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. Solve for $x$: $$\\sqrt[3]{3-\\frac{1}{x}}=-4$$",
+    "solution": "We cube both sides to eliminate the cube root: $3-\\frac{1}{x}=-64$.   Simplifying gives $\\frac{1}{x}=67$ and taking the reciprocal of both sides gives $\\boxed{x=\\frac{1}{67}}$.",
+    "gpt_response": "To solve this equation for $x$, we start by isolating the cube root term:\n\n$\\sqrt[3]{3-\\frac{1}{x}}=-4$\n\nCubing both sides, we get:\n\n$3-\\frac{1}{x}=(-4)^3$\n\n$3-\\frac{1}{x}=-64$\n\nAdding $\\frac{1}{x}$ to both sides gives us:\n\n$3=-64+\\frac{1}{x}$\n\n$3= \\frac{1}{x} -64$\n\n$3= \\frac{1-64x}{x}$\n\n$3x = 1 - 64x$\n\n$3x +64x =1$\n\n$67x =1$\n\nDividing by 67:\n\n$x = \\frac{1}{67}$\n\nTherefore, the solution to the equation $\\sqrt[3]{3-\\frac{1}{x}}=-4$ is $x= \\frac{1}{67}$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to x=\\frac{1?: To solve this equation for $x$, we start by isolating the cube root term:\n\n$\\sqrt[3]{3-\\frac{1}{x}}=-4$\n\nCubing both sides, we get:\n\n$3-\\frac{1}{x}=(-4)^3$\n\n$3-\\frac{1}{x}=-64$\n\nAdding $\\frac{1}{x}$ to both sides gives us:\n\n$3=-64+\\frac{1}{x}$\n\n$3= \\frac{1}{x} -64$\n\n$3= \\frac{1-64x}{x}$\n\n$3x = 1 - 64x$\n\n$3x +64x =1$\n\n$67x =1$\n\nDividing by 67:\n\n$x = \\frac{1}{67}$\n\nTherefore, the solution to the equation $\\sqrt[3]{3-\\frac{1}{x}}=-4$ is $x= \\frac{1}{67}$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

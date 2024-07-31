@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Role of egg lecithin in propofol formulation is?\n1: Acts as emulsifying agent\n2: Acts as preservative\n3: Acts as carrier vehicle\n4: Acts as antibacterial",
+    "solution": 1,
+    "gpt_response": "As a physician, the role of egg lecithin in propofol formulation is primarily to act as an emulsifying agent. This helps to create a stable emulsion of the propofol in the final product, facilitating its administration to patients. Options 2, 3, and 4 are not the primary functions of egg lecithin in this case.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: As a physician, the role of egg lecithin in propofol formulation is primarily to act as an emulsifying agent. This helps to create a stable emulsion of the propofol in the final product, facilitating its administration to patients. Options 2, 3, and 4 are not the primary functions of egg lecithin in this case.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

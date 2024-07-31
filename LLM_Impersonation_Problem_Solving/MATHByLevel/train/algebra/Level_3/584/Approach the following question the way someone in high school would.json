@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Solve  \\[\\frac{x^2+2x+3}{x+4}=x+5\\]for $x$.",
+    "solution": "Cross-multiplication gives  \\[x^2+2x+3=(x+4)(x+5)=x^2+9x+20.\\]Therefore \\[0=7x+17\\]and $x=\\boxed{-\\frac{17}7}$.",
+    "gpt_response": "To solve this equation, we first need to get rid of the fraction by multiplying both sides by $x+4$. This gives us \\[x^2+2x+3=(x+4)(x+5).\\]\n\nNext, we multiply out the right side of the equation: \\[x^2+2x+3=x^2+9x+20.\\]\n\nNow, we can simplify the equation by subtracting $x^2$ from both sides: \\[2x+3=9x+20.\\]\n\nSubtracting $2x$ from both sides gives \\[3=7x+20.\\]\n\nSubtracting 20 from both sides, we get \\[-17=7x.\\]\n\nFinally, dividing by 7 gives us the solution: $x=-\\frac{17}{7}$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to -\\frac{17?: To solve this equation, we first need to get rid of the fraction by multiplying both sides by $x+4$. This gives us \\[x^2+2x+3=(x+4)(x+5).\\]\n\nNext, we multiply out the right side of the equation: \\[x^2+2x+3=x^2+9x+20.\\]\n\nNow, we can simplify the equation by subtracting $x^2$ from both sides: \\[2x+3=9x+20.\\]\n\nSubtracting $2x$ from both sides gives \\[3=7x+20.\\]\n\nSubtracting 20 from both sides, we get \\[-17=7x.\\]\n\nFinally, dividing by 7 gives us the solution: $x=-\\frac{17}{7}$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

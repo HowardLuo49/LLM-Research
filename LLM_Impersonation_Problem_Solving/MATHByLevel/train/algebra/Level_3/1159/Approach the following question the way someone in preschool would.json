@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Evaluate $\\left\\lceil-\\sqrt{\\frac{49}{4}}\\right\\rceil$.",
+    "solution": "Since $-\\sqrt{\\frac{49}{4}}$ is equal to $-\\frac{7}{2}$, the smallest integer greater than $-\\frac{7}{2}$ is $\\boxed{-3}$.",
+    "gpt_response": "First, we need to find the square root of $\\frac{49}{4}$. Let's count out squares on our fingers to help us solve it. \n\n1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49. \n\nThen we need to divide it by 4. \n\n1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14. \n\nNow we need to take the square root of that, but we were told to find the negative square root, so let's make the answer negative. \n\nNow we need to round up to the nearest whole number. \n\nThe answer is -4.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to -3?: First, we need to find the square root of $\\frac{49}{4}$. Let's count out squares on our fingers to help us solve it. \n\n1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49. \n\nThen we need to divide it by 4. \n\n1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14. \n\nNow we need to take the square root of that, but we were told to find the negative square root, so let's make the answer negative. \n\nNow we need to round up to the nearest whole number. \n\nThe answer is -4.",
+    "gpt_response_correct_incorrect": "No",
+    "yes_no": "no"
+}

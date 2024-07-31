@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in engineering would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in engineering would. Statement 1 | If a finite group has order n then the group contains a subgroup of order d for every positive divisor d of n. Statement 2 | If a belongs to a finite group then |a| divides |G|.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "D",
+    "gpt_response": "The correct answer is C: True, False.\n\nStatement 1 is true based on the fundamental theorem of finite abelian groups, which states that every finite abelian group can be decomposed into a direct product of cyclic groups of prime power order. This directly implies that there exists a subgroup of order d for every positive divisor d of n.\n\nStatement 2, on the other hand, is false. The order of an element a in a group may not necessarily divide the order of the group G. For example, consider the group Z6 = {0, 1, 2, 3, 4, 5} under addition modulo 6. The element 2 has an order of 3, but the group itself has an order of 6, which is not divisible by 3.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: The correct answer is C: True, False.\n\nStatement 1 is true based on the fundamental theorem of finite abelian groups, which states that every finite abelian group can be decomposed into a direct product of cyclic groups of prime power order. This directly implies that there exists a subgroup of order d for every positive divisor d of n.\n\nStatement 2, on the other hand, is false. The order of an element a in a group may not necessarily divide the order of the group G. For example, consider the group Z6 = {0, 1, 2, 3, 4, 5} under addition modulo 6. The element 2 has an order of 3, but the group itself has an order of 6, which is not divisible by 3.",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

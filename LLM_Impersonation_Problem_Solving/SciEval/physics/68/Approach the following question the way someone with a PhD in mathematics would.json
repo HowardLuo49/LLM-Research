@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. What is the kinetic energy released in a type Ia supernova explosion, assuming the entire mass of a white dwarf star (4.2solar masses) is converted into energy? Please note that the following content involves constants might be used in the calculations : solar mass = 1.989e30 kg ; velocity of light: c = 3e8 m/s. Additionally, please select the option from the given choices that you believe is closest to the correct answer!\n\nA. 9.35e+48 J\nB. 6.14e+48 J\nC. 8.58e+48 J\nD. 7.52e+47 J\n\nAnswer:",
+    "solution": [
+        "D"
+    ],
+    "gpt_response": "To calculate the kinetic energy released in a type Ia supernova explosion, we can use the equation E = mc^2, where E is the energy released, m is the mass of the white dwarf star, and c is the velocity of light. \n\nFirst, convert the mass of the white dwarf star from solar masses to kg: 4.2 solar masses * 1.989e30 kg/solar mass = 8.36e30 kg.\n\nNext, plug in the values into the equation: E = (8.36e30 kg) * (3e8 m/s)^2 = 7.524e47 J.\n\nTherefore, the closest answer choice is D. 7.52e+47 J.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to ['D']?: To calculate the kinetic energy released in a type Ia supernova explosion, we can use the equation E = mc^2, where E is the energy released, m is the mass of the white dwarf star, and c is the velocity of light. \n\nFirst, convert the mass of the white dwarf star from solar masses to kg: 4.2 solar masses * 1.989e30 kg/solar mass = 8.36e30 kg.\n\nNext, plug in the values into the equation: E = (8.36e30 kg) * (3e8 m/s)^2 = 7.524e47 J.\n\nTherefore, the closest answer choice is D. 7.52e+47 J.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "B. 6.14e+48 J",
+    "difficulty_value": "4"
+}

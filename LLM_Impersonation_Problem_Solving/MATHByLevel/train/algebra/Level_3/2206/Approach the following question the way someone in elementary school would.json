@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. Rationalize the denominator: $\\sqrt{\\frac{3}{8}}.$",
+    "solution": "We have $$\\sqrt{\\frac{3}{8}} = \\frac{\\sqrt{3}}{\\sqrt{8}} = \\frac{\\sqrt{6}}{\\sqrt{16}} = \\boxed{\\frac{\\sqrt{6}}{4}}.$$",
+    "gpt_response": "To rationalize the denominator, we need to get rid of the square root in the denominator. We can do this by multiplying both the numerator and denominator by $\\sqrt{8}$ to get $\\frac{3\\sqrt{8}}{8}.$ Simplifying this gives us $\\frac{3\\sqrt{4}\\sqrt{2}}{8}$ which simplifies to $\\frac{6\\sqrt{2}}{8}.$ Then, simplifying further by dividing both the numerator and denominator by 2 gives us $\\boxed{\\frac{3\\sqrt{2}}{4}}.$",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to \\frac{\\sqrt{6?: To rationalize the denominator, we need to get rid of the square root in the denominator. We can do this by multiplying both the numerator and denominator by $\\sqrt{8}$ to get $\\frac{3\\sqrt{8}}{8}.$ Simplifying this gives us $\\frac{3\\sqrt{4}\\sqrt{2}}{8}$ which simplifies to $\\frac{6\\sqrt{2}}{8}.$ Then, simplifying further by dividing both the numerator and denominator by 2 gives us $\\boxed{\\frac{3\\sqrt{2}}{4}}.$",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

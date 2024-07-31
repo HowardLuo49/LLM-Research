@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Rationalize the denominator of $\\frac{5}{\\sqrt{125}}$.",
+    "solution": "Simplify the denominator first to obtain $\\frac{5}{\\sqrt{125}} = \\frac{5}{5\\sqrt{5}} = \\frac{1}{\\sqrt{5}} = \\boxed{\\frac{\\sqrt{5}}{5}}$.",
+    "gpt_response": "To rationalize the denominator of $\\frac{5}{\\sqrt{125}}$, we need to get rid of the square root in the denominator. \n\n$\\frac{5}{\\sqrt{125}} = \\frac{5}{\\sqrt{125}} \\cdot \\frac{\\sqrt{125}}{\\sqrt{125}} = \\frac{5\\sqrt{125}}{125} = \\frac{5\\sqrt{5 \\cdot 5 \\cdot 5}}{125} = \\frac{5 \\cdot 5\\sqrt{5}}{125} = \\frac{25\\sqrt{5}}{125} = \\frac{\\sqrt{5}}{5}$\n\nSo, the rationalized form of $\\frac{5}{\\sqrt{125}}$ is $\\frac{\\sqrt{5}}{5}$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to \\frac{\\sqrt{5?: To rationalize the denominator of $\\frac{5}{\\sqrt{125}}$, we need to get rid of the square root in the denominator. \n\n$\\frac{5}{\\sqrt{125}} = \\frac{5}{\\sqrt{125}} \\cdot \\frac{\\sqrt{125}}{\\sqrt{125}} = \\frac{5\\sqrt{125}}{125} = \\frac{5\\sqrt{5 \\cdot 5 \\cdot 5}}{125} = \\frac{5 \\cdot 5\\sqrt{5}}{125} = \\frac{25\\sqrt{5}}{125} = \\frac{\\sqrt{5}}{5}$\n\nSo, the rationalized form of $\\frac{5}{\\sqrt{125}}$ is $\\frac{\\sqrt{5}}{5}$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

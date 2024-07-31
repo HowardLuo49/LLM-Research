@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Test used for factor VIII deficiency identification is-\n1: PT\n2: APTT\n3: D dimer\n4: FDP",
+    "solution": 2,
+    "gpt_response": "As a doctor, the correct test used for factor VIII deficiency identification is the activated partial thromboplastin time (APTT) test. This test measures the time it takes for blood to clot and can help diagnose disorders of the intrinsic pathway of the clotting cascade, such as hemophilia A which is caused by a deficiency in factor VIII. Therefore, the correct answer is option 2: APTT.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: As a doctor, the correct test used for factor VIII deficiency identification is the activated partial thromboplastin time (APTT) test. This test measures the time it takes for blood to clot and can help diagnose disorders of the intrinsic pathway of the clotting cascade, such as hemophilia A which is caused by a deficiency in factor VIII. Therefore, the correct answer is option 2: APTT.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

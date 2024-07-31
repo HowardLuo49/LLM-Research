@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. How many positive integers $n$ satisfy\\[\\dfrac{n+1000}{70} = \\lfloor \\sqrt{n} \\rfloor?\\](Recall that $\\lfloor x\\rfloor$ is the greatest integer not exceeding $x$.)\n$\\textbf{(A) } 2 \\qquad\\textbf{(B) } 4 \\qquad\\textbf{(C) } 6 \\qquad\\textbf{(D) } 30 \\qquad\\textbf{(E) } 32$\n",
+    "solution": "First notice that the graphs of $(n+1000)/70$ and $\\sqrt[]{n}$ intersect at 2 points. Then, notice that $(n+1000)/70$ must be an integer. This means that n is congruent to $50 \\pmod{70}$.\nFor the first intersection, testing the first few values of $n$ (adding $70$ to $n$ each time and noticing the left side increases by $1$ each time) yields $n=20$ and $n=21$. Estimating from the graph can narrow down the other cases, being $n=47$, $n=50$. This results in a total of $\\boxed{6}$ cases.",
+    "gpt_response": "Hmm...let's see. We know that the square root of a number is always less than the number itself. So if we take the square root of a positive integer, it will always be less than the integer. \n\nOkay, let's try some numbers. If $n=1$, then $\\sqrt{n}=1$, and $1+1000=70$. That doesn't work. Let's try $n=2$. $\\sqrt{n}=1$, and $2+1000=1002$, which is not a multiple of $70$. Let's keep trying some more numbers...\n\nAfter we keep trying some numbers, we find that the only positive integers $n$ that work are $n=67, 69, 996, 998$. So the answer is $\\boxed{\\textbf{(B) } 4}$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 6?: Hmm...let's see. We know that the square root of a number is always less than the number itself. So if we take the square root of a positive integer, it will always be less than the integer. \n\nOkay, let's try some numbers. If $n=1$, then $\\sqrt{n}=1$, and $1+1000=70$. That doesn't work. Let's try $n=2$. $\\sqrt{n}=1$, and $2+1000=1002$, which is not a multiple of $70$. Let's keep trying some more numbers...\n\nAfter we keep trying some numbers, we find that the only positive integers $n$ that work are $n=67, 69, 996, 998$. So the answer is $\\boxed{\\textbf{(B) } 4}$.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

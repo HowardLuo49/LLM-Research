@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in engineering would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in engineering would. In the coordinate plane, let $F = (5,0).$  Let $P$ be a point, and let $Q$ be the projection of the point $P$ onto the line $x = \\frac{16}{5}.$  The point $P$ traces a curve in the plane, so that\n\\[\\frac{PF}{PQ} = \\frac{5}{4}\\]for all points $P$ on the curve.  Find the equation of this curve.  (Enter it in standard form.)\n\n[asy]\nunitsize(1 cm);\n\npair P, F, Q;\n\nF = (5,0);\nP = (6,3*sqrt(5)/2);\nQ = (16/5,3*sqrt(5)/2);\n\ndraw(F--P--Q);\ndraw((16/5,-1)--(16/5,4),dashed);\n\ndot(\"$F$\", F, S);\ndot(\"$P$\", P, NE);\ndot(\"$Q$\", Q, W);\n\nlabel(\"$x = \\frac{16}{5}$\", (16/5,-1), S);\n[/asy]",
+    "solution": "\\frac{x^2}{16} - \\frac{y^2}{9} = 1",
+    "gpt_response": "Let $P = (x,y).$  Then\n\\[\\sqrt{(x - 5)^2 + y^2} = \\frac{5}{4} \\sqrt{(x - \\frac{16}{5})^2 + y^2}.\\]Squaring both sides, we get\n\\[(x - 5)^2 + y^2 = \\frac{25}{16} [(x - \\frac{16}{5})^2 + y^2],\\]which simplifies to\n\\[224x^2 - 1752x + 640y^2 - 1600 = 0.\\]Dividing by 640, we get $\\boxed{7x^2 - 22x + 4y^2 - 5 = 0}.$",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response \\frac{x^2}{16} - \\frac{y^2}{9} = 1?: Let $P = (x,y).$  Then\n\\[\\sqrt{(x - 5)^2 + y^2} = \\frac{5}{4} \\sqrt{(x - \\frac{16}{5})^2 + y^2}.\\]Squaring both sides, we get\n\\[(x - 5)^2 + y^2 = \\frac{25}{16} [(x - \\frac{16}{5})^2 + y^2],\\]which simplifies to\n\\[224x^2 - 1752x + 640y^2 - 1600 = 0.\\]Dividing by 640, we get $\\boxed{7x^2 - 22x + 4y^2 - 5 = 0}.$",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

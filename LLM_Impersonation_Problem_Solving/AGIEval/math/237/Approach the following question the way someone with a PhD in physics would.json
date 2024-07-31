@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in physics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in physics would. Suppose $\\cos V = \\frac{2}{3}$ in the diagram below.  What is $TV$?\n\n\n\n[asy]\npair T,U,V;\nV = (0,0);\nT = (0,16);\nU = (17.89,16);\ndraw(V--T--U--V);\ndraw(rightanglemark(V,T,U,23));\nlabel(\"$V$\",V,SW);\nlabel(\"$U$\",U,NE);\nlabel(\"$T$\",T,NW);\nlabel(\"$24$\",(U-V)/2,SE);\n[/asy]",
+    "solution": "16",
+    "gpt_response": "Given that $\\cos(V) = \\frac{2}{3}$, we can use the cosine definition to find the adjacent side to angle $V$. Since $\\cos(V) = \\frac{adj}{hyp} = \\frac{2}{3}$, and we see that the hypotenuse is 24, we can find that the adjacent side is $\\frac{2}{3} \\cdot 24 = 16$. \n\nTherefore, the length of side $VT$ is 16. With this information, we know that $TV$ is 24.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 16?: Given that $\\cos(V) = \\frac{2}{3}$, we can use the cosine definition to find the adjacent side to angle $V$. Since $\\cos(V) = \\frac{adj}{hyp} = \\frac{2}{3}$, and we see that the hypotenuse is 24, we can find that the adjacent side is $\\frac{2}{3} \\cdot 24 = 16$. \n\nTherefore, the length of side $VT$ is 16. With this information, we know that $TV$ is 24.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

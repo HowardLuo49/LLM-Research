@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. What is the greatest possible three-digit number that is divisible by 3 and divisible by 6?",
+    "solution": "The number must be even and divisible by 3. Counting down from 999, the first number that satisfies both these properties is $\\boxed{996}$.",
+    "gpt_response": "To find the greatest possible three-digit number that is divisible by both 3 and 6, we first need to find the smallest common multiple of 3 and 6, which is simply the least common multiple (LCM) of the two numbers.\n\nThe LCM of 3 and 6 is the smallest number that is divisible by both 3 and 6. Since 6 is already divisible by 3, the LCM of 3 and 6 is simply 6.\n\nTo find the greatest three-digit number that is divisible by 6, we divide 999 (the greatest three-digit number) by 6 to find the largest multiple of 6 that is less than or equal to 999. \n\n999 \u00f7 6 = 166 remainder 3\n\nThis means that the largest multiple of 6 that is less than or equal to 999 is 996.\n\nTherefore, the greatest possible three-digit number that is divisible by both 3 and 6 is 996.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 996?: To find the greatest possible three-digit number that is divisible by both 3 and 6, we first need to find the smallest common multiple of 3 and 6, which is simply the least common multiple (LCM) of the two numbers.\n\nThe LCM of 3 and 6 is the smallest number that is divisible by both 3 and 6. Since 6 is already divisible by 3, the LCM of 3 and 6 is simply 6.\n\nTo find the greatest three-digit number that is divisible by 6, we divide 999 (the greatest three-digit number) by 6 to find the largest multiple of 6 that is less than or equal to 999. \n\n999 \u00f7 6 = 166 remainder 3\n\nThis means that the largest multiple of 6 that is less than or equal to 999 is 996.\n\nTherefore, the greatest possible three-digit number that is divisible by both 3 and 6 is 996.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

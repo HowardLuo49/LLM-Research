@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. Which one of the following is a malignant bone tumour?\n1: Osteoid osteoma\n2: Chondroma\n3: Chondrosarcoma\n4: Osteochondroma",
+    "solution": 3,
+    "gpt_response": "The correct answer is:\n3: Chondrosarcoma\n\nChondrosarcoma is a malignant bone tumor that originates from cartilage cells. It is important to differentiate between benign and malignant bone tumors as the treatment and prognosis can vary significantly.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: The correct answer is:\n3: Chondrosarcoma\n\nChondrosarcoma is a malignant bone tumor that originates from cartilage cells. It is important to differentiate between benign and malignant bone tumors as the treatment and prognosis can vary significantly.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

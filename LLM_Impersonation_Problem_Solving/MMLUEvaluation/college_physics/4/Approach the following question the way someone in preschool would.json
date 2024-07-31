@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Excited states of the helium atom can be characterized as para- (antiparallel electron spins) and ortho- (parallel electron spins). The observation that an ortho- state has lower energy than the corresponding para- state can be understood in terms of which of the following?\nA: The Heisenberg uncertainty principle\nB: The Pauli exclusion principle\nC: The Bohr model of the atom\nD: Nuclear hyperfine coupling",
+    "solution": "B",
+    "gpt_response": "Wow, let's think about this in a fun way! So, helium atoms can be in different excited states, like para- and ortho-. These states depend on how the electrons are spinning. When the electrons are spinning in opposite directions, that's para-. When they are spinning in the same direction, that's ortho-.\n\nNow, why does the ortho- state have lower energy than the para- state? Hmmm... let's see. Oh, I know! It's because of the Pauli exclusion principle! This principle says that no two electrons can have the same spin in the same state. So, in the ortho- state, the electrons are spinning in the same direction, which is allowed by the Pauli exclusion principle and makes the energy lower.\n\nYay, we figured it out! High five! \ud83c\udf1f\ud83c\udf89",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to B?: Wow, let's think about this in a fun way! So, helium atoms can be in different excited states, like para- and ortho-. These states depend on how the electrons are spinning. When the electrons are spinning in opposite directions, that's para-. When they are spinning in the same direction, that's ortho-.\n\nNow, why does the ortho- state have lower energy than the para- state? Hmmm... let's see. Oh, I know! It's because of the Pauli exclusion principle! This principle says that no two electrons can have the same spin in the same state. So, in the ortho- state, the electrons are spinning in the same direction, which is allowed by the Pauli exclusion principle and makes the energy lower.\n\nYay, we figured it out! High five! \ud83c\udf1f\ud83c\udf89",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

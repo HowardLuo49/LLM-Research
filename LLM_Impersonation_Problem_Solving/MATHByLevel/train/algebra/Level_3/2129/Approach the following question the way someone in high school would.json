@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. Four years ago you invested some money at $10\\%$ interest. You now have $\\$439.23$ in the account. If the interest was compounded yearly, how much did you invest 4 years ago?",
+    "solution": "Let $x$ be the initial amount.  After four years, at a ten percent annual interest rate, the investment will have grown to $x \\cdot 1.1^4$, so $x \\cdot 1.1^4 = 439.23$.  Then $x = 439.23/1.1^4 = \\boxed{300}$.",
+    "gpt_response": "Hey guys, so I have this math problem that I need help with. Four years ago I invested some money at $10\\%$ interest. Now I have $\\$439.23$ in the account. I need to figure out how much I invested 4 years ago. Can anyone help me figure this out?",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 300?: Hey guys, so I have this math problem that I need help with. Four years ago I invested some money at $10\\%$ interest. Now I have $\\$439.23$ in the account. I need to figure out how much I invested 4 years ago. Can anyone help me figure this out?",
+    "gpt_response_correct_incorrect": "No.",
+    "yes_no": "no"
+}

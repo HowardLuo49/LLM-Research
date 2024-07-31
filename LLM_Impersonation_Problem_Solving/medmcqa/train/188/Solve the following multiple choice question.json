@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. In pontaic fever, which antigen is seen in urine?\n1: Lipopolysaccharide-1\n2: Lipopolysaccharide-2\n3: Lipopolysaccharide-4\n4: Lipopolysaccharide-6",
+    "solution": 1,
+    "gpt_response": "1: Lipopolysaccharide-1",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: 1: Lipopolysaccharide-1",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

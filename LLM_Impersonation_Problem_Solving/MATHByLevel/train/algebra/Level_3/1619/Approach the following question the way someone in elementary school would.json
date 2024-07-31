@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. Simplify $\\sqrt{8} \\times \\sqrt{50}$.",
+    "solution": "Since a square root is an exponent of $\\frac{1}{2}$ and since exponents distribute across multiplication, we can combine the radicals. \\[\n\\sqrt{8}\\cdot \\sqrt{50}=\\sqrt{8\\cdot50}.\n\\] Now split the radicand into prime factors: $8\\cdot50=2\\cdot2\\cdot2\\cdot2\\cdot5^2=(2\\cdot2)^2\\cdot5^2$.  We find $\\sqrt{8\\cdot50}=\\sqrt{(2\\cdot2)^2\\cdot5^2}=2\\cdot2\\cdot5=\\boxed{20}$.",
+    "gpt_response": "Sure! To simplify $\\sqrt{8} \\times \\sqrt{50}$, we first need to find the square root of 8 and the square root of 50. \n\nThe square root of 8 is 2\u221a2 because 2 multiplied by 2 is 4 and 4 multiplied by 2 is 8.\n\nThe square root of 50 is 5\u221a2 because 5 multiplied by 5 is 25 and 25 multiplied by 2 is 50.\n\nNow, we multiply 2\u221a2 and 5\u221a2 together which gives us 10\u221a4.\n\nSo, $\\sqrt{8} \\times \\sqrt{50} = 10\\sqrt{4}$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 20?: Sure! To simplify $\\sqrt{8} \\times \\sqrt{50}$, we first need to find the square root of 8 and the square root of 50. \n\nThe square root of 8 is 2\u221a2 because 2 multiplied by 2 is 4 and 4 multiplied by 2 is 8.\n\nThe square root of 50 is 5\u221a2 because 5 multiplied by 5 is 25 and 25 multiplied by 2 is 50.\n\nNow, we multiply 2\u221a2 and 5\u221a2 together which gives us 10\u221a4.\n\nSo, $\\sqrt{8} \\times \\sqrt{50} = 10\\sqrt{4}$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. An atom has filled n = 1 and n = 2 levels. How many electrons does the atom have?\nA: 2\nB: 4\nC: 6\nD: 10",
+    "solution": "D",
+    "gpt_response": "Hmm... let's see. If the atom has n = 1 and n = 2 levels filled, that means it has 2 levels. Since each level can only hold a certain number of electrons, we need to add up how many electrons can fit in each level. Let's count together! 1 level has 2 electrons, and 2 levels have... 4 electrons! So the answer is... B: 4 electrons! Yay, we did it!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: Hmm... let's see. If the atom has n = 1 and n = 2 levels filled, that means it has 2 levels. Since each level can only hold a certain number of electrons, we need to add up how many electrons can fit in each level. Let's count together! 1 level has 2 electrons, and 2 levels have... 4 electrons! So the answer is... B: 4 electrons! Yay, we did it!",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

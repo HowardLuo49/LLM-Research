@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. Effective red cell diameter\n1: Different in males and females\n2: Diameter of 500 microns\n3: Thalassemia minor anemia may present with normal RBC diameter\n4: Mixed iron and folic deficiency anemia produce microcytic",
+    "solution": 3,
+    "gpt_response": "The correct answer is 3: Thalassemia minor anemia may present with normal RBC diameter. Thalassemia is a genetic disorder that affects the production of hemoglobin, leading to smaller red blood cells (microcytic). However, in the case of thalassemia minor, the red blood cell diameter may be normal despite the presence of the disorder.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: The correct answer is 3: Thalassemia minor anemia may present with normal RBC diameter. Thalassemia is a genetic disorder that affects the production of hemoglobin, leading to smaller red blood cells (microcytic). However, in the case of thalassemia minor, the red blood cell diameter may be normal despite the presence of the disorder.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "5",
+    "difficulty_value": "5"
+}

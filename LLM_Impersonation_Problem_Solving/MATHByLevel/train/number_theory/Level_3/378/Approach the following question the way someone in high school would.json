@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. What is the sum of all positive integer values of $n$ such that $\\frac{n+18}{n}$ is an integer?",
+    "solution": "$\\frac{n+18}{n}=1+\\frac{18}{n}$. Thus, $\\frac{n+18}{n}$ is an integer if and only if $n|18$. The positive factors of 18 are 1, 18, 2, 9, 3, and 6. Their sum is $\\boxed{39}$.",
+    "gpt_response": "To find the sum of all positive integer values of $n$ that make $\\frac{n+18}{n}$ an integer, we start by simplifying the fraction. \n\n$\\frac{n+18}{n} = \\frac{n}{n} + \\frac{18}{n} = 1 + \\frac{18}{n}$\n\nFor the expression to be an integer, $\\frac{18}{n}$ must also be an integer. This means that $n$ must be a factor of 18.\n\nThe positive factors of 18 are 1, 2, 3, 6, 9, and 18. So the positive values of $n$ that make $\\frac{n+18}{n}$ an integer are 1, 2, 3, 6, 9, and 18.\n\nTo find the sum, we simply add these values together: $1 + 2 + 3 + 6 + 9 + 18 = 39$\n\nSo the sum of all positive integer values of $n$ such that $\\frac{n+18}{n}$ is an integer is 39.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 39?: To find the sum of all positive integer values of $n$ that make $\\frac{n+18}{n}$ an integer, we start by simplifying the fraction. \n\n$\\frac{n+18}{n} = \\frac{n}{n} + \\frac{18}{n} = 1 + \\frac{18}{n}$\n\nFor the expression to be an integer, $\\frac{18}{n}$ must also be an integer. This means that $n$ must be a factor of 18.\n\nThe positive factors of 18 are 1, 2, 3, 6, 9, and 18. So the positive values of $n$ that make $\\frac{n+18}{n}$ an integer are 1, 2, 3, 6, 9, and 18.\n\nTo find the sum, we simply add these values together: $1 + 2 + 3 + 6 + 9 + 18 = 39$\n\nSo the sum of all positive integer values of $n$ such that $\\frac{n+18}{n}$ is an integer is 39.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "6",
+    "difficulty_value": "6"
+}

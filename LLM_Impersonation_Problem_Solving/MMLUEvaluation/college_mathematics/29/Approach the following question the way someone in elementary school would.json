@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. What is the largest order of an element in the group of permutations of 5 objects?\nA: 5\nB: 6\nC: 12\nD: 15",
+    "solution": "B",
+    "gpt_response": "To find the largest order of an element in the group of permutations of 5 objects, we need to figure out the longest cycle we can make. The longest cycle we can make is when we cycle through all 5 objects. So, the largest order of an element in this group is 5. So the answer is A: 5!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to B?: To find the largest order of an element in the group of permutations of 5 objects, we need to figure out the longest cycle we can make. The longest cycle we can make is when we cycle through all 5 objects. So, the largest order of an element in this group is 5. So the answer is A: 5!",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "12",
+    "difficulty_value": "2"
+}

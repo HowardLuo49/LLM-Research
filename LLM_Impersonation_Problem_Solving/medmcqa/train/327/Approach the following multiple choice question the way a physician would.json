@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Most common complication after ERCP is\n1: Acute Pancreatitis\n2: Acute cholangitis\n3: Acute cholecystitis\n4: Duodenal perforation",
+    "solution": 1,
+    "gpt_response": "The most common complication after ERCP is 1: Acute Pancreatitis.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: The most common complication after ERCP is 1: Acute Pancreatitis.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

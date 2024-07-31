@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. There is a prime number which is a factor of every sum of three  consecutive integers. What is the number?",
+    "solution": "Let $n-1$, $n$, and $n+1$ be three consecutive integers. Their sum is $(n-1) + n + (n+1) = 3n$, which is always divisible by $\\boxed{3}$, but not necessarily by any other prime.",
+    "gpt_response": "Let the three consecutive integers be n, n+1, and n+2. The sum of these integers is 3n+3, which can be factored as 3(n+1). \n\nSince 3 is a prime number, it is a factor of every sum of three consecutive integers. Therefore, the number in question is 3.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 3?: Let the three consecutive integers be n, n+1, and n+2. The sum of these integers is 3n+3, which can be factored as 3(n+1). \n\nSince 3 is a prime number, it is a factor of every sum of three consecutive integers. Therefore, the number in question is 3.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

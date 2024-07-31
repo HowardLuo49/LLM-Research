@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. Statement 1 | The unity of a subring must be the same as the unity of the ring. Statement 2 | Every field is an integral domain.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "D",
+    "gpt_response": "As a biologist, I might not have the expertise to fully understand the nuances of these mathematical statements. However, based on general knowledge, I can attempt to rationalize the answers.\n\nStatement 1: The unity of a subring must be the same as the unity of the ring. This statement is true in mathematics. In a subring, the unity element must be the same as the unity element in the original ring.\n\nStatement 2: Every field is an integral domain. This statement is also true. A field is a commutative ring in which every non-zero element has a multiplicative inverse. An integral domain is a commutative ring with no zero divisors. Therefore, every field is an integral domain.\n\nTherefore, the correct answer is A: True, True.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to D?: As a biologist, I might not have the expertise to fully understand the nuances of these mathematical statements. However, based on general knowledge, I can attempt to rationalize the answers.\n\nStatement 1: The unity of a subring must be the same as the unity of the ring. This statement is true in mathematics. In a subring, the unity element must be the same as the unity element in the original ring.\n\nStatement 2: Every field is an integral domain. This statement is also true. A field is a commutative ring in which every non-zero element has a multiplicative inverse. An integral domain is a commutative ring with no zero divisors. Therefore, every field is an integral domain.\n\nTherefore, the correct answer is A: True, True.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

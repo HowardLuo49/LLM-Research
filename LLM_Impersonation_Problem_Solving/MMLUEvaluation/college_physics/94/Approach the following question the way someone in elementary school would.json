@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. Two identical satellites, A and B, are in circular orbits around Earth. The orbital radius of A is twice that of B. Which of the following gives the ratio of the angular momentum of A to the angular momentum of B?\nA: 4\nB: 2\nC: sqrt(2)\nD: 1/sqrt(2)",
+    "solution": "C",
+    "gpt_response": "So there are these two satellites, A and B, right? They're going around Earth in circles! Satellite A is further away than satellite B, but they're the same size. Now, we need to figure out the ratio of the spinning energy of A to B. Is it 4? 2? Or maybe the square root of 2? Or 1 divided by the square root of 2? Hmm...let's see... Oh, I think it's 4! Because A is twice as far away as B, so it has 4 times the spinning energy! Yay!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to C?: So there are these two satellites, A and B, right? They're going around Earth in circles! Satellite A is further away than satellite B, but they're the same size. Now, we need to figure out the ratio of the spinning energy of A to B. Is it 4? 2? Or maybe the square root of 2? Or 1 divided by the square root of 2? Hmm...let's see... Oh, I think it's 4! Because A is twice as far away as B, so it has 4 times the spinning energy! Yay!",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

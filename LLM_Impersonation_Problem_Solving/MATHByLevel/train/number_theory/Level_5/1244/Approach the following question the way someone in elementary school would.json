@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. For how many integer values of $n$ between 1 and 474 inclusive does the decimal representation of $\\frac{n}{475}$ terminate?",
+    "solution": "Recall that the decimal representation of a simplified fraction terminates if and only if the denominator is divisible by no primes other than 2 and 5. Prime factorizing 475 as $5^2\\cdot 19$, we see that $\\frac{n}{475}$ terminates if and only if $n$ is divisible by 19. There are 24 multiples of 19 from 1 to 474, so there are $\\boxed{24}$ possible values of $n$ that make $\\frac{n}{475}$ a terminating decimal.",
+    "gpt_response": "To find out how many integer values of $n$ between 1 and 474 inclusive have a terminating decimal representation when we divide by 475, we can see that the only prime factors of 475 are 5 and 19. A fraction will have a terminating decimal representation if and only if the denominator can be written as $2^a5^b$, where $a$ and $b$ are nonnegative integers. \n\nSince 475 can be written as $5^1 \\cdot 19^1$, the denominator does not satisfy this condition. Therefore, there are $\\boxed{0}$ integer values of $n$ between 1 and 474 inclusive that result in a terminating decimal when divided by 475.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 24?: To find out how many integer values of $n$ between 1 and 474 inclusive have a terminating decimal representation when we divide by 475, we can see that the only prime factors of 475 are 5 and 19. A fraction will have a terminating decimal representation if and only if the denominator can be written as $2^a5^b$, where $a$ and $b$ are nonnegative integers. \n\nSince 475 can be written as $5^1 \\cdot 19^1$, the denominator does not satisfy this condition. Therefore, there are $\\boxed{0}$ integer values of $n$ between 1 and 474 inclusive that result in a terminating decimal when divided by 475.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "7",
+    "difficulty_value": "7"
+}

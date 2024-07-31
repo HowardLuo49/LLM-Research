@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. A 59-year-old male is found to have a 3.5-cm mass in the right upper lobe of his lung. A biopsy of this mass is diagnosed as a moderately differentiated squamous cell carcinoma. Workup reveals that no bone metastases are present, but laboratory examination reveals that the man's serum calcium levels are 11.5 mg/dL. This patient's paraneoplastic syndrome is most likely the result of ectopic production of\n1: Parathyroid hormone\n2: Calcitonin\n3: Parathyroid hormone-related peptide\n4: Calcitonin-related peptide",
+    "solution": 3,
+    "gpt_response": "3: Parathyroid hormone-related peptide\n\nParaneoplastic syndrome is a condition in which cancer cells produce substances that cause symptoms not directly related to the primary tumor or its metastases. In this case, the elevated serum calcium levels (hypercalcemia) are likely due to the ectopic production of parathyroid hormone-related peptide (PTHrP) by the squamous cell carcinoma in the lung. PTHrP acts similarly to parathyroid hormone, leading to increased calcium levels in the blood.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: 3: Parathyroid hormone-related peptide\n\nParaneoplastic syndrome is a condition in which cancer cells produce substances that cause symptoms not directly related to the primary tumor or its metastases. In this case, the elevated serum calcium levels (hypercalcemia) are likely due to the ectopic production of parathyroid hormone-related peptide (PTHrP) by the squamous cell carcinoma in the lung. PTHrP acts similarly to parathyroid hormone, leading to increased calcium levels in the blood.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

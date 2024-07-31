@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. Statement 1 | Every maximal ideal is a prime ideal. Statement 2 | If I is a maximal ideal of a commutative ring R, then R/I is field.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "B",
+    "gpt_response": "Hmm, let's break it down! Statement 1 says that every maximal ideal is a prime ideal. Well, let's think about it like this - if something is maximal, it means it can't be contained in any other ideal except for the whole ring itself. And prime ideals are special because if you multiply two things in the ideal, then the result is also in the ideal. So it makes sense that every maximal ideal is also a prime ideal. So, Statement 1 is true!\n\nNow, let's move on to Statement 2. It says that if I is a maximal ideal of a commutative ring R, then R/I is a field. Well, a field is a fancy term for a place where you can add, subtract, multiply, and divide. And when you have a maximal ideal, that means you can't divide anything else by it except the whole ring itself. So if you take the ring R and then divide it by the maximal ideal I, you should get a field. So, Statement 2 is also true!\n\nSo the answer is A: True, True. Yay!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to B?: Hmm, let's break it down! Statement 1 says that every maximal ideal is a prime ideal. Well, let's think about it like this - if something is maximal, it means it can't be contained in any other ideal except for the whole ring itself. And prime ideals are special because if you multiply two things in the ideal, then the result is also in the ideal. So it makes sense that every maximal ideal is also a prime ideal. So, Statement 1 is true!\n\nNow, let's move on to Statement 2. It says that if I is a maximal ideal of a commutative ring R, then R/I is a field. Well, a field is a fancy term for a place where you can add, subtract, multiply, and divide. And when you have a maximal ideal, that means you can't divide anything else by it except the whole ring itself. So if you take the ring R and then divide it by the maximal ideal I, you should get a field. So, Statement 2 is also true!\n\nSo the answer is A: True, True. Yay!",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "9",
+    "difficulty_value": "9"
+}

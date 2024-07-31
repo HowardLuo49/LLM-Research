@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a medical researcher would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a medical researcher would. Reversible cause of dementia is -\n1: Alzheimer's disease\n2: Parkinsonism\n3: Hypothyroidism\n4: Vascular dementia",
+    "solution": 3,
+    "gpt_response": "As a medical researcher, when considering the reversible causes of dementia, it is important to look at conditions that can potentially be treated or managed to improve cognitive function. In this case, hypothyroidism is a known reversible cause of dementia. Therefore, the correct answer would be:\n\n3: Hypothyroidism",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: As a medical researcher, when considering the reversible causes of dementia, it is important to look at conditions that can potentially be treated or managed to improve cognitive function. In this case, hypothyroidism is a known reversible cause of dementia. Therefore, the correct answer would be:\n\n3: Hypothyroidism",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

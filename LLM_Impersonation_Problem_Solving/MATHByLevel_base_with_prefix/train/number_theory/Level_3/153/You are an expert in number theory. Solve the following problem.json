@@ -1,0 +1,10 @@
+{
+    "prefix": "You are an expert in number theory. Solve the following problem. ",
+    "problem_prompt": "You are an expert in number theory. Solve the following problem. What is the sum of all positive integer divisors of 77?",
+    "solution": "Since $77=7\\cdot11$, the divisors of 77 are 1, 7, 11, and 77. Their sum is $1+7+11+7\\cdot11=\\boxed{96}$.",
+    "gpt_response": "To find the sum of all positive integer divisors of 77, we first need to find all the divisors of 77. \n\n77 can be factored into prime numbers as 7 x 11. \n\nThe divisors of 77 are 1, 7, 11, and 77. \n\nTherefore, the sum of all positive integer divisors of 77 is: \n1 + 7 + 11 + 77 = 96. \n\nTherefore, the sum of all positive integer divisors of 77 is 96.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 96?: To find the sum of all positive integer divisors of 77, we first need to find all the divisors of 77. \n\n77 can be factored into prime numbers as 7 x 11. \n\nThe divisors of 77 are 1, 7, 11, and 77. \n\nTherefore, the sum of all positive integer divisors of 77 is: \n1 + 7 + 11 + 77 = 96. \n\nTherefore, the sum of all positive integer divisors of 77 is 96.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes"
+}

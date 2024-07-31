@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in computer science would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in computer science would. How many atoms are there in CN1CCCC(C1)C(=O)ON?\nAnswer (numerical number):",
+    "solution": [
+        25
+    ],
+    "gpt_response": "There are a total of 55 atoms in the given molecular formula CN1CCCC(C1)C(=O)ON.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response [25]?: There are a total of 55 atoms in the given molecular formula CN1CCCC(C1)C(=O)ON.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "25",
+    "difficulty_value": "2"
+}

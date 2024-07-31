@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Line $m$ has the equation $y = 3x + 5$.  Line $n$ has the equation  $y = kx - 7$.  Lines $m$ and $n$ intersect at the point $(-4, -7)$.  What is the value of $k$?",
+    "solution": "Since both lines intersect at the point $(-4,-7)$, line $n$ must pass through this point.  We can substitute these coordinates into the equation $y=kx-7$ and solve for $k$ as shown: \\begin{align*}\n-7&=k(-4)-7\\\\\n\\Rightarrow\\qquad -7&=-4k-7\\\\\n\\Rightarrow\\qquad 0&=-4k\\\\\n\\Rightarrow\\qquad \\boxed{0}&=k\n\\end{align*}",
+    "gpt_response": "To find the value of k, we need to remember our letters and numbers! Line m is y equals 3x plus 5, and Line n is y equals kx minus 7. They cross at the point negative 4, negative 7. The negative 7 is the y-coordinate, and we know it's where the lines meet. Line n has y minus 7, which means k times x minu 7, we plug in -4 for x and -7 for y so -7 equals k times -4 minus 7. To find k, we just need to solve the equation! Let's put on our thinking caps and figure it out!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 0?: To find the value of k, we need to remember our letters and numbers! Line m is y equals 3x plus 5, and Line n is y equals kx minus 7. They cross at the point negative 4, negative 7. The negative 7 is the y-coordinate, and we know it's where the lines meet. Line n has y minus 7, which means k times x minu 7, we plug in -4 for x and -7 for y so -7 equals k times -4 minus 7. To find k, we just need to solve the equation! Let's put on our thinking caps and figure it out!",
+    "gpt_response_correct_incorrect": "Yes. The final solution is obtained by simplifying the equation -7 = k(-4) - 7 to k = 1. Therefore, the final solution is equal to 0.",
+    "yes_no": "yes"
+}

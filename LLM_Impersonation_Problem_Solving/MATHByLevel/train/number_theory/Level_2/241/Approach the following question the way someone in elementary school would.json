@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. Compute $2011 \\cdot 2012 \\cdot 2013 \\cdot 2014$ modulo 5.",
+    "solution": "Using the properties of modular arithmetic, $2011 \\cdot 2012 \\cdot 2013 \\cdot 2014 \\equiv 1 \\cdot 2 \\cdot 3 \\cdot 4$ modulo 5. Continuing, $1 \\cdot 2 \\cdot 3 \\cdot 4 \\equiv 4$ modulo 5, so $2011 \\cdot 2012 \\cdot 2013 \\cdot 2014 \\equiv \\boxed{4}$ modulo 5.",
+    "gpt_response": "Okay! First, let's find the remainder when we divide each number by 5:\n\n$2011 \\equiv 1 \\pmod{5}$\n\n$2012 \\equiv 2 \\pmod{5}$\n\n$2013 \\equiv 3 \\pmod{5}$\n\n$2014 \\equiv 4 \\pmod{5}$\n\nNow, let's multiply these remainders together:\n\n$1 \\cdot 2 \\cdot 3 \\cdot 4 = 24$\n\nSince $24 \\equiv 4 \\pmod{5}$, the answer is $\\boxed{4}$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 4?: Okay! First, let's find the remainder when we divide each number by 5:\n\n$2011 \\equiv 1 \\pmod{5}$\n\n$2012 \\equiv 2 \\pmod{5}$\n\n$2013 \\equiv 3 \\pmod{5}$\n\n$2014 \\equiv 4 \\pmod{5}$\n\nNow, let's multiply these remainders together:\n\n$1 \\cdot 2 \\cdot 3 \\cdot 4 = 24$\n\nSince $24 \\equiv 4 \\pmod{5}$, the answer is $\\boxed{4}$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

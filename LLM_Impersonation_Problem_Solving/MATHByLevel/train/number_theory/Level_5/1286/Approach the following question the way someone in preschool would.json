@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Two numbers $90$ and $m$ share exactly three positive divisors. What is the greatest of these three common divisors?",
+    "solution": "Recall that the common divisors of two integers are precisely the divisors of the greatest common divisor. So, for two numbers to have exactly three positive divisors in common, those divisors must be $1$, $p$, and $p^2$ such that $p$ is prime. We now look at the prime factorization of $90$: $90=2 \\cdot 3^2 \\cdot 5$. Since $3^2$ is the only perfect square divisor of $90$, the divisors that $90$ and $m$ share must be $1$, $3$, and $9$. The largest of these three numbers is $\\boxed{9}$.",
+    "gpt_response": "Let's count the divisors of the numbers $90$ and $m$ to find out which ones they share. \n\nThe divisors of $90$ are $1, 2, 3, 5, 6, 9, 10, 15, 18, 30, 45, 90$. Since $90$ is divisible by $90, 45, 30$, those are the three divisors it shares with $m$.\n\nSo, the greatest common divisor of $90$ and $m$ is $\\boxed{90}$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 9?: Let's count the divisors of the numbers $90$ and $m$ to find out which ones they share. \n\nThe divisors of $90$ are $1, 2, 3, 5, 6, 9, 10, 15, 18, 30, 45, 90$. Since $90$ is divisible by $90, 45, 30$, those are the three divisors it shares with $m$.\n\nSo, the greatest common divisor of $90$ and $m$ is $\\boxed{90}$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

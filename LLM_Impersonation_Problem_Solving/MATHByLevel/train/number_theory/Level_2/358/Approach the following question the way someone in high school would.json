@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in high school would. ",
+    "problem_prompt": "Approach the following question the way someone in high school would. It takes exactly 74 colored beads on a string to make a necklace. The beads are strung in the following order: one red, one orange, two yellow, one green, and one blue. Then the pattern repeats starting again with one red bead. If the first bead of the necklace is red, what is the color of the last bead used to make the necklace?",
+    "solution": "The pattern repeats every $1+1+2+1+1=6$ beads. Since $72=6\\cdot12$, the 72nd bead will blue (the final bead to complete a pattern). The 73rd will be red, so the 74th will be $\\boxed{\\text{orange}}$.",
+    "gpt_response": "To figure out the color of the last bead used to make the necklace, we need to find the color of the 74th bead. Since the pattern repeats every 6 beads, we can divide 74 by 6 to find out how many complete patterns are in the necklace. \n\n74 divided by 6 equals 12 with a remainder of 2. This means there are 12 complete patterns, with an additional 2 beads added on. \n\nSo we start with the first red bead, then go through the pattern of one red, one orange, two yellow, one green, and one blue 12 times. After the 12th blue bead, we would have added one red and one orange to complete the remaining two beads.\n\nTherefore, the color of the last bead used to make the necklace would be orange.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to \\text{orange?: To figure out the color of the last bead used to make the necklace, we need to find the color of the 74th bead. Since the pattern repeats every 6 beads, we can divide 74 by 6 to find out how many complete patterns are in the necklace. \n\n74 divided by 6 equals 12 with a remainder of 2. This means there are 12 complete patterns, with an additional 2 beads added on. \n\nSo we start with the first red bead, then go through the pattern of one red, one orange, two yellow, one green, and one blue 12 times. After the 12th blue bead, we would have added one red and one orange to complete the remaining two beads.\n\nTherefore, the color of the last bead used to make the necklace would be orange.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

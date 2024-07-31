@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in engineering would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in engineering would. What is the SMILES expression of C8H14N2O2?\nAnswer:",
+    "solution": [
+        "C1COCCC1C2CNC(=O)N2"
+    ],
+    "gpt_response": "The SMILES expression for C8H14N2O2, also known as Nicotinamide, is CC(=O)Nc1ccc(O)cc1. SMILES (Simplified Molecular Input Line Entry System) is a method used to represent chemical structures using short, text-based strings. This representation provides a compact and easily readable format for various chemical compounds. In the case of Nicotinamide, the SMILES expression highlights the connectivity of atoms and the arrangement of functional groups within the molecule.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response ['C1COCCC1C2CNC(=O)N2']?: The SMILES expression for C8H14N2O2, also known as Nicotinamide, is CC(=O)Nc1ccc(O)cc1. SMILES (Simplified Molecular Input Line Entry System) is a method used to represent chemical structures using short, text-based strings. This representation provides a compact and easily readable format for various chemical compounds. In the case of Nicotinamide, the SMILES expression highlights the connectivity of atoms and the arrangement of functional groups within the molecule.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

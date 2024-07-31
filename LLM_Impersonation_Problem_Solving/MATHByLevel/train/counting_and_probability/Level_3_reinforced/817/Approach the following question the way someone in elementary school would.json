@@ -1,0 +1,10 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. Eight women of different heights are at a party. Each woman decides to only shake hands with women shorter than herself. How many handshakes take place?",
+    "solution": "Because the women are of different heights, any handshake will take place between two people, one of whom is taller than the other. Of course, the shorter of the two will not participate in the handshake because her handshake partner is not shorter than herself. Applying this logic to all of the pairs, there are $\\boxed{0}$ handshakes.",
+    "gpt_response": "Let's see... the tallest woman won't shake hands with anyone because everyone else is shorter than her. The second tallest woman also won't shake hands with anyone because everyone else is shorter than her too. The third tallest woman won't shake hands with the tallest two women, but she will shake hands with the shortest five women. So, there will be 5 handshakes. Great job!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 0?: Let's see... the tallest woman won't shake hands with anyone because everyone else is shorter than her. The second tallest woman also won't shake hands with anyone because everyone else is shorter than her too. The third tallest woman won't shake hands with the tallest two women, but she will shake hands with the shortest five women. So, there will be 5 handshakes. Great job!",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes"
+}

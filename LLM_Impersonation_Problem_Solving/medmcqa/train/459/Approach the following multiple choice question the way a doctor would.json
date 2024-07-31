@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. 3-year-old child comes in ER with Hv'o vomiting, loose watery motion for 3 days, on examination, the child was drowsy, sunken eye. Hypothermia and skin pinch take time to revert back, diagnosis\n1: No dehydration\n2: Mild dehydration\n3: Some dehydration\n4: Severe dehydration",
+    "solution": 4,
+    "gpt_response": "Based on the symptoms described, including vomiting, loose watery stools for 3 days, drowsiness, sunken eyes, hypothermia, and delayed skin pinch recoil, it is likely that the child is suffering from severe dehydration. Treatment should be started immediately to rehydrate the child and address any underlying causes of the dehydration.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 4?: Based on the symptoms described, including vomiting, loose watery stools for 3 days, drowsiness, sunken eyes, hypothermia, and delayed skin pinch recoil, it is likely that the child is suffering from severe dehydration. Treatment should be started immediately to rehydrate the child and address any underlying causes of the dehydration.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

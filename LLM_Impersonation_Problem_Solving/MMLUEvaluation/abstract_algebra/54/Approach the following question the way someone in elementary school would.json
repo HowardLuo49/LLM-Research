@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. Find the degree for the given field extension Q(sqrt(2)) over Q.\nA: 0\nB: 2\nC: 1\nD: 3",
+    "solution": "B",
+    "gpt_response": "To find the degree of the field extension Q(sqrt(2)) over Q, we need to count how many elements are needed to make a basis. In this case, we only need 2 elements (1 and sqrt(2)), so the degree is 2. So the answer is B: 2.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to B?: To find the degree of the field extension Q(sqrt(2)) over Q, we need to count how many elements are needed to make a basis. In this case, we only need 2 elements (1 and sqrt(2)), so the degree is 2. So the answer is B: 2.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

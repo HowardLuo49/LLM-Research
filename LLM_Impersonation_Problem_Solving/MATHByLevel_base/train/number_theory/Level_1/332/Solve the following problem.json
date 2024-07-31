@@ -1,0 +1,10 @@
+{
+    "prefix": "Solve the following problem. ",
+    "problem_prompt": "Solve the following problem. What is the greatest three-digit number which is a multiple of 13?",
+    "solution": "Since 1001 is $7\\cdot11\\cdot13$, we know that 1001 is a multiple of 13.  The greatest 3-digit multiple of 13 is therefore \\[1001-13=\\boxed{988}.\\]",
+    "gpt_response": "The greatest three-digit number is 999. \n999 divided by 13 is equal to 76 with a remainder of 11. \n\nTo find the greatest three-digit number that is a multiple of 13, we must subtract the remainder 11 from 999. \nThus, the greatest three-digit number that is a multiple of 13 is \n999 - 11 = 988.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 988?: The greatest three-digit number is 999. \n999 divided by 13 is equal to 76 with a remainder of 11. \n\nTo find the greatest three-digit number that is a multiple of 13, we must subtract the remainder 11 from 999. \nThus, the greatest three-digit number that is a multiple of 13 is \n999 - 11 = 988.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes"
+}

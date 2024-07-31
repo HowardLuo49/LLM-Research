@@ -1,0 +1,10 @@
+{
+    "prefix": "Solve the following problem. ",
+    "problem_prompt": "Solve the following problem. What is the greatest number of Sundays that can occur in the first $49$ days of a year?",
+    "solution": "49 days is seven full weeks, so there are always $\\boxed{7}$ Sundays.",
+    "gpt_response": "Since each week has $7$ days and any day of the week can be the first day of a year, the maximum number of Sundays that can occur in the first $49$ days of a year is $\\boxed{7}$.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response 7?: Since each week has $7$ days and any day of the week can be the first day of a year, the maximum number of Sundays that can occur in the first $49$ days of a year is $\\boxed{7}$.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes"
+}

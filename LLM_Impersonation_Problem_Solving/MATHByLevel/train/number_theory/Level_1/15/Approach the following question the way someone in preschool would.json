@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Abigail, Beatrice, and Carson combine their eggs to sell them at the market. If Abigail has 37 eggs, Beatrice has 49 eggs, and Carson has 14 eggs, and if eggs can only be sold in cartons of 12, how many eggs will be left over if all cartons are sold?",
+    "solution": "The remainder when $37+49+14$ is divided by $12$ is the same as the remainder when the congruences of each number mod 12 are summed and then divided by 12. In other words, since we have \\begin{align*}\n37 &\\equiv 1\\pmod{12}\\\\\n49 &\\equiv 1\\pmod{12} \\\\\n14 &\\equiv 2\\pmod{12}\n\\end{align*}then therefore, $37+49+14 \\equiv1+1+2 \\equiv \\boxed{4}\\pmod{12}$.",
+    "gpt_response": "Let's count how many eggs Abigail, Beatrice, and Carson have! Abigail has 37 eggs, Beatrice has 49 eggs, and Carson has 14 eggs. Let's add them all up! \n\n37 + 49 + 14 = ? \n\nLet's count together:\n1, 2, 3,... (continue counting and adding until all the eggs are counted)\n\nOnce we know how many eggs they have in total, we can figure out how many cartons of eggs they can sell! Remember, eggs can only be sold in cartons of 12. \n\nLet's see how many cartons they can sell and how many eggs will be left over! This sounds like a fun math problem to solve together!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 4?: Let's count how many eggs Abigail, Beatrice, and Carson have! Abigail has 37 eggs, Beatrice has 49 eggs, and Carson has 14 eggs. Let's add them all up! \n\n37 + 49 + 14 = ? \n\nLet's count together:\n1, 2, 3,... (continue counting and adding until all the eggs are counted)\n\nOnce we know how many eggs they have in total, we can figure out how many cartons of eggs they can sell! Remember, eggs can only be sold in cartons of 12. \n\nLet's see how many cartons they can sell and how many eggs will be left over! This sounds like a fun math problem to solve together!",
+    "gpt_response_correct_incorrect": "Yes. \n\n37 + 49 + 14 = 100\n\n100 divided by 12 (number of eggs in a carton) = 8 with 4 remaining \n\nTherefore, they can sell 8 cartons of eggs and have 4 eggs left over.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

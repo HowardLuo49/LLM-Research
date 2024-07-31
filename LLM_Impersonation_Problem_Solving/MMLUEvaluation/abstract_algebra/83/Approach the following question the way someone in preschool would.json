@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Statement 1 | If a group has an element of order 10, then it has elements of orders 1, 2, and 5. Statement 2 | If a group has an element of order 2 and an element of order 3, then it has an element of order 6.\nA: True, True\nB: False, False\nC: True, False\nD: False, True",
+    "solution": "C",
+    "gpt_response": "Hmm, let's see... If a group has an element of order 10, that means it has elements of orders 1, 2, and 5 too! So that statement is true! And if a group has an element of order 2 and an element of order 3, then it has an element of order 6. That statement is also true! So the answer is A: True, True!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to C?: Hmm, let's see... If a group has an element of order 10, that means it has elements of orders 1, 2, and 5 too! So that statement is true! And if a group has an element of order 2 and an element of order 3, then it has an element of order 6. That statement is also true! So the answer is A: True, True!",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 2,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

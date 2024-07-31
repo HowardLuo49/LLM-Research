@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in literature would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in literature would. What is the molecular weight of C9H13FO2?\nAnswer (numerical number):",
+    "solution": [
+        "172.20"
+    ],
+    "gpt_response": "The molecular weight of C9H13FO2 is 180.2 g/mol. This is calculated by adding the atomic weights of each element in the compound (carbon=12.01 g/mol, hydrogen=1.01 g/mol, fluorine=19.00 g/mol, and oxygen=16.00 g/mol) multiplied by the number of each element in the compound.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response ['172.20']?: The molecular weight of C9H13FO2 is 180.2 g/mol. This is calculated by adding the atomic weights of each element in the compound (carbon=12.01 g/mol, hydrogen=1.01 g/mol, fluorine=19.00 g/mol, and oxygen=16.00 g/mol) multiplied by the number of each element in the compound.",
+    "gpt_response_correct_incorrect": "No.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "137",
+    "difficulty_value": "3"
+}

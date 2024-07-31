@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in biology would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in biology would. How many atoms are there in 2-(ethoxymethyl)-N-(2-methoxyethyl)-2-methylbut-3-en-1-amine?\nAnswer (numerical number):",
+    "solution": [
+        37
+    ],
+    "gpt_response": "There are 53 atoms in 2-(ethoxymethyl)-N-(2-methoxyethyl)-2-methylbut-3-en-1-amine. \n\nExplanation:\n- 5 carbon atoms\n- 1 nitrogen atom\n- 2 oxygen atoms\n- 1 hydrogen atom on the amine nitrogen\n- 21 hydrogen atoms on the carbons\n- 3 hydrogen atoms on the nitrogen\n- 2 hydrogen atoms on the oxygen\n- 18 hydrogen atoms on the methyl groups\n- Total = 53 atoms.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response [37]?: There are 53 atoms in 2-(ethoxymethyl)-N-(2-methoxyethyl)-2-methylbut-3-en-1-amine. \n\nExplanation:\n- 5 carbon atoms\n- 1 nitrogen atom\n- 2 oxygen atoms\n- 1 hydrogen atom on the amine nitrogen\n- 21 hydrogen atoms on the carbons\n- 3 hydrogen atoms on the nitrogen\n- 2 hydrogen atoms on the oxygen\n- 18 hydrogen atoms on the methyl groups\n- Total = 53 atoms.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. Simplify $(3p^3 - 5p + 6) + (4 - 6p^2 + 2p)$. Express your answer in the form $Ap^3 + Bp^2 + Cp +D$, where $A$, $B$, $C$, and $D$ are numbers (possibly negative).",
+    "solution": "Using the associative property and combining like terms, $(3p^3 - 5p + 6) + (4 - 6p^2 + 2p) = 3p^3 - 6p^2 - 5p + 2p + 6 + 4 = \\boxed{3p^3 - 6p^2 - 3p + 10}$.",
+    "gpt_response": "To simplify the given expression, we start by adding like terms. \n\n$(3p^3 - 5p + 6) + (4 - 6p^2 + 2p) = 3p^3 - 5p + 6 + 4 - 6p^2 + 2p$\n\nRearranging the terms:\n\n$3p^3 - 6p^2 - 5p + 2p + 6 + 4$\n\nCombining like terms:\n\n$3p^3 - 6p^2 - 3p + 10$\n\nTherefore, the simplified form of $(3p^3 - 5p + 6) + (4 - 6p^2 + 2p)$ is $3p^3 - 6p^2 - 3p + 10$.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 3p^3 - 6p^2 - 3p + 10?: To simplify the given expression, we start by adding like terms. \n\n$(3p^3 - 5p + 6) + (4 - 6p^2 + 2p) = 3p^3 - 5p + 6 + 4 - 6p^2 + 2p$\n\nRearranging the terms:\n\n$3p^3 - 6p^2 - 5p + 2p + 6 + 4$\n\nCombining like terms:\n\n$3p^3 - 6p^2 - 3p + 10$\n\nTherefore, the simplified form of $(3p^3 - 5p + 6) + (4 - 6p^2 + 2p)$ is $3p^3 - 6p^2 - 3p + 10$.",
+    "gpt_response_correct_incorrect": "Yes",
+    "yes_no": "yes"
+}

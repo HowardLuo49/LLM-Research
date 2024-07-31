@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a medical researcher would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a medical researcher would. Which of the following drugs is antipseudomonal penicillin?\n1: Cephalexin\n2: Dicloxacillin\n3: Piperacillin\n4: Cloxacillin",
+    "solution": 3,
+    "gpt_response": "To determine which of the following drugs is antipseudomonal penicillin, I would conduct a literature review specifically focusing on the antimicrobial activity of each drug against Pseudomonas bacteria. I would also consult authoritative sources such as drug reference books, medical journals, and clinical practice guidelines.\n\nBased on my knowledge as a medical researcher, I know that Piperacillin is the correct answer as it is a broad-spectrum penicillin antibiotic that is effective against Pseudomonas aeruginosa, a common pathogen in serious infections. Cephalexin, Dicloxacillin, and Cloxacillin are not typically used as antipseudomonal agents.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 3?: To determine which of the following drugs is antipseudomonal penicillin, I would conduct a literature review specifically focusing on the antimicrobial activity of each drug against Pseudomonas bacteria. I would also consult authoritative sources such as drug reference books, medical journals, and clinical practice guidelines.\n\nBased on my knowledge as a medical researcher, I know that Piperacillin is the correct answer as it is a broad-spectrum penicillin antibiotic that is effective against Pseudomonas aeruginosa, a common pathogen in serious infections. Cephalexin, Dicloxacillin, and Cloxacillin are not typically used as antipseudomonal agents.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "3",
+    "difficulty_value": "3"
+}

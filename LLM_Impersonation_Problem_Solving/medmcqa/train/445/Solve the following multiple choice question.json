@@ -1,0 +1,12 @@
+{
+    "prefix": "Solve the following multiple choice question. ",
+    "problem_prompt": "Solve the following multiple choice question. Which of the following is non-competitive inhibitor of intestinal alkaline phosphatase?\n1: L-Alanine\n2: L-Tyrosine\n3: L-Tryptophan\n4: L-Phenylalanine",
+    "solution": 4,
+    "gpt_response": "The correct answer is 4: L-Phenylalanine.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 4?: The correct answer is 4: L-Phenylalanine.",
+    "gpt_response_correct_incorrect": "No, the final solution is not obtained in the response.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "5",
+    "difficulty_value": "5"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Inhalation of fungal spores can cause primary lung infections. Of the following organisms, which one is most likely to be associated with this mode of transmission?\n1: C. immitis\n2: S. schenckii\n3: C. albicans\n4: T. tonsurans",
+    "solution": 1,
+    "gpt_response": "As a doctor, considering the mode of transmission for primary lung infections caused by inhalation of fungal spores, the most likely organism is C. immitis. This organism is commonly associated with causing coccidioidomycosis, which is a primary lung infection acquired through inhalation of its spores. Therefore, the correct answer is option 1: C. immitis.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: As a doctor, considering the mode of transmission for primary lung infections caused by inhalation of fungal spores, the most likely organism is C. immitis. This organism is commonly associated with causing coccidioidomycosis, which is a primary lung infection acquired through inhalation of its spores. Therefore, the correct answer is option 1: C. immitis.",
+    "gpt_response_correct_incorrect": "Yes.",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

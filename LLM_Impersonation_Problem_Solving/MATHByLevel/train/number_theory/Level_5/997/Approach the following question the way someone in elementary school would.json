@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. For how many integer values of $n$ between 1 and 349 inclusive does the decimal representation of $\\frac{n}{350}$ terminate?",
+    "solution": "Recall that the decimal representation of a simplified fraction terminates if and only if the denominator is divisible by no primes other than 2 and 5. Prime factorizing 350 as $2\\cdot 5^2\\cdot 7$, we see that $n/350$ terminates if and only if $n$ is divisible by 7. There are 49 multiples of 7 from 1 to 349, so there are $\\boxed{49}$ possible values of $n$ that make $\\frac{n}{350}$ a terminating decimal.",
+    "gpt_response": "To find out how many integer values of $n$ between 1 and 349 make the decimal representation of $\\frac{n}{350}$ stop, we need to look at the denominator of the fraction, 350.\n\nWhen we simplify $\\frac{n}{350}$, we can see if the prime factorization of 350 has any factors other than 2 or 5. \n\nThe prime factorization of 350 is $2 \\cdot 5 \\cdot 5 \\cdot 7$. \n\nSince 2 and 5 are the only prime factors, when you divide 350 into $n$, the decimal representation of $\\frac{n}{350}$ will stop for any integer $n$ between 1 and 349. \n\nSo, there are a total of 349 integer values of $n$ between 1 and 349 inclusive, where the decimal representation of $\\frac{n}{350}$ will terminate.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 49?: To find out how many integer values of $n$ between 1 and 349 make the decimal representation of $\\frac{n}{350}$ stop, we need to look at the denominator of the fraction, 350.\n\nWhen we simplify $\\frac{n}{350}$, we can see if the prime factorization of 350 has any factors other than 2 or 5. \n\nThe prime factorization of 350 is $2 \\cdot 5 \\cdot 5 \\cdot 7$. \n\nSince 2 and 5 are the only prime factors, when you divide 350 into $n$, the decimal representation of $\\frac{n}{350}$ will stop for any integer $n$ between 1 and 349. \n\nSo, there are a total of 349 integer values of $n$ between 1 and 349 inclusive, where the decimal representation of $\\frac{n}{350}$ will terminate.",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "10",
+    "difficulty_value": "10"
+}

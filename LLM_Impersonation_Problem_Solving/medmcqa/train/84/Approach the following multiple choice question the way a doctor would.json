@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a doctor would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a doctor would. Foam cells are seen in infection with which virus ?\n1: Measles\n2: EBV\n3: Molluscum contagiosum\n4: RSV",
+    "solution": 2,
+    "gpt_response": "Foam cells are seen in infection with Measles virus.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 2?: Foam cells are seen in infection with Measles virus.",
+    "gpt_response_correct_incorrect": "No, the final solution obtained in the response is not 2.",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}

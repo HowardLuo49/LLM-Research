@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in elementary school would. ",
+    "problem_prompt": "Approach the following question the way someone in elementary school would. How many real roots does the polynomial 2x^5 + 8x - 7 have?\nA: None\nB: One\nC: Two\nD: Three",
+    "solution": "B",
+    "gpt_response": "Um, okay so first I need to count how many times this polynomial crosses the x-axis. Let's see... I don't think it crosses at all, so that means the answer is A: None. I hope I got it right!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to B?: Um, okay so first I need to count how many times this polynomial crosses the x-axis. Let's see... I don't think it crosses at all, so that means the answer is A: None. I hope I got it right!",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 1,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "1",
+    "difficulty_value": "1"
+}

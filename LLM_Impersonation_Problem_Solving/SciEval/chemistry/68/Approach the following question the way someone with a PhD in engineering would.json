@@ -1,0 +1,14 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in engineering would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in engineering would. What is the name of CC(CO)OCC(COC(C)CO)O\nAnswer:",
+    "solution": [
+        "1,3-bis(1-hydroxypropan-2-yloxy)propan-2-ol"
+    ],
+    "gpt_response": "The name of the chemical compound CC(CO)OCC(COC(C)CO)O is diethylene glycol dimethyl ether. This compound is a type of glycol ether commonly used as a solvent in various industrial processes due to its low toxicity and environmental impact. Its chemical structure consists of two ethylene glycol units connected by an ether link, with two methyl groups attached to one of the glycol units.",
+    "solution_prompt": "The following is a response to a question. Yes or no, is the final solution obtained in the following response ['1,3-bis(1-hydroxypropan-2-yloxy)propan-2-ol']?: The name of the chemical compound CC(CO)OCC(COC(C)CO)O is diethylene glycol dimethyl ether. This compound is a type of glycol ether commonly used as a solvent in various industrial processes due to its low toxicity and environmental impact. Its chemical structure consists of two ethylene glycol units connected by an ether link, with two methyl groups attached to one of the glycol units.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "8",
+    "difficulty_value": "8"
+}

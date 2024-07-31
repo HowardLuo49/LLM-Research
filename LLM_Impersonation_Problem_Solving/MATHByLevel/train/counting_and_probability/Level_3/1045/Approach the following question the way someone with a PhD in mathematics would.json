@@ -1,0 +1,9 @@
+{
+    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
+    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. Find the last two digits of the following sum: $$5! + 10! + 15! + \\cdots + 100!$$",
+    "solution": "Since for all $n \\ge 10$, $n!$ has (at least) two factors of 5, we know that $n!$ will end in two zeros.  Therefore, if $n\\ge 10$, then $n!$ contributes nothing to the last two digits of the sum. So we need only compute $5! = 120$, and hence our answer is $\\boxed{20}$.",
+    "gpt_response": "To find the last two digits of the sum of factorials from 5! to 100!, we need to consider the last two digits of each factorial individually.\n\nFor any factorial greater than 10!, the last two digits will be 00, since any factorial greater than or equal to 10 will have a factor of 10 in it.\n\nTherefore, we only need to consider the last two digits of the sum of 5! to 10!.\n\n5! = 120\n6! = 720\n7! = 5040\n8! = 40320\n9! = 362880\n10! = 3628800\n\nAdding these together, we get: 120 + 720 + 5040 + 40320 + 362880 + 3628800 = 4065960\n\nTherefore, the last two digits of the sum are 60.",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 20?: To find the last two digits of the sum of factorials from 5! to 100!, we need to consider the last two digits of each factorial individually.\n\nFor any factorial greater than 10!, the last two digits will be 00, since any factorial greater than or equal to 10 will have a factor of 10 in it.\n\nTherefore, we only need to consider the last two digits of the sum of 5! to 10!.\n\n5! = 120\n6! = 720\n7! = 5040\n8! = 40320\n9! = 362880\n10! = 3628800\n\nAdding these together, we get: 120 + 720 + 5040 + 40320 + 362880 + 3628800 = 4065960\n\nTherefore, the last two digits of the sum are 60.",
+    "gpt_response_correct_incorrect": "No",
+    "yes_no": "no"
+}

@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following multiple choice question the way a physician would. ",
+    "problem_prompt": "Approach the following multiple choice question the way a physician would. Chromosome involved in Wilm's tumor is\n1: 11\n2: 13\n3: 18\n4: 22",
+    "solution": 1,
+    "gpt_response": "The correct answer is 11. Wilm's tumor is associated with a deletion of chromosome 11p13, which contains the WT1 gene. This gene plays a crucial role in normal kidney development and its mutation or loss can lead to the development of Wilm's tumor.",
+    "solution_prompt": "The following is a response to a question, with options 1, 2, 3, 4. Yes or no, is the final solution obtained in the following response 1?: The correct answer is 11. Wilm's tumor is associated with a deletion of chromosome 11p13, which contains the WT1 gene. This gene plays a crucial role in normal kidney development and its mutation or loss can lead to the development of Wilm's tumor.",
+    "gpt_response_correct_incorrect": "No",
+    "attempts": 3,
+    "yes_no": "no",
+    "gpt_response_difficulty": "4",
+    "difficulty_value": "4"
+}

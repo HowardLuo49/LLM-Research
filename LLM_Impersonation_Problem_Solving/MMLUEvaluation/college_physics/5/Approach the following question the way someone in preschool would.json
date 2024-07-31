@@ -1,0 +1,12 @@
+{
+    "prefix": "Approach the following question the way someone in preschool would. ",
+    "problem_prompt": "Approach the following question the way someone in preschool would. Which of the following gives the total spin quantum number of the electrons in the ground state of neutral nitrogen (Z = 7)?\nA: 1/2\nB: 1\nC: 3/2\nD: 5/2",
+    "solution": "C",
+    "gpt_response": "In the ground state of neutral nitrogen, the total spin quantum number of the electrons is 1. Yay, I know my answer!",
+    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to C?: In the ground state of neutral nitrogen, the total spin quantum number of the electrons is 1. Yay, I know my answer!",
+    "gpt_response_correct_incorrect": "Yes",
+    "attempts": 3,
+    "yes_no": "yes",
+    "gpt_response_difficulty": "2",
+    "difficulty_value": "2"
+}
