@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in preschool would. ",
-    "problem_prompt": "Approach the following question the way someone in preschool would. If the roots of the quadratic equation $\\frac32x^2+11x+c=0$ are $x=\\frac{-11\\pm\\sqrt{7}}{3}$, then what is the value of $c$?",
-    "solution": "By the quadratic formula, the roots of the equation are $$x=\\frac{-(11)\\pm\\sqrt{(11)^2-4(\\frac32)c}}{2(\\frac32)},$$which simplifies to $$x=\\frac{-11\\pm\\sqrt{121-6c}}{3}.$$This looks exactly like our target, except that we have to get the $121-6c$ under the square root to equal $7$. So, we solve the equation $121-6c=7$, which yields $c=\\boxed{19}$.",
-    "gpt_response": "First, let's imagine that we have 3 apples. We are trying to find out how many pieces of candy we need to have the same amount of treats. We also know that if we add 7 to our candy, we will have the same amount as the apples.\n\nSo, when we put all the information together, we can see that our candy is represented by the number 3. This is because we had 3 apples and 3 is important in our equation too.\n\nSo the value of $c$ is 3.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 19?: First, let's imagine that we have 3 apples. We are trying to find out how many pieces of candy we need to have the same amount of treats. We also know that if we add 7 to our candy, we will have the same amount as the apples.\n\nSo, when we put all the information together, we can see that our candy is represented by the number 3. This is because we had 3 apples and 3 is important in our equation too.\n\nSo the value of $c$ is 3.",
-    "gpt_response_correct_incorrect": "No",
-    "yes_no": "no"
-}

@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in high school would. ",
-    "problem_prompt": "Approach the following question the way someone in high school would. Find the only positive real number $x$ for which $\\displaystyle \\frac{x-4}{9} = \\frac{4}{x-9}$.",
-    "solution": "The first approach that comes to mind is probably also the best one.  So we cross-multiply to obtain $(x-4)(x-9) = 36$.  Multiplying out the left-hand side and cancelling the 36 yields $x^2-13x = 0$, or $x(x-13)=0$.  This equation has two solutions, $x=0$ and 13.  Since we are looking for positive answers, we take $x=\\boxed{13}$.",
-    "gpt_response": "First, cross multiply to get rid of the fractions:\n\\begin{align*}\n(x-4)(x-9) &= 9 \\cdot 4 \\\\\nx^2 - 9x - 4x + 36 &= 36 \\\\\nx^2 - 13x &= 0 \\\\\nx(x-13) &= 0\n\\end{align*}\nSo, either $x=0$ or $x=13$. Since we are looking for a positive real number, the only solution is $\\boxed{x=13}$.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 13?: First, cross multiply to get rid of the fractions:\n\\begin{align*}\n(x-4)(x-9) &= 9 \\cdot 4 \\\\\nx^2 - 9x - 4x + 36 &= 36 \\\\\nx^2 - 13x &= 0 \\\\\nx(x-13) &= 0\n\\end{align*}\nSo, either $x=0$ or $x=13$. Since we are looking for a positive real number, the only solution is $\\boxed{x=13}$.",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in preschool would. ",
-    "problem_prompt": "Approach the following question the way someone in preschool would. What is the value of $101^{4} - 4 \\cdot 101^{3} + 6 \\cdot 101^2 - 4 \\cdot 101 + 1$?  (No calculators!)",
-    "solution": "Look at the coefficients of the powers of 101: 1, -4, 6, -4, 1. You might recognize these as $\\binom40$, $-\\binom41$, $\\binom42$, $-\\binom43$, $\\binom44$. This suggests that the Binomial Theorem is in play. Indeed, we have\n\n\\begin{align*}\n(101 + (-1))^4 &= \\binom40 \\cdot 101^{4} \\cdot (-1)^0 + \\binom41 \\cdot 101^{3} \\cdot (-1)^1 + \\\\\n&\\phantom{=} \\binom42 \\cdot 101^2 \\cdot (-1)^2 + \\binom43 \\cdot 101^1 \\cdot (-1)^3 + \\\\\n&\\phantom{=} \\binom44 \\cdot 101^0 \\cdot (-1)^4\\\\\n& = 101^{4} - 4 \\cdot 101^{3} + 6 \\cdot 101^2 - 4 \\cdot 101 + 1.\n\\end{align*}\n\nTherefore, we have $(101 + (-1))^4 = 100^4 = \\boxed{100000000}$.",
-    "gpt_response": "Hmm... Let's see. $101$ times $101$ is $101^2$. So $101^{3}$ would be $101$ times $101^2$. And $101^{4}$ would be $101$ times $101^{3}$.\n\n$101^{4}$ minus $4$ times $101^{3}$ is like having $101^{4}$ and taking away $4$ groups of $101^{3}$. We can then add back $6$ groups of $101^{2}$. Then we take away $4$ groups of $101$ and finally add $1$.\n\nSo the answer is... $1$.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 100000000?: Hmm... Let's see. $101$ times $101$ is $101^2$. So $101^{3}$ would be $101$ times $101^2$. And $101^{4}$ would be $101$ times $101^{3}$.\n\n$101^{4}$ minus $4$ times $101^{3}$ is like having $101^{4}$ and taking away $4$ groups of $101^{3}$. We can then add back $6$ groups of $101^{2}$. Then we take away $4$ groups of $101$ and finally add $1$.\n\nSo the answer is... $1$.",
-    "gpt_response_correct_incorrect": "Yes.",
-    "yes_no": "yes"
-}

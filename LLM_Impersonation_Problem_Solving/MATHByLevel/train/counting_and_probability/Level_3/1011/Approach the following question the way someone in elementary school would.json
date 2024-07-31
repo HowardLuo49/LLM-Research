@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in elementary school would. ",
-    "problem_prompt": "Approach the following question the way someone in elementary school would. If the odds for pulling a prize out of the box are $3:4$, what is the probability of not pulling the prize out of the box? Express your answer as a common fraction.",
-    "solution": "If the odds for pulling a prize out of the box are $3:4$, that means that 3 out of 7 times will result in a prize, while 4 out of 7 times will not. So the probability of not pulling the prize out of the box is $\\boxed{\\frac{4}{7}}$.",
-    "gpt_response": "To find the probability of not pulling the prize out of the box, first we need to add the odds together: $3 + 4 = 7.$\n\nThen we can find the probability of not pulling the prize by dividing the number of ways to not pull the prize by the total number of ways: $4/7.$\n\nSo the probability of not pulling the prize out of the box is $\\boxed{4/7}.$",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to \\frac{4?: To find the probability of not pulling the prize out of the box, first we need to add the odds together: $3 + 4 = 7.$\n\nThen we can find the probability of not pulling the prize by dividing the number of ways to not pull the prize by the total number of ways: $4/7.$\n\nSo the probability of not pulling the prize out of the box is $\\boxed{4/7}.$",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

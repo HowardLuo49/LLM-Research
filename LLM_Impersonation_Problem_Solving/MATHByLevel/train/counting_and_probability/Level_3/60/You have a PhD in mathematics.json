@@ -1,7 +1,0 @@
-{
-    "prefix": "You have a PhD in mathematics.\n",
-    "problem_prompt": "You have a PhD in mathematics.\nA plane is uniquely determined by three non-collinear points. What is the maximum possible number of planes that can be determined by 12 points in space?",
-    "solution": "There are $\\binom{12}{3} = \\boxed{220}$ ways to pick any 3 points, which we assume to determine a unique plane.",
-    "gpt_response": "ChatCompletion(id='chatcmpl-9A2Zh7xBLiMa7Jwdwn0wCbtyEAuwu', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='The maximum number of unique planes that can be determined by n non-collinear points in space is given by the combination formula C(n,3), where n is the total number of points.\\n\\nC(12,3) = 12! / (3!(12-3)!) = 12! / (3!9!) = 12 x 11 x 10 / 3 x 2 x 1 = 220\\n\\nTherefore, the maximum possible number of planes that can be determined by 12 points in space is 220.', role='assistant', function_call=None, tool_calls=None))], created=1712180205, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint='fp_b28b39ffa8', usage=CompletionUsage(completion_tokens=112, prompt_tokens=46, total_tokens=158))",
-    "yes_no": "yes"
-}

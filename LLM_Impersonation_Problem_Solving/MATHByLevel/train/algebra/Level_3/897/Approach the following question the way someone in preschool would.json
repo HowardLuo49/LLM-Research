@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in preschool would. ",
-    "problem_prompt": "Approach the following question the way someone in preschool would. Suppose $f(z)$ and $g(z)$ are polynomials in $z$, and the degree of $g(z)$ is less than the degree of $f(z)$.  If the degree of $f(z)$ is two, what is the degree of $f(z)+g(z)$?",
-    "solution": "We have $f(z)=a_2 \\cdot z^2+a_1 \\cdot z+a_0$, and $g(z)=b_1 \\cdot z+b_0$, where $a_2$ is nonzero.  Then $f(z)+g(z)=a_2 \\cdot z^2+(a_1+b_1) \\cdot z+(a_0+b_0)$.  The degree of this polynomial is $\\boxed{2}$.",
-    "gpt_response": "If $f(z)$ is a polynomial with a degree of two, that means it has terms up to $z^2$. And if $g(z)$ has a degree less than $f(z), that means it has terms up to $z^1$ or just $z$. When you add $f(z)$ and $g(z)$ together, the most you can get is just $z^2$ because $z^2$ is the highest term in $f(z)$. So the degree of $f(z)+g(z)$ is two.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 2?: If $f(z)$ is a polynomial with a degree of two, that means it has terms up to $z^2$. And if $g(z)$ has a degree less than $f(z), that means it has terms up to $z^1$ or just $z$. When you add $f(z)$ and $g(z)$ together, the most you can get is just $z^2$ because $z^2$ is the highest term in $f(z)$. So the degree of $f(z)+g(z)$ is two.",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

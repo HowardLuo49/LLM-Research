@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in elementary school would. ",
-    "problem_prompt": "Approach the following question the way someone in elementary school would. What's the coefficient of the $x^2y^4$ term in the expansion of $(x+y)^6$?",
-    "solution": "By the Binomial Theorem, the coefficient that we want is just $\\binom{6}{2}=\\boxed{15}$.",
-    "gpt_response": "Hi! To find the coefficient of the $x^2y^4$ term in the expansion of $(x+y)^6, we use the binomial theorem. \n\nThe coefficient of the $x^2y^4$ term can be found by taking the coefficient of $x^2$ in the first term ($(x)$ and the coefficient of $y^4$ in the second term ($(y)^4$. \n\nSo, the coefficient of the $x^2y^4$ term is ${6\\choose2}$, which is 15. \n\nSo, the coefficient of the $x^2y^4$ term in the expansion of $(x+y)^6$ is 15. Yay, we got it!",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 15?: Hi! To find the coefficient of the $x^2y^4$ term in the expansion of $(x+y)^6, we use the binomial theorem. \n\nThe coefficient of the $x^2y^4$ term can be found by taking the coefficient of $x^2$ in the first term ($(x)$ and the coefficient of $y^4$ in the second term ($(y)^4$. \n\nSo, the coefficient of the $x^2y^4$ term is ${6\\choose2}$, which is 15. \n\nSo, the coefficient of the $x^2y^4$ term in the expansion of $(x+y)^6$ is 15. Yay, we got it!",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

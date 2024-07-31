@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in preschool would. ",
-    "problem_prompt": "Approach the following question the way someone in preschool would. What is the value of $y$ in the equation $\\frac{30}{50}=\\sqrt{\\frac{y}{50}}$?",
-    "solution": "Squaring both sides, we have $\\frac{30^2}{50^2}=\\frac{y}{50}$. Solving for $y$ yields $y=900/50=\\boxed{18}$.",
-    "gpt_response": "First, we need to figure out what numbers go in the empty space for the equation. The top number in the fraction is 30, and the bottom number is 50. This means that $30$ is a part of $50$. We don't know what numbers go in the bottom space for $y$, but we do know that whatever numbers are in there are part of $50$. So, we need to figure out what number times itself equals $30$. This number is $5$, because $5 * 5 = 25$ and $6 * 6 = 36$. So the value of $y$ is $25$.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 18?: First, we need to figure out what numbers go in the empty space for the equation. The top number in the fraction is 30, and the bottom number is 50. This means that $30$ is a part of $50$. We don't know what numbers go in the bottom space for $y$, but we do know that whatever numbers are in there are part of $50$. So, we need to figure out what number times itself equals $30$. This number is $5$, because $5 * 5 = 25$ and $6 * 6 = 36$. So the value of $y$ is $25$.",
-    "gpt_response_correct_incorrect": "Yes. $30 + 25 - 7 = 18$.",
-    "yes_no": "yes"
-}

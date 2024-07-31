@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in high school would. ",
-    "problem_prompt": "Approach the following question the way someone in high school would. Simplify $\\sqrt{8} \\times \\sqrt{50}$.",
-    "solution": "Since a square root is an exponent of $\\frac{1}{2}$ and since exponents distribute across multiplication, we can combine the radicals. \\[\n\\sqrt{8}\\cdot \\sqrt{50}=\\sqrt{8\\cdot50}.\n\\] Now split the radicand into prime factors: $8\\cdot50=2\\cdot2\\cdot2\\cdot2\\cdot5^2=(2\\cdot2)^2\\cdot5^2$.  We find $\\sqrt{8\\cdot50}=\\sqrt{(2\\cdot2)^2\\cdot5^2}=2\\cdot2\\cdot5=\\boxed{20}$.",
-    "gpt_response": "First, we can simplify each square root separately. \n\n$\\sqrt{8}$ can be simplified to $\\sqrt{4} \\times \\sqrt{2}$ because $4$ is a perfect square that can be factored out. This simplifies further to $2\\sqrt{2}$.\n\n$\\sqrt{50}$ can be simplified to $\\sqrt{25} \\times \\sqrt{2}$ because $25$ is a perfect square that can be factored out. This simplifies further to $5\\sqrt{2}$.\n\nNow, we can multiply $2\\sqrt{2}$ by $5\\sqrt{2}$ to get $10\\sqrt{4}$. Since $4$ is a perfect square, $\\sqrt{4}$ simplifies to $2$. Therefore, the final answer is $10\\times2 = 20$.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 20?: First, we can simplify each square root separately. \n\n$\\sqrt{8}$ can be simplified to $\\sqrt{4} \\times \\sqrt{2}$ because $4$ is a perfect square that can be factored out. This simplifies further to $2\\sqrt{2}$.\n\n$\\sqrt{50}$ can be simplified to $\\sqrt{25} \\times \\sqrt{2}$ because $25$ is a perfect square that can be factored out. This simplifies further to $5\\sqrt{2}$.\n\nNow, we can multiply $2\\sqrt{2}$ by $5\\sqrt{2}$ to get $10\\sqrt{4}$. Since $4$ is a perfect square, $\\sqrt{4}$ simplifies to $2$. Therefore, the final answer is $10\\times2 = 20$.",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

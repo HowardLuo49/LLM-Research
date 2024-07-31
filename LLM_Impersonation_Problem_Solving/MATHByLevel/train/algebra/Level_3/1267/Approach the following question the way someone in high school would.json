@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in high school would. ",
-    "problem_prompt": "Approach the following question the way someone in high school would. Solve  \\[\\frac{x^2+x+1}{x+1}=x+2\\]for $x$.",
-    "solution": "Cross-multiplication gives  \\[x^2+x+1=(x+2)(x+1)=x^2+3x+2.\\]Therefore \\[0=2x+1\\]and $x=\\boxed{-\\frac12}$.",
-    "gpt_response": "To solve this equation, first distribute the $(x+1)$ on the left side to get: \n\n\\[x^2 + x + 1 = (x+1)(x+2)\\]\n\nNext, multiply out the right side using the distributive property:\n\n\\[x^2 + x +1 = x^2 + 2x + x + 2\\]\n\nSimplify the right side:\n\n\\[x^2 + x + 1 = x^2 + 3x + 2\\]\n\nSubtract $x^2$ from both sides:\n\n\\[x + 1 = 3x + 2\\]\n\nSubtract $x$ from both sides:\n\n\\[1 = 2x + 2\\]\n\nSubtract 2 from both sides:\n\n\\[-1 = 2x\\]\n\nDivide by 2:\n\n\\[x = -\\frac{1}{2}\\]\n\nSo the solution to the equation is $x = -\\frac{1}{2}$.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to -\\frac12?: To solve this equation, first distribute the $(x+1)$ on the left side to get: \n\n\\[x^2 + x + 1 = (x+1)(x+2)\\]\n\nNext, multiply out the right side using the distributive property:\n\n\\[x^2 + x +1 = x^2 + 2x + x + 2\\]\n\nSimplify the right side:\n\n\\[x^2 + x + 1 = x^2 + 3x + 2\\]\n\nSubtract $x^2$ from both sides:\n\n\\[x + 1 = 3x + 2\\]\n\nSubtract $x$ from both sides:\n\n\\[1 = 2x + 2\\]\n\nSubtract 2 from both sides:\n\n\\[-1 = 2x\\]\n\nDivide by 2:\n\n\\[x = -\\frac{1}{2}\\]\n\nSo the solution to the equation is $x = -\\frac{1}{2}$.",
-    "gpt_response_correct_incorrect": "No",
-    "yes_no": "no"
-}

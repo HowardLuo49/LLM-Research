@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
-    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. A television's price was discounted $40\\%$ and then slashed another $40\\%$ during a liquidation sale. By what percent has the original price been reduced?",
-    "solution": "Let the original price of the television be $T$. Then the price is now $0.6(0.6T)=0.36T$. Thus overall the price has been reduced by $1-0.36=\\boxed{64\\%}$.",
-    "gpt_response": "Let's denote the original price of the television as $P$. After the first discount of $40\\%$, the price becomes $0.6P$ (since $100\\% - 40\\% = 60\\% = 0.6$). \n\nAfter the second discount of $40\\%$, the price becomes $0.6P \\times 0.6 = 0.36P$.\n\nTo find out the overall percentage reduction from the original price, we calculate:\n\n$\\dfrac{P-0.36P}{P} = \\dfrac{0.64P}{P} = 0.64$\n\nTherefore, the original price has been reduced by $64\\%$ in total.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 64\\%?: Let's denote the original price of the television as $P$. After the first discount of $40\\%$, the price becomes $0.6P$ (since $100\\% - 40\\% = 60\\% = 0.6$). \n\nAfter the second discount of $40\\%$, the price becomes $0.6P \\times 0.6 = 0.36P$.\n\nTo find out the overall percentage reduction from the original price, we calculate:\n\n$\\dfrac{P-0.36P}{P} = \\dfrac{0.64P}{P} = 0.64$\n\nTherefore, the original price has been reduced by $64\\%$ in total.",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

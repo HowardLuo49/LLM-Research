@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in preschool would. ",
-    "problem_prompt": "Approach the following question the way someone in preschool would. George has an unfair six-sided die. The probability that it rolls a 6 is $\\frac{1}{2}$, and the probability that it rolls any other number is $\\frac{1}{10}$. What is the expected value of the number shown when this die is rolled? Express your answer as a decimal.",
-    "solution": "The expected value is $$\\frac{1}{10}(1) + \\frac{1}{10}(2) + \\frac{1}{10}(3) + \\frac{1}{10}(4) + \\frac{1}{10}(5) + \\frac{1}{2}(6) = \\frac{15}{10} + 3 = \\boxed{4.5}. $$",
-    "gpt_response": "Let's count the dots on the die! The side with the number 6 is the winner with a $\\frac{1}{2}$ chance. The other sides only have a $\\frac{1}{10}$ chance. Counting all the sides, we have:\n\n\n\n$6 \\times \\frac{1}{2} + (1+2+3+4+5) \\times \\frac{1}{10} = 3 + 1 = 4$\n\nSo, the expected value is 4! Yay!",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 4.5?: Let's count the dots on the die! The side with the number 6 is the winner with a $\\frac{1}{2}$ chance. The other sides only have a $\\frac{1}{10}$ chance. Counting all the sides, we have:\n\n\n\n$6 \\times \\frac{1}{2} + (1+2+3+4+5) \\times \\frac{1}{10} = 3 + 1 = 4$\n\nSo, the expected value is 4! Yay!",
-    "gpt_response_correct_incorrect": "No",
-    "yes_no": "no"
-}

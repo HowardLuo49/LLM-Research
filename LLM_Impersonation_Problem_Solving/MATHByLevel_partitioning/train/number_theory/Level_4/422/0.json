@@ -1,8 +1,0 @@
-{
-    "problem_prompt": "Your job is to consider a number theory problem, and leave a plan for the next person to solve it. The problem will be revealed one sentence at a time. You do not have the entire problem yet, thus just do whatever calcluations/planning you think will be useful for the next person. If you don't think you can make any progress, say so. The following is a portion of the entire problem, and the work/progress/message the previous person left for you. There may be errors in the provided work that was previously done and left for you, so check and fix them if necessary.\nPalindromic primes are two-digit prime numbers such that the number formed when the digits are reversed is also prime.\n",
-    "solution": "The two-digit primes less than 50 are 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, and 47. For each prime on this list whose tens digit is odd, check whether or not the number formed when the digits are reversed is also prime. (Note that if the tens digit is even, then the ``reversed'' number is even and hence not prime.) The palindromic primes less than 50 are 11, 13, 17, 31, and 37, whose sum is $\\boxed{109}$.",
-    "gpt_response": "The next number in the sequence is 11 (a palindromic prime).\nThe next number in the sequence is 101 (a palindromic prime).\nThe next number in the sequence is 131 (a palindromic prime).\nThe next number in the sequence is 151 (a palindromic prime).\nThe next number in the sequence is 181 (a palindromic prime).",
-    "solution_prompt": "Question partition not complete yet",
-    "gpt_response_correct_incorrect": "Question partition not complete yet",
-    "yes_no": "Question partition not complete yet"
-}

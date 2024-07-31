@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in elementary school would. ",
-    "problem_prompt": "Approach the following question the way someone in elementary school would. Simplify $(3-2i)^2$. (Your answer should be of the form $a+bi$.)",
-    "solution": "$(3-2i)^2 = (3-2i)(3-2i)= 3(3) + 3(-2i) -2i(3) - 2i(-2i) = 9-6i-6i -4 = \\boxed{5-12i}$.",
-    "gpt_response": "To square $(3-2i)$, we just need to multiply it by itself.\n\n$(3-2i)(3-2i) = 3(3) + 3(-2i) + (-2i)(3) + (-2i)(-2i)$\n$= 9 - 6i - 6i + 4i^2$\n$= 9 - 12i + 4(-1)$\n$= 9 - 12i - 4$\n$= 5 - 12i$\n\nSo $(3-2i)^2 = 5 - 12i$.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 5-12i?: To square $(3-2i)$, we just need to multiply it by itself.\n\n$(3-2i)(3-2i) = 3(3) + 3(-2i) + (-2i)(3) + (-2i)(-2i)$\n$= 9 - 6i - 6i + 4i^2$\n$= 9 - 12i + 4(-1)$\n$= 9 - 12i - 4$\n$= 5 - 12i$\n\nSo $(3-2i)^2 = 5 - 12i$.",
-    "gpt_response_correct_incorrect": "Yes.",
-    "yes_no": "yes"
-}

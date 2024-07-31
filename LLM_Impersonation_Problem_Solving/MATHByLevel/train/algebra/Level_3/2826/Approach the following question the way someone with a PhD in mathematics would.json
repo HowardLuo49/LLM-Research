@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
-    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. The sum of 49 consecutive integers is $7^5$. What is their median?",
-    "solution": "The sum of a set of integers is the product of the mean of the integers and the number of integers, and the median of a set of consecutive integers is the same as the mean. So the median must be $7^5/49=7^3$, or $\\boxed{343}$.",
-    "gpt_response": "Let's denote the first integer in the sequence as \\(n\\), so the consecutive integers are \\(n, n+1, n+2, ..., n+48\\). The sum of these integers can be calculated as the sum of an arithmetic series:\n\n\\[S = \\frac{n + (n+48)}{2} \\times 49 = 49n + 1176\\]\n\nGiven that \\(S = 7^5 = 16807\\), we can solve for \\(n\\):\n\n\\[49n + 1176 = 16807\\]\n\n\\[49n = 15631\\]\n\n\\[n = 319\\]\n\nTherefore, the median of this sequence of 49 consecutive integers is the central term, which is \\(\\frac{n + n + 48}{2} = \\frac{319 + 367}{2} = 343\\).",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 343?: Let's denote the first integer in the sequence as \\(n\\), so the consecutive integers are \\(n, n+1, n+2, ..., n+48\\). The sum of these integers can be calculated as the sum of an arithmetic series:\n\n\\[S = \\frac{n + (n+48)}{2} \\times 49 = 49n + 1176\\]\n\nGiven that \\(S = 7^5 = 16807\\), we can solve for \\(n\\):\n\n\\[49n + 1176 = 16807\\]\n\n\\[49n = 15631\\]\n\n\\[n = 319\\]\n\nTherefore, the median of this sequence of 49 consecutive integers is the central term, which is \\(\\frac{n + n + 48}{2} = \\frac{319 + 367}{2} = 343\\).",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

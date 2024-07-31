@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in preschool would. ",
-    "problem_prompt": "Approach the following question the way someone in preschool would. If $y = -x^2 + 5$ and $x$ is a real number, then what is the maximum value possible for $y$?",
-    "solution": "Since the square of any real number is nonnegative, the greatest possible value of $-x^2$ is 0, which is achieved when $x=0$.  Therefore, the greatest possible value of $y = -x^2 + 5$ is $\\boxed{5}$, which is achieved when $x=0$.",
-    "gpt_response": "To find the biggest number for $y$, we need to find the highest point on the graph of $y = -x^2 + 5$. That point is called the vertex! Let's imagine a sad face. The sad face is frowning because the $-x^2$ part is negative. The happy face is the $5$. Let's put the sad and happy faces together to make a graph. The highest point on the graph is where the sad face turns into a smile, so that's the maximum value for $y$. The maximum value for $y$ is WHEN $x$ IS ZERO! So the answer is $y = 5$. Yay for happiness!",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 5?: To find the biggest number for $y$, we need to find the highest point on the graph of $y = -x^2 + 5$. That point is called the vertex! Let's imagine a sad face. The sad face is frowning because the $-x^2$ part is negative. The happy face is the $5$. Let's put the sad and happy faces together to make a graph. The highest point on the graph is where the sad face turns into a smile, so that's the maximum value for $y$. The maximum value for $y$ is WHEN $x$ IS ZERO! So the answer is $y = 5$. Yay for happiness!",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

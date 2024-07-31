@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in preschool would. ",
-    "problem_prompt": "Approach the following question the way someone in preschool would. Find $h(x)$, with terms in order of decreasing degree, if  \\[9x^3-3x+1+h(x)=3x^2-5x+3.\\]",
-    "solution": "This equation is solved by \\[h(x)=(3x^2-5x+3)-(9x^3-3x+1)=\\boxed{-9x^3+3x^2-2x+2}\\]",
-    "gpt_response": "Hmm... first we have to look at the equation. There's a big number x with a little number 3 next to it, so that must mean it's the biggest number! So we know it goes first. Then there's a small x with no little number beside it, so that must be the next biggest number. Then there's just a regular number with no x with it, so that's the smallest. It seems like $\\boxed{h(x) = 9x^3 - 3x + 1}$.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to -9x^3+3x^2-2x+2?: Hmm... first we have to look at the equation. There's a big number x with a little number 3 next to it, so that must mean it's the biggest number! So we know it goes first. Then there's a small x with no little number beside it, so that must be the next biggest number. Then there's just a regular number with no x with it, so that's the smallest. It seems like $\\boxed{h(x) = 9x^3 - 3x + 1}$.",
-    "gpt_response_correct_incorrect": "No.",
-    "yes_no": "no"
-}

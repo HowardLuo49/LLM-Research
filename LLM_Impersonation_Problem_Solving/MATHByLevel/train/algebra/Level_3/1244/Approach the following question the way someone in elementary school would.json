@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in elementary school would. ",
-    "problem_prompt": "Approach the following question the way someone in elementary school would. For what real values of $a$ is the expression $\\frac{a+3}{a^2-4}$ undefined? List your answers in increasing order separated by commas.",
-    "solution": "When the denominator is 0, the expression is undefined. Therefore, we set the denominator to 0 and solve: $$a^2-4=(a-2)(a+2)=0.$$ Therefore, the expression is undefined when $a=\\boxed{-2, 2}.$",
-    "gpt_response": "To find when the expression is undefined, we need to see when the denominator $a^2-4$ is equal to zero. \n\nWhen $a^2-4=0$, we get $a^2=4$, so $a=2$ or $a=-2$.\n\nTherefore, the expression is undefined for $a=\\boxed{-2, 2}$.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to -2, 2?: To find when the expression is undefined, we need to see when the denominator $a^2-4$ is equal to zero. \n\nWhen $a^2-4=0$, we get $a^2=4$, so $a=2$ or $a=-2$.\n\nTherefore, the expression is undefined for $a=\\boxed{-2, 2}$.",
-    "gpt_response_correct_incorrect": "No",
-    "yes_no": "no"
-}

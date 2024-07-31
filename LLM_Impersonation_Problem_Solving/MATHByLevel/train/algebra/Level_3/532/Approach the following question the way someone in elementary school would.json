@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in elementary school would. ",
-    "problem_prompt": "Approach the following question the way someone in elementary school would. What is the discriminant of $3x^2 - 7x - 12$?",
-    "solution": "We simply plug into $b^2 - 4ac = (-7)^2 - 4(3)(-12) = 49 + 144 = \\boxed{193},$ and that is our answer.",
-    "gpt_response": "To find the discriminant, we need to use the formula $\\Delta = b^2 - 4ac$ where $a$ is the coefficient of $x^2$ ($3$ in this case), $b$ is the coefficient of $x$ ($-7$), and $c$ is the constant term ($-12$).\n\nPlugging in our values, we get $\\Delta = (-7)^2 - 4(3)(-12)$.\n\nThis simplifies to $\\Delta = 49 + 144$, or $\\Delta = 193$.\n\nSo, the discriminant of $3x^2 - 7x - 12$ is $193$.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 193?: To find the discriminant, we need to use the formula $\\Delta = b^2 - 4ac$ where $a$ is the coefficient of $x^2$ ($3$ in this case), $b$ is the coefficient of $x$ ($-7$), and $c$ is the constant term ($-12$).\n\nPlugging in our values, we get $\\Delta = (-7)^2 - 4(3)(-12)$.\n\nThis simplifies to $\\Delta = 49 + 144$, or $\\Delta = 193$.\n\nSo, the discriminant of $3x^2 - 7x - 12$ is $193$.",
-    "gpt_response_correct_incorrect": "Yes.",
-    "yes_no": "yes"
-}

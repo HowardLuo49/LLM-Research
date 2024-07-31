@@ -1,7 +1,0 @@
-{
-    "prefix": "You are in high school.\n",
-    "problem_prompt": "You are in high school.\n2 distinct vertices of an octagon are chosen at random.  What is the probability that they are adjacent?",
-    "solution": "After we choose the first vertex, there are 7 ways to choose the second.  There are only 2 of these that are adjacent to the first vertex, so the probability the two vertices are adjacent is $\\boxed{\\frac{2}{7}}$.",
-    "gpt_response": "ChatCompletion(id='chatcmpl-9A2dBX8EQ3YN00wQuQDNvmW8HZN7f', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='There are a total of 8 vertices in an octagon. \\n\\nWhen choosing 2 distinct vertices at random, there are 8 choose 2 = 28 possible combinations. \\n\\nOut of these combinations, there are 8 pairs of adjacent vertices in an octagon. \\n\\nTherefore, the probability that the two vertices chosen are adjacent is 8/28 = 2/7. \\n\\nSo, the probability is 2/7 that the two distinct vertices chosen at random are adjacent.', role='assistant', function_call=None, tool_calls=None))], created=1712180421, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint='fp_b28b39ffa8', usage=CompletionUsage(completion_tokens=99, prompt_tokens=35, total_tokens=134))",
-    "yes_no": "no"
-}

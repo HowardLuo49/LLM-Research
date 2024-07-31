@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in elementary school would. ",
-    "problem_prompt": "Approach the following question the way someone in elementary school would. Evaluate $\\lfloor{\\pi}\\rfloor$.",
-    "solution": "We are solving for the greatest integer that is less than or equal to $\\pi$. Since $\\pi$ is approximately $3.14$, the answer is $\\boxed{3}$.",
-    "gpt_response": "To find the answer, we need to know that the symbol $\\lfloor{\\pi}\\rfloor$ means rounding down to the nearest whole number. \n\nSince $\\pi$ is around 3.14159, the nearest whole number is 3. \n\nTherefore, $\\lfloor{\\pi}\\rfloor$ is equal to 3.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 3?: To find the answer, we need to know that the symbol $\\lfloor{\\pi}\\rfloor$ means rounding down to the nearest whole number. \n\nSince $\\pi$ is around 3.14159, the nearest whole number is 3. \n\nTherefore, $\\lfloor{\\pi}\\rfloor$ is equal to 3.",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

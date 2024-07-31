@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in preschool would. ",
-    "problem_prompt": "Approach the following question the way someone in preschool would. A rectangular room measures 12-feet by 6-feet. How many square yards of carpet are needed to cover the floor of the room?",
-    "solution": "The area of the room is $(12\\text{ ft.}) (6\\text{ ft.})=72$ square feet.  Since 1 yard equals 3 feet, 1 square yard equals 9 square feet.  Therefore, $72/9=\\boxed{8}$ square yards are needed to cover the floor.",
-    "gpt_response": "Hmm, let's see. First, we need to figure out how many square feet the room is. The room is 12 feet by 6 feet, so that's 12 x 6 = 72 square feet. \n\nNext, we need to convert that into square yards. There are 9 square feet in 1 square yard. So, to find out how many square yards we need, we divide the square feet by 9. \n\n72 square feet \u00f7 9 = 8 square yards\n\nSo, we need 8 square yards of carpet to cover the floor of the room.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 8?: Hmm, let's see. First, we need to figure out how many square feet the room is. The room is 12 feet by 6 feet, so that's 12 x 6 = 72 square feet. \n\nNext, we need to convert that into square yards. There are 9 square feet in 1 square yard. So, to find out how many square yards we need, we divide the square feet by 9. \n\n72 square feet \u00f7 9 = 8 square yards\n\nSo, we need 8 square yards of carpet to cover the floor of the room.",
-    "gpt_response_correct_incorrect": "No",
-    "yes_no": "no"
-}

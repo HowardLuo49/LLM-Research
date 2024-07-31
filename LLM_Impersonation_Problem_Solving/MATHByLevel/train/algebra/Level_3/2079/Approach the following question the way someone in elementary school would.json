@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in elementary school would. ",
-    "problem_prompt": "Approach the following question the way someone in elementary school would. Quantities $r$ and $s$ vary inversely. When $r$ is $1200,$ $s$ is $0.35.$ What is the value of $s$ when $r$ is $2400$? Express your answer as a decimal to the nearest thousandths.",
-    "solution": "Since $r$ and $s$ vary inversely, $r\\cdot s$ must be a constant.  Thus $1200\\cdot .35 = s \\cdot 2400 \\Rightarrow s = \\frac{.35}2 = \\boxed{.175}$.",
-    "gpt_response": "To find the value of $s$ when $r$ is $2400$, we can set up a proportion. \n\nSince $r$ and $s$ vary inversely, we know that $r \\cdot s$ is constant.\n\nSo, when $r$ is 1200, $s$ is 0.35. We can write this as:\n\n$1200 \\cdot 0.35 = 2400 \\cdot s$\n\nNow we can solve for $s$:\n\n$420 = 2400s$\n\nDivide both sides by 2400:\n\n$s = \\frac{420}{2400} = 0.175$\n\nTherefore, when $r$ is 2400, $s$ is 0.175.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to .175?: To find the value of $s$ when $r$ is $2400$, we can set up a proportion. \n\nSince $r$ and $s$ vary inversely, we know that $r \\cdot s$ is constant.\n\nSo, when $r$ is 1200, $s$ is 0.35. We can write this as:\n\n$1200 \\cdot 0.35 = 2400 \\cdot s$\n\nNow we can solve for $s$:\n\n$420 = 2400s$\n\nDivide both sides by 2400:\n\n$s = \\frac{420}{2400} = 0.175$\n\nTherefore, when $r$ is 2400, $s$ is 0.175.",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

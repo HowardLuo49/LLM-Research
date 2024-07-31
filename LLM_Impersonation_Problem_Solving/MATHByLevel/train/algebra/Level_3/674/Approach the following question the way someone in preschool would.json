@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in preschool would. ",
-    "problem_prompt": "Approach the following question the way someone in preschool would. If $f(x) = x^4 + x^2 + 5x$, evaluate $f(5) - f(-5)$.",
-    "solution": "Recall that if a function $f$ satisfies $f(x)=f(-x)$ for all real numbers $x$, then it is called an even function.  Similarly, if $f(x)=-f(-x)$ for all real numbers $x$, then $f$ is called an odd function.  Let's define $g(x)=x^4+x^2$ and $h(x)=5x$.  Observe that $g(x)$ is even, $h(x)$ is odd, and $f(x)=g(x)+h(x)$.  We have  \\begin{align*}\nf(5)-f(-5)&=g(5)+h(5)-g(-5)-h(-5) \\\\\n&= (g(5)-g(-5)) + h(5)-h(-5) \\\\\n&= 0 + 2h(5) \\\\\n&= 2(5(5)) \\\\\n&=\\boxed{50}.\n\\end{align*}",
-    "gpt_response": "To find $f(5)$, we plug in 5 for x in the function $f(x) = x^4 + x^2 + 5x$. So, $f(5) = 5^4 + 5^2 + 5(5) = 625 + 25 + 25 = 675$.\n\nTo find $f(-5)$, we plug in -5 for x in the function. So, $f(-5) = (-5)^4 + (-5)^2 + 5(-5) = 625 + 25 - 25 = 625$.\n\nNow, to find $f(5) - f(-5)$, we subtract $f(-5)$ from $f(5)$. So, $f(5) - f(-5) = 675 - 625 = 50$.\n\nTherefore, $f(5) - f(-5) = 50$.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 50?: To find $f(5)$, we plug in 5 for x in the function $f(x) = x^4 + x^2 + 5x$. So, $f(5) = 5^4 + 5^2 + 5(5) = 625 + 25 + 25 = 675$.\n\nTo find $f(-5)$, we plug in -5 for x in the function. So, $f(-5) = (-5)^4 + (-5)^2 + 5(-5) = 625 + 25 - 25 = 625$.\n\nNow, to find $f(5) - f(-5)$, we subtract $f(-5)$ from $f(5)$. So, $f(5) - f(-5) = 675 - 625 = 50$.\n\nTherefore, $f(5) - f(-5) = 50$.",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

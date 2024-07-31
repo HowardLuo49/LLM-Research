@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in preschool would. ",
-    "problem_prompt": "Approach the following question the way someone in preschool would. Simplify $\\sqrt{8} \\times \\sqrt{50}$.",
-    "solution": "Since a square root is an exponent of $\\frac{1}{2}$ and since exponents distribute across multiplication, we can combine the radicals. \\[\n\\sqrt{8}\\cdot \\sqrt{50}=\\sqrt{8\\cdot50}.\n\\] Now split the radicand into prime factors: $8\\cdot50=2\\cdot2\\cdot2\\cdot2\\cdot5^2=(2\\cdot2)^2\\cdot5^2$.  We find $\\sqrt{8\\cdot50}=\\sqrt{(2\\cdot2)^2\\cdot5^2}=2\\cdot2\\cdot5=\\boxed{20}$.",
-    "gpt_response": "Okay! Let's think about it like this: First, let's find the square root of 8. The square root of 8 is about 2.83. Now, let's find the square root of 50. The square root of 50 is about 7.07. Now, all we have to do is multiply 2.83 by 7.07. So, the answer is around 20! Yay!",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 20?: Okay! Let's think about it like this: First, let's find the square root of 8. The square root of 8 is about 2.83. Now, let's find the square root of 50. The square root of 50 is about 7.07. Now, all we have to do is multiply 2.83 by 7.07. So, the answer is around 20! Yay!",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

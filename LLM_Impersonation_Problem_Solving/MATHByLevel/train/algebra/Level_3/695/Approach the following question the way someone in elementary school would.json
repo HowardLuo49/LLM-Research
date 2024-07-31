@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in elementary school would. ",
-    "problem_prompt": "Approach the following question the way someone in elementary school would. Simplify $\\frac{1}{1+\\sqrt{2}}\\cdot\\frac{1}{1-\\sqrt{2}}$.",
-    "solution": "Multiplying the numerators simply yields $1$. Multiplying the denominators gives $1+\\sqrt{2} - \\sqrt{2} -2 = 1 - 2 = -1$. So, the answer is $\\frac{1}{-1} = \\boxed{-1}$.",
-    "gpt_response": "To make it easier, let's multiply the fractions together. \n\nFirst, let's multiply the numerators: $1\\cdot1=1$.\n\nNext, let's multiply the denominators: $(1+\\sqrt{2})\\cdot(1-\\sqrt{2})=1-2=-1$.\n\nNow we have $\\frac{1}{-1}$, which simplifies to $\\boxed{-1}$.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to -1?: To make it easier, let's multiply the fractions together. \n\nFirst, let's multiply the numerators: $1\\cdot1=1$.\n\nNext, let's multiply the denominators: $(1+\\sqrt{2})\\cdot(1-\\sqrt{2})=1-2=-1$.\n\nNow we have $\\frac{1}{-1}$, which simplifies to $\\boxed{-1}$.",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

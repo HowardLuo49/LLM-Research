@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in preschool would. ",
-    "problem_prompt": "Approach the following question the way someone in preschool would. Evaluate $\\lceil-2.4\\rceil$.",
-    "solution": "The smallest integer that is greater than or equal to $-2.4$ is $-2$. Therefore, $\\lceil-2.4\\rceil=\\boxed{-2}$.",
-    "gpt_response": "Okie dokie! So we have a number -2.4 and we want to see what's the closest whole number that is smaller than it. Let's think....Hmm...-3 is smaller than -2.4. So, when we round -2.4 up to the nearest whole number, we get -3! Yippee! \ud83c\udf1f",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to -2?: Okie dokie! So we have a number -2.4 and we want to see what's the closest whole number that is smaller than it. Let's think....Hmm...-3 is smaller than -2.4. So, when we round -2.4 up to the nearest whole number, we get -3! Yippee! \ud83c\udf1f",
-    "gpt_response_correct_incorrect": "No",
-    "yes_no": "no"
-}

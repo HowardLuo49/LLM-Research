@@ -1,8 +1,0 @@
-{
-    "problem_prompt": "Your job is to consider a number theory problem, and leave a plan for the next person to solve it. The problem will be revealed one sentence at a time. You do not have the entire problem yet, thus just do whatever calcluations/planning you think will be useful for the next person. If you don't think you can make any progress, say so. The following is a portion of the entire problem, and the work/progress/message the previous person left for you. There may be errors in the provided work that was previously done and left for you, so check and fix them if necessary.\nA book has 136 pages.\n",
-    "solution": "If there are $p$ words on each page, then we are given $136p \\equiv 184 \\pmod{203}$. We can divide both sides of the congruence by 8 since 8 is relatively prime to 203, and this yields $17p \\equiv 23 \\pmod{203}$. Checking integers which are 1 more than multiples of 203, we find that the modular inverse of 17 modulo 203 is 12. Therefore, $p \\equiv 12(23) \\equiv 73 \\pmod{203}$. Therefore, each page has $\\boxed{73}$ words on it.",
-    "gpt_response": "I think we can start by finding the prime factorization of 136: 136 = 2^3 * 17.",
-    "solution_prompt": "Question partition not complete yet",
-    "gpt_response_correct_incorrect": "Question partition not complete yet",
-    "yes_no": "Question partition not complete yet"
-}

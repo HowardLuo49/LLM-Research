@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in elementary school would. ",
-    "problem_prompt": "Approach the following question the way someone in elementary school would. If $y= \\frac{x^2+2x+8}{x-4}$, at what value of $x$ will there be a vertical asymptote?",
-    "solution": "A function will have a vertical asymptote where the denominator equals zero and the degree of that root is greater than the degree of the same root in the numerator.  Here, the denominator is zero at $x = 4.$  The degree of this root is 1.  The number has no root at $x = 4$ (degree 0), so there is a vertical asymptote at $x=\\boxed{4}$.",
-    "gpt_response": "To find where there will be a vertical asymptote, we need to see where the denominator of the fraction becomes zero. In this case, the denominator is $x-4$. So we need to find when $x-4 = 0$. \n\nIf we add 4 to both sides of the equation, we get $x = 4$. So the value of $x$ where there will be a vertical asymptote is 4.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 4?: To find where there will be a vertical asymptote, we need to see where the denominator of the fraction becomes zero. In this case, the denominator is $x-4$. So we need to find when $x-4 = 0$. \n\nIf we add 4 to both sides of the equation, we get $x = 4$. So the value of $x$ where there will be a vertical asymptote is 4.",
-    "gpt_response_correct_incorrect": "No",
-    "yes_no": "no"
-}

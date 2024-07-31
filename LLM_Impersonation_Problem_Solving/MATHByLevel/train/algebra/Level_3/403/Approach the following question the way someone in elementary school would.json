@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in elementary school would. ",
-    "problem_prompt": "Approach the following question the way someone in elementary school would. Solve for $r$: $$\\frac{r+3}{r-2} = \\frac{r-1}{r+1}.$$Express your answer as a fraction.",
-    "solution": "Cross-multiplying (which is the same as multiplying both sides by $r-2$ and by $r+1$) gives \\[(r+3)(r+1) = (r-1)(r-2).\\]Expanding the products on both sides gives  \\[r^2 + 3r + r + 3 = r^2 -r - 2r + 2.\\]which simplifies to $r^2 + 4r + 3 = r^2 - 3r + 2$. Subtracting $r^2$ from both sides and collecting terms gives $7r = -1$, so $r = \\boxed{-\\frac{1}{7}}$.",
-    "gpt_response": "To solve for $r$, we need to make the denominators the same. \n\nFirst, cross multiply to get rid of the fractions. This gives us $(r+3)(r+1) = (r-2)(r-1)$. \n\nNext, we expand both sides of the equation: $r^2 + 4r + 3 = r^2 -3r + 2$. \n\nNow, solve for $r$ by moving all the terms with $r$ to one side: $4r + 3 = -3r + 2$. \n\nCombine like terms to get: $7r + 3 = 2$.\n\nFinally, solve for $r$ by subtracting 3 from both sides to get $7r = -1$. \n\nTherefore, $r = -1/7$.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to -\\frac{1?: To solve for $r$, we need to make the denominators the same. \n\nFirst, cross multiply to get rid of the fractions. This gives us $(r+3)(r+1) = (r-2)(r-1)$. \n\nNext, we expand both sides of the equation: $r^2 + 4r + 3 = r^2 -3r + 2$. \n\nNow, solve for $r$ by moving all the terms with $r$ to one side: $4r + 3 = -3r + 2$. \n\nCombine like terms to get: $7r + 3 = 2$.\n\nFinally, solve for $r$ by subtracting 3 from both sides to get $7r = -1$. \n\nTherefore, $r = -1/7$.",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

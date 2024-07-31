@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in preschool would. ",
-    "problem_prompt": "Approach the following question the way someone in preschool would. Suppose that $a$ is inversely proportional to $b$.  Let $a_1,a_2$ be two nonzero values of $a$ such that $\\frac{a_1}{a_2}=\\frac{2}{3}$.  Let the corresponding $b$ values be $b_1,b_2$.  If $b_1,b_2$ are nonzero, find the value of $\\frac{b_1}{b_2}$.",
-    "solution": "If $a$ is inversely proportional to $b$, then the product $ab$ is a constant.  For $a_1$ and $a_2$ this implies: $$a_1\\cdot b_1=a_2\\cdot b_2$$We can divide both sides of this equation by $b_1\\cdot a_2$ to find: \\begin{align*}\n\\frac{a_1\\cdot b_1}{b_1\\cdot a_2}&=\\frac{a_2\\cdot b_2}{b_1\\cdot a_2}\\\\\n\\Rightarrow\\qquad \\frac{2}{3}=\\frac{a_1}{a_2}&=\\frac{b_2}{b_1}\\\\\n\\Rightarrow\\qquad \\boxed{\\frac{3}{2}}&=\\frac{b_1}{b_2}\n\\end{align*}",
-    "gpt_response": "If a is inversely proportional to b, that means when a gets bigger, b gets smaller, and when a gets smaller, b gets bigger. So if $\\frac{a_1}{a_2}=\\frac{2}{3}$, that means $a_1$ is bigger than $a_2$. \n\nSince a is inversely proportional to b, that means $b_1$ must be smaller than $b_2$ because $a_1$ is bigger than $a_2$. \n\nSo if we have $\\frac{b_1}{b_2}=\\frac{3}{2}$ because $b_1$ is smaller than $b_2$.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to \\frac{3?: If a is inversely proportional to b, that means when a gets bigger, b gets smaller, and when a gets smaller, b gets bigger. So if $\\frac{a_1}{a_2}=\\frac{2}{3}$, that means $a_1$ is bigger than $a_2$. \n\nSince a is inversely proportional to b, that means $b_1$ must be smaller than $b_2$ because $a_1$ is bigger than $a_2$. \n\nSo if we have $\\frac{b_1}{b_2}=\\frac{3}{2}$ because $b_1$ is smaller than $b_2$.",
-    "gpt_response_correct_incorrect": "No. The final solution is not equal to \\frac{3.",
-    "yes_no": "no"
-}

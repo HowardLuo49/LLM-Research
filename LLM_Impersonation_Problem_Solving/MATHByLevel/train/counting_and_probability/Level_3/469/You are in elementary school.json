@@ -1,7 +1,0 @@
-{
-    "prefix": "You are in elementary school.\n",
-    "problem_prompt": "You are in elementary school.\nHow many different positive, six-digit integers can be formed using the digits 2, 2, 5, 5, 9 and 9?",
-    "solution": "We could go ahead and count these directly, but instead we could count in general and then correct for overcounting. That is, if we had 6 distinct digits, there would be $6! = 720$ orderings. However, we must divide by 2! once for the repetition of the digit 2, 2! for the repetition of the digit 5, and again 2! for the repetition of the digit 9 (this should make sense because if the repeated digits were different then we could rearrange them in 2! ways).  So, our answer is $\\frac{6!}{2!\\cdot 2!\\cdot 2!} = \\boxed{90}$.",
-    "gpt_response": "ChatCompletion(id='chatcmpl-9A2XGYGzeMkBTACbV8grfR3WdGGcp', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='There are 6! / (2! * 2! * 2!) = 90 different positive six-digit integers that can be formed using the digits 2, 2, 5, 5, 9, and 9.', role='assistant', function_call=None, tool_calls=None))], created=1712180054, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint='fp_b28b39ffa8', usage=CompletionUsage(completion_tokens=51, prompt_tokens=45, total_tokens=96))",
-    "yes_no": "yes"
-}

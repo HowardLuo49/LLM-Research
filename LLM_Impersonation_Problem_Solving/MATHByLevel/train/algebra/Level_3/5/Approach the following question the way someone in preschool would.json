@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in preschool would. ",
-    "problem_prompt": "Approach the following question the way someone in preschool would. What is the sum of all values of $y$ for which the expression $\\frac{y+6}{y^2-5y+4}$ is undefined?",
-    "solution": "The given expression is undefined when the denominator is zero. Thus, we want to find the sum of the zeros $y$ to the quadratic $y^2-5y+4$. Since for a quadratic with the equation $ax^2+bx+c=0$, the sum of the solutions is $-b/a$, the sum of the zeros of the quadratic $y^2-5y+4$ is $5/1=\\boxed{5}$.",
-    "gpt_response": "Hmm... let's see. To find out when the expression is undefined, we have to look at the denominator, which is $y^2-5y+4$. So we need to find where that equals zero. Let's use our counting fingers! \n\nFirst, let's try to factor the denominator. If we factor it into $(y-1)(y-4)$, we see that $y$ cannot be equal to 1 or 4 because it would make the denominator zero. \n\nSo, the sum of all values of $y$ for which the expression is undefined is $1+4=\\boxed{5}$. Yay, we did it!",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 5?: Hmm... let's see. To find out when the expression is undefined, we have to look at the denominator, which is $y^2-5y+4$. So we need to find where that equals zero. Let's use our counting fingers! \n\nFirst, let's try to factor the denominator. If we factor it into $(y-1)(y-4)$, we see that $y$ cannot be equal to 1 or 4 because it would make the denominator zero. \n\nSo, the sum of all values of $y$ for which the expression is undefined is $1+4=\\boxed{5}$. Yay, we did it!",
-    "gpt_response_correct_incorrect": "No. The final solution obtained in the given explanation is not equal to 5.",
-    "yes_no": "no"
-}

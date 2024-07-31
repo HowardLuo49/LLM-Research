@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in elementary school would. ",
-    "problem_prompt": "Approach the following question the way someone in elementary school would. Find the coefficient of the $x^2$ term in the expansion of the product $(ax^3 + 3x^2 - 2x)(bx^2 - 7x - 4)$.",
-    "solution": "We only need to worry about the terms that multiply to have a degree of $2$. This would be given by the product of the terms $3x^2$ and $-4$ as well as the product of the terms $-2x$ and $-7x$. Thus, $$(3x^2) \\times (-4) + (-2x) \\times (-7x) = -12x^2 + 14x^2 = 2x^2,$$and the coefficient is $\\boxed{2}$.",
-    "gpt_response": "To find the coefficient of the $x^2$ term, we need to look at which terms will multiply together to give us $x^2$. In the first parenthesis, we have $3x^2$, and in the second parenthesis, we have $bx^2$.\n\nWhen we multiply those two terms together, we get $3x^2 \\cdot bx^2 = 3bx^4$. This means that the coefficient of the $x^2$ term in the expansion of the product is $\\boxed{0}$ because there is no term that gives us $x^2$.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 2?: To find the coefficient of the $x^2$ term, we need to look at which terms will multiply together to give us $x^2$. In the first parenthesis, we have $3x^2$, and in the second parenthesis, we have $bx^2$.\n\nWhen we multiply those two terms together, we get $3x^2 \\cdot bx^2 = 3bx^4$. This means that the coefficient of the $x^2$ term in the expansion of the product is $\\boxed{0}$ because there is no term that gives us $x^2$.",
-    "gpt_response_correct_incorrect": "No",
-    "yes_no": "no"
-}

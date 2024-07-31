@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in high school would. ",
-    "problem_prompt": "Approach the following question the way someone in high school would. Simplify $\\frac{4}{3x^{-3}} \\cdot \\frac{3x^{2}}{2}$.",
-    "solution": "First, we recognize that $\\frac{4}{3x^{-3}}$ can be rewritten as $\\frac{4x^3}{3}$. Thus, we have  \\begin{align*}\n\\frac{4}{3x^{-3}} \\cdot \\frac{3x^{2}}{2} & = \\frac{4x^3}{3} \\cdot \\frac{3x^2}{2} \\\\\n& = \\frac{(4 \\cdot 3)(x^3 \\cdot x^2)}{3 \\cdot 2} \\\\\n& = 2x^{3+2} \\\\\n& = \\boxed{2x^5}.\n\\end{align*}",
-    "gpt_response": "When we multiply fractions, we simply multiply the numerators together and the denominators together. So for this problem, we have:\n\n$\\frac{4}{3x^{-3}} \\cdot \\frac{3x^{2}}{2} $\n\nThis simplifies to:\n\n$\\frac{4 \\cdot 3x^{2}}{3x^{-3} \\cdot 2} $\n\nWhich further simplifies to:\n\n$\\frac{12x^{2}}{6x^{-3}} $\n\nWe can simplify this fraction by subtracting the exponents:\n\n$\\frac{12x^{5}}{6} $\n\nAnd finally, the answer is:\n\n$2x^{5} $",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 2x^5?: When we multiply fractions, we simply multiply the numerators together and the denominators together. So for this problem, we have:\n\n$\\frac{4}{3x^{-3}} \\cdot \\frac{3x^{2}}{2} $\n\nThis simplifies to:\n\n$\\frac{4 \\cdot 3x^{2}}{3x^{-3} \\cdot 2} $\n\nWhich further simplifies to:\n\n$\\frac{12x^{2}}{6x^{-3}} $\n\nWe can simplify this fraction by subtracting the exponents:\n\n$\\frac{12x^{5}}{6} $\n\nAnd finally, the answer is:\n\n$2x^{5} $",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in high school would. ",
-    "problem_prompt": "Approach the following question the way someone in high school would. Compute \\[\\frac{(N-1)!(N)}{(N+1)!}.\\]",
-    "solution": "Since $N!=(N-1)!(N)$, we can rewrite the given fraction as $\\frac{N!}{(N+1)!}$. We can rewrite the denominator as $(N+1)!=(N!)(N+1)$, so the fraction becomes $\\frac{N!}{(N!)(N+1)}$. Canceling an $N!$ from the numerator and denominator, we are left with $\\boxed{\\frac{1}{N+1}}$.",
-    "gpt_response": "First, let's expand the factorials. $(N-1)! = (N-1)(N-2)(N-3)...(2)(1)$ and $N! = N(N-1)(N-2)(N-3)...(2)(1)$. \n\nSo our expression becomes $\\frac{(N-1)(N-2)(N-3)...(2)(1)(N)}{N(N-1)(N-2)(N-3)...(2)(1)}$.\n\nNotice that many of the terms cancel out. We are left with $\\frac{1}{N+1}$. And that's our final answer!",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to \\frac{1?: First, let's expand the factorials. $(N-1)! = (N-1)(N-2)(N-3)...(2)(1)$ and $N! = N(N-1)(N-2)(N-3)...(2)(1)$. \n\nSo our expression becomes $\\frac{(N-1)(N-2)(N-3)...(2)(1)(N)}{N(N-1)(N-2)(N-3)...(2)(1)}$.\n\nNotice that many of the terms cancel out. We are left with $\\frac{1}{N+1}$. And that's our final answer!",
-    "gpt_response_correct_incorrect": "No",
-    "yes_no": "no"
-}

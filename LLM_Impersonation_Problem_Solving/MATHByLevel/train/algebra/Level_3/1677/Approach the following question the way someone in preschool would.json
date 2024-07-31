@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in preschool would. ",
-    "problem_prompt": "Approach the following question the way someone in preschool would. Given that $3x + y = 10$ and $x + 3y = 14$, find $10x^2 + 12xy + 10y^2$.",
-    "solution": "Note that \\begin{align*}\n10x^2 + 12xy + 10y^2 &= (9x^2 + 6xy + y^2) + (x^2 + 6xy + 9y^2) \\\\\n&= (3x + y)^2 + (x + 3y)^2 \\\\\n&= 10^2 + 14^2 = \\boxed{296}\\end{align*}.",
-    "gpt_response": "Hmm, let's see. We have two equations here. Maybe we can add or subtract them to get the answer. Let's add them together. \n\nIf we add the two equations we get: \n\n$3x + y + x + 3y = 10 + 14$\n\nThis simplifies to: \n\n$4x + 4y = 24$\n\nNow we can divide both sides by 4 to get: \n\n$x + y = 6$\n\nSo, $x + y = 6$. \n\nNow we can substitute $x + y = 6$ into the expression $10x^2 + 12xy + 10y^2$. \n\nSubstituting $x + y = 6$ into $10x^2 + 12xy + 10y^2$ gives us: \n\n$10(6)^2 + 12(6)(6) + 10(6)^2 = 360 + 432 + 360 = 1152$\n\nSo, the answer is 1152. Yay, we did it!",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 296?: Hmm, let's see. We have two equations here. Maybe we can add or subtract them to get the answer. Let's add them together. \n\nIf we add the two equations we get: \n\n$3x + y + x + 3y = 10 + 14$\n\nThis simplifies to: \n\n$4x + 4y = 24$\n\nNow we can divide both sides by 4 to get: \n\n$x + y = 6$\n\nSo, $x + y = 6$. \n\nNow we can substitute $x + y = 6$ into the expression $10x^2 + 12xy + 10y^2$. \n\nSubstituting $x + y = 6$ into $10x^2 + 12xy + 10y^2$ gives us: \n\n$10(6)^2 + 12(6)(6) + 10(6)^2 = 360 + 432 + 360 = 1152$\n\nSo, the answer is 1152. Yay, we did it!",
-    "gpt_response_correct_incorrect": "No",
-    "yes_no": "no"
-}

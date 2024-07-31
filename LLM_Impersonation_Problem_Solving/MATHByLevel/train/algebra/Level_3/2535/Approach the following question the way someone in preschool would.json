@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in preschool would. ",
-    "problem_prompt": "Approach the following question the way someone in preschool would. Factor $46x^3-115x^7.$",
-    "solution": "Since $46=2\\cdot23$ and $115=5\\cdot23$, we can factor a $23x^3$ from the expression, to get \\[46x^3-115x^7=23x^3(2-5x^4)=\\boxed{-23x^3(5x^4-2)},\\] which is our answer.",
-    "gpt_response": "Let's see how many x's we have in each part. In the first part, we have 3 x's, and in the second part, we have 7 x's. We need to look for a number that can be divided equally into 3 and 7. The biggest number that can do that is 1. So we can factor out 1x^3 from both terms. \n\nThis leaves us with 1x^3(46-115x^4). So, the factored form of 46x^3-115x^7 is x^3(46-115x^4).",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to -23x^3(5x^4-2)?: Let's see how many x's we have in each part. In the first part, we have 3 x's, and in the second part, we have 7 x's. We need to look for a number that can be divided equally into 3 and 7. The biggest number that can do that is 1. So we can factor out 1x^3 from both terms. \n\nThis leaves us with 1x^3(46-115x^4). So, the factored form of 46x^3-115x^7 is x^3(46-115x^4).",
-    "gpt_response_correct_incorrect": "No",
-    "yes_no": "no"
-}

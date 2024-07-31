@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in high school would. ",
-    "problem_prompt": "Approach the following question the way someone in high school would. Without using a calculator, compute $1003^2-997^2-1001^2+999^2$.",
-    "solution": "Applying the difference of squares factorization individually to the first pair of terms and the last pair of terms, we have  \\begin{align*}\n1003^2&-997^2-1001^2+999^2\\\\\n&= (1003+997)(1003-997)-(1001+999)(1001-999) \\\\\n&= 2000(6)-2000(2) \\\\\n&= \\boxed{8000}.\n\\end{align*}",
-    "gpt_response": "To find the answer, we can use the formula for the difference of squares.\n\nFirst, we find $1003^2-997^2 = (1003+997)(1003-997) = 2000(6) = 12000$.\n\nNext, we find $1001^2-999^2 = (1001+999)(1001-999) = 2000(2) = 4000$.\n\nFinally, we subtract the two results: $12000 - 4000 = 8000$.\n\nTherefore, $1003^2-997^2-1001^2+999^2 = 8000$.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 8000?: To find the answer, we can use the formula for the difference of squares.\n\nFirst, we find $1003^2-997^2 = (1003+997)(1003-997) = 2000(6) = 12000$.\n\nNext, we find $1001^2-999^2 = (1001+999)(1001-999) = 2000(2) = 4000$.\n\nFinally, we subtract the two results: $12000 - 4000 = 8000$.\n\nTherefore, $1003^2-997^2-1001^2+999^2 = 8000$.",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in high school would. ",
-    "problem_prompt": "Approach the following question the way someone in high school would. For what real values of $a$ is the expression $\\frac{a+3}{a^2-4}$ undefined? List your answers in increasing order separated by commas.",
-    "solution": "When the denominator is 0, the expression is undefined. Therefore, we set the denominator to 0 and solve: $$a^2-4=(a-2)(a+2)=0.$$ Therefore, the expression is undefined when $a=\\boxed{-2, 2}.$",
-    "gpt_response": "To find when the expression $\\frac{a+3}{a^2-4}$ is undefined, we need to see where the denominator, $a^2-4$, is equal to $0$. \n\nThe expression will be undefined when the denominator is equal to $0$ because division by $0$ is not allowed. \n\nSo we need to solve the equation $a^2-4=0$ for $a$.\n\n$a^2 - 4 = 0$\n$a^2 = 4$\n$a = \\pm 2$\n\nTherefore, the expression $\\frac{a+3}{a^2-4}$ is undefined when $a = -2$ or $a = 2$. \n\nSo, the real values of $a$ for which the expression is undefined are $-2, 2$. \n\nIn increasing order, the values are $-2, 2$.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to -2, 2?: To find when the expression $\\frac{a+3}{a^2-4}$ is undefined, we need to see where the denominator, $a^2-4$, is equal to $0$. \n\nThe expression will be undefined when the denominator is equal to $0$ because division by $0$ is not allowed. \n\nSo we need to solve the equation $a^2-4=0$ for $a$.\n\n$a^2 - 4 = 0$\n$a^2 = 4$\n$a = \\pm 2$\n\nTherefore, the expression $\\frac{a+3}{a^2-4}$ is undefined when $a = -2$ or $a = 2$. \n\nSo, the real values of $a$ for which the expression is undefined are $-2, 2$. \n\nIn increasing order, the values are $-2, 2$.",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

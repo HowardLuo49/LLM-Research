@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in elementary school would. ",
-    "problem_prompt": "Approach the following question the way someone in elementary school would. What is the greatest possible sum of two consecutive integers whose product is less than 400?",
-    "solution": "Let the two integers be $n$ and $n + 1,$ so $n(n + 1) < 400.$  Then the largest possible value of $n$ will be close to the square root of 400, which is $\\sqrt{400} = 20.$  For $n = 19,$ $n(n + 1) = 19 \\cdot 20 = 380,$ and for $n = 20,$ $n(n + 1) = 20 \\cdot 21 = 420,$ so the largest possible sum of two consecutive integers whose product is less than 400 is $19 + 20 = \\boxed{39}.$",
-    "gpt_response": "Let's start by listing out some pairs of consecutive integers whose product is less than 400.\n\n1 x 2 = 2\n2 x 3 = 6\n3 x 4 = 12\n4 x 5 = 20\n5 x 6 = 30\n6 x 7 = 42\n7 x 8 = 56\n8 x 9 = 72\n9 x 10 = 90\n10 x 11 = 110\n11 x 12 = 132\n12 x 13 = 156\n13 x 14 = 182\n14 x 15 = 210\n15 x 16 = 240\n16 x 17 = 272\n17 x 18 = 306\n18 x 19 = 342\n19 x 20 = 380\n\nThe greatest sum we can find from these pairs is 18 + 19 = 37. So, the greatest possible sum of two consecutive integers whose product is less than 400 is 37.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 39?: Let's start by listing out some pairs of consecutive integers whose product is less than 400.\n\n1 x 2 = 2\n2 x 3 = 6\n3 x 4 = 12\n4 x 5 = 20\n5 x 6 = 30\n6 x 7 = 42\n7 x 8 = 56\n8 x 9 = 72\n9 x 10 = 90\n10 x 11 = 110\n11 x 12 = 132\n12 x 13 = 156\n13 x 14 = 182\n14 x 15 = 210\n15 x 16 = 240\n16 x 17 = 272\n17 x 18 = 306\n18 x 19 = 342\n19 x 20 = 380\n\nThe greatest sum we can find from these pairs is 18 + 19 = 37. So, the greatest possible sum of two consecutive integers whose product is less than 400 is 37.",
-    "gpt_response_correct_incorrect": "No, the final solution obtained is 37, not 39.",
-    "yes_no": "no"
-}

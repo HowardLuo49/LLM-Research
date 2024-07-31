@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in high school would. ",
-    "problem_prompt": "Approach the following question the way someone in high school would. The solutions of $x(3x-7)=-3$ may be expressed in the form $\\frac{m+\\sqrt{n}}{p}$ and $\\frac{m-\\sqrt{n}}{p}$, where $m$, $n$, and $p$ have a greatest common divisor of 1.  Find $m+n+p$.",
-    "solution": "Distribute on the left-hand side and add 3 to both sides to obtain $3x^2-7x+3=0$.  Since it doesn't factor easily, we use the quadratic formula:  \\[\n\\frac{-b\\pm\\sqrt{b^{2}-4ac}}{2a} = \\frac{7\\pm\\sqrt{7^{2}-4 \\cdot 3 \\cdot 3}}{2\\cdot 3} = \\frac{7 \\pm\\sqrt{13}}{6}.\n\\] Since $7$, $13$, and $6$ are relatively prime, $m=7$, $n=13$, and $p=6$, so $m+n+p=7+13+6=\\boxed{26}$.",
-    "gpt_response": "First, let's expand the left side of the equation $x(3x-7)=-3$:\n$3x^2-7x=-3$\n$3x^2-7x+3=0$\n\nWe now have a quadratic equation in the form $ax^2+bx+c=0$ where $a=3$, $b=-7$, and $c=3$. We can use the quadratic formula to find the solutions:\n$x=\\frac{-(-7)\\pm\\sqrt{(-7)^2-4(3)(3)}}{2(3)}$\n$x=\\frac{7\\pm\\sqrt{49-36}}{6}$\n$x=\\frac{7\\pm\\sqrt{13}}{6}$\n\nTherefore, the solutions are $\\frac{7+\\sqrt{13}}{6}$ and $\\frac{7-\\sqrt{13}}{6}$. \n\nLastly, we add $7+13+6=\\boxed{26}$.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 26?: First, let's expand the left side of the equation $x(3x-7)=-3$:\n$3x^2-7x=-3$\n$3x^2-7x+3=0$\n\nWe now have a quadratic equation in the form $ax^2+bx+c=0$ where $a=3$, $b=-7$, and $c=3$. We can use the quadratic formula to find the solutions:\n$x=\\frac{-(-7)\\pm\\sqrt{(-7)^2-4(3)(3)}}{2(3)}$\n$x=\\frac{7\\pm\\sqrt{49-36}}{6}$\n$x=\\frac{7\\pm\\sqrt{13}}{6}$\n\nTherefore, the solutions are $\\frac{7+\\sqrt{13}}{6}$ and $\\frac{7-\\sqrt{13}}{6}$. \n\nLastly, we add $7+13+6=\\boxed{26}$.",
-    "gpt_response_correct_incorrect": "No.",
-    "yes_no": "no"
-}

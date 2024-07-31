@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in preschool would. ",
-    "problem_prompt": "Approach the following question the way someone in preschool would. If $A=4-3i$, $M=-4+i$, $S=i$, and $P=2$, find $A-M+S-P$.",
-    "solution": "Adding real parts and imaginary parts separately, we have $(4-(-4)+0-2)+(-3-1+1-0)i=\\boxed{6-3i}$.",
-    "gpt_response": "First, we need to remember that letters can stand for numbers! So let's write down what each letter stands for: \n\n$A=4-3i$, $M=-4+i$, $S=i$, and $P=2$.\n\nNow, let's substitute these numbers into the problem:\n\n$A-M+S-P = (4-3i) - (-4+i) + i - 2$. \n\nNow we have to do the math! Remember, when we subtract a negative number, it is like adding a positive number. So let's do it step by step:\n\n$(4-3i) - (-4+i) = 4-3i + 4 - i = 8 - 4i$.\n\nNow, let's add $i$ and subtract $2$:\n\n$8 - 4i + i - 2 = 6 - 3i$.\n\nSo, $A-M+S-P = 6 - 3i$. Yay! We solved the problem!",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 6-3i?: First, we need to remember that letters can stand for numbers! So let's write down what each letter stands for: \n\n$A=4-3i$, $M=-4+i$, $S=i$, and $P=2$.\n\nNow, let's substitute these numbers into the problem:\n\n$A-M+S-P = (4-3i) - (-4+i) + i - 2$. \n\nNow we have to do the math! Remember, when we subtract a negative number, it is like adding a positive number. So let's do it step by step:\n\n$(4-3i) - (-4+i) = 4-3i + 4 - i = 8 - 4i$.\n\nNow, let's add $i$ and subtract $2$:\n\n$8 - 4i + i - 2 = 6 - 3i$.\n\nSo, $A-M+S-P = 6 - 3i$. Yay! We solved the problem!",
-    "gpt_response_correct_incorrect": "Yes.",
-    "yes_no": "yes"
-}

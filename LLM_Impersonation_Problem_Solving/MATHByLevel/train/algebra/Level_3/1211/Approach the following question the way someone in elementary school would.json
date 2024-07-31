@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in elementary school would. ",
-    "problem_prompt": "Approach the following question the way someone in elementary school would. Consider the function $g(x)=3x-4$.  For what value of $a$ is $g(a)=0$?",
-    "solution": "Since $g(a) = 3a-4$, the equation $g(a)=0$ means $3a-4=0$.  Solving this equation gives $a = \\boxed{\\frac{4}{3}}$.",
-    "gpt_response": "To find what number will make $g(a)$ equal to 0, we can plug in $a$ for $x in the function $g(x) = 3x - 4$. \n\nSo, we get $g(a) = 3a - 4$. \n\nTo find what $a$ is when $g(a) = 0$, we need to solve the equation $3a - 4 = 0$. \n\nTo solve this, we need to get $a$ by itself, so we can add 4 to both sides. \n\n$3a = 4$\n\nThen we divide by 3 to find $a$. \n\n$a = \\frac{4}{3}$\n\nTherefore, when $a = \\frac{4}{3}$, $g(a) = 0$.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to \\frac{4?: To find what number will make $g(a)$ equal to 0, we can plug in $a$ for $x in the function $g(x) = 3x - 4$. \n\nSo, we get $g(a) = 3a - 4$. \n\nTo find what $a$ is when $g(a) = 0$, we need to solve the equation $3a - 4 = 0$. \n\nTo solve this, we need to get $a$ by itself, so we can add 4 to both sides. \n\n$3a = 4$\n\nThen we divide by 3 to find $a$. \n\n$a = \\frac{4}{3}$\n\nTherefore, when $a = \\frac{4}{3}$, $g(a) = 0$.",
-    "gpt_response_correct_incorrect": "No",
-    "yes_no": "no"
-}

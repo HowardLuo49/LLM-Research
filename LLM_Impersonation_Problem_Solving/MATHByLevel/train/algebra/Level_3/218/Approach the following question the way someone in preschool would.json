@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in preschool would. ",
-    "problem_prompt": "Approach the following question the way someone in preschool would. Let \\[f(x) =\n\\begin{cases}\n9x+16 &\\text{if }x<2, \\\\\n2x-14&\\text{if }x\\ge2.\n\\end{cases}\n\\]If $f(x)=-2$, find the sum of all possible values of $x$.",
-    "solution": "We begin by looking at each of the two possible cases; either $x<2$ and $f(x)=9x+16=-2$, or $x\\ge2$ and $f(x)=2x-14=-2$. Tackling the first case, we find that if $9x+16=-2$, then $x=-\\frac{18}{9}=-2$. Since this also satisfies the condition $x<2$, this is our first possible value of $x$. In the second case, we see that if $2x-14=-2$, then $x=\\frac{12}{2}=6$. Since this also satisfies the condition $x\\ge2$, this is our second possible value for $x$. The sum of these two values is just $-2+6=\\boxed{4}$.",
-    "gpt_response": "To find the sum of all possible values of $x$ when $f(x)=-2$, we need to find when $f(x)=-2$.\n\nSince $f(x) = 9x+16$ when $x < 2$ and $f(x) = 2x-14$ when $x \\geq 2$, we need to set up two equations and solve for $x$ in each case.\n\nWhen $x < 2$:\n\\[9x+16 = -2\\]\n\\[9x = -18\\]\n\\[x = -2\\]\n\nWhen $x \\geq 2$:\n\\[2x-14 = -2\\]\n\\[2x = 12\\]\n\\[x = 6\\]\n\nThe sum of all possible values of $x$ is $-2 + 6 = 4$.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 4?: To find the sum of all possible values of $x$ when $f(x)=-2$, we need to find when $f(x)=-2$.\n\nSince $f(x) = 9x+16$ when $x < 2$ and $f(x) = 2x-14$ when $x \\geq 2$, we need to set up two equations and solve for $x$ in each case.\n\nWhen $x < 2$:\n\\[9x+16 = -2\\]\n\\[9x = -18\\]\n\\[x = -2\\]\n\nWhen $x \\geq 2$:\n\\[2x-14 = -2\\]\n\\[2x = 12\\]\n\\[x = 6\\]\n\nThe sum of all possible values of $x$ is $-2 + 6 = 4$.",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

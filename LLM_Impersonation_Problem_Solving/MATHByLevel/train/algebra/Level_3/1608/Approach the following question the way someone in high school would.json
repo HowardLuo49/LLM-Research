@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in high school would. ",
-    "problem_prompt": "Approach the following question the way someone in high school would. Find all solutions to the equation $\\sqrt{5+2z} = 11$.",
-    "solution": "We square both sides to get rid of the square root sign.  This gives us $5+2z = 121$.  Solving for $z$ gives $z = \\boxed{58}$.  We squared an equation, so we have to test our solution to make sure it isn't extraneous.  We have\n\\[\\sqrt{5 +2 \\cdot 58} =\\sqrt{121} = 11\\]so our solution is valid.",
-    "gpt_response": "To find all solutions to the equation $\\sqrt{5+2z} = 11$, we need to isolate $z$ by getting rid of the square root. \n\nFirst, square both sides of the equation to get rid of the square root:\n\n$(\\sqrt{5+2z})^2 = 11^2$\n\n$5+2z = 121$\n\nNow, subtract 5 from both sides:\n\n$2z = 116$\n\nFinally, divide by 2 to solve for $z$:\n\n$z = 58$\n\nTherefore, the solution to the equation is $z = 58$.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 58?: To find all solutions to the equation $\\sqrt{5+2z} = 11$, we need to isolate $z$ by getting rid of the square root. \n\nFirst, square both sides of the equation to get rid of the square root:\n\n$(\\sqrt{5+2z})^2 = 11^2$\n\n$5+2z = 121$\n\nNow, subtract 5 from both sides:\n\n$2z = 116$\n\nFinally, divide by 2 to solve for $z$:\n\n$z = 58$\n\nTherefore, the solution to the equation is $z = 58$.",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

@@ -1,8 +1,0 @@
-{
-    "problem_prompt": "Your job is to consider a number theory problem, and leave a plan for the next person to solve it. The problem will be revealed one sentence at a time. You do not have the entire problem yet, thus just do whatever calcluations/planning you think will be useful for the next person. If you don't think you can make any progress, say so. The following is a portion of the entire problem, and the work/progress/message the previous person left for you. There may be errors in the provided work that was previously done and left for you, so check and fix them if necessary.\nThe time right now is exactly midnight.\n",
-    "solution": "There are $60$ minutes in an hour. When $1234$ is divided by $60$, you get $20$ with a remainder of $34$. Therefore, the time in $1234$ minutes will be $\\boxed{20\\!:\\!34}$ or $\\boxed{8\\!:\\!34 \\text{ p.m.}}$.",
-    "gpt_response": "To solve the problem, I will first need to consider the prime factorization of the number given.",
-    "solution_prompt": "Question partition not complete yet",
-    "gpt_response_correct_incorrect": "Question partition not complete yet",
-    "yes_no": "Question partition not complete yet"
-}

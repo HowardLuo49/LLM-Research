@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in preschool would. ",
-    "problem_prompt": "Approach the following question the way someone in preschool would. The Cookie Monster encounters a cookie whose boundary is the equation $x^2+y^2 + 21 = 4x + 18 y$ and is very confused. He wants to know if this cookie is a lunch-sized cookie or a snack-sized cookie. What is the radius of this cookie?",
-    "solution": "The equation $x^2+y^2+21=4x+18y$ can be rewritten as $x^2-4x+y^2-18y=-21$. Completing the square, this can further be rewritten as $(x-2)^2-4+(y-9)^2-81=-21$. Moving the constants to the right side of the equation, this is $(x-2)^2+(y-9)^2=64$, which is the equation of a circle with center $(2,9)$ and radius $\\boxed{8}$.",
-    "gpt_response": "Cookie Monster, our friendly blue monster friend, we have a fun math problem for you to solve! Imagine this cookie as a circle on a piece of paper. The equation given, $x^2+y^2 + 21 = 4x + 18 y$, helps us find the radius of the circle. To find the radius, we need to rearrange the equation to look like the equation for a circle, which is $(x-a)^2 + (y-b)^2 = r^2$. Can you help us find the radius, Cookie Monster?",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 8?: Cookie Monster, our friendly blue monster friend, we have a fun math problem for you to solve! Imagine this cookie as a circle on a piece of paper. The equation given, $x^2+y^2 + 21 = 4x + 18 y$, helps us find the radius of the circle. To find the radius, we need to rearrange the equation to look like the equation for a circle, which is $(x-a)^2 + (y-b)^2 = r^2$. Can you help us find the radius, Cookie Monster?",
-    "gpt_response_correct_incorrect": "No.",
-    "yes_no": "no"
-}

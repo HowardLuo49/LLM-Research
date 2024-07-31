@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in elementary school would. ",
-    "problem_prompt": "Approach the following question the way someone in elementary school would. How many ways are there to put 4 indistinguishable balls into 2 indistinguishable boxes?",
-    "solution": "In this problem, we only need to count the number of ways to split 4 items into two groups.  There are only 3 ways: $\\{4,0\\}$, $\\{3,1\\}$ and $\\{2,2\\}$.  Therefore, there are only $\\boxed{3}$ ways to put 4 indistinguishable balls in 2 indistinguishable boxes.",
-    "gpt_response": "Let's think about it like this, you have 4 balls and 2 boxes. You can put all 4 balls in one box or you can put 3 balls in one box and 1 ball in the other box. So there are 2 ways to put the balls into the boxes!",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 3?: Let's think about it like this, you have 4 balls and 2 boxes. You can put all 4 balls in one box or you can put 3 balls in one box and 1 ball in the other box. So there are 2 ways to put the balls into the boxes!",
-    "gpt_response_correct_incorrect": "No",
-    "yes_no": "no"
-}

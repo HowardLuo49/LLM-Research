@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
-    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. Let \\[f(x) =\n\\begin{cases}\n9x+4 &\\text{if }x\\text{ is an integer}, \\\\\n\\lfloor{x}\\rfloor+5 &\\text{if }x\\text{ is not an integer}.\n\\end{cases}\n\\]Find $f(\\sqrt{29})$.",
-    "solution": "Since 29 is not a perfect square, we know that $\\sqrt{29}$ cannot equal an integer. Therefore, $f(\\sqrt{29})=\\lfloor\\sqrt{29}\\rfloor+5=5+5=\\boxed{10}$.",
-    "gpt_response": "To find $f(\\sqrt{29})$, we first note that $\\sqrt{29}$ is not an integer. Therefore, we use the second case of the definition of $f(x)$.\n\nSince $\\sqrt{29}$ is not an integer, $f(\\sqrt{29}) = \\lfloor{\\sqrt{29}}\\rfloor + 5$.\n\nNow, we find the greatest integer less than or equal to $\\sqrt{29}$. Since $\\sqrt{25} = 5 < \\sqrt{29} < \\sqrt{36} = 6$, we have $\\lfloor{\\sqrt{29}}\\rfloor = 5$.\n\nTherefore, $f(\\sqrt{29}) = 5 + 5 = \\boxed{10}$.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 10?: To find $f(\\sqrt{29})$, we first note that $\\sqrt{29}$ is not an integer. Therefore, we use the second case of the definition of $f(x)$.\n\nSince $\\sqrt{29}$ is not an integer, $f(\\sqrt{29}) = \\lfloor{\\sqrt{29}}\\rfloor + 5$.\n\nNow, we find the greatest integer less than or equal to $\\sqrt{29}$. Since $\\sqrt{25} = 5 < \\sqrt{29} < \\sqrt{36} = 6$, we have $\\lfloor{\\sqrt{29}}\\rfloor = 5$.\n\nTherefore, $f(\\sqrt{29}) = 5 + 5 = \\boxed{10}$.",
-    "gpt_response_correct_incorrect": "Yes.",
-    "yes_no": "yes"
-}

@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in preschool would. ",
-    "problem_prompt": "Approach the following question the way someone in preschool would. Mahmoud tosses three coins. What is the probability that he will get at least one head?",
-    "solution": "We compute the probability that Mahmoud flips three tails and subtract from 1. The probability that Mahmoud flips one tail with one coin is $\\frac{1}{2}$, so the probability that he flips three tails is $\\left(\\frac{1}{2}\\right)^3 = \\frac{1}{8}$. The probability that he gets at least one head is $1- \\frac{1}{8}= \\boxed{\\frac{7}{8}}$.",
-    "gpt_response": "Mahmoud toss three coins! Will Mahmoud get at least one head? Let's see! One, two, three... Yay! Mahmoud got at least one head! Good job, Mahmoud!",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to \\frac{7?: Mahmoud toss three coins! Will Mahmoud get at least one head? Let's see! One, two, three... Yay! Mahmoud got at least one head! Good job, Mahmoud!",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

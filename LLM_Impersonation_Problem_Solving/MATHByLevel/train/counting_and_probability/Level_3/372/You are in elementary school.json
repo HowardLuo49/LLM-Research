@@ -1,7 +1,0 @@
-{
-    "prefix": "You are in elementary school.\n",
-    "problem_prompt": "You are in elementary school.\nCara is sitting at a circular table with her five friends as shown below. How many different possible pairs of people could Cara be sitting between?\n\n[asy]\ndraw(circle((0,0),1));\nlabel(\"$\\_$\",1.5dir(0));\nlabel(\"$\\_$\",1.5dir(60));\nlabel(\"Cara\",1.5dir(120));\nlabel(\"$\\_$\",1.5dir(180));\nlabel(\"$\\_$\",1.5dir(240));\nlabel(\"$\\_$\",1.5dir(300));\n[/asy]",
-    "solution": "The number of pairs of neighbors for Cara actually has nothing to do with the shape of the table she is sitting at. That is, all that matters is that she has 5 friends and two of them will be her neighbors. There are ${5 \\choose 2} = \\boxed{10}$ pairs of friends that she can thus sit between.",
-    "gpt_response": "ChatCompletion(id='chatcmpl-9A2eqtQPeKfYvxKcwXD6Qz3yCQpw2', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='Cara can be sitting between any two of her friends, so there are ${5 \\\\choose 2} = 10$ different possible pairs of people that she could be sitting between.', role='assistant', function_call=None, tool_calls=None))], created=1712180524, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint='fp_b28b39ffa8', usage=CompletionUsage(completion_tokens=38, prompt_tokens=129, total_tokens=167))",
-    "yes_no": "no"
-}

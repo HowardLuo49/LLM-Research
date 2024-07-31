@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in elementary school would. ",
-    "problem_prompt": "Approach the following question the way someone in elementary school would. Factor $9y^2-30y+25$.",
-    "solution": "The quadratic is the square of $3y$,  the constant term is the square of $-5$, and the linear term equals $2(3y)(-5)$, so we have $9y^2 -30y + 25 = \\boxed{(3y - 5)^2}$.",
-    "gpt_response": "To factor $9y^2-30y+25\", we need to find two numbers that multiply to $9*y^2 (which is 9y^2), and add up to the middle term, which is -30y. \n\nThe two numbers are -15 and -15, because -15 times -15 equals 9*y^2, and -15 plus -15 equals -30.\n\nNow we can rewrite the middle term using -15 and -15: $9y^2-15y-15y+25$.\n\nNext, we group the terms: $(9y^2-15y) + (-15y + 25)$.\n\nNow we can factor out the greatest common factor from each group: $3y(3y-5) - 5(3y-5)$.\n\nFinally, we can factor out the binomial common factor of $3y-5$: $(3y-5)(3y-5)$ or $(3y-5)^2$.\n\nSo, our final answer is $(3y-5)^2$.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to (3y - 5)^2?: To factor $9y^2-30y+25\", we need to find two numbers that multiply to $9*y^2 (which is 9y^2), and add up to the middle term, which is -30y. \n\nThe two numbers are -15 and -15, because -15 times -15 equals 9*y^2, and -15 plus -15 equals -30.\n\nNow we can rewrite the middle term using -15 and -15: $9y^2-15y-15y+25$.\n\nNext, we group the terms: $(9y^2-15y) + (-15y + 25)$.\n\nNow we can factor out the greatest common factor from each group: $3y(3y-5) - 5(3y-5)$.\n\nFinally, we can factor out the binomial common factor of $3y-5$: $(3y-5)(3y-5)$ or $(3y-5)^2$.\n\nSo, our final answer is $(3y-5)^2$.",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

@@ -1,7 +1,0 @@
-{
-    "prefix": "You have a PhD in mathematics.\n",
-    "problem_prompt": "You have a PhD in mathematics.\nOur school's girls volleyball team has 14 players, including a set of 3 triplets: Alicia, Amanda, and Anna.  In how many ways can we choose 6 starters if all three triplets are in the starting lineup?",
-    "solution": "If all triplets are in the starting lineup, we are choosing the 3 remaining starters from 11 players, which can be done in  $\\binom{11}{3} = \\boxed{165}$ ways.",
-    "gpt_response": "ChatCompletion(id='chatcmpl-9A2pmCmIKRxzQUy7Bj5W6srDLZ4xF', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='If all three triplets are in the starting lineup, we have essentially reduced the problem to choosing 3 more players from the remaining 11 non-triplet players. \\n\\nThe number of ways to choose 3 players from 11 is given by the combination formula C(11, 3) = 165.\\n\\nTherefore, the total number of ways to choose 6 starters if all three triplets are in the starting lineup is 165.', role='assistant', function_call=None, tool_calls=None))], created=1712181202, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint='fp_b28b39ffa8', usage=CompletionUsage(completion_tokens=90, prompt_tokens=63, total_tokens=153))",
-    "yes_no": "yes"
-}

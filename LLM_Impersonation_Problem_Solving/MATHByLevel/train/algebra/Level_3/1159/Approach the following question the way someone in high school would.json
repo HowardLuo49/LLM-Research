@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in high school would. ",
-    "problem_prompt": "Approach the following question the way someone in high school would. Evaluate $\\left\\lceil-\\sqrt{\\frac{49}{4}}\\right\\rceil$.",
-    "solution": "Since $-\\sqrt{\\frac{49}{4}}$ is equal to $-\\frac{7}{2}$, the smallest integer greater than $-\\frac{7}{2}$ is $\\boxed{-3}$.",
-    "gpt_response": "To evaluate $\\left\\lceil-\\sqrt{\\frac{49}{4}}\\right\\rceil$, we first need to find the value of $-\\sqrt{\\frac{49}{4}}$. \n\n$-\\sqrt{\\frac{49}{4}}$ is equal to $-\\frac{7}{2}$ since the square root of 49 is 7 and the square root of 4 is 2. \n\nNext, we need to find the smallest integer that is greater than or equal to $-\\frac{7}{2}$. This integer is $-3$.\n\nTherefore, $\\left\\lceil-\\sqrt{\\frac{49}{4}}\\right\\rceil$ is equal to $-3$.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to -3?: To evaluate $\\left\\lceil-\\sqrt{\\frac{49}{4}}\\right\\rceil$, we first need to find the value of $-\\sqrt{\\frac{49}{4}}$. \n\n$-\\sqrt{\\frac{49}{4}}$ is equal to $-\\frac{7}{2}$ since the square root of 49 is 7 and the square root of 4 is 2. \n\nNext, we need to find the smallest integer that is greater than or equal to $-\\frac{7}{2}$. This integer is $-3$.\n\nTherefore, $\\left\\lceil-\\sqrt{\\frac{49}{4}}\\right\\rceil$ is equal to $-3$.",
-    "gpt_response_correct_incorrect": "Yes.",
-    "yes_no": "yes"
-}

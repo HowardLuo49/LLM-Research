@@ -1,8 +1,0 @@
-{
-    "problem_prompt": "Your job is to consider a number theory problem, and leave a plan for the next person to solve it. The problem will be revealed one sentence at a time. You do not have the entire problem yet, thus just do whatever calcluations/planning you think will be useful for the next person. If you don't think you can make any progress, say so. The following is a portion of the entire problem, and the work/progress/message the previous person left for you. There may be errors in the provided work that was previously done and left for you, so check and fix them if necessary.\nJo is thinking of a positive integer less than 100.\n",
-    "solution": "Let $n$ be the greatest possible integer Jo could be thinking of. We know $n<100$ and $n=8k-1=7l-3$ for some positive integers $k$ and $l$. From this we see that $7l=8k+2=2(4k+1)$, so $7l$ is a multiple of 14. List some multiples of 14, in decreasing order: 112, 98, 84, 70, .... Since $n<100$, 112 is too large, but 98 works: $7k=98\\Rightarrow n=98-3=95=8(12)-1$. Thus, $n=\\boxed{95}$.",
-    "gpt_response": "Previous work/message: Let's start by considering the factors of the number Jo is thinking of.\n\nNext steps:\n1. Calculate the factors of all numbers less than 100.\n2. Create a list of common factors among these numbers.\n3. Compare the common factors with the list of prime numbers less than 100.\n4. See if there are any patterns or relationships between the factors and prime numbers that can help determine the number Jo is thinking of.",
-    "solution_prompt": "Question partition not complete yet",
-    "gpt_response_correct_incorrect": "Question partition not complete yet",
-    "yes_no": "Question partition not complete yet"
-}

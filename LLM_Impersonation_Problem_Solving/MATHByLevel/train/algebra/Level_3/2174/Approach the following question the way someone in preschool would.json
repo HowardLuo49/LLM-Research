@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in preschool would. ",
-    "problem_prompt": "Approach the following question the way someone in preschool would. Solve for $x$: $\\frac{6x^2 + 111x +1}{2x+37} = 3x + 1$.",
-    "solution": "Multiplying both sides by $2x+37$ gives  \\begin{align*}\n6x^2 + 111x + 1 &= (2x+37)(3x+1)\\\\\n&=2x(3x+1) + 37(3x+1)\\\\\n&= 6x^2 + 2x + 111x + 37\\\\\n&= 6x^2 +113x + 37\n\\end{align*}So, we have \\[6x^2 + 111x + 1 = 6x^2+ 113x + 37.\\]Subtracting $6x^2$ from both sides gives $111x+1 = 113x + 37$.  Rearranging this equation gives $2x = -36$, from which we find $x = \\boxed{-18}$.",
-    "gpt_response": "First, let's look at the numbers and the shapes on the page. Count with me: 1, 2, 3, 4, 5, 6! I see a 6! Let's find another number that is the same.\n\nLet's look at the letters, too! There's some \"x\"s here. Let's see if we can find the same one. \n\nOh, maybe we can split the numbers and shapes in half. Let's try that! We have a 6x^2 + 111x + 1 and a 2x + 37. Let's see if we can split those into two parts.\n\nHmm, this is getting tricky! Maybe we need some help from a bigger friend to solve this one. Let's ask for help!",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to -18?: First, let's look at the numbers and the shapes on the page. Count with me: 1, 2, 3, 4, 5, 6! I see a 6! Let's find another number that is the same.\n\nLet's look at the letters, too! There's some \"x\"s here. Let's see if we can find the same one. \n\nOh, maybe we can split the numbers and shapes in half. Let's try that! We have a 6x^2 + 111x + 1 and a 2x + 37. Let's see if we can split those into two parts.\n\nHmm, this is getting tricky! Maybe we need some help from a bigger friend to solve this one. Let's ask for help!",
-    "gpt_response_correct_incorrect": "No, the final solution obtained in the given text is not -18.",
-    "yes_no": "no"
-}

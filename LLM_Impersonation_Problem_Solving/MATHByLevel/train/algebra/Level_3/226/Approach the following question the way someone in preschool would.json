@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in preschool would. ",
-    "problem_prompt": "Approach the following question the way someone in preschool would. The two lines $y = 4x - 19$ and $2x+y = 95$ intersect. What is the value of $x$ at the point of intersection?",
-    "solution": "At the intersection of two lines, the $x$'s are equal and the $y$'s are equal. We may set $4x - 19 = 95 - 2x$ to find an $x$, where the $y$'s are equal.\n\n\\begin{align*}\n4x - 19 &= 95 - 2x \\\\\n6x &= 114 \\\\\nx &= \\boxed{19}.\n\\end{align*}",
-    "gpt_response": "To find where the two lines meet, we need to draw them on a piece of paper. Then we can count how many steps we need to take to get to the point where they cross. So let's start by drawing the two lines and finding the point where they meet. Then we can count how many steps it takes to get to that point.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 19?: To find where the two lines meet, we need to draw them on a piece of paper. Then we can count how many steps we need to take to get to the point where they cross. So let's start by drawing the two lines and finding the point where they meet. Then we can count how many steps it takes to get to that point.",
-    "gpt_response_correct_incorrect": "The given information does not provide enough context to determine if the final solution is 19 or not.",
-    "yes_no": "no"
-}

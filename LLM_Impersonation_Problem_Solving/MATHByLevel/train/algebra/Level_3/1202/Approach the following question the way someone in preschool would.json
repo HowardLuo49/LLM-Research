@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in preschool would. ",
-    "problem_prompt": "Approach the following question the way someone in preschool would. Evaluate $\\lfloor{\\pi}\\rfloor$.",
-    "solution": "We are solving for the greatest integer that is less than or equal to $\\pi$. Since $\\pi$ is approximately $3.14$, the answer is $\\boxed{3}$.",
-    "gpt_response": "Hi there! Let's look at this problem together. The symbol $\\lfloor{\\pi}\\rfloor$ means we need to find the greatest whole number that is less than or equal to the number $\\pi$. So, $\\pi$ is about 3.14159... and the greatest whole number less than or equal to it is 3! Yay, we did it! The answer is $\\lfloor{\\pi}\\rfloor = 3$. Great job!",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 3?: Hi there! Let's look at this problem together. The symbol $\\lfloor{\\pi}\\rfloor$ means we need to find the greatest whole number that is less than or equal to the number $\\pi$. So, $\\pi$ is about 3.14159... and the greatest whole number less than or equal to it is 3! Yay, we did it! The answer is $\\lfloor{\\pi}\\rfloor = 3$. Great job!",
-    "gpt_response_correct_incorrect": "No.",
-    "yes_no": "no"
-}

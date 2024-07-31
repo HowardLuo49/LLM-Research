@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in preschool would. ",
-    "problem_prompt": "Approach the following question the way someone in preschool would. The domain of the equation $y = \\frac{3x}{2x^2 - 6x + 4}$ is the set of all real numbers with the exception of the values $x = A$ and $x = B$. What is $A + B$?",
-    "solution": "The equation is well-defined unless the denominator of the given expression is equal to $0$, that is $2x^2 - 6x + 4 = 0$. Factoring, $2(x-1)(x-2) = 0 \\Longrightarrow x = 1,2$. Hence, $A+B = \\boxed{3}$.\n\n(We can also use Vieta's formulas, which states that the sum of the roots of the equation $ax^2 + bx + c = 0$ is $-b/a$.)",
-    "gpt_response": "Ooh, let's see! The equation has some numbers that x can't be. That's okay! We can figure it out by looking at the equation. Hmm, let's try some numbers for x and see where it doesn't work.\n\nLet's do some exploring and see what happens! Let's remember that x can't be A or B. Let's try to figure it out! Let's have fun and solve this together!",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 3?: Ooh, let's see! The equation has some numbers that x can't be. That's okay! We can figure it out by looking at the equation. Hmm, let's try some numbers for x and see where it doesn't work.\n\nLet's do some exploring and see what happens! Let's remember that x can't be A or B. Let's try to figure it out! Let's have fun and solve this together!",
-    "gpt_response_correct_incorrect": "Without knowing the specific equation or values of A and B mentioned in the prompt, it is impossible to determine if the final solution obtained is equal to 3.",
-    "yes_no": "no"
-}

@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in preschool would. ",
-    "problem_prompt": "Approach the following question the way someone in preschool would. A line contains the points $(-1, 6)$, $(6, k)$ and $(20, 3)$. What is the value of $k$?",
-    "solution": "The slope between the first two points must be the same as the slope between the second two points, because all three points lie on the same line. We thus have the equation $\\frac{k-6}{6-(-1)}=\\frac{3-k}{20-6}$. Solving for $k$ yields $k=\\boxed{5}$.",
-    "gpt_response": "First, let's draw a line on our paper and mark the points $(-1, 6)$, $(6, k)$, and $(20, 3)$. \nNow, let's look at the point $(6, k)$. We know that this point is on the line, so it must follow the same pattern as the other points. The first point goes down by 3, the second point goes down by some amount (which we don't know yet), so the third point should also go down by 3. Therefore, $k=6-3=3$. So, the value of $k$ is 3.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 5?: First, let's draw a line on our paper and mark the points $(-1, 6)$, $(6, k)$, and $(20, 3)$. \nNow, let's look at the point $(6, k)$. We know that this point is on the line, so it must follow the same pattern as the other points. The first point goes down by 3, the second point goes down by some amount (which we don't know yet), so the third point should also go down by 3. Therefore, $k=6-3=3$. So, the value of $k$ is 3.",
-    "gpt_response_correct_incorrect": "No. The final solution obtained is the value of $k$, which is 3.",
-    "yes_no": "no"
-}

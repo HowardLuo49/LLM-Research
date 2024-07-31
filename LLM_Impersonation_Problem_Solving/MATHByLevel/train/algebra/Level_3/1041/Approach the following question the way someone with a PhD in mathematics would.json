@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
-    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. If $(x+2)(x-3)=14$, find the sum of the possible values of $x$.",
-    "solution": "Expanding the left side of the given equation, we have $x^2-x-6=14 \\Rightarrow x^2-x-20=0$. Since in a quadratic  with equation of the form $ax^2+bx+c=0$ the sum of the roots is $-b/a$, the sum of the roots of the given equation is $1/1=\\boxed{1}$.",
-    "gpt_response": "To find the sum of the possible values of $x$, we first expand the left-hand side of the equation $(x+2)(x-3)$ to get $x^2-x-6$.\n\nTherefore, our equation becomes $x^2-x-6=14$.\n\nBy rearranging terms, we get $x^2-x-20=0$.\n\nTo find the possible values of $x, we can use the quadratic formula: \n\n$x = \\frac{-(-1) \\pm \\sqrt{(-1)^2 - 4(1)(-20)}}{2(1)}$\n\n$x = \\frac{1 \\pm \\sqrt{1 + 80}}{2}$\n\n$x = \\frac{1 \\pm \\sqrt{81}}{2}$\n\n$x = \\frac{1 \\pm 9}{2}$\n\nThus, $x = \\frac{10}{2} = 5$ or $x = \\frac{-8}{2} = -4$.\n\nTherefore, the sum of the possible values of $x$ is $5 + (-4) = 1$.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 1?: To find the sum of the possible values of $x$, we first expand the left-hand side of the equation $(x+2)(x-3)$ to get $x^2-x-6$.\n\nTherefore, our equation becomes $x^2-x-6=14$.\n\nBy rearranging terms, we get $x^2-x-20=0$.\n\nTo find the possible values of $x, we can use the quadratic formula: \n\n$x = \\frac{-(-1) \\pm \\sqrt{(-1)^2 - 4(1)(-20)}}{2(1)}$\n\n$x = \\frac{1 \\pm \\sqrt{1 + 80}}{2}$\n\n$x = \\frac{1 \\pm \\sqrt{81}}{2}$\n\n$x = \\frac{1 \\pm 9}{2}$\n\nThus, $x = \\frac{10}{2} = 5$ or $x = \\frac{-8}{2} = -4$.\n\nTherefore, the sum of the possible values of $x$ is $5 + (-4) = 1$.",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in high school would. ",
-    "problem_prompt": "Approach the following question the way someone in high school would. The greatest integer function of $x$ is expressed as $[x]$ and is defined to be the greatest integer less than or equal to $x$. Find $[\\pi - 4]$",
-    "solution": "Because $\\pi$ is greater than $3$ but less than $4$,\n\n$-1<\\pi - 4<0$.  Therefore, $[\\pi - 4]$ is $\\boxed{-1}$",
-    "gpt_response": "To find $[\\pi - 4]$, we need to find the greatest integer less than or equal to $\\pi - 4$. Since $\\pi$ is approximately 3.14159, we have $\\pi - 4 \\approx -0.85841$. \n\nThe greatest integer less than or equal to $-0.85841$ is $-1$, so $[\\pi - 4] = -1$. \n\nTherefore, $[\\pi - 4] = -1$.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to -1?: To find $[\\pi - 4]$, we need to find the greatest integer less than or equal to $\\pi - 4$. Since $\\pi$ is approximately 3.14159, we have $\\pi - 4 \\approx -0.85841$. \n\nThe greatest integer less than or equal to $-0.85841$ is $-1$, so $[\\pi - 4] = -1$. \n\nTherefore, $[\\pi - 4] = -1$.",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

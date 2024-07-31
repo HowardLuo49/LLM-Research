@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in elementary school would. ",
-    "problem_prompt": "Approach the following question the way someone in elementary school would. If three coins are tossed at the same time, what is the probability of getting two tails and one head? Express your answer as a common fraction.",
-    "solution": "The probability of getting two tails followed by one head is $\\left(\\frac{1}{2}\\right)^3=\\frac{1}{8}$.  The probability of getting a tail followed by a head followed by a tail is also $\\left(\\frac{1}{2}\\right)^3=\\frac{1}{8}$.  Finally, the probability of getting a head followed by two tails is $\\left(\\frac{1}{2}\\right)^3=\\frac{1}{8}$ as well.  In total, the probability of getting two tails and one head is $\\frac{1}{8}+\\frac{1}{8}+\\frac{1}{8}=\\boxed{\\frac{3}{8}}$.",
-    "gpt_response": "To find the probability of getting two tails and one head when three coins are tossed, we need to see how many different outcomes are possible. \n\nThere are 8 possible outcomes when three coins are tossed (HHH, HHT, HTH, THH, HTT, THT, TTH, TTT). \n\nOut of these 8 outcomes, there are 3 outcomes where we get two tails and one head (HTT, THT, TTH). \n\nSo, the probability of getting two tails and one head when three coins are tossed is 3/8.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to \\frac{3?: To find the probability of getting two tails and one head when three coins are tossed, we need to see how many different outcomes are possible. \n\nThere are 8 possible outcomes when three coins are tossed (HHH, HHT, HTH, THH, HTT, THT, TTH, TTT). \n\nOut of these 8 outcomes, there are 3 outcomes where we get two tails and one head (HTT, THT, TTH). \n\nSo, the probability of getting two tails and one head when three coins are tossed is 3/8.",
-    "gpt_response_correct_incorrect": "No",
-    "yes_no": "no"
-}

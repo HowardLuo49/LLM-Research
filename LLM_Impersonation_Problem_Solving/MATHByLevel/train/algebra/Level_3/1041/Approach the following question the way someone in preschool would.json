@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in preschool would. ",
-    "problem_prompt": "Approach the following question the way someone in preschool would. If $(x+2)(x-3)=14$, find the sum of the possible values of $x$.",
-    "solution": "Expanding the left side of the given equation, we have $x^2-x-6=14 \\Rightarrow x^2-x-20=0$. Since in a quadratic  with equation of the form $ax^2+bx+c=0$ the sum of the roots is $-b/a$, the sum of the roots of the given equation is $1/1=\\boxed{1}$.",
-    "gpt_response": "If we have two groups of numbers, one with $x+2$ and one with $x-3$, and we put them together, we get 14! Let's see if we can figure out what numbers go in each group to make that happen. Let's see... maybe if we try putting 5 in the first group and 2 in the second group, it will work. Let's check! \n\n$(5+2)(5-3)=7\\cdot 2=14$! It works! So one possible value of $x$ is 5, which means the other possible value is 2. \n\nNow let's add them up to find the sum. 5 + 2 = 7. So, the sum of the possible values of $x$ is 7! Yay, we did it!",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 1?: If we have two groups of numbers, one with $x+2$ and one with $x-3$, and we put them together, we get 14! Let's see if we can figure out what numbers go in each group to make that happen. Let's see... maybe if we try putting 5 in the first group and 2 in the second group, it will work. Let's check! \n\n$(5+2)(5-3)=7\\cdot 2=14$! It works! So one possible value of $x$ is 5, which means the other possible value is 2. \n\nNow let's add them up to find the sum. 5 + 2 = 7. So, the sum of the possible values of $x$ is 7! Yay, we did it!",
-    "gpt_response_correct_incorrect": "No. The sum of the possible values of x is 7, not 1.",
-    "yes_no": "no"
-}

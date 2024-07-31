@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in high school would. ",
-    "problem_prompt": "Approach the following question the way someone in high school would. Factor $9y^2-30y+25$.",
-    "solution": "The quadratic is the square of $3y$,  the constant term is the square of $-5$, and the linear term equals $2(3y)(-5)$, so we have $9y^2 -30y + 25 = \\boxed{(3y - 5)^2}$.",
-    "gpt_response": "To factor the expression $9y^2-30y+25$ in high school, we will look for two numbers that multiply to $9 \\cdot 25 = 225$ and add up to $-30$. The two numbers are $-15$ and $-15$.\nTherefore, we can rewrite the expression as: \n$9y^2 - 15y - 15y + 25$.\nFactor out the common terms: \n$9y^2 - 15y - 15y + 25$.\n$3y(3y-5) - 5(3y-5)$.\nThus, the factored form is $(3y-5)(3y-5)$ or $(3y-5)^2$.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to (3y - 5)^2?: To factor the expression $9y^2-30y+25$ in high school, we will look for two numbers that multiply to $9 \\cdot 25 = 225$ and add up to $-30$. The two numbers are $-15$ and $-15$.\nTherefore, we can rewrite the expression as: \n$9y^2 - 15y - 15y + 25$.\nFactor out the common terms: \n$9y^2 - 15y - 15y + 25$.\n$3y(3y-5) - 5(3y-5)$.\nThus, the factored form is $(3y-5)(3y-5)$ or $(3y-5)^2$.",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in high school would. ",
-    "problem_prompt": "Approach the following question the way someone in high school would. Evaluate $\\lfloor{\\pi}\\rfloor$.",
-    "solution": "We are solving for the greatest integer that is less than or equal to $\\pi$. Since $\\pi$ is approximately $3.14$, the answer is $\\boxed{3}$.",
-    "gpt_response": "Ok, so we need to evaluate the floor function of pi, which is denoted by the square brackets around the number. The floor function of a number is basically rounding down to the nearest whole number. So for pi, which is approximately 3.14159, the floor function would round it down to 3. Therefore, $\\lfloor{\\pi}\\rfloor = 3$.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 3?: Ok, so we need to evaluate the floor function of pi, which is denoted by the square brackets around the number. The floor function of a number is basically rounding down to the nearest whole number. So for pi, which is approximately 3.14159, the floor function would round it down to 3. Therefore, $\\lfloor{\\pi}\\rfloor = 3$.",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

@@ -1,8 +1,0 @@
-{
-    "problem_prompt": "Your job is to consider a number theory problem, and leave a plan for the next person to solve it. The problem will be revealed one sentence at a time. You do not have the entire problem yet, thus just do whatever calcluations/planning you think will be useful for the next person. If you don't think you can make any progress, say so. The following is a portion of the entire problem, and the work/progress/message the previous person left for you. There may be errors in the provided work that was previously done and left for you, so check and fix them if necessary.\nDaniel has exactly $20$ pieces of candy.He has to divide them equally among his $3$ sisters.\nFirst, I will consider the factors of $20$, which are $1, 2, 4, 5, 10, 20$. \nLet's say Daniel wants to give each of his friends an equal number of candies. \nI will determine the number of friends Daniel can have in order to distribute all the candies equally.",
-    "solution": "When you divide $20$ by $3$, you get $6$ with a remainder of $2$. Therefore, he should take away $\\boxed{2 \\text{ pieces}}$ so he could give each of his sisters $6$ pieces.",
-    "gpt_response": "To divide the $20$ candies equally among his $3$ sisters, we need to find a number that is a multiple of $3$ and also a factor of $20$. \nBy examining the factors of $20$, we see that the only factor that meets this condition is $4$. \nSo, Daniel can have $4$ sisters (including himself) to divide the $20$ candies equally among them.",
-    "solution_prompt": "Question partition not complete yet",
-    "gpt_response_correct_incorrect": "Question partition not complete yet",
-    "yes_no": "Question partition not complete yet"
-}

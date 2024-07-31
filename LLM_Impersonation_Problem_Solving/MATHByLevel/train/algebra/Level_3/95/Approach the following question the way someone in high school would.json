@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in high school would. ",
-    "problem_prompt": "Approach the following question the way someone in high school would. Solve for $x$: $$\\sqrt[3]{3-\\frac{1}{x}}=-4$$",
-    "solution": "We cube both sides to eliminate the cube root: $3-\\frac{1}{x}=-64$.   Simplifying gives $\\frac{1}{x}=67$ and taking the reciprocal of both sides gives $\\boxed{x=\\frac{1}{67}}$.",
-    "gpt_response": "To solve this, we need to get rid of the cube root. We can do this by cubing both sides of the equation.\n\nWhen we cube both sides, we get: \n$$3-\\frac{1}{x} = (-4)^3$$\n$$3-\\frac{1}{x} = -64$$\n$$-\\frac{1}{x} = -67$$\n\nNow we can solve for $x$ by isolating $x$ on one side:\n$$\\frac{1}{x} = 67$$\n$$x = \\frac{1}{67}$$\n\nSo the value of $x$ is $\\frac{1}{67}$.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to x=\\frac{1?: To solve this, we need to get rid of the cube root. We can do this by cubing both sides of the equation.\n\nWhen we cube both sides, we get: \n$$3-\\frac{1}{x} = (-4)^3$$\n$$3-\\frac{1}{x} = -64$$\n$$-\\frac{1}{x} = -67$$\n\nNow we can solve for $x$ by isolating $x$ on one side:\n$$\\frac{1}{x} = 67$$\n$$x = \\frac{1}{67}$$\n\nSo the value of $x$ is $\\frac{1}{67}$.",
-    "gpt_response_correct_incorrect": "Yes.",
-    "yes_no": "yes"
-}

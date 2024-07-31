@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in elementary school would. ",
-    "problem_prompt": "Approach the following question the way someone in elementary school would. What is the $y$-intercept of the line $x - 2y = 5$?",
-    "solution": "The $y$-intercept is the point at which the line crosses the $y$-axis.  The $x$-coordinate of such a point is 0.  Setting $x=0$ in the equation gives $-2y = 5$, so $y = \\boxed{-\\frac{5}{2}}$.",
-    "gpt_response": "To find the $y$-intercept, we need to plug in $x = 0$ in the equation. \n\nSo, we get $0 - 2y = 5$. \n\nSolving for $y$, we get $-2y = 5$.\n\nThen, divide by $-2$ to get $y = -5/2$. \n\nTherefore, the $y$-intercept is $(-5/2, 0)$.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to -\\frac{5?: To find the $y$-intercept, we need to plug in $x = 0$ in the equation. \n\nSo, we get $0 - 2y = 5$. \n\nSolving for $y$, we get $-2y = 5$.\n\nThen, divide by $-2$ to get $y = -5/2$. \n\nTherefore, the $y$-intercept is $(-5/2, 0)$.",
-    "gpt_response_correct_incorrect": "No",
-    "yes_no": "no"
-}

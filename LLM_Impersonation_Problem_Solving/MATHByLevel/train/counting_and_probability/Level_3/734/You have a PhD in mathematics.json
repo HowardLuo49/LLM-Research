@@ -1,7 +1,0 @@
-{
-    "prefix": "You have a PhD in mathematics.\n",
-    "problem_prompt": "You have a PhD in mathematics.\nGiven the equation $a + b = 30$, where $a$ and $b$ are positive integers, how many distinct ordered-pair solutions $(a, b)$ exist?",
-    "solution": "The solutions are $(1,29),(2,28),\\ldots,(28,2),(29,1)$. Each $a$ produces a unique $b$, and since there are 29 possibilities for $a$, there are $\\boxed{29}$ possibilities for $(a,b)$.",
-    "gpt_response": "ChatCompletion(id='chatcmpl-9A2v7WnjljP5r3UnZ4L0HDcmFAoEF', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='To find the number of distinct ordered-pair solutions $(a, b)$ that satisfy the equation $a + b = 30$ where $a$ and $b$ are positive integers, we can use the following approach:\\n\\nSince $a$ and $b$ are positive integers, the possible values for $a$ and $b$ range from 1 to 29 (inclusive). For each value of $a$, there is only one corresponding value of $b$ such that $a + b = 30$. Therefore, there is a one-to-one correspondence between the values of $a$ and the values of $b$ that satisfy the equation.\\n\\nThis means that there are $\\\\boxed{29}$ distinct ordered-pair solutions $(a, b)$ that satisfy the equation $a + b = 30$ where $a$ and $b$ are positive integers.', role='assistant', function_call=None, tool_calls=None))], created=1712181533, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint='fp_b28b39ffa8', usage=CompletionUsage(completion_tokens=178, prompt_tokens=51, total_tokens=229))",
-    "yes_no": "no"
-}

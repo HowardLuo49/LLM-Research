@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in preschool would. ",
-    "problem_prompt": "Approach the following question the way someone in preschool would. If $(x+2)(x-3)=14$, find the product of the possible values of $x$.",
-    "solution": "Expanding the left side of the given equation, we have $x^2-x-6=14 \\Rightarrow x^2-x-20=0$. Since in a quadratic  with equation of the form $ax^2+bx+c=0$ the product of the roots is $c/a$, the product of the roots of the given equation is $-20/1 = \\boxed{-20}$.",
-    "gpt_response": "So we have a problem with two numbers that we have to multiply together to get 14. That means one number has to be bigger than the other one. The possible numbers that could work are 7 and 2, because when you multiply them together you get 14. So the product of 7 and 2 is 14. Yay, we did it!",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to -20?: So we have a problem with two numbers that we have to multiply together to get 14. That means one number has to be bigger than the other one. The possible numbers that could work are 7 and 2, because when you multiply them together you get 14. So the product of 7 and 2 is 14. Yay, we did it!",
-    "gpt_response_correct_incorrect": "No",
-    "yes_no": "no"
-}

@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in elementary school would. ",
-    "problem_prompt": "Approach the following question the way someone in elementary school would. If $5a+2b=0$ and $a$ is two less than $b$, what is $7b$?",
-    "solution": "First we begin by solving the system of equations \\begin{align*}\n5a+2b&=0, \\\\\nb-2&=a.\n\\end{align*}Making the substitution for $a$ from the second equation to the first, we get $5(b-2)+2b=0$, which simplifies to $7b-10=0$. Solving for $b$, we find that $b=\\frac{10}{7}$. Hence $7b=7\\cdot \\frac{10}{7}=\\boxed{10}$.",
-    "gpt_response": "To solve this problem, we first need to find what $b$ and $a$ are. We know that $a$ is two less than $b$, so we can write it as $a = b - 2$.\n\nWe also know that $5a + 2b = 0$. Since we know $a = b - 2$, we can substitute that into the equation to get $5(b - 2) + 2b = 0$. Simplifying this, we get $5b - 10 + 2b = 0$, which becomes $7b - 10 = 0$.\n\nNow, we can solve for $b$ by adding 10 to both sides to get $7b = 10$. Finally, to find $7b$, we just multiply by 7 to get $7b = 70$. So, $7b$ is equal to 70.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 10?: To solve this problem, we first need to find what $b$ and $a$ are. We know that $a$ is two less than $b$, so we can write it as $a = b - 2$.\n\nWe also know that $5a + 2b = 0$. Since we know $a = b - 2$, we can substitute that into the equation to get $5(b - 2) + 2b = 0$. Simplifying this, we get $5b - 10 + 2b = 0$, which becomes $7b - 10 = 0$.\n\nNow, we can solve for $b$ by adding 10 to both sides to get $7b = 10$. Finally, to find $7b$, we just multiply by 7 to get $7b = 70$. So, $7b$ is equal to 70.",
-    "gpt_response_correct_incorrect": "No",
-    "yes_no": "no"
-}

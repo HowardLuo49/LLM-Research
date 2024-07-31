@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in high school would. ",
-    "problem_prompt": "Approach the following question the way someone in high school would. Find the ordered pair $(x,y)$ if\n\n\\begin{align*}\nx+y&=(5-x)+(5-y),\\\\\nx-y&=(x-1)+(y-1).\n\\end{align*}",
-    "solution": "Adding the equations, we get\n\n$$2x=8\\Rightarrow x=4.$$Substituting this into the first equation, we get\n\n$$4+y=1+5-y\\Rightarrow y=1.$$Thus the ordered pair is $\\boxed{(4,1)}$.",
-    "gpt_response": "Let's start by simplifying the first equation. We have:\n\n\\begin{align*}\nx+y&=5-x+5-y\\\\\nx+y&=10-x-y\\\\\n2x+2y&=10\nx+y&=5\n\\end{align*}\n\nNow let's simplify the second equation:\n\n\\begin{align*}\nx-y&=x-1+y-1\\\\\nx-y&=x+y-2\\\\\nx-y-x-y&=-2\\\\\n-2y&=-2\\\\\ny&=1\n\\end{align*}\n\nNow, we can plug in $y=1$ into the first equation to solve for $x$:\n\n\\begin{align*}\nx+1&=5\\\\\nx&=4\n\\end{align*}\n\nTherefore, the ordered pair $(x,y)$ is $(4,1)$.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to (4,1)?: Let's start by simplifying the first equation. We have:\n\n\\begin{align*}\nx+y&=5-x+5-y\\\\\nx+y&=10-x-y\\\\\n2x+2y&=10\nx+y&=5\n\\end{align*}\n\nNow let's simplify the second equation:\n\n\\begin{align*}\nx-y&=x-1+y-1\\\\\nx-y&=x+y-2\\\\\nx-y-x-y&=-2\\\\\n-2y&=-2\\\\\ny&=1\n\\end{align*}\n\nNow, we can plug in $y=1$ into the first equation to solve for $x$:\n\n\\begin{align*}\nx+1&=5\\\\\nx&=4\n\\end{align*}\n\nTherefore, the ordered pair $(x,y)$ is $(4,1)$.",
-    "gpt_response_correct_incorrect": "Yes.",
-    "yes_no": "yes"
-}

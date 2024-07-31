@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in elementary school would. ",
-    "problem_prompt": "Approach the following question the way someone in elementary school would. At what point does the line $3y-4x=12$ intersect the $x$-axis? Express your answer as an ordered pair.",
-    "solution": "If a point is on the $x$-axis, its $y$-coordinate is 0.  Therefore, we substitute $y=0$ into the equation for the line to find $x=12/(-4)=-3$.  Therefore, the coordinates of the $x$-intercept are $\\boxed{(-3,0)}$.",
-    "gpt_response": "To find where the line intersects the x-axis, we need to set y=0. So we can rewrite the equation as:\n\n$3(0)-4x=12$\n$-4x=12$\n$x=-3$\n\nSo, the line intersects the x-axis at the point (-3, 0).",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to (-3,0)?: To find where the line intersects the x-axis, we need to set y=0. So we can rewrite the equation as:\n\n$3(0)-4x=12$\n$-4x=12$\n$x=-3$\n\nSo, the line intersects the x-axis at the point (-3, 0).",
-    "gpt_response_correct_incorrect": "Yes.",
-    "yes_no": "yes"
-}

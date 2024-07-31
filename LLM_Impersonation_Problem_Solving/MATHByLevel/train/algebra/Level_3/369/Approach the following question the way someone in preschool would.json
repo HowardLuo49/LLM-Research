@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in preschool would. ",
-    "problem_prompt": "Approach the following question the way someone in preschool would. An investment of $\\$$10,000 is made in a government bond that will pay 6$\\%$ interest compounded annually. At the end of five years, what is the total number of dollars in this investment? Express your answer to the nearest whole number.",
-    "solution": "After five years, at a six percent annual interest rate, the investment will have grown to $10000 \\cdot 1.06^5 = \\boxed{13382}$, to the nearest dollar.",
-    "gpt_response": "Okie dokie! So, we start with $\\$$10,000 and it grows by 6$\\%$ each year. That means after the first year, we have $\\$$10,000 + 6$\\%$ of $\\$$10,000. That's $\\$$10,000 + $\\$$600 = $\\$$10,600. Then, after the second year, we have $\\$$10,600 + 6$\\%$ of $\\$$10,600. That's $\\$$10,600 + $\\$$636 = $\\$$11,236. We keep doing this for five years. So after five years, we have a total of $\\$$15,438. Yay, we did it!",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 13382?: Okie dokie! So, we start with $\\$$10,000 and it grows by 6$\\%$ each year. That means after the first year, we have $\\$$10,000 + 6$\\%$ of $\\$$10,000. That's $\\$$10,000 + $\\$$600 = $\\$$10,600. Then, after the second year, we have $\\$$10,600 + 6$\\%$ of $\\$$10,600. That's $\\$$10,600 + $\\$$636 = $\\$$11,236. We keep doing this for five years. So after five years, we have a total of $\\$$15,438. Yay, we did it!",
-    "gpt_response_correct_incorrect": "No.",
-    "yes_no": "no"
-}

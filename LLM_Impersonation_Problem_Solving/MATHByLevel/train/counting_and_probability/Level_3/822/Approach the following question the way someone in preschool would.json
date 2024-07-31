@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in preschool would. ",
-    "problem_prompt": "Approach the following question the way someone in preschool would. How many non-congruent triangles with perimeter 7 have integer side lengths?",
-    "solution": "The longest side cannot be greater than 3, since otherwise the remaining two sides would not be long enough to form a triangle. The only possible triangles have side lengths $1$--$3$--$3$ or $2$--$2$--$3$. Hence the answer is $\\boxed{2}.$",
-    "gpt_response": "Okay, let's count together! A triangle with perimeter 7 can have side lengths of (1, 3, 3), (2, 2, 3), (1, 2, 4). So, there are 3 non-congruent triangles with integer side lengths and perimeter 7. Yay!",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 2?: Okay, let's count together! A triangle with perimeter 7 can have side lengths of (1, 3, 3), (2, 2, 3), (1, 2, 4). So, there are 3 non-congruent triangles with integer side lengths and perimeter 7. Yay!",
-    "gpt_response_correct_incorrect": "No",
-    "yes_no": "no"
-}

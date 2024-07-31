@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
-    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. It takes 24 minutes for Jana to walk one mile. At that rate, how far in miles will she walk in 10 minutes? Express your answer as a decimal to the nearest tenth.",
-    "solution": "Using dimensional analysis, we have $\\dfrac{1\\mbox{ mile}}{24\\mbox{ min}} \\times 10\\mbox{ min} = \\dfrac{5}{12}$ miles, or $\\boxed{0.4\\mbox{ miles}}$ to the nearest tenth.",
-    "gpt_response": "To find the distance Jana will walk in 10 minutes, we can set up a proportion using the given information:\n\n24 minutes to walk 1 mile is equivalent to x minutes to walk y miles.\n\nTherefore, our proportion is:\n\n24 minutes / 1 mile = 10 minutes / x miles\n\nNow, we can cross multiply and solve for x:\n\n24 * x = 1 * 10\n24x = 10\nx = 10 / 24\nx = 0.4167\n\nTherefore, Jana will walk approximately 0.4 miles in 10 minutes.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 0.4\\mbox{ miles?: To find the distance Jana will walk in 10 minutes, we can set up a proportion using the given information:\n\n24 minutes to walk 1 mile is equivalent to x minutes to walk y miles.\n\nTherefore, our proportion is:\n\n24 minutes / 1 mile = 10 minutes / x miles\n\nNow, we can cross multiply and solve for x:\n\n24 * x = 1 * 10\n24x = 10\nx = 10 / 24\nx = 0.4167\n\nTherefore, Jana will walk approximately 0.4 miles in 10 minutes.",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

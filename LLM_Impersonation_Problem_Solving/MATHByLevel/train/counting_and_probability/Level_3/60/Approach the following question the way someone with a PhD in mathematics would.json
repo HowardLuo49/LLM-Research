@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
-    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. A plane is uniquely determined by three non-collinear points. What is the maximum possible number of planes that can be determined by 12 points in space?",
-    "solution": "There are $\\binom{12}{3} = \\boxed{220}$ ways to pick any 3 points, which we assume to determine a unique plane.",
-    "gpt_response": "In general, a set of n non-collinear points in space uniquely determines a maximum of n choose 3 (nC3) planes. This is because each combination of 3 points uniquely determines a plane.\n\nFor 12 points in space, the maximum number of planes that can be determined is given by 12C3, which is equal to 12! / (3! * (12-3)!), or 220.\n\nTherefore, the maximum possible number of planes that can be determined by 12 points in space is 220.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 220?: In general, a set of n non-collinear points in space uniquely determines a maximum of n choose 3 (nC3) planes. This is because each combination of 3 points uniquely determines a plane.\n\nFor 12 points in space, the maximum number of planes that can be determined is given by 12C3, which is equal to 12! / (3! * (12-3)!), or 220.\n\nTherefore, the maximum possible number of planes that can be determined by 12 points in space is 220.",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

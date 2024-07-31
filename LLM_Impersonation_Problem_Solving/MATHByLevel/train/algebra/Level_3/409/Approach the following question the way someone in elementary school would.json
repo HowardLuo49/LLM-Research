@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in elementary school would. ",
-    "problem_prompt": "Approach the following question the way someone in elementary school would. Expand the product $(9x+2)(4x^2+3)$.",
-    "solution": "Multiplying out the expression, we find that $(9x+2)(4x^2+3)=\\boxed{36x^3+8x^2+27x+6}$.",
-    "gpt_response": "To expand the product, we have to multiply each term in the first parentheses by each term in the second parentheses.\n\nFirst, let's multiply $9x$ by $4x^2$ to get $36x^3$.\nNext, let's multiply $9x$ by $3$ to get $27x$.\nThen, let's multiply $2$ by $4x^2$ to get $8x^2$.\nFinally, let's multiply $2$ by $3$ to get $6$.\n\nNow, let's add up all the terms we found:\n$36x^3 + 27x + 8x^2 + 6$\n\nSo, the expanded product is $36x^3 + 8x^2 + 27x + 6$.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 36x^3+8x^2+27x+6?: To expand the product, we have to multiply each term in the first parentheses by each term in the second parentheses.\n\nFirst, let's multiply $9x$ by $4x^2$ to get $36x^3$.\nNext, let's multiply $9x$ by $3$ to get $27x$.\nThen, let's multiply $2$ by $4x^2$ to get $8x^2$.\nFinally, let's multiply $2$ by $3$ to get $6$.\n\nNow, let's add up all the terms we found:\n$36x^3 + 27x + 8x^2 + 6$\n\nSo, the expanded product is $36x^3 + 8x^2 + 27x + 6$.",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

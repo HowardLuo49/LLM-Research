@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in elementary school would. ",
-    "problem_prompt": "Approach the following question the way someone in elementary school would. The sum of 49 consecutive integers is $7^5$. What is their median?",
-    "solution": "The sum of a set of integers is the product of the mean of the integers and the number of integers, and the median of a set of consecutive integers is the same as the mean. So the median must be $7^5/49=7^3$, or $\\boxed{343}$.",
-    "gpt_response": "Okay, so first we need to find the total sum of the 49 consecutive integers, which is $7^5$. Then, we have to find the median, which is the middle number. Since we have an odd number of integers, the median will be the 25th number in the sequence. So, we need to find the 25th number in the sequence. Let's do some counting and math to figure it out!",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 343?: Okay, so first we need to find the total sum of the 49 consecutive integers, which is $7^5$. Then, we have to find the median, which is the middle number. Since we have an odd number of integers, the median will be the 25th number in the sequence. So, we need to find the 25th number in the sequence. Let's do some counting and math to figure it out!",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in preschool would. ",
-    "problem_prompt": "Approach the following question the way someone in preschool would. Factor the expression $x(x+2)+(x+2)$.",
-    "solution": "We can factor the expression $x+2$ out of each term:  \\begin{align*}\nx(x+2)+(x+2) &= x \\cdot (x+2)+1 \\cdot (x+2)\\\\\n&= \\boxed{(x+1)(x+2)}\n\\end{align*}",
-    "gpt_response": "Ooh, let's count out the x's and put them together! We have x and another x+2, so we can add those together. That's x(x+2). Then we have another x+2 all by itself. Let's put them together too! So, we have x(x+2) + (x+2). Can you help me count them out? Let's start with the x's first!",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to (x+1)(x+2)?: Ooh, let's count out the x's and put them together! We have x and another x+2, so we can add those together. That's x(x+2). Then we have another x+2 all by itself. Let's put them together too! So, we have x(x+2) + (x+2). Can you help me count them out? Let's start with the x's first!",
-    "gpt_response_correct_incorrect": "No",
-    "yes_no": "no"
-}

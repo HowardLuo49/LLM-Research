@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in elementary school would. ",
-    "problem_prompt": "Approach the following question the way someone in elementary school would. If $y = -x^2 + 5$ and $x$ is a real number, then what is the maximum value possible for $y$?",
-    "solution": "Since the square of any real number is nonnegative, the greatest possible value of $-x^2$ is 0, which is achieved when $x=0$.  Therefore, the greatest possible value of $y = -x^2 + 5$ is $\\boxed{5}$, which is achieved when $x=0$.",
-    "gpt_response": "Okay, so let's see. The equation is $y = -x^2 + 5$. We want to find the biggest number that $y$ can be. In the equation, the $-x^2$ part makes $y$ get smaller as $x$ gets bigger. Since there is nothing else that can make $y$ bigger, the biggest possible value for $y$ is when $x$ is 0. When $x$ is 0, $-x^2$ is just 0, so $y$ would be equal to 5. So the maximum value possible for $y$ is 5.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 5?: Okay, so let's see. The equation is $y = -x^2 + 5$. We want to find the biggest number that $y$ can be. In the equation, the $-x^2$ part makes $y$ get smaller as $x$ gets bigger. Since there is nothing else that can make $y$ bigger, the biggest possible value for $y$ is when $x$ is 0. When $x$ is 0, $-x^2$ is just 0, so $y$ would be equal to 5. So the maximum value possible for $y$ is 5.",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

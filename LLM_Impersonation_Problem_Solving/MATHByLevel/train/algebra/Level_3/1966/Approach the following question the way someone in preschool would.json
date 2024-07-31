@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in preschool would. ",
-    "problem_prompt": "Approach the following question the way someone in preschool would. BoatWorks built 3 canoes in January of this year and then each subsequent calendar month they built twice the number of canoes they had built the previous month. How many total canoes were built by BoatWorks by the end of March of this year?",
-    "solution": "The number of boats built is $3+3\\cdot2+3\\cdot2^2 = 3+6+12 = \\boxed{21}$.",
-    "gpt_response": "Let's count the canoes BoatWorks built! In January, they built 3 canoes. Then in February, they built twice as many, which is 3 x 2 = 6 canoes. In March, they built twice as many as in February, which is 6 x 2 = 12 canoes. So, by the end of March, BoatWorks built a total of 3 + 6 + 12 = 21 canoes! Great job BoatWorks!",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 21?: Let's count the canoes BoatWorks built! In January, they built 3 canoes. Then in February, they built twice as many, which is 3 x 2 = 6 canoes. In March, they built twice as many as in February, which is 6 x 2 = 12 canoes. So, by the end of March, BoatWorks built a total of 3 + 6 + 12 = 21 canoes! Great job BoatWorks!",
-    "gpt_response_correct_incorrect": "Yes.",
-    "yes_no": "yes"
-}

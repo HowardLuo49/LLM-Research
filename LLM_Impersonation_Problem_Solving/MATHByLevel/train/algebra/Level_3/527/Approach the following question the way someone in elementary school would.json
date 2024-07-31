@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in elementary school would. ",
-    "problem_prompt": "Approach the following question the way someone in elementary school would. Evaluate $\\lfloor-2.54\\rfloor+\\lceil25.4\\rceil$.",
-    "solution": "The greatest integer less than $-2.54$ is $-3$; the smallest integer greater than $25.4$ is $26$. So $\\lfloor -2.54 \\rfloor + \\lceil 25.4 \\rceil = -3+26=\\boxed{23}$.",
-    "gpt_response": "First we've got to figure out what those weird symbols mean. The squiggly \"lfloor\" with a number inside means the greatest integer less than or equal to that number, and the upside-down question mark \"lceil\" means the smallest integer greater than or equal to that number. So let's start by finding the greatest integer less than or equal to -2.54. That's -3. Then we need to find the smallest integer greater than or equal to 25.4. That's 26. Finally, we add -3 and 26 together to get 23. So, the answer is 23!",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 23?: First we've got to figure out what those weird symbols mean. The squiggly \"lfloor\" with a number inside means the greatest integer less than or equal to that number, and the upside-down question mark \"lceil\" means the smallest integer greater than or equal to that number. So let's start by finding the greatest integer less than or equal to -2.54. That's -3. Then we need to find the smallest integer greater than or equal to 25.4. That's 26. Finally, we add -3 and 26 together to get 23. So, the answer is 23!",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

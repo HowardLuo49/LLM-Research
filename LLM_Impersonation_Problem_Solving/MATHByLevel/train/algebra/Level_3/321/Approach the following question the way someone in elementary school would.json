@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in elementary school would. ",
-    "problem_prompt": "Approach the following question the way someone in elementary school would. Find the slope of the line $3x+5y=20$.",
-    "solution": "We can find the slope and the $y$-coordinate of the $y$-intercept quickly by putting the equation in slope-intercept form.  Solving the equation $3x+5y=20$ for $y$ in terms of $x$ gives $y = -\\frac{3}{5}x +4$.  So, the slope is $\\boxed{-\\frac{3}{5}}$.",
-    "gpt_response": "Ok, so to find the slope of the line $3x+5y=20$, we need to get it into slope-intercept form, which looks like $y=mx+b$. \n\nFirst, let's get $y$ by itself on one side of the equation. So we need to subtract $3x$ from both sides to get $5y=-3x+20$. \n\nNow, to get $y$ by itself, we can divide each term by $5$, which gives us $y=-\\frac{3}{5}x+4$. \n\nSo, the slope of the line is $-\\frac{3}{5}$.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to -\\frac{3?: Ok, so to find the slope of the line $3x+5y=20$, we need to get it into slope-intercept form, which looks like $y=mx+b$. \n\nFirst, let's get $y$ by itself on one side of the equation. So we need to subtract $3x$ from both sides to get $5y=-3x+20$. \n\nNow, to get $y$ by itself, we can divide each term by $5$, which gives us $y=-\\frac{3}{5}x+4$. \n\nSo, the slope of the line is $-\\frac{3}{5}$.",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

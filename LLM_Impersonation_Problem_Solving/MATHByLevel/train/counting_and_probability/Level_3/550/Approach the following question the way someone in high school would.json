@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in high school would. ",
-    "problem_prompt": "Approach the following question the way someone in high school would. John has five children.  What is the probability that at least half of them are girls? (We can assume a boy is equally likely to be born as is a girl, and vice-versa.)",
-    "solution": "In all cases, at least half of John's kids will be boys or at least half will be girls.  Furthermore, since John has an odd number of children, these conditions are mutually exclusive--that is, they are never true at the same time.  Since a boy is equally likely to be born as is a girl, our answer is therefore $\\boxed{\\frac{1}{2}}$.",
-    "gpt_response": "Okay, so let's say John has five children. That means there are 32 different possible combinations of genders (2 to the power of 5). Out of these 32 possibilities, there are only a few that have at least three girls: GGGGG, GGGGB, GGGBG, GGBGG, GBGGG, BGGGG. So, the probability of at least half of John's children being girls is 6 out of 32 or 6/32, which simplifies to 3/16.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to \\frac{1?: Okay, so let's say John has five children. That means there are 32 different possible combinations of genders (2 to the power of 5). Out of these 32 possibilities, there are only a few that have at least three girls: GGGGG, GGGGB, GGGBG, GGBGG, GBGGG, BGGGG. So, the probability of at least half of John's children being girls is 6 out of 32 or 6/32, which simplifies to 3/16.",
-    "gpt_response_correct_incorrect": "No. The final solution obtained in the question is 3/16, not 1.",
-    "yes_no": "no"
-}

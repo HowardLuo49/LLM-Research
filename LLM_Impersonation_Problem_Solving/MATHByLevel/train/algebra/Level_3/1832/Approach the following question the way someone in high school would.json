@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in high school would. ",
-    "problem_prompt": "Approach the following question the way someone in high school would. Given that $M(2,5)$ is the midpoint of $\\overline{AB}$ and $A(3,1)$ is one endpoint, what is the product of the coordinates of point $B$?",
-    "solution": "Call the coordinates of point $B$ $(x,y)$. Because the coordinates of a midpoint of a line segment are the average of the coordinates of the two endpoints, we have that $\\frac{3+x}{2} = 2$ and $\\frac{1+y}{2} = 5$. Solving for $x$ and $y$ yields $x = 1$ and $y = 9$. Thus, point $B$ has coordinates $(1,9)$, so the product of its coordinates is $\\boxed{9}$.",
-    "gpt_response": "To find the coordinates of point $B$, we need to use the midpoint formula, which is $(\\frac{x_1+x_2}{2},\\frac{y_1+y_2}{2})$. \n\nSince $M(2,5)$ is the midpoint of $\\overline{AB}$ and $A(3,1)$ is one endpoint, we can set up the following equations: \n$$\\frac{3+x}{2} = 2 \\implies 3+x = 4 \\implies x = 1$$\n$$\\frac{1+y}{2} = 5 \\implies 1+y = 10 \\implies y = 9$$\n\nTherefore, the coordinates of point $B$ are $(1,9)$ and the product of the coordinates is $1 \\times 9 = 9$.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 9?: To find the coordinates of point $B$, we need to use the midpoint formula, which is $(\\frac{x_1+x_2}{2},\\frac{y_1+y_2}{2})$. \n\nSince $M(2,5)$ is the midpoint of $\\overline{AB}$ and $A(3,1)$ is one endpoint, we can set up the following equations: \n$$\\frac{3+x}{2} = 2 \\implies 3+x = 4 \\implies x = 1$$\n$$\\frac{1+y}{2} = 5 \\implies 1+y = 10 \\implies y = 9$$\n\nTherefore, the coordinates of point $B$ are $(1,9)$ and the product of the coordinates is $1 \\times 9 = 9$.",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
-    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. Simplify $(3-2i)^2$. (Your answer should be of the form $a+bi$.)",
-    "solution": "$(3-2i)^2 = (3-2i)(3-2i)= 3(3) + 3(-2i) -2i(3) - 2i(-2i) = 9-6i-6i -4 = \\boxed{5-12i}$.",
-    "gpt_response": "To simplify $(3-2i)^2$, we first need to expand the expression. By using the distributive property, we have:\n\n$(3-2i)^2 = (3-2i)*(3-2i) = 3*3 - 3*2i - 2i*3 + 2i*2i$\n\nNow, simplify each term:\n\n$9 - 6i - 6i + 4i^2$\n\nRemembering that $i^2 = -1$, we can substitute this in:\n\n$9 - 6i - 6i + 4*(-1)$\n\n$9 - 6i - 6i - 4$\n\nNow, combine like terms:\n\n$5 - 12i$\n\nTherefore, $(3-2i)^2 = 5 - 12i$.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 5-12i?: To simplify $(3-2i)^2$, we first need to expand the expression. By using the distributive property, we have:\n\n$(3-2i)^2 = (3-2i)*(3-2i) = 3*3 - 3*2i - 2i*3 + 2i*2i$\n\nNow, simplify each term:\n\n$9 - 6i - 6i + 4i^2$\n\nRemembering that $i^2 = -1$, we can substitute this in:\n\n$9 - 6i - 6i + 4*(-1)$\n\n$9 - 6i - 6i - 4$\n\nNow, combine like terms:\n\n$5 - 12i$\n\nTherefore, $(3-2i)^2 = 5 - 12i$.",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

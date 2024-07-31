@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in high school would. ",
-    "problem_prompt": "Approach the following question the way someone in high school would. How many paths are there from $A$ to $B$, if every step must be up or to the right?[asy]size(4cm,4cm);int w=6;int h=5;int i;pen p=fontsize(9);for (i=0; i<h; ++i){draw((0,i) -- (w-1,i));}for (i=0; i<w; ++i){draw((i, 0)--(i,h-1));}label(\"$A$\", (0,0), SW, p);label(\"$B$\", (w-1,h-1), NE, p);[/asy]",
-    "solution": "There are 5 steps to the right, and 4 steps up.  These 9 steps can be made in any order, so we can choose 4 of the 9 steps to be \"up\" in $\\binom{9}{4} = \\boxed{126}$ ways.",
-    "gpt_response": "To find the number of paths from $A$ to $B$, we can count the number of ways to go up and to the right to reach $B$. Since we have to take a total of $h-1$ steps up and $w-1$ steps to the right to get from $A$ to $B$, we can choose $h-1$ of these steps to be up, and the rest must be to the right. This can be done in $\\binom{h-1 + w-1}{h-1} = \\binom{h+w-2}{h-1}$ ways.\n\nTherefore, the number of paths from $A$ to $B$ is $\\binom{h+w-2}{h-1}$.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 126?: To find the number of paths from $A$ to $B$, we can count the number of ways to go up and to the right to reach $B$. Since we have to take a total of $h-1$ steps up and $w-1$ steps to the right to get from $A$ to $B$, we can choose $h-1$ of these steps to be up, and the rest must be to the right. This can be done in $\\binom{h-1 + w-1}{h-1} = \\binom{h+w-2}{h-1}$ ways.\n\nTherefore, the number of paths from $A$ to $B$ is $\\binom{h+w-2}{h-1}$.",
-    "gpt_response_correct_incorrect": "No",
-    "yes_no": "no"
-}

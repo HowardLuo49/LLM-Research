@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in high school would. ",
-    "problem_prompt": "Approach the following question the way someone in high school would. If $y = -x^2 + 5$ and $x$ is a real number, then what is the maximum value possible for $y$?",
-    "solution": "Since the square of any real number is nonnegative, the greatest possible value of $-x^2$ is 0, which is achieved when $x=0$.  Therefore, the greatest possible value of $y = -x^2 + 5$ is $\\boxed{5}$, which is achieved when $x=0$.",
-    "gpt_response": "To find the maximum value of $y$, we need to find the vertex of the parabola $y = -x^2 + 5$. The vertex of a parabola in the form $y = ax^2 + bx + c$ is located at the point $(h, k)$ where $h = -\\frac{b}{2a}$.\n\nIn this case, $a = -1$, $b = 0$ and $c = 5$. So, the vertex of the parabola is at $h = -\\frac{0}{2(-1)} = 0$. To find the corresponding $y$-value, plug $x = 0$ back into the equation:\n\n$y = -(0)^2 + 5 = 5$\n\nTherefore, the maximum value possible for $y$ is 5.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 5?: To find the maximum value of $y$, we need to find the vertex of the parabola $y = -x^2 + 5$. The vertex of a parabola in the form $y = ax^2 + bx + c$ is located at the point $(h, k)$ where $h = -\\frac{b}{2a}$.\n\nIn this case, $a = -1$, $b = 0$ and $c = 5$. So, the vertex of the parabola is at $h = -\\frac{0}{2(-1)} = 0$. To find the corresponding $y$-value, plug $x = 0$ back into the equation:\n\n$y = -(0)^2 + 5 = 5$\n\nTherefore, the maximum value possible for $y$ is 5.",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

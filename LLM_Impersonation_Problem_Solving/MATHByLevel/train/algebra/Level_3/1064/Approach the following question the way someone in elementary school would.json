@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in elementary school would. ",
-    "problem_prompt": "Approach the following question the way someone in elementary school would. A line has a slope of $-7$ and contains the point $(3,0)$. The equation of this line can be written in the form $y = mx+b$. What is the value of $m+b$?",
-    "solution": "First, remember that the slope of a line in the form of $y=mx+b$ is equal to $m$.  So, the line must take the form $y=-7x+b$.  Next, substitute the point $(3,0)$ and solve for $b$: \\begin{align*}\n0&=-7(3)+b\\\\\n\\Rightarrow\\qquad 0&=-21+b\\\\\n\\Rightarrow\\qquad 21&=b\n\\end{align*} Therefore, the value of $m+b$ is $-7+21=\\boxed{14}$.",
-    "gpt_response": "To find the value of $m+b$, first we need to find the value of $m$ (the slope) and $b$ (the y-intercept). \n\nThe slope is given as $-7$, so $m = -7$. \nSince the line contains the point $(3,0)$, we can substitute that point into the equation $y = mx+b$ to solve for $b$. \n\nWhen we substitute $(3,0)$ into the equation, we get:\n$0 = -7(3) + b$\n$0 = -21 + b$\n$b = 21$\n\nNow that we have both $m$ and $b$, we can find $m+b$:\n$m+b = -7 + 21 = 14$\n\nSo, $m+b = 14$.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 14?: To find the value of $m+b$, first we need to find the value of $m$ (the slope) and $b$ (the y-intercept). \n\nThe slope is given as $-7$, so $m = -7$. \nSince the line contains the point $(3,0)$, we can substitute that point into the equation $y = mx+b$ to solve for $b$. \n\nWhen we substitute $(3,0)$ into the equation, we get:\n$0 = -7(3) + b$\n$0 = -21 + b$\n$b = 21$\n\nNow that we have both $m$ and $b$, we can find $m+b$:\n$m+b = -7 + 21 = 14$\n\nSo, $m+b = 14$.",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

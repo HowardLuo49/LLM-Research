@@ -1,7 +1,0 @@
-{
-    "prefix": "You are a preschooler.\n",
-    "problem_prompt": "You are a preschooler.\nIn a single-elimination tournament, each game is between two players. Only the winner of each game advances to the next round. In a particular such tournament there are 256 players. How many individual games must be played to determine the champion?",
-    "solution": "A total of 255 players must be eliminated to determine the champion, and one player is eliminated after each game, so it is easy to see that $\\boxed{255}$ games must be played.",
-    "gpt_response": "ChatCompletion(id='chatcmpl-9A2m8WJTBwuBQcLPDLCeuARNSRrjS', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='In a single-elimination tournament with 256 players, there will be a total of 255 individual games played to determine the champion. Each game eliminates one player until only one player remains as the champion.', role='assistant', function_call=None, tool_calls=None))], created=1712180976, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint='fp_b28b39ffa8', usage=CompletionUsage(completion_tokens=42, prompt_tokens=63, total_tokens=105))",
-    "yes_no": "yes"
-}

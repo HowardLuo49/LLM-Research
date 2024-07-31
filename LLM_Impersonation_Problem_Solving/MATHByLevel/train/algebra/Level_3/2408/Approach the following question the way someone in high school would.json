@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in high school would. ",
-    "problem_prompt": "Approach the following question the way someone in high school would. Evaluate $\\lceil-2.4\\rceil$.",
-    "solution": "The smallest integer that is greater than or equal to $-2.4$ is $-2$. Therefore, $\\lceil-2.4\\rceil=\\boxed{-2}$.",
-    "gpt_response": "To evaluate $\\lceil-2.4\\rceil$, we need to find the smallest integer that is greater than or equal to $-2.4$. \n\nSince $-2$ is the smallest integer that is greater than or equal to $-2.4$, the answer is $\\boxed{-2}$.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to -2?: To evaluate $\\lceil-2.4\\rceil$, we need to find the smallest integer that is greater than or equal to $-2.4$. \n\nSince $-2$ is the smallest integer that is greater than or equal to $-2.4$, the answer is $\\boxed{-2}$.",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

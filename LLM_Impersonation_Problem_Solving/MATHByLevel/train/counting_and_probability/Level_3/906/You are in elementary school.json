@@ -1,7 +1,0 @@
-{
-    "prefix": "You are in elementary school.\n",
-    "problem_prompt": "You are in elementary school.\nHow many numbers are in the first $20$ rows of Pascal's Triangle (from the $0$th row to the $19$th row)?",
-    "solution": "We start with the $0$th row, which has $1$ number. Each row has one more number than the previous row. Thus, we can see that row $n$ has $n+1$ numbers.\nSince we want the sum of numbers in the rows $0$ to $19$, we sum up every number from $1$ to $20$ to get $\\frac{(1+20)\\cdot 20}{2}=\\boxed{210}$.",
-    "gpt_response": "ChatCompletion(id='chatcmpl-9A2pKhU7qczYmT9owJLboxQGOMxWe', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content=\"The number of numbers in each row of Pascal's Triangle is equal to the row number plus one. Therefore, in the first $20$ rows of Pascal's Triangle, there are $1$ number in the $0$th row, $2$ numbers in the $1$st row, $3$ numbers in the $2$nd row, and so on up to $20$ numbers in the $19$th row.\\n\\nThe total number of numbers in the first $20$ rows of Pascal's Triangle can be calculated as:\\n\\n$1 + 2 + 3 + ... + 20 = \\\\frac{20 \\\\times (20+1)}{2} = \\\\frac{20 \\\\times 21}{2} = 210$\\n\\nTherefore, there are $210$ numbers in the first $20$ rows of Pascal's Triangle.\", role='assistant', function_call=None, tool_calls=None))], created=1712181174, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint='fp_b28b39ffa8', usage=CompletionUsage(completion_tokens=174, prompt_tokens=44, total_tokens=218))",
-    "yes_no": "yes"
-}

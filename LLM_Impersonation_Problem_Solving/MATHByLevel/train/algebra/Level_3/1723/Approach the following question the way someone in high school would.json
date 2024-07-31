@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in high school would. ",
-    "problem_prompt": "Approach the following question the way someone in high school would. If $(x+2)(x-3)=14$, find the product of the possible values of $x$.",
-    "solution": "Expanding the left side of the given equation, we have $x^2-x-6=14 \\Rightarrow x^2-x-20=0$. Since in a quadratic  with equation of the form $ax^2+bx+c=0$ the product of the roots is $c/a$, the product of the roots of the given equation is $-20/1 = \\boxed{-20}$.",
-    "gpt_response": "First, we want to expand the left side of the equation using the distributive property. This gives us $x^2 - 3x + 2x - 6 = 14$. Simplifying further, we get $x^2 - x - 6 = 14$. \n\nNext, we want to solve for $x$ by setting the equation equal to 0. So, we have $x^2 - x - 20 = 0$. \n\nTo find the possible values of $x$, we can factor the equation. The factors of -20 that add up to -1 are -5 and 4. So, we have $(x - 5)(x + 4) = 0$. This means that $x = 5$ or $x = -4$. \n\nFinally, to find the product of the possible values of $x$, we multiply 5 and -4 together. Therefore, the answer is $5 \\times -4 = -20$.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to -20?: First, we want to expand the left side of the equation using the distributive property. This gives us $x^2 - 3x + 2x - 6 = 14$. Simplifying further, we get $x^2 - x - 6 = 14$. \n\nNext, we want to solve for $x$ by setting the equation equal to 0. So, we have $x^2 - x - 20 = 0$. \n\nTo find the possible values of $x$, we can factor the equation. The factors of -20 that add up to -1 are -5 and 4. So, we have $(x - 5)(x + 4) = 0$. This means that $x = 5$ or $x = -4$. \n\nFinally, to find the product of the possible values of $x$, we multiply 5 and -4 together. Therefore, the answer is $5 \\times -4 = -20$.",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

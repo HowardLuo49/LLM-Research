@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in preschool would. ",
-    "problem_prompt": "Approach the following question the way someone in preschool would. The nonzero roots of the equation $x^2 + 6x + k = 0$ are in the ratio $2:1$. What is the value of $k$?",
-    "solution": "By Vieta's formulas, the sum of the roots is $-6.$  Since they are in the ratio $2:1,$ the roots are $-4$ and $-2.$  Then $k$ is their product, namely $(-4)(-2) = \\boxed{8}.$",
-    "gpt_response": "Hmm, let's see. If the roots are in a ratio of 2:1, that means one root is twice as big as the other. So maybe we can write the roots as 2x and x. What should we do next? Oh, I remember! The sum of the roots in a quadratic equation is -b/a. So, we can write the sum of the roots as 2x + x = -6. Then we solve for x. Let's see... 2x + x = -6, that means 3x = -6, so x = -2. Then we substitute x back into one of the roots to find the value of k. Let's see... If we substitute x = -2 into the equation x^2 + 6x + k = 0, we get (-2)^2 + 6(-2) + k = 0. That simplifies to 4 - 12 + k = 0, so k = 8. Yay, we found the value of k!",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 8?: Hmm, let's see. If the roots are in a ratio of 2:1, that means one root is twice as big as the other. So maybe we can write the roots as 2x and x. What should we do next? Oh, I remember! The sum of the roots in a quadratic equation is -b/a. So, we can write the sum of the roots as 2x + x = -6. Then we solve for x. Let's see... 2x + x = -6, that means 3x = -6, so x = -2. Then we substitute x back into one of the roots to find the value of k. Let's see... If we substitute x = -2 into the equation x^2 + 6x + k = 0, we get (-2)^2 + 6(-2) + k = 0. That simplifies to 4 - 12 + k = 0, so k = 8. Yay, we found the value of k!",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

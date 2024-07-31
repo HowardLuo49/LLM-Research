@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in high school would. ",
-    "problem_prompt": "Approach the following question the way someone in high school would. Simplify $\\left( \\frac{1}{2k} \\right)^{-2} \\cdot (-k)^3$.",
-    "solution": "$\\left( \\frac{1}{2k} \\right)^{-2} \\cdot (-k)^3 = (2k)^2 \\cdot (-k)^3 = 4k^2 \\cdot (-k^3) = \\boxed{-4k^5}$.",
-    "gpt_response": "To simplify $\\left( \\frac{1}{2k} \\right)^{-2} \\cdot (-k)^3$, first deal with the negative exponent by moving the fraction to the numerator of the expression. This gives us $\\left( 2k \\right)^{2} \\cdot (-k)^3$.\n\nNext, simplify the expression inside the parentheses by squaring each term to get $4k^2 \\cdot (-k)^3$.\n\nFinally, multiply the $k^2$ term with the $k^3$ term to get $-4k^5$. \n\nTherefore, $\\left( \\frac{1}{2k} \\right)^{-2} \\cdot (-k)^3$ simplifies to $-4k^5$.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to -4k^5?: To simplify $\\left( \\frac{1}{2k} \\right)^{-2} \\cdot (-k)^3$, first deal with the negative exponent by moving the fraction to the numerator of the expression. This gives us $\\left( 2k \\right)^{2} \\cdot (-k)^3$.\n\nNext, simplify the expression inside the parentheses by squaring each term to get $4k^2 \\cdot (-k)^3$.\n\nFinally, multiply the $k^2$ term with the $k^3$ term to get $-4k^5$. \n\nTherefore, $\\left( \\frac{1}{2k} \\right)^{-2} \\cdot (-k)^3$ simplifies to $-4k^5$.",
-    "gpt_response_correct_incorrect": "No",
-    "yes_no": "no"
-}

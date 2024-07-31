@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
-    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. The two lines $y = 4x - 19$ and $2x+y = 95$ intersect. What is the value of $x$ at the point of intersection?",
-    "solution": "At the intersection of two lines, the $x$'s are equal and the $y$'s are equal. We may set $4x - 19 = 95 - 2x$ to find an $x$, where the $y$'s are equal.\n\n\\begin{align*}\n4x - 19 &= 95 - 2x \\\\\n6x &= 114 \\\\\nx &= \\boxed{19}.\n\\end{align*}",
-    "gpt_response": "To find the point of intersection between the two lines, we need to solve the system of equations formed by setting the two equations equal to each other:\n\n$4x - 19 = 95 - 2x$\n\nSimplifying this equation gives:\n\n$6x = 114$\n\nDividing both sides by 6 gives:\n\n$x = 19$\n\nTherefore, the value of $x$ at the point of intersection between the two lines is 19.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 19?: To find the point of intersection between the two lines, we need to solve the system of equations formed by setting the two equations equal to each other:\n\n$4x - 19 = 95 - 2x$\n\nSimplifying this equation gives:\n\n$6x = 114$\n\nDividing both sides by 6 gives:\n\n$x = 19$\n\nTherefore, the value of $x$ at the point of intersection between the two lines is 19.",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

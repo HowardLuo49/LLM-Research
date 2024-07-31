@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in preschool would. ",
-    "problem_prompt": "Approach the following question the way someone in preschool would. It takes 24 minutes for Jana to walk one mile. At that rate, how far in miles will she walk in 10 minutes? Express your answer as a decimal to the nearest tenth.",
-    "solution": "Using dimensional analysis, we have $\\dfrac{1\\mbox{ mile}}{24\\mbox{ min}} \\times 10\\mbox{ min} = \\dfrac{5}{12}$ miles, or $\\boxed{0.4\\mbox{ miles}}$ to the nearest tenth.",
-    "gpt_response": "Let's pretend that Jana is walking on a rainbow and counting her steps. If it takes her 24 minutes to walk one mile, we can pretend she takes 24 big steps to get there. \n\nNow, we need to figure out how many big steps she takes in 10 minutes. So, we can do some magical math and divide 10 by 24 to find out how many big steps she takes. \n\n10 divided by 24 equals 0.416666667. So, Jana will walk approximately 0.4 miles in 10 minutes. Wow, she's a speedy walker on that rainbow! \ud83c\udf08\ud83d\udeb6\u200d\u2640\ufe0f",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 0.4\\mbox{ miles?: Let's pretend that Jana is walking on a rainbow and counting her steps. If it takes her 24 minutes to walk one mile, we can pretend she takes 24 big steps to get there. \n\nNow, we need to figure out how many big steps she takes in 10 minutes. So, we can do some magical math and divide 10 by 24 to find out how many big steps she takes. \n\n10 divided by 24 equals 0.416666667. So, Jana will walk approximately 0.4 miles in 10 minutes. Wow, she's a speedy walker on that rainbow! \ud83c\udf08\ud83d\udeb6\u200d\u2640\ufe0f",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

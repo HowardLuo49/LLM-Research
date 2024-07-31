@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in high school would. ",
-    "problem_prompt": "Approach the following question the way someone in high school would. Cory has $3$ apples, $2$ oranges and $2$ bananas. If Cory eats one piece of his fruit per day for a week and the pieces of fruit within each category are indistinguishable, in how many orders can Cory eat the fruit? One such order is $AAAOOBB.$",
-    "solution": "There are a total of $7$ fruits, so there are $7!$ ways to arrange them. However, since the fruits in each category are indistinguishable, we must divide out the repeats: $$\\frac{7!}{3!2!2!}=7\\times6\\times5=\\boxed{210}.$$",
-    "gpt_response": "To solve this problem, we can think of it as a permutations problem. Since there are $7$ days in a week and Cory eats $1$ piece of fruit each day, we need to find the number of ways he can arrange the $7$ pieces of fruit. \n\nCory has $7$ pieces of fruit in total. Since the fruit within each category is indistinguishable, we can think of the problem as arranging the letters in the word \"AAAOOBB.\" Since there are $7$ letters in total, the number of ways we can arrange them is $7!$. \n\nSo, Cory can eat his fruit in $7! = 5040$ different orders.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 210?: To solve this problem, we can think of it as a permutations problem. Since there are $7$ days in a week and Cory eats $1$ piece of fruit each day, we need to find the number of ways he can arrange the $7$ pieces of fruit. \n\nCory has $7$ pieces of fruit in total. Since the fruit within each category is indistinguishable, we can think of the problem as arranging the letters in the word \"AAAOOBB.\" Since there are $7$ letters in total, the number of ways we can arrange them is $7!$. \n\nSo, Cory can eat his fruit in $7! = 5040$ different orders.",
-    "gpt_response_correct_incorrect": "No",
-    "yes_no": "no"
-}

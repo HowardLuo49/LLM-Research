@@ -1,8 +1,0 @@
-{
-    "problem_prompt": "Your job is to consider a number theory problem, and leave a plan for the next person to solve it. The problem will be revealed one sentence at a time. You do not have the entire problem yet, thus just do whatever calcluations/planning you think will be useful for the next person. If you don't think you can make any progress, say so. The following is a portion of the entire problem, and the work/progress/message the previous person left for you. There may be errors in the provided work that was previously done and left for you, so check and fix them if necessary.\nThe bagel shop has enough benches to sit $204_6$ people.\n",
-    "solution": "First, convert $204_6$ to base 10 to get $204_6=2\\cdot6^2+0\\cdot6^1+4\\cdot6^0=72+0+4=76$. Therefore, the shop has $76\\div2=\\boxed{38}$ benches",
-    "gpt_response": "First, convert the number of people the benches can sit from base 6 to base 10. \n$204_6 = 2*6^2 + 0*6^1 + 4*6^0 = 2*36 + 4 = 72 + 4 = 76.$\nSo, the benches can sit 76 people in base 10.",
-    "solution_prompt": "Question partition not complete yet",
-    "gpt_response_correct_incorrect": "Question partition not complete yet",
-    "yes_no": "Question partition not complete yet"
-}

@@ -1,7 +1,0 @@
-{
-    "prefix": "You are in elementary school.\n",
-    "problem_prompt": "You are in elementary school.\nTwo different integers from 1 through 20 inclusive are chosen at random. What is the probability that both numbers are prime? Express your answer as a common fraction.",
-    "solution": "There are $\\binom{20}{2}$ pairs of distinct integers between 1 and 20, and there are $\\binom{8}{2}$ pairs of distinct prime numbers between 1 and 20.  Therefore, the probability that both members of a randomly chosen pair are prime is $\\dfrac{\\binom{8}{2}}{\\binom{20}{2}}=\\dfrac{8(7)/2}{20(19)/2}=\\boxed{\\dfrac{14}{95}}$.",
-    "gpt_response": "ChatCompletion(id='chatcmpl-9A2vWY4BVxyAqnkwgJdOpqvHTqi7T', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='There are 8 prime numbers between 1 and 20: 2, 3, 5, 7, 11, 13, 17, 19.\\n\\nThe total number of possible pairs of integers that can be chosen from 1 through 20 is 20 choose 2, which is (20*19)/(2*1) = 190.\\n\\nThe number of ways to choose 2 prime numbers from the 8 prime numbers is 8 choose 2, which is (8*7)/(2*1) = 28.\\n\\nTherefore, the probability that both numbers chosen are prime is 28/190 = 14/95.', role='assistant', function_call=None, tool_calls=None))], created=1712181558, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint='fp_b28b39ffa8', usage=CompletionUsage(completion_tokens=136, prompt_tokens=46, total_tokens=182))",
-    "yes_no": "no"
-}

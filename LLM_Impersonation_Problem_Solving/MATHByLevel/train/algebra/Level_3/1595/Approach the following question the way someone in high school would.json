@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in high school would. ",
-    "problem_prompt": "Approach the following question the way someone in high school would. Simplify $(3p^3 - 5p + 6) + (4 - 6p^2 + 2p)$. Express your answer in the form $Ap^3 + Bp^2 + Cp +D$, where $A$, $B$, $C$, and $D$ are numbers (possibly negative).",
-    "solution": "Using the associative property and combining like terms, $(3p^3 - 5p + 6) + (4 - 6p^2 + 2p) = 3p^3 - 6p^2 - 5p + 2p + 6 + 4 = \\boxed{3p^3 - 6p^2 - 3p + 10}$.",
-    "gpt_response": "First, let's combine like terms by adding the corresponding coefficients of each term:\n\n$3p^3 - 5p + 6 + 4 - 6p^2 + 2p$\n\nNow, let's rearrange the terms in decreasing order of powers of $p$:\n\n$3p^3 - 6p^2 - 5p + 2p + 6 + 4$\n\nCombining like terms:\n\n$3p^3 - 6p^2 - 3p + 10$\n\nSo, the simplified expression is $3p^3 - 6p^2 - 3p + 10$.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 3p^3 - 6p^2 - 3p + 10?: First, let's combine like terms by adding the corresponding coefficients of each term:\n\n$3p^3 - 5p + 6 + 4 - 6p^2 + 2p$\n\nNow, let's rearrange the terms in decreasing order of powers of $p$:\n\n$3p^3 - 6p^2 - 5p + 2p + 6 + 4$\n\nCombining like terms:\n\n$3p^3 - 6p^2 - 3p + 10$\n\nSo, the simplified expression is $3p^3 - 6p^2 - 3p + 10$.",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

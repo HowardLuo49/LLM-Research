@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in preschool would. ",
-    "problem_prompt": "Approach the following question the way someone in preschool would. What is the greatest product obtainable from two integers whose sum is 246?",
-    "solution": "Let the two integers be $x$ and $246-x$. The product which needs to be maximized is $(x)(246-x)=246x-x^2$. Now we complete the square: \\begin{align*}\n-(x^2-246x)&=-(x^2-246x+15129-15129)\\\\\n&=-(x-123)^2+15129\\\\\n\\end{align*}Since the square of a real number is always non-negative, $-(x-123)^2\\le 0$. Therefore, the expression is maximized when $x-123=0$, so $x=123$. Therefore, the greatest product obtainable is $-(123-123)^2+15129=\\boxed{15129}$.",
-    "gpt_response": "Hmm, let's see. To find the greatest product of two numbers, we need to think about how we can add two numbers together to get 246. So, if we have two numbers that add up to 246, we want to think about how we can multiply them to get the biggest number possible. Let's count and see which two numbers would work!",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 15129?: Hmm, let's see. To find the greatest product of two numbers, we need to think about how we can add two numbers together to get 246. So, if we have two numbers that add up to 246, we want to think about how we can multiply them to get the biggest number possible. Let's count and see which two numbers would work!",
-    "gpt_response_correct_incorrect": "No.",
-    "yes_no": "no"
-}

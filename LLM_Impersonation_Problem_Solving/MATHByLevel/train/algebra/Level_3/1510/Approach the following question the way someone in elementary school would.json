@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in elementary school would. ",
-    "problem_prompt": "Approach the following question the way someone in elementary school would. Compute $\\frac{x^6-16x^3+64}{x^3-8}$ when $x=6$.",
-    "solution": "Note that $\\left(x^3-8\\right)^2=x^6-16x^3+64$. So $\\frac{x^6-16x^3+64}{x^3-8}=\\frac{\\left(x^3-8\\right)^2}{x^3-8}=x^3-8$. So, the answer is $6^3-8=216-8=\\boxed{208}$.",
-    "gpt_response": "To solve this problem, we need to substitute $x=6$ into the expression. \n\nFirst, we replace the $x$'s in the expression with 6:\n$\\frac{6^6-16(6)^3+64}{6^3-8}$\n\nNext, we simplify:\n$\\frac{46656-16(216)+64}{216-8}$\n$\\frac{46656-3456+64}{208}$\n$\\frac{43264}{208}$\n\nFinally, we divide to get the final result:\n$208$\n\nSo, when $x=6$, the expression equals $208$.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 208?: To solve this problem, we need to substitute $x=6$ into the expression. \n\nFirst, we replace the $x$'s in the expression with 6:\n$\\frac{6^6-16(6)^3+64}{6^3-8}$\n\nNext, we simplify:\n$\\frac{46656-16(216)+64}{216-8}$\n$\\frac{46656-3456+64}{208}$\n$\\frac{43264}{208}$\n\nFinally, we divide to get the final result:\n$208$\n\nSo, when $x=6$, the expression equals $208$.",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

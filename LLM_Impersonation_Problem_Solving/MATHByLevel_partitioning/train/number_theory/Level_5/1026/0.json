@@ -1,8 +1,0 @@
-{
-    "problem_prompt": "Your job is to consider a number theory problem, and leave a plan for the next person to solve it. The problem will be revealed one sentence at a time. You do not have the entire problem yet, thus just do whatever calcluations/planning you think will be useful for the next person. If you don't think you can make any progress, say so. The following is a portion of the entire problem, and the work/progress/message the previous person left for you. There may be errors in the provided work that was previously done and left for you, so check and fix them if necessary.\nLucy was born on Wednesday, December 1st, 2004.\n",
-    "solution": "Since there are 7 days in a week, Lucy's 1st day, 8th day, 15th day, 22nd day, etc. were on Wednesday. When $1000$ is divided by $7$, the remainder is $6$. Therefore, the 1002nd day was a Wednesday (since 1002 is one more than a multiple of 7).  So the 1000th day, was two days earlier on a $\\boxed{\\text{Monday}}$.",
-    "gpt_response": "Lucy's birthday falls on the 1st of December, 2004. Let's first calculate the day of the week for December 1, 2004. We can use Zeller's Congruence formula to calculate the day of the week.",
-    "solution_prompt": "Question partition not complete yet",
-    "gpt_response_correct_incorrect": "Question partition not complete yet",
-    "yes_no": "Question partition not complete yet"
-}

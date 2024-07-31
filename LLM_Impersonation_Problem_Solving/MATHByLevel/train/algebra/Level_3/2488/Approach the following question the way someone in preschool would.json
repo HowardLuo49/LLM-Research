@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in preschool would. ",
-    "problem_prompt": "Approach the following question the way someone in preschool would. Simplify the following expression: $(x^5+x^4+x+10)-(x^5+2x^4-x^3+12).$ Express your answer as a polynomial with the degrees of the terms in decreasing order.",
-    "solution": "We have \\begin{align*}\n&(x^5+x^4+x+10)-(x^5+2x^4-x^3+12)\\\\\n&=(1-1)x^5+(1-2)x^4+(0-(-1))x^3+(1-0)x+(10-12)\\\\\n&=\\boxed{-x^4+x^3+x-2}\n\\end{align*}",
-    "gpt_response": "Okay, let's take away the parentheses first and see what's left. \n\nWe have: $x^5 + x^4 + x + 10 - x^5 - 2x^4 + x^3 - 12.$ \n\nNow, let's combine like terms. \n\nThe $x^5$ terms cancel out, the $x^4$ terms combine to give $-x^4$, the $x^3$ term stays the same, the $x$ terms cancel out, and the constant terms combine to give $-2.$ \n\nSo, our final answer is: $-x^4 + x^3 - 2.$",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to -x^4+x^3+x-2?: Okay, let's take away the parentheses first and see what's left. \n\nWe have: $x^5 + x^4 + x + 10 - x^5 - 2x^4 + x^3 - 12.$ \n\nNow, let's combine like terms. \n\nThe $x^5$ terms cancel out, the $x^4$ terms combine to give $-x^4$, the $x^3$ term stays the same, the $x$ terms cancel out, and the constant terms combine to give $-2.$ \n\nSo, our final answer is: $-x^4 + x^3 - 2.$",
-    "gpt_response_correct_incorrect": "No",
-    "yes_no": "no"
-}

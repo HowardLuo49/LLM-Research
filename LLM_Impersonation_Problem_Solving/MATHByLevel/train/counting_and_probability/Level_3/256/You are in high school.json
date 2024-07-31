@@ -1,7 +1,0 @@
-{
-    "prefix": "You are in high school.\n",
-    "problem_prompt": "You are in high school.\nWhat is the second smallest four-digit number in Pascal's triangle?",
-    "solution": "Every positive integer appears in Pascal's triangle! The number 1000 appears in the row that starts 1, 1000. Then 1001 appears in the next row. So, the answer is $\\boxed{1001}$.",
-    "gpt_response": "ChatCompletion(id='chatcmpl-9A2TgA6m82TNx2s14eMQ6IotHCnZV', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content=\"The second smallest four-digit number in Pascal's triangle is 1001, which can be found in the 10th row of the triangle.\", role='assistant', function_call=None, tool_calls=None))], created=1712179832, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint='fp_b28b39ffa8', usage=CompletionUsage(completion_tokens=29, prompt_tokens=26, total_tokens=55))",
-    "yes_no": "yes"
-}

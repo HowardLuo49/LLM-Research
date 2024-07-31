@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in high school would. ",
-    "problem_prompt": "Approach the following question the way someone in high school would. The decimal $0.76$ is equal to the fraction $\\frac{4b+19}{6b+11}$, where $b$ is a positive integer. What is the value of $b$?",
-    "solution": "Setting $\\frac{4b+19}{6b+11}$ equal to $0.76=\\frac{76}{100}=\\frac{19}{25}$, we have \\begin{align*} \\frac{4b+19}{6b+11}&=\\frac{19}{25}\n\\\\\\Rightarrow\\qquad 25(4b+19)&=19(6b+11)\n\\\\\\Rightarrow\\qquad 100b+475&=114b+209\n\\\\\\Rightarrow\\qquad -14b&=-266\n\\\\\\Rightarrow\\qquad b&=\\boxed{19}\n\\end{align*}.",
-    "gpt_response": "To solve this problem, we first convert the decimal 0.76 into a fraction. Since 0.76 can be written as 76/100, it simplifies to 19/25.\n\nNow, we have the equation 19/25 = (4b + 19)/(6b + 11).\n\nTo find the value of b, we can cross multiply. This gives us:\n19(6b + 11) = 25(4b + 19)\n\nExpanding both sides gives us:\n114b + 209 = 100b + 475\n\nRearranging the equation gives us:\n114b - 100b = 475 - 209\n14b = 266\n\nDividing both sides by 14 gives us:\nb = 19\n\nTherefore, the value of b is 19.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 19?: To solve this problem, we first convert the decimal 0.76 into a fraction. Since 0.76 can be written as 76/100, it simplifies to 19/25.\n\nNow, we have the equation 19/25 = (4b + 19)/(6b + 11).\n\nTo find the value of b, we can cross multiply. This gives us:\n19(6b + 11) = 25(4b + 19)\n\nExpanding both sides gives us:\n114b + 209 = 100b + 475\n\nRearranging the equation gives us:\n114b - 100b = 475 - 209\n14b = 266\n\nDividing both sides by 14 gives us:\nb = 19\n\nTherefore, the value of b is 19.",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

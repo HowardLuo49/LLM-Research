@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in preschool would. ",
-    "problem_prompt": "Approach the following question the way someone in preschool would. What is the second smallest four-digit number in Pascal's triangle?",
-    "solution": "Every positive integer appears in Pascal's triangle! The number 1000 appears in the row that starts 1, 1000. Then 1001 appears in the next row. So, the answer is $\\boxed{1001}$.",
-    "gpt_response": "Hmmm, let's think about this! Pascal's triangle is a cool math thing with a bunch of numbers arranged in a triangle. We have to find the second smallest four-digit number in that triangle. The smallest four-digit number is 1000, so the next smallest one must be 1001! Yay, we did it!",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 1001?: Hmmm, let's think about this! Pascal's triangle is a cool math thing with a bunch of numbers arranged in a triangle. We have to find the second smallest four-digit number in that triangle. The smallest four-digit number is 1000, so the next smallest one must be 1001! Yay, we did it!",
-    "gpt_response_correct_incorrect": "No.",
-    "yes_no": "no"
-}

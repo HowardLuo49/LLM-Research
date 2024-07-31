@@ -1,7 +1,0 @@
-{
-    "prefix": "You are in high school.\n",
-    "problem_prompt": "You are in high school.\nTwo cards are dealt at random from a standard deck of 52 cards (13 hearts, 13 clubs, 13 spades, and 13 diamonds).  What is the probability that the first card is a 6 and the second card is a Queen?",
-    "solution": "The probability that the first card is a 6 is $\\dfrac{1}{13}$.  There are then 51 cards remaining, so the probability the second card is a Queen is $\\dfrac{4}{51}$.  The answer is then $\\dfrac{1}{13} \\times \\dfrac{4}{51} = \\boxed{\\dfrac{4}{663}}$.",
-    "gpt_response": "ChatCompletion(id='chatcmpl-9A2i9b5j2vVQeW9FG5mvHxjBWu3IM', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='There are 4 sixes in a standard deck of 52 cards, so the probability of drawing a 6 as the first card is 4/52 or 1/13.\\n\\nAfter removing the first card, there are now 51 cards left in the deck, including 4 Queens. So the probability of drawing a Queen as the second card is 4/51.\\n\\nTo find the probability of both events happening, we multiply the individual probabilities:\\n\\n(1/13) * (4/51) = 4/663\\n\\nTherefore, the probability that the first card is a 6 and the second card is a Queen is 4/663 or approximately 0.00603.', role='assistant', function_call=None, tool_calls=None))], created=1712180729, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint='fp_b28b39ffa8', usage=CompletionUsage(completion_tokens=141, prompt_tokens=66, total_tokens=207))",
-    "yes_no": "no"
-}

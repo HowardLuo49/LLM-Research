@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in elementary school would. ",
-    "problem_prompt": "Approach the following question the way someone in elementary school would. How many triangles can be formed using the vertices of a regular dodecagon (a 12-sided polygon)?",
-    "solution": "No three vertices are collinear, so any combination of 3 vertices will make a triangle. Choosing 3 out of 12 is $\\binom{12}{3}=\\boxed{220}.$",
-    "gpt_response": "Let's count together! A regular dodecagon has 12 sides. To form a triangle, we need to pick 3 vertices. So, we can choose 3 vertices out of 12 in 12C3 ways. Let's calculate it!\n\n12C3 = 12! / (3! * (12-3)!) = 220\n\nSo, we can form 220 triangles using the vertices of a regular dodecagon. Yay!",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 220?: Let's count together! A regular dodecagon has 12 sides. To form a triangle, we need to pick 3 vertices. So, we can choose 3 vertices out of 12 in 12C3 ways. Let's calculate it!\n\n12C3 = 12! / (3! * (12-3)!) = 220\n\nSo, we can form 220 triangles using the vertices of a regular dodecagon. Yay!",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

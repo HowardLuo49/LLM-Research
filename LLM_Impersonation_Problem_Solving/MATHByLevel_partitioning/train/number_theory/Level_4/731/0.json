@@ -1,8 +1,0 @@
-{
-    "problem_prompt": "Your job is to consider a number theory problem, and leave a plan for the next person to solve it. The problem will be revealed one sentence at a time. You do not have the entire problem yet, thus just do whatever calcluations/planning you think will be useful for the next person. If you don't think you can make any progress, say so. The following is a portion of the entire problem, and the work/progress/message the previous person left for you. There may be errors in the provided work that was previously done and left for you, so check and fix them if necessary.\nEleanor is making chocolate chip cookies for her friends.\n",
-    "solution": "If Eleanor made $N$ cookies, we know from the first requirement that $N = 11x + 4$ for some integer $x,$ and from the second requirement we know that $N = 7y+1$ for some integer $y.$ Therefore,  $$11x+4 = 7y+1\\Rightarrow 11x+3 = 7y$$If we list the possible values of $11x+3$ such that $N = 11x+4<100,$ we have $14,$ $25,$ $36,$ $47,$ $58,$ $69,$ $80,$ $91.$ The only members of this list divisible by $7$ are $14$ and $91,$ and so the possible values of $$11x+4 = 7y+1$$are $14+1 = 15$ and $91+1 = 92$, and thus the sum of the possible numbers of cookies is $15+92 =\\boxed{107}.$",
-    "gpt_response": "The number of cookies she wants to make is a perfect square. \n\nLet's start by assuming that Eleanor wants to make a total of n chocolate chip cookies.",
-    "solution_prompt": "Question partition not complete yet",
-    "gpt_response_correct_incorrect": "Question partition not complete yet",
-    "yes_no": "Question partition not complete yet"
-}

@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in high school would. ",
-    "problem_prompt": "Approach the following question the way someone in high school would. Find the sum of the solutions of the equation $-32x^2 + 84x + 135=0$.",
-    "solution": "If you solved this problem by finding the solutions to the equation, go back and read the section again.  The sum of the roots is $-b/a$, where $b$ is the coefficient of the linear term and $a$ is the coefficient of the quadratic term.  So, the desired sum is $-(84)/(-32)=\\boxed{\\frac{21}{8}}$.",
-    "gpt_response": "To find the sum of the solutions of the equation $-32x^2 + 84x + 135=0$, we need to first identify the coefficients of the polynomial: $a = -32$, $b = 84$, and $c = 135$.\n\nThen, we use the formula to find the sum of the solutions:\n$$\\text{Sum of solutions} = \\frac{-b}{a}$$\n\nPlugging in the values of $a$ and $b$:\n$$\\text{Sum of solutions} = \\frac{-84}{-32} = \\frac{84}{32} = \\frac{21}{8}$$\n\nTherefore, the sum of the solutions of the equation is $\\frac{21}{8}$.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to \\frac{21?: To find the sum of the solutions of the equation $-32x^2 + 84x + 135=0$, we need to first identify the coefficients of the polynomial: $a = -32$, $b = 84$, and $c = 135$.\n\nThen, we use the formula to find the sum of the solutions:\n$$\\text{Sum of solutions} = \\frac{-b}{a}$$\n\nPlugging in the values of $a$ and $b$:\n$$\\text{Sum of solutions} = \\frac{-84}{-32} = \\frac{84}{32} = \\frac{21}{8}$$\n\nTherefore, the sum of the solutions of the equation is $\\frac{21}{8}$.",
-    "gpt_response_correct_incorrect": "No",
-    "yes_no": "no"
-}

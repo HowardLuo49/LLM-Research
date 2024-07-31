@@ -1,8 +1,0 @@
-{
-    "problem_prompt": "Your job is to consider a number theory problem, and leave a plan for the next person to solve it. The problem will be revealed one sentence at a time. You do not have the entire problem yet, thus just do whatever calcluations/planning you think will be useful for the next person. If you don't think you can make any progress, say so. The following is a portion of the entire problem, and the work/progress/message the previous person left for you. There may be errors in the provided work that was previously done and left for you, so check and fix them if necessary.\nWhat is the greatest prime factor of $12!+ 14!$?\nGiven that $12! = 12 \\times 11 \\times 10 \\times 9 \\times 8 \\times 7 \\times 6 \\times 5 \\times 4 \\times 3 \\times 2 \\times 1$, we can clearly see that $12!$ is divisible by $11$, $7$, $5$, $3$ and $2$.\nCalculating the prime factorization of $12!$, we have $12! = 2^{10} \\times 3^5 \\times 5^2 \\times 7 \\times 11$.",
-    "solution": "Factor out $12!$ from both terms: $12!+14!=12!(1+13\\cdot 14)=12!\\cdot 183$.  Factor $183=3\\cdot 61$.  Since $12!$ has no prime factors greater than 11, $\\boxed{61}$ is the greatest prime factor of $12!+14!$.",
-    "gpt_response": "Next, we can consider the expression $14!$. Since $14! = 14 \\times 13 \\times 12!$, we can factor out $12!$ from the expression to get $14! = 14 \\times 13 \\times 12!$. Substituting the prime factorization of $12!$ in, we have $14! = 14 \\times 13 \\times 2^{10} \\times 3^5 \\times 5^2 \\times 7 \\times 11$.",
-    "solution_prompt": "Question partition not complete yet",
-    "gpt_response_correct_incorrect": "Question partition not complete yet",
-    "yes_no": "Question partition not complete yet"
-}

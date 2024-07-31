@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in preschool would. ",
-    "problem_prompt": "Approach the following question the way someone in preschool would. What is the sum of all values of $z$ such that $z^2=12z-7$?",
-    "solution": "We can rewrite $z^2=12z-7$ as $z^2-12z+7=0$. Because the sum of the roots of a quadratic is $\\dfrac{-b}{a}$, we know that the sum of all values of $z$ such that $z^2-12z+7=0$ is $\\dfrac{-(-12)}{1}=\\boxed{12}$.",
-    "gpt_response": "Hmm, to figure this out, I think we need to find the number that we can square to get 12 times that number minus 7. Maybe if we count up by 1 starting from 1, we can find the number that works. Let's see... 1 squared is 1, 2 squared is 4, 3 squared is 9, 4 squared is 16... Wait a minute! I think I found it! The number we're looking for is 4 because 4 squared is 16 and if we take 12 times 4 and subtract 7, we get 48 minus 7 which is 41! So the sum of all values of z that work for this equation is 4. Yay, I did it!",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 12?: Hmm, to figure this out, I think we need to find the number that we can square to get 12 times that number minus 7. Maybe if we count up by 1 starting from 1, we can find the number that works. Let's see... 1 squared is 1, 2 squared is 4, 3 squared is 9, 4 squared is 16... Wait a minute! I think I found it! The number we're looking for is 4 because 4 squared is 16 and if we take 12 times 4 and subtract 7, we get 48 minus 7 which is 41! So the sum of all values of z that work for this equation is 4. Yay, I did it!",
-    "gpt_response_correct_incorrect": "No",
-    "yes_no": "no"
-}

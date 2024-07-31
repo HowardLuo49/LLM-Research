@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
-    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. Quantities $r$ and $s$ vary inversely. When $r$ is $1200,$ $s$ is $0.35.$ What is the value of $s$ when $r$ is $2400$? Express your answer as a decimal to the nearest thousandths.",
-    "solution": "Since $r$ and $s$ vary inversely, $r\\cdot s$ must be a constant.  Thus $1200\\cdot .35 = s \\cdot 2400 \\Rightarrow s = \\frac{.35}2 = \\boxed{.175}$.",
-    "gpt_response": "Given that $r$ and $s$ vary inversely, we can write the relationship as $r \\cdot s = k$ where $k$ is a constant. \n\nPlugging in the values when $r = 1200$ and $s = 0.35$, we get $1200 \\cdot 0.35 = k$. Therefore, $k = 420$. \n\nSo the equation relating $r$ and $s$ is $r \\cdot s = 420$.\n\nWe are asked to find the value of $s$ when $r = 2400$. Plugging in $r = 2400$ into the equation, we get $2400 \\cdot s = 420$. Solving for $s$, we find $s = \\frac{420}{2400} = 0.175$. \n\nTherefore, when $r = 2400$, $s$ is approximately $0.175$ to the nearest thousandths.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to .175?: Given that $r$ and $s$ vary inversely, we can write the relationship as $r \\cdot s = k$ where $k$ is a constant. \n\nPlugging in the values when $r = 1200$ and $s = 0.35$, we get $1200 \\cdot 0.35 = k$. Therefore, $k = 420$. \n\nSo the equation relating $r$ and $s$ is $r \\cdot s = 420$.\n\nWe are asked to find the value of $s$ when $r = 2400$. Plugging in $r = 2400$ into the equation, we get $2400 \\cdot s = 420$. Solving for $s$, we find $s = \\frac{420}{2400} = 0.175$. \n\nTherefore, when $r = 2400$, $s$ is approximately $0.175$ to the nearest thousandths.",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in elementary school would. ",
-    "problem_prompt": "Approach the following question the way someone in elementary school would. What is the greater of the solutions to the equation $x^2 + 15x -54=0$?",
-    "solution": "We can find the roots of this equation by factoring the quadratic as $(x + 18)(x - 3) = 0$. This gives us the solutions $x = -18$ or $x = 3$. We want the greater solution, so our answer is $\\boxed{3}$.",
-    "gpt_response": "To find the greater solution, we need to first solve the equation $x^2 + 15x - 54 = 0$.\n\nWe can factor the equation as $(x+18)(x-3) = 0$. So, the solutions are $x=3$ and $x=-18$.\n\nSince 3 is greater than -18, the greater solution is 3.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 3?: To find the greater solution, we need to first solve the equation $x^2 + 15x - 54 = 0$.\n\nWe can factor the equation as $(x+18)(x-3) = 0$. So, the solutions are $x=3$ and $x=-18$.\n\nSince 3 is greater than -18, the greater solution is 3.",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

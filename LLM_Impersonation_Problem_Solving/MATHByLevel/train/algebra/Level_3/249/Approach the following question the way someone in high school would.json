@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in high school would. ",
-    "problem_prompt": "Approach the following question the way someone in high school would. What is the greatest product obtainable from two integers whose sum is 1998?",
-    "solution": "Let the two integers be $x$ and $1998-x$. The product which needs to be maximized is $1998x-x^2$. Completing the square results in $-(x-999)^2+999^2$. Since $-(x-999)^2\\le 0$, the expression is maximized when $x=999$, which results in a value of $999^2=\\boxed{998001}$.",
-    "gpt_response": "If the sum of two integers is 1998, we need to find the two integers that add up to 1998 and then multiply them to find the greatest product. \n\nLet's call the two integers x and y. \n\nWe know that x + y = 1998. \n\nTo find the greatest product, we can use a little trial and error. \n\nLet's start by trying numbers close to 999 (half of 1998) to get the closest sum. \n\nIf x = 999, then y = 1998 - 999 = 999. \n\nThe product of 999 and 999 is 999 x 999 = 998001. \n\nSo, the greatest product obtainable from two integers whose sum is 1998 is 998001.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 998001?: If the sum of two integers is 1998, we need to find the two integers that add up to 1998 and then multiply them to find the greatest product. \n\nLet's call the two integers x and y. \n\nWe know that x + y = 1998. \n\nTo find the greatest product, we can use a little trial and error. \n\nLet's start by trying numbers close to 999 (half of 1998) to get the closest sum. \n\nIf x = 999, then y = 1998 - 999 = 999. \n\nThe product of 999 and 999 is 999 x 999 = 998001. \n\nSo, the greatest product obtainable from two integers whose sum is 1998 is 998001.",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

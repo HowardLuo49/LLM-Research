@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in high school would. ",
-    "problem_prompt": "Approach the following question the way someone in high school would. What is the value of $y$ in the equation $\\frac{30}{50}=\\sqrt{\\frac{y}{50}}$?",
-    "solution": "Squaring both sides, we have $\\frac{30^2}{50^2}=\\frac{y}{50}$. Solving for $y$ yields $y=900/50=\\boxed{18}$.",
-    "gpt_response": "To find the value of $y$ in the equation $\\frac{30}{50}=\\sqrt{\\frac{y}{50}}$, we first simplify the left side by dividing 30 by 50, which equals 0.6. \n\nNext, we square both sides of the equation to get rid of the square root. So, $0.6^2 = \\frac{y}{50}$.\n\nSquaring 0.6 gives us 0.36. So, $\\frac{y}{50} = 0.36$.\n\nMultiplying both sides by 50, we get $y = 18$.\n\nTherefore, the value of $y$ in the equation is 18.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 18?: To find the value of $y$ in the equation $\\frac{30}{50}=\\sqrt{\\frac{y}{50}}$, we first simplify the left side by dividing 30 by 50, which equals 0.6. \n\nNext, we square both sides of the equation to get rid of the square root. So, $0.6^2 = \\frac{y}{50}$.\n\nSquaring 0.6 gives us 0.36. So, $\\frac{y}{50} = 0.36$.\n\nMultiplying both sides by 50, we get $y = 18$.\n\nTherefore, the value of $y$ in the equation is 18.",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in preschool would. ",
-    "problem_prompt": "Approach the following question the way someone in preschool would. Expand the following product: $\\frac{2}{5}\\left(\\frac{5}{x} + 10x^2\\right)$.",
-    "solution": "We apply the distributive property to get:\\begin{align*}\n\\frac{2}{5}\\left(\\frac{5}{x}+10x^2\\right)&= \\frac{2}{5}\\cdot\\frac{5}{x}+\\frac{2}{5}\\cdot 10x^2\\\\\n&= \\boxed{\\frac{2}{x} + 4x^2}.\n\\end{align*}",
-    "gpt_response": "First, we need to remember that fractions are like sharing things. Let's share the number 2 in half and then take 5 parts of it. That's $\\frac{2}{5}$. Now, we have two things to share: $\\frac{5}{x}$ and $10x^2$. Let's put them in a basket and see how we can share them. We can share the first one by splitting it into x pieces and the second one by splitting it into 10 groups of $x^2$. Let's work together to see how many pieces each person gets.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to \\frac{2?: First, we need to remember that fractions are like sharing things. Let's share the number 2 in half and then take 5 parts of it. That's $\\frac{2}{5}$. Now, we have two things to share: $\\frac{5}{x}$ and $10x^2$. Let's put them in a basket and see how we can share them. We can share the first one by splitting it into x pieces and the second one by splitting it into 10 groups of $x^2$. Let's work together to see how many pieces each person gets.",
-    "gpt_response_correct_incorrect": "No.",
-    "yes_no": "no"
-}

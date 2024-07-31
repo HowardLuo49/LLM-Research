@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in high school would. ",
-    "problem_prompt": "Approach the following question the way someone in high school would. If $g(x) = 2x^2+2x-1$, what is the value of $g(g(2))$?",
-    "solution": "We have $g(2) = 2(2^2) + 2(2) - 1 = 8+4-1=11$, so \\[g(g(2)) = g(11) = 2(11)^2 +2(11) -1 = 242 +22 -1 =\\boxed{263}.\\]",
-    "gpt_response": "First, let's find g(2):\ng(2) = 2(2)^2 + 2(2) - 1\ng(2) = 2(4) + 4 - 1\ng(2) = 8 + 4 - 1\ng(2) = 11\n\nNow, let's find g(g(2)):\ng(g(2)) = g(11)\ng(11) = 2(11)^2 + 2(11) - 1\ng(11) = 2(121) + 22 - 1\ng(11) = 242 + 22 - 1\ng(11) = 264 - 1\ng(11) = 263\n\nSo, the value of g(g(2)) is 263.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 263?: First, let's find g(2):\ng(2) = 2(2)^2 + 2(2) - 1\ng(2) = 2(4) + 4 - 1\ng(2) = 8 + 4 - 1\ng(2) = 11\n\nNow, let's find g(g(2)):\ng(g(2)) = g(11)\ng(11) = 2(11)^2 + 2(11) - 1\ng(11) = 2(121) + 22 - 1\ng(11) = 242 + 22 - 1\ng(11) = 264 - 1\ng(11) = 263\n\nSo, the value of g(g(2)) is 263.",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

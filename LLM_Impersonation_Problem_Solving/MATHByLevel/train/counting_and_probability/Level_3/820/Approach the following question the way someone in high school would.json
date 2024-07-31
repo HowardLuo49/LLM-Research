@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in high school would. ",
-    "problem_prompt": "Approach the following question the way someone in high school would. Two different  numbers are selected simultaneously and at random from the set $\\{1, 2, 3, 4, 5, 6, 7\\}$. What is the probability that the positive difference between the two numbers is $2$ or greater? Express your answer as a common fraction.",
-    "solution": "The only time the two numbers selected will not have a positive difference which is 2 or greater is when the two numbers are consecutive. There are 6 pairs of consecutive numbers in the set $\\{1,2,3,4,5,6,7\\}$, and there are $\\binom{7}{2}=21$ pairs of numbers total. So, the probability that the pair of numbers chosen is not consecutive is $1-\\frac{6}{21}=\\frac{15}{21}=\\boxed{\\frac{5}{7}}$.",
-    "gpt_response": "Ok, so we need to figure out all the pairs of numbers that have a positive difference of 2 or greater. Let's list them out:\n\n1. (1, 3)\n2. (3, 1)\n3. (1, 4)\n4. (4, 1)\n5. (2, 4)\n6. (4, 2)\n7. (3, 5)\n8. (5, 3)\n9. (4, 6)\n10. (6, 4)\n11. (5, 7)\n12. (7, 5)\n\nSo there are 12 pairs out of $\\binom{7}{2} = 21$ possible pairs that have a positive difference of 2 or greater. Therefore, the probability is $\\frac{12}{21} = \\boxed{\\frac{4}{7}}$.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to \\frac{5?: Ok, so we need to figure out all the pairs of numbers that have a positive difference of 2 or greater. Let's list them out:\n\n1. (1, 3)\n2. (3, 1)\n3. (1, 4)\n4. (4, 1)\n5. (2, 4)\n6. (4, 2)\n7. (3, 5)\n8. (5, 3)\n9. (4, 6)\n10. (6, 4)\n11. (5, 7)\n12. (7, 5)\n\nSo there are 12 pairs out of $\\binom{7}{2} = 21$ possible pairs that have a positive difference of 2 or greater. Therefore, the probability is $\\frac{12}{21} = \\boxed{\\frac{4}{7}}$.",
-    "gpt_response_correct_incorrect": "No",
-    "yes_no": "no"
-}

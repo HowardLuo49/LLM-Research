@@ -1,7 +1,0 @@
-{
-    "prefix": "You have a PhD in mathematics.\n",
-    "problem_prompt": "You have a PhD in mathematics.\nMahmoud tosses three coins. What is the probability that he will get at least one head?",
-    "solution": "We compute the probability that Mahmoud flips three tails and subtract from 1. The probability that Mahmoud flips one tail with one coin is $\\frac{1}{2}$, so the probability that he flips three tails is $\\left(\\frac{1}{2}\\right)^3 = \\frac{1}{8}$. The probability that he gets at least one head is $1- \\frac{1}{8}= \\boxed{\\frac{7}{8}}$.",
-    "gpt_response": "ChatCompletion(id='chatcmpl-9A2fKD5Z1PtygvbtvBuuQJ5176HBd', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='To find the probability that Mahmoud will get at least one head when tossing three coins, we can calculate the probability of getting all tails and then subtracting that from 1.\\n\\nThe probability of getting all tails when tossing a single coin is 1/2 (since there are 2 possible outcomes - head or tail).\\n\\nTherefore, the probability of getting all tails when tossing three coins is (1/2)^3 = 1/8.\\n\\nSo, the probability of getting at least one head when tossing three coins is 1 - 1/8 = 7/8 or 87.5%.', role='assistant', function_call=None, tool_calls=None))], created=1712180554, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint='fp_b28b39ffa8', usage=CompletionUsage(completion_tokens=122, prompt_tokens=35, total_tokens=157))",
-    "yes_no": "yes"
-}

@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in high school would. ",
-    "problem_prompt": "Approach the following question the way someone in high school would. Evaluate the expression $\\left\\lceil{\\frac54}\\right\\rceil+\\left\\lfloor{-\\frac54}\\right\\rfloor$.",
-    "solution": "$1<\\frac54<2$, so the smallest integer greater than or equal to $\\frac54$ is $2$. Similarly, $-2<-\\frac54<-1$, so the largest integer less than or equal to $-\\frac54$ is $-2$. The original expression, $\\left\\lceil{\\frac54}\\right\\rceil+\\left\\lfloor{-\\frac54}\\right\\rfloor$, is equal to the sum of the two, which is just $2+(-2)=\\boxed{0}$.",
-    "gpt_response": "To evaluate this expression, we need to find the ceiling of $\\frac{5}{4}$ and the floor of $-\\frac{5}{4}$. \n\nThe ceiling of $\\frac{5}{4}$ is the smallest integer greater than or equal to $\\frac{5}{4}$, which is $2$. \n\nThe floor of $-\\frac{5}{4}$ is the largest integer less than or equal to $-\\frac{5}{4}$, which is $-2$.\n\nTherefore, $\\left\\lceil{\\frac54}\\right\\rceil+\\left\\lfloor{-\\frac54}\\right\\rfloor = 2 + (-2) = 0$. \n\nSo, the value of the expression is $0$.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 0?: To evaluate this expression, we need to find the ceiling of $\\frac{5}{4}$ and the floor of $-\\frac{5}{4}$. \n\nThe ceiling of $\\frac{5}{4}$ is the smallest integer greater than or equal to $\\frac{5}{4}$, which is $2$. \n\nThe floor of $-\\frac{5}{4}$ is the largest integer less than or equal to $-\\frac{5}{4}$, which is $-2$.\n\nTherefore, $\\left\\lceil{\\frac54}\\right\\rceil+\\left\\lfloor{-\\frac54}\\right\\rfloor = 2 + (-2) = 0$. \n\nSo, the value of the expression is $0$.",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

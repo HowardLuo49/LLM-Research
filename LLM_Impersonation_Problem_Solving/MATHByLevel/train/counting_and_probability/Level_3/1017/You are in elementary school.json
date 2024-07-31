@@ -1,7 +1,0 @@
-{
-    "prefix": "You are in elementary school.\n",
-    "problem_prompt": "You are in elementary school.\nThree cards are dealt at random from a standard deck of 52 cards.  What is the probability that the first card is a Jack, the second card is a Queen, and the third card is a King? Assuming the dealing is done without replacement.",
-    "solution": "The probability is $\\dfrac{4}{52} \\times \\dfrac{4}{51} \\times \\dfrac{4}{50} = \\boxed{\\frac{8}{16575}}$.",
-    "gpt_response": "ChatCompletion(id='chatcmpl-9A2UxuQk7BYpEJ2bQiLNi79uPoDn3', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='There is only 1 Jack, 1 Queen, and 1 King in a standard deck of 52 cards.\\n\\nThe probability of the first card being a Jack is 1/52.\\nAfter that, there are 51 cards left, so the probability of the second card being a Queen is 1/51.\\nFinally, there are 50 cards remaining, so the probability of the third card being a King is 1/50.\\n\\nTo find the overall probability, we multiply these probabilities together: (1/52) x (1/51) x (1/50) = 1/(52 x 51 x 50) = 1/132600.\\n\\nTherefore, the probability that the first card is a Jack, the second card is a Queen, and the third card is a King is 1/132600.', role='assistant', function_call=None, tool_calls=None))], created=1712179911, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint='fp_b28b39ffa8', usage=CompletionUsage(completion_tokens=171, prompt_tokens=64, total_tokens=235))",
-    "yes_no": "no"
-}

@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
-    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. Evaluate $\\left\\lceil3\\left(6-\\frac12\\right)\\right\\rceil$.",
-    "solution": "Firstly, $3\\left(6-\\frac12\\right)=18-1-\\frac12=17-\\frac12$.  Because $0\\le\\frac12<1$, we have $\\left\\lceil17-\\frac12\\right\\rceil=\\boxed{17}$.",
-    "gpt_response": "To evaluate the given expression, we first need to simplify the inner expression inside the ceiling function.\n\n$\\left\\lceil3\\left(6-\\frac12\\right)\\right\\rceil = \\left\\lceil3\\left(\\frac{11}{2}\\right)\\right\\rceil = \\left\\lceil\\frac{33}{2}\\right\\rceil$\n\nTo evaluate the ceiling function of an expression, we need to determine the smallest integer greater than or equal to that expression. In this case, the smallest integer greater than or equal to $\\frac{33}{2}$ is 17.\n\nTherefore, $\\left\\lceil3\\left(6-\\frac12\\right)\\right\\rceil = 17$.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 17?: To evaluate the given expression, we first need to simplify the inner expression inside the ceiling function.\n\n$\\left\\lceil3\\left(6-\\frac12\\right)\\right\\rceil = \\left\\lceil3\\left(\\frac{11}{2}\\right)\\right\\rceil = \\left\\lceil\\frac{33}{2}\\right\\rceil$\n\nTo evaluate the ceiling function of an expression, we need to determine the smallest integer greater than or equal to that expression. In this case, the smallest integer greater than or equal to $\\frac{33}{2}$ is 17.\n\nTherefore, $\\left\\lceil3\\left(6-\\frac12\\right)\\right\\rceil = 17$.",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

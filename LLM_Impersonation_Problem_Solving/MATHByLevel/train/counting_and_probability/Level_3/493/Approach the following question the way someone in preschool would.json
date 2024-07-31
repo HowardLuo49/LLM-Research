@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in preschool would. ",
-    "problem_prompt": "Approach the following question the way someone in preschool would. Determine the number of ways to arrange the letters of the word COMBINATION.",
-    "solution": "There are two O's, two I's, two N's and eleven total letters, so the answer is $\\dfrac{11!}{2! \\times 2! \\times 2!} = \\boxed{4,\\!989,\\!600}$.",
-    "gpt_response": "Let's count how many ways we can arrange the letters of the word \"COMBINATION\"! Let's start by saying the letters out loud and then trying to put them in different orders. C-O-M-B-I-N-A-T-I-O-N. Hmm... Let's try putting a different letter first each time and see how many different ways we can make new words. Can you help me count and see how many different ways we can arrange the letters? Let's have fun and see how many words we can come up with!",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 4,\\!989,\\!600?: Let's count how many ways we can arrange the letters of the word \"COMBINATION\"! Let's start by saying the letters out loud and then trying to put them in different orders. C-O-M-B-I-N-A-T-I-O-N. Hmm... Let's try putting a different letter first each time and see how many different ways we can make new words. Can you help me count and see how many different ways we can arrange the letters? Let's have fun and see how many words we can come up with!",
-    "gpt_response_correct_incorrect": "No, the final solution is not 4,989,600.",
-    "yes_no": "no"
-}

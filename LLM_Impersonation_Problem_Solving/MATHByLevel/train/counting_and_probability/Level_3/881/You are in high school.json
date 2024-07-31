@@ -1,7 +1,0 @@
-{
-    "prefix": "You are in high school.\n",
-    "problem_prompt": "You are in high school.\nA box contains 5 white balls and 6 black balls.  Five balls are drawn out of the box at random.  What is the probability that they all are white?",
-    "solution": "There are $\\binom{11}{5} = 462$ ways to choose 5 balls out of the box.  There is only $\\binom{5}{5} = 1$ way to choose 5 white balls out of 5.  This means that the probability that all 5 balls are white is $\\boxed{\\dfrac{1}{462}}$.",
-    "gpt_response": "ChatCompletion(id='chatcmpl-9A2vOvSv1KIWUp44Eb6tuFmRqifcn', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='To find the probability of drawing 5 white balls out of 11 total balls, we need to determine the total number of ways to draw 5 balls from 11, and then the number of ways to draw 5 white balls from 5. \\n\\nTotal number of ways to draw 5 balls from 11: $\\\\binom{11}{5} = 462$\\n\\nNumber of ways to draw 5 white balls from 5: $\\\\binom{5}{5} = 1$\\n\\nSo, the probability of drawing 5 white balls is $\\\\frac{1}{462}$ or approximately 0.0022.', role='assistant', function_call=None, tool_calls=None))], created=1712181550, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint='fp_b28b39ffa8', usage=CompletionUsage(completion_tokens=128, prompt_tokens=49, total_tokens=177))",
-    "yes_no": "yes"
-}

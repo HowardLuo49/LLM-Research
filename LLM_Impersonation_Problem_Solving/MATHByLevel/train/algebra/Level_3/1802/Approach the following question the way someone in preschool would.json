@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in preschool would. ",
-    "problem_prompt": "Approach the following question the way someone in preschool would. In the equation $|x-7| -3 = -2$, what is the product of all possible values of $x$?",
-    "solution": "We rearrange the given equation to $|x-7| = 1$.  Thus either $x-7 = 1$, meaning $x = 8$, or $x-7 = -1$, meaning $x=6$.  Our answer is therefore $6\\cdot 8 = \\boxed{48}$.",
-    "gpt_response": "Hmm, let's see! We have a funny looking equation with some numbers and letters. We need to find out what number 'x' could be to make everything equal. So let's have some fun and solve it!\n\nWe start by adding 3 to both sides of the equation to get rid of that pesky -3. Then we have $|x-7| = 1$. This means that whatever's inside the absolute value signs is either 1 away from 7 or -1 away from 7.\n\nThat means x could be 6 or 8! Let's multiply those two numbers together to find the product. 6 x 8 = 48!\n\nSo the product of all possible values of x in the equation $|x-7| -3 = -2$ is 48! Yay, we did it!",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 48?: Hmm, let's see! We have a funny looking equation with some numbers and letters. We need to find out what number 'x' could be to make everything equal. So let's have some fun and solve it!\n\nWe start by adding 3 to both sides of the equation to get rid of that pesky -3. Then we have $|x-7| = 1$. This means that whatever's inside the absolute value signs is either 1 away from 7 or -1 away from 7.\n\nThat means x could be 6 or 8! Let's multiply those two numbers together to find the product. 6 x 8 = 48!\n\nSo the product of all possible values of x in the equation $|x-7| -3 = -2$ is 48! Yay, we did it!",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in preschool would. ",
-    "problem_prompt": "Approach the following question the way someone in preschool would. A plane is uniquely determined by three non-collinear points. What is the maximum possible number of planes that can be determined by 12 points in space?",
-    "solution": "There are $\\binom{12}{3} = \\boxed{220}$ ways to pick any 3 points, which we assume to determine a unique plane.",
-    "gpt_response": "Wow, that sounds like a tricky question! Let's pretend we have some colorful building blocks to help us figure it out. Imagine we have 12 blocks and we use 3 of them to make a plane. Then we pick another 3 blocks that aren't in a straight line with the first 3 and make another plane. We keep doing this until we can't make any more planes with the remaining blocks. \n\nSo, the maximum number of planes we can make with 12 points in space is 4! You're doing great, keep counting and stacking those blocks!",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 220?: Wow, that sounds like a tricky question! Let's pretend we have some colorful building blocks to help us figure it out. Imagine we have 12 blocks and we use 3 of them to make a plane. Then we pick another 3 blocks that aren't in a straight line with the first 3 and make another plane. We keep doing this until we can't make any more planes with the remaining blocks. \n\nSo, the maximum number of planes we can make with 12 points in space is 4! You're doing great, keep counting and stacking those blocks!",
-    "gpt_response_correct_incorrect": "No, the final solution obtained is not 220.",
-    "yes_no": "no"
-}

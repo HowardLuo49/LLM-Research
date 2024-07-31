@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in elementary school would. ",
-    "problem_prompt": "Approach the following question the way someone in elementary school would. Evaluate $\\left\\lfloor -\\frac{5}{3}\\right\\rfloor.$",
-    "solution": "$-\\frac{5}{3}$ is between $-2$ and $-1$, so $\\left\\lfloor -\\frac{5}{3}\\right\\rfloor = \\boxed{-2}$.",
-    "gpt_response": "To evaluate $\\left\\lfloor -\\frac{5}{3}\\right\\rfloor$, first we need to see what number $-\\frac{5}{3}$ is closest to. Since $-\\frac{5}{3}$ is between $-2$ and $-1$, the greatest integer less than $-\\frac{5}{3}$ is $-2$. So, $\\left\\lfloor -\\frac{5}{3}\\right\\rfloor = -2$.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to -2?: To evaluate $\\left\\lfloor -\\frac{5}{3}\\right\\rfloor$, first we need to see what number $-\\frac{5}{3}$ is closest to. Since $-\\frac{5}{3}$ is between $-2$ and $-1$, the greatest integer less than $-\\frac{5}{3}$ is $-2$. So, $\\left\\lfloor -\\frac{5}{3}\\right\\rfloor = -2$.",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

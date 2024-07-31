@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in preschool would. ",
-    "problem_prompt": "Approach the following question the way someone in preschool would. Consider the function $g(x)=3x-4$.  For what value of $a$ is $g(a)=0$?",
-    "solution": "Since $g(a) = 3a-4$, the equation $g(a)=0$ means $3a-4=0$.  Solving this equation gives $a = \\boxed{\\frac{4}{3}}$.",
-    "gpt_response": "If we want to find the value of $a$ that makes $g(a)=0$, we first need to understand what $g(a)$ means. $g(a)$ is like putting the number $a$ into the function $g(x)$. So we have to find the number $a$ that makes $g(a) equal to $0$.\n\nOK, so if we put the number $a$ into the function $g(x)=3x-4$, we get $g(a)=3a-4$. Now we want to find $a$ when $g(a)=0$. This means $3a-4=0$.\n\nTo solve for $a$, we need to add $4$ to both sides of the equation to get $3a=4$. Then we divide both sides by $3$ to find $a=4/3$. So the value of $a$ that makes $g(a)=0$ is $4/3$. Yay, we did it!",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to \\frac{4?: If we want to find the value of $a$ that makes $g(a)=0$, we first need to understand what $g(a)$ means. $g(a)$ is like putting the number $a$ into the function $g(x)$. So we have to find the number $a$ that makes $g(a) equal to $0$.\n\nOK, so if we put the number $a$ into the function $g(x)=3x-4$, we get $g(a)=3a-4$. Now we want to find $a$ when $g(a)=0$. This means $3a-4=0$.\n\nTo solve for $a$, we need to add $4$ to both sides of the equation to get $3a=4$. Then we divide both sides by $3$ to find $a=4/3$. So the value of $a$ that makes $g(a)=0$ is $4/3$. Yay, we did it!",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

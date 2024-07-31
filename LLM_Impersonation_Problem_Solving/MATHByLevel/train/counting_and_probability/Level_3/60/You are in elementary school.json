@@ -1,7 +1,0 @@
-{
-    "prefix": "You are in elementary school.\n",
-    "problem_prompt": "You are in elementary school.\nA plane is uniquely determined by three non-collinear points. What is the maximum possible number of planes that can be determined by 12 points in space?",
-    "solution": "There are $\\binom{12}{3} = \\boxed{220}$ ways to pick any 3 points, which we assume to determine a unique plane.",
-    "gpt_response": "ChatCompletion(id='chatcmpl-9A2ZdQEhX8iioWicPxBrWGU4iDkoU', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='The maximum possible number of planes that can be determined by 12 points in space is \\\\( {12 \\\\choose 3} = 220 \\\\), because each unique combination of 3 points forms a unique plane.', role='assistant', function_call=None, tool_calls=None))], created=1712180201, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint='fp_b28b39ffa8', usage=CompletionUsage(completion_tokens=43, prompt_tokens=45, total_tokens=88))",
-    "yes_no": "yes"
-}

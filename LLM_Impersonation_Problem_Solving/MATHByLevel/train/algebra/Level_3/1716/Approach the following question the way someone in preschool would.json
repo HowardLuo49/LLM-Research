@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in preschool would. ",
-    "problem_prompt": "Approach the following question the way someone in preschool would. Find the value of $t$ that satisfies $\\frac{1}{t+2} + \\frac{2t}{t+2} - \\frac{3}{t+2} = 3$.",
-    "solution": "Combining the fractions on the left gives $\\dfrac{2t-2}{t+2} = 3$.  Multiplying both sides by $t+2$ gives $2t-2 = 3(t+2)$.  Expanding the right side gives $2t-2 = 3t+6$.  Subtracting $2t$ and 6 from both sides gives $t=\\boxed{-8}$.",
-    "gpt_response": "First, let's look at all the numbers and see if we can find some that are the same. \n\nWe have $\\frac{1}{t+2}$, $\\frac{2t}{t+2}$, and $\\frac{3}{t+2}$. They all have a $t+2$ in the denominator. Maybe we can add them all together to make it easier!\n\nIf we add $\\frac{1}{t+2}$, $\\frac{2t}{t+2}$, and $\\frac{3}{t+2}$, we get $\\frac{1+2t-3}{t+2} = \\frac{2t-2}{t+2}$. \n\nNow we can set that equal to 3 and solve for $t$. \n\n$\\frac{2t-2}{t+2} = 3$\n\n$2t-2 = 3(t+2)$\n\n$2t-2 = 3t+6$\n\n$-2 = t+6$\n\n$t = -8$\n\nSo the value of $t$ that satisfies the equation is $-8$! Yay!",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to -8?: First, let's look at all the numbers and see if we can find some that are the same. \n\nWe have $\\frac{1}{t+2}$, $\\frac{2t}{t+2}$, and $\\frac{3}{t+2}$. They all have a $t+2$ in the denominator. Maybe we can add them all together to make it easier!\n\nIf we add $\\frac{1}{t+2}$, $\\frac{2t}{t+2}$, and $\\frac{3}{t+2}$, we get $\\frac{1+2t-3}{t+2} = \\frac{2t-2}{t+2}$. \n\nNow we can set that equal to 3 and solve for $t$. \n\n$\\frac{2t-2}{t+2} = 3$\n\n$2t-2 = 3(t+2)$\n\n$2t-2 = 3t+6$\n\n$-2 = t+6$\n\n$t = -8$\n\nSo the value of $t$ that satisfies the equation is $-8$! Yay!",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

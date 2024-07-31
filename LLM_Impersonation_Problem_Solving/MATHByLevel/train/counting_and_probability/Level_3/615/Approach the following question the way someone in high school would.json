@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in high school would. ",
-    "problem_prompt": "Approach the following question the way someone in high school would. How many even three digit numbers are there such that the sum of the  tens and units digits is 10?",
-    "solution": "There are nine possible digits that the hundreds digit could be. However, there are only four possible endings for the number: 46, 64, 28, and 82. Thus, there are $9 \\cdot 4 = \\boxed{36}$ such numbers.",
-    "gpt_response": "To find the even three-digit numbers where the sum of the tens and units digits is 10, we can start by listing out the possible combinations that add up to 10. \n\nThe possible combinations are:\n1. 10 + 0\n2. 9 + 1\n3. 8 + 2\n4. 7 + 3\n5. 6 + 4\n\nEach of these combinations can be paired with one of the even digits (0, 2, 4, 6, 8) for the hundreds digit to create a three-digit number. \n\nSo, there are 5 possible combinations for the tens and units digits and 5 possible even digits for the hundreds digit, giving us a total of 5 x 5 = 25 even three-digit numbers in total.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 36?: To find the even three-digit numbers where the sum of the tens and units digits is 10, we can start by listing out the possible combinations that add up to 10. \n\nThe possible combinations are:\n1. 10 + 0\n2. 9 + 1\n3. 8 + 2\n4. 7 + 3\n5. 6 + 4\n\nEach of these combinations can be paired with one of the even digits (0, 2, 4, 6, 8) for the hundreds digit to create a three-digit number. \n\nSo, there are 5 possible combinations for the tens and units digits and 5 possible even digits for the hundreds digit, giving us a total of 5 x 5 = 25 even three-digit numbers in total.",
-    "gpt_response_correct_incorrect": "No",
-    "yes_no": "no"
-}

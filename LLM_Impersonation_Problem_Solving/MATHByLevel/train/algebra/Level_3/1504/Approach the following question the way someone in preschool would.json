@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in preschool would. ",
-    "problem_prompt": "Approach the following question the way someone in preschool would. An amoeba is placed in a puddle one day, and on that same day it splits into two amoebas.  The next day, each new amoeba splits into two new amoebas, and so on, so that each day every living amoeba splits into two new amoebas. After one week, how many amoebas are in the puddle? (Assume the puddle has no amoebas before the first one is placed in the puddle.)",
-    "solution": "At the end of the first day, there are 2 amoebas.  At the end of the second, there are $2\\cdot 2 = 2^2$ amoebas.  At the end of the third day, there are $2\\cdot 2^2 = 2^3$ amoebas, and so on.  So, after the seventh day, there are $2^7= \\boxed{128}$ amoebas.",
-    "gpt_response": "Well, the first day there is one amoeba. Then the next day there are two amoebas. And then the next day there are four amoebas. And then after that there are eight amoebas. And then sixteen amoebas. And then thirty-two amoebas. And then after a whole week there are sixty-four amoebas in the puddle! Wow, that's a lot of amoebas!",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 128?: Well, the first day there is one amoeba. Then the next day there are two amoebas. And then the next day there are four amoebas. And then after that there are eight amoebas. And then sixteen amoebas. And then thirty-two amoebas. And then after a whole week there are sixty-four amoebas in the puddle! Wow, that's a lot of amoebas!",
-    "gpt_response_correct_incorrect": "No, the final solution obtained is 64, not 128.",
-    "yes_no": "no"
-}

@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
-    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. A line is described by the equation $y-4=4(x-8)$. What is the sum of its $x$-intercept and $y$-intercept?",
-    "solution": "To solve for the $x$-intercept, we let $y$ equal 0, and then solve for the value of $x$ as shown: \\begin{align*}\n0-4&=4(x-8)\\\\\n\\Rightarrow\\qquad -1&=(x-8)\\\\\n\\Rightarrow\\qquad 7&=x\n\\end{align*} Similarly, let $x$ equal 0, and solve for the $y$-intercept: \\begin{align*}\ny-4&=4(0-8)\\\\\n\\Rightarrow\\qquad y-4&=-32\\\\\n\\Rightarrow\\qquad y&=-28\n\\end{align*} Therefore, the sum of the $x$ and $y$ intercepts is $7+(-28)=\\boxed{-21}$.",
-    "gpt_response": "To find the $x$-intercept, we set $y = 0$ in the equation $y - 4 = 4(x - 8)$ and solve for $x$:\n$0 - 4 = 4(x - 8)$\n$-4 = 4x - 32$\n$4x = 28$\n$x = 7$\n\nTherefore, the $x$-intercept is at $(7, 0)$.\n\nTo find the $y$-intercept, we set $x = 0$ in the equation $y - 4 = 4(x - 8)$ and solve for $y$:\n$y - 4 = 4(0 - 8)$\n$y - 4 = -32$\n$y = -28$\n\nTherefore, the $y$-intercept is at $(0, -28)$.\n\nThe sum of the $x$-intercept and $y$-intercept is $7 + (-28) = -21$.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to -21?: To find the $x$-intercept, we set $y = 0$ in the equation $y - 4 = 4(x - 8)$ and solve for $x$:\n$0 - 4 = 4(x - 8)$\n$-4 = 4x - 32$\n$4x = 28$\n$x = 7$\n\nTherefore, the $x$-intercept is at $(7, 0)$.\n\nTo find the $y$-intercept, we set $x = 0$ in the equation $y - 4 = 4(x - 8)$ and solve for $y$:\n$y - 4 = 4(0 - 8)$\n$y - 4 = -32$\n$y = -28$\n\nTherefore, the $y$-intercept is at $(0, -28)$.\n\nThe sum of the $x$-intercept and $y$-intercept is $7 + (-28) = -21$.",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in high school would. ",
-    "problem_prompt": "Approach the following question the way someone in high school would. Evaluate $\\lfloor{\\sqrt{12}}\\rfloor^2$.",
-    "solution": "Since $\\sqrt{9}<\\sqrt{12}<\\sqrt{16}$, or, equivalently $3<\\sqrt{12}<4$, the greatest integer less than or equal to $\\sqrt{12}$ must be $3$. Thus, $\\lfloor{\\sqrt{12}}\\rfloor^2=3^2=\\boxed{9}$.",
-    "gpt_response": "Ok, so first we need to find the square root of 12. The square root of 12 is between 3 and 4 because 3 squared is 9 and 4 squared is 16. \n\nSince the square root of 12 is between 3 and 4, the greatest integer that is less than or equal to the square root of 12 is 3. \n\nSo, 3 squared is 9. Therefore, $\\lfloor{\\sqrt{12}}\\rfloor^2$ is equal to 9.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 9?: Ok, so first we need to find the square root of 12. The square root of 12 is between 3 and 4 because 3 squared is 9 and 4 squared is 16. \n\nSince the square root of 12 is between 3 and 4, the greatest integer that is less than or equal to the square root of 12 is 3. \n\nSo, 3 squared is 9. Therefore, $\\lfloor{\\sqrt{12}}\\rfloor^2$ is equal to 9.",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

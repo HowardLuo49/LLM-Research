@@ -1,8 +1,0 @@
-{
-    "problem_prompt": "Your job is to consider a number theory problem, and leave a plan for the next person to solve it. The problem will be revealed one sentence at a time. You do not have the entire problem yet, thus just do whatever calcluations/planning you think will be useful for the next person. If you don't think you can make any progress, say so. The following is a portion of the entire problem, and the work/progress/message the previous person left for you. There may be errors in the provided work that was previously done and left for you, so check and fix them if necessary.\nIt is now 12:00:00 midnight, as read on a 12-hour digital clock.\n",
-    "solution": "Since the clock reads the same time every 12 hours, we find the remainder after dividing 122 hours by 12 hours, which is 2 hours. Counting forward from midnight, the clock will read 2:39:44, so $A+B+C = \\boxed{85}$.",
-    "gpt_response": "The previous person identified that the time on the clock is 12:00:00. \n\nConsidering the time on a 12-hour digital clock, we know that every hour is divided into 60 minutes, so we have 60 minutes in total.",
-    "solution_prompt": "Question partition not complete yet",
-    "gpt_response_correct_incorrect": "Question partition not complete yet",
-    "yes_no": "Question partition not complete yet"
-}

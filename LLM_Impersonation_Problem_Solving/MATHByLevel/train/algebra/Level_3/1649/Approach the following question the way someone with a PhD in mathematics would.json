@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
-    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. The decimal $0.76$ is equal to the fraction $\\frac{4b+19}{6b+11}$, where $b$ is a positive integer. What is the value of $b$?",
-    "solution": "Setting $\\frac{4b+19}{6b+11}$ equal to $0.76=\\frac{76}{100}=\\frac{19}{25}$, we have \\begin{align*} \\frac{4b+19}{6b+11}&=\\frac{19}{25}\n\\\\\\Rightarrow\\qquad 25(4b+19)&=19(6b+11)\n\\\\\\Rightarrow\\qquad 100b+475&=114b+209\n\\\\\\Rightarrow\\qquad -14b&=-266\n\\\\\\Rightarrow\\qquad b&=\\boxed{19}\n\\end{align*}.",
-    "gpt_response": "To find the value of $b$, we must set up an equation where the decimal $0.76$ is represented as a fraction with the numerator in the form $4b + 19$ and the denominator in the form $6b + 11$. \n\nThe decimal $0.76$ can be rewritten as $\\frac{76}{100} = \\frac{19}{25}$. Therefore, we have $\\frac{19}{25} = \\frac{4b + 19}{6b + 11}$. \n\nCross multiplying, we get $19(6b+11) = 25(4b+19)$.\n\nExpanding both sides gives $114b + 209 = 100b + 475$.\n\nSimplifying, we get $14b = 266$, which implies $b = 19$. Therefore, the value of $b$ is $19$.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 19?: To find the value of $b$, we must set up an equation where the decimal $0.76$ is represented as a fraction with the numerator in the form $4b + 19$ and the denominator in the form $6b + 11$. \n\nThe decimal $0.76$ can be rewritten as $\\frac{76}{100} = \\frac{19}{25}$. Therefore, we have $\\frac{19}{25} = \\frac{4b + 19}{6b + 11}$. \n\nCross multiplying, we get $19(6b+11) = 25(4b+19)$.\n\nExpanding both sides gives $114b + 209 = 100b + 475$.\n\nSimplifying, we get $14b = 266$, which implies $b = 19$. Therefore, the value of $b$ is $19$.",
-    "gpt_response_correct_incorrect": "Yes.",
-    "yes_no": "yes"
-}

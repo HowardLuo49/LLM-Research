@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in elementary school would. ",
-    "problem_prompt": "Approach the following question the way someone in elementary school would. Let \\[f(x) =\n\\begin{cases}\n9x+4 &\\text{if }x\\text{ is an integer}, \\\\\n\\lfloor{x}\\rfloor+5 &\\text{if }x\\text{ is not an integer}.\n\\end{cases}\n\\]Find $f(\\sqrt{29})$.",
-    "solution": "Since 29 is not a perfect square, we know that $\\sqrt{29}$ cannot equal an integer. Therefore, $f(\\sqrt{29})=\\lfloor\\sqrt{29}\\rfloor+5=5+5=\\boxed{10}$.",
-    "gpt_response": "Since $\\sqrt{29}$ is not an integer, we use the second case of the piecewise function to find $f(\\sqrt{29})$. \nSince $\\sqrt{29}$ is between $5$ and $6$, we have $\\lfloor\\sqrt{29}\\rfloor = 5$. \nSo, $f(\\sqrt{29}) = \\lfloor\\sqrt{29}\\rfloor + 5 = 5 + 5 = \\boxed{10}$.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 10?: Since $\\sqrt{29}$ is not an integer, we use the second case of the piecewise function to find $f(\\sqrt{29})$. \nSince $\\sqrt{29}$ is between $5$ and $6$, we have $\\lfloor\\sqrt{29}\\rfloor = 5$. \nSo, $f(\\sqrt{29}) = \\lfloor\\sqrt{29}\\rfloor + 5 = 5 + 5 = \\boxed{10}$.",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

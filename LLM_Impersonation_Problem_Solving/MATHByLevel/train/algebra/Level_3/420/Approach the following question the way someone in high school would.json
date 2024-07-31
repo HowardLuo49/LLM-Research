@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in high school would. ",
-    "problem_prompt": "Approach the following question the way someone in high school would. Simplify $5(3-i)+3i(5-i)$.",
-    "solution": "$5(3-i) + 3i(5-i) = 15-5i + 15i - 3i^2 = 15 +10i -3(-1) = \\boxed{18+10i}$.",
-    "gpt_response": "To simplify this expression, first distribute the $5$ to both terms inside the parentheses:\n\n$5 * 3 - 5i + 3i(5-i)$\n\nThen, distribute the $3i$:\n\n$15 - 5i + 15i - 3i^2$\n\nRemember that $i^2 = -1$, so $-3i^2 = -3(-1) = 3$:\n\n$15 - 5i + 15i + 3$\n\nCombine like terms:\n\n$18 + 10i$",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 18+10i?: To simplify this expression, first distribute the $5$ to both terms inside the parentheses:\n\n$5 * 3 - 5i + 3i(5-i)$\n\nThen, distribute the $3i$:\n\n$15 - 5i + 15i - 3i^2$\n\nRemember that $i^2 = -1$, so $-3i^2 = -3(-1) = 3$:\n\n$15 - 5i + 15i + 3$\n\nCombine like terms:\n\n$18 + 10i$",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

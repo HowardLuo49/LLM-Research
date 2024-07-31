@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in preschool would. ",
-    "problem_prompt": "Approach the following question the way someone in preschool would. Our school's girls volleyball team has 14 players, including a set of 3 triplets: Alicia, Amanda, and Anna.  In how many ways can we choose 6 starters if all three triplets are in the starting lineup?",
-    "solution": "If all triplets are in the starting lineup, we are choosing the 3 remaining starters from 11 players, which can be done in  $\\binom{11}{3} = \\boxed{165}$ ways.",
-    "gpt_response": "Wow, that's a big number! Let's count together! We already know that the triplets have to be in the starting lineup, so that's 3 of the 6 spots taken. Now we just need to choose the other 3 players from the remaining 11. Let's count them together! 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11! That's 11 different players to choose from for the last 3 spots. So, the total number of ways we can choose 6 starters if all three triplets are in the starting lineup is 11 ways. Yay, we did it!",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 165?: Wow, that's a big number! Let's count together! We already know that the triplets have to be in the starting lineup, so that's 3 of the 6 spots taken. Now we just need to choose the other 3 players from the remaining 11. Let's count them together! 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11! That's 11 different players to choose from for the last 3 spots. So, the total number of ways we can choose 6 starters if all three triplets are in the starting lineup is 11 ways. Yay, we did it!",
-    "gpt_response_correct_incorrect": "No, the final solution obtained in the passage is not 165. The total number of ways to choose 6 starters if all three triplets are in the starting lineup is 11 ways, not 165.",
-    "yes_no": "no"
-}

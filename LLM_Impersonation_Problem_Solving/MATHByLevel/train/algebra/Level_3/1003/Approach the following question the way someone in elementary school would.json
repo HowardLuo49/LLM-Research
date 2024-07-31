@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in elementary school would. ",
-    "problem_prompt": "Approach the following question the way someone in elementary school would. Evaluate $\\left\\lceil3\\left(6-\\frac12\\right)\\right\\rceil$.",
-    "solution": "Firstly, $3\\left(6-\\frac12\\right)=18-1-\\frac12=17-\\frac12$.  Because $0\\le\\frac12<1$, we have $\\left\\lceil17-\\frac12\\right\\rceil=\\boxed{17}$.",
-    "gpt_response": "First we need to simplify inside the parentheses. $6 - \\frac{1}{2} = \\frac{12}{2} - \\frac{1}{2} = \\frac{11}{2}$. \n\nThen we multiply that by 3 to get $3 \\times \\frac{11}{2} = \\frac{33}{2} = 16\\frac{1}{2}$. \n\nSince the ceiling function rounds up to the nearest whole number, the answer is $\\boxed{17}$.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 17?: First we need to simplify inside the parentheses. $6 - \\frac{1}{2} = \\frac{12}{2} - \\frac{1}{2} = \\frac{11}{2}$. \n\nThen we multiply that by 3 to get $3 \\times \\frac{11}{2} = \\frac{33}{2} = 16\\frac{1}{2}$. \n\nSince the ceiling function rounds up to the nearest whole number, the answer is $\\boxed{17}$.",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in high school would. ",
-    "problem_prompt": "Approach the following question the way someone in high school would. Simplify the following expression: $(x^5+x^4+x+10)-(x^5+2x^4-x^3+12).$ Express your answer as a polynomial with the degrees of the terms in decreasing order.",
-    "solution": "We have \\begin{align*}\n&(x^5+x^4+x+10)-(x^5+2x^4-x^3+12)\\\\\n&=(1-1)x^5+(1-2)x^4+(0-(-1))x^3+(1-0)x+(10-12)\\\\\n&=\\boxed{-x^4+x^3+x-2}\n\\end{align*}",
-    "gpt_response": "Ok, so first we distribute the negative sign to all terms in the second parenthesis to get $x^5 + x^4 + x + 10 - x^5 - 2x^4 + x^3 - 12.$ \n\nNow let's combine the like terms. We have $x^5 - x^5 = 0,$ $x^4 - 2x^4 = -x^4,$ $x + x^3 = x^3 + x,$ and $10 - 12 = -2.$ \n\nPutting it all together, we have $-x^4 + x^3 + x - 2.$\n\nSo, our simplified expression is $-x^4 + x^3 + x - 2.$",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to -x^4+x^3+x-2?: Ok, so first we distribute the negative sign to all terms in the second parenthesis to get $x^5 + x^4 + x + 10 - x^5 - 2x^4 + x^3 - 12.$ \n\nNow let's combine the like terms. We have $x^5 - x^5 = 0,$ $x^4 - 2x^4 = -x^4,$ $x + x^3 = x^3 + x,$ and $10 - 12 = -2.$ \n\nPutting it all together, we have $-x^4 + x^3 + x - 2.$\n\nSo, our simplified expression is $-x^4 + x^3 + x - 2.$",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

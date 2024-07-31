@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in preschool would. ",
-    "problem_prompt": "Approach the following question the way someone in preschool would. How many even three digit numbers are there such that the sum of the  tens and units digits is 10?",
-    "solution": "There are nine possible digits that the hundreds digit could be. However, there are only four possible endings for the number: 46, 64, 28, and 82. Thus, there are $9 \\cdot 4 = \\boxed{36}$ such numbers.",
-    "gpt_response": "Let's count and see! \n\nLet's start with the tens digit being 1. The units digit can be either 9 or 8 to make the sum 10. So we have two numbers, 119 and 118.\n\nNext, let's try with the tens digit being 2. The units digit can be either 8 or 7 to make the sum 10. So we have two more numbers, 128 and 127.\n\nFinally, let's try with the tens digit being 3. The units digit can be either 7 or 6 to make the sum 10. So we have two more numbers, 137 and 136.\n\nIn total, we have 6 even three digit numbers such that the sum of the tens and units digits is 10. Yay!",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 36?: Let's count and see! \n\nLet's start with the tens digit being 1. The units digit can be either 9 or 8 to make the sum 10. So we have two numbers, 119 and 118.\n\nNext, let's try with the tens digit being 2. The units digit can be either 8 or 7 to make the sum 10. So we have two more numbers, 128 and 127.\n\nFinally, let's try with the tens digit being 3. The units digit can be either 7 or 6 to make the sum 10. So we have two more numbers, 137 and 136.\n\nIn total, we have 6 even three digit numbers such that the sum of the tens and units digits is 10. Yay!",
-    "gpt_response_correct_incorrect": "No, the final solution obtained is not 36.",
-    "yes_no": "no"
-}

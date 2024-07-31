@@ -1,7 +1,0 @@
-{
-    "prefix": "You are in high school.\n",
-    "problem_prompt": "You are in high school.\nConsider a regular octagon.  How many triangles can be formed whose vertices are the vertices of the octagon?",
-    "solution": "No three vertices are collinear, so any combination of 3 vertices will make a triangle. There are 8 ways to choose the first point, 7 ways to choose the second point, and 6 ways to choose the third point, but we must divide by $3!$ since order doesn't matter.  So the answer is $\\dfrac{8 \\times 7 \\times 6}{3!} = \\boxed{56}$.",
-    "gpt_response": "ChatCompletion(id='chatcmpl-9A2fgTYgWECePG0E3ZqBP2rysPuxV', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='To form a triangle using the vertices of the octagon, we need to choose 3 vertices out of the 8 available. This can be done in 8 choose 3 ways, which is equal to:\\n\\n8! / (3! * (8-3)!) = 8! / (3! * 5!) = 8 * 7 * 6 / (3 * 2) = 56\\n\\nTherefore, there are 56 triangles that can be formed using the vertices of a regular octagon.', role='assistant', function_call=None, tool_calls=None))], created=1712180576, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint='fp_b28b39ffa8', usage=CompletionUsage(completion_tokens=108, prompt_tokens=36, total_tokens=144))",
-    "yes_no": "yes"
-}

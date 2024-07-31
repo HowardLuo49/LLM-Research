@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in high school would. ",
-    "problem_prompt": "Approach the following question the way someone in high school would. Find the least integer value of $x$ for which $2|x| + 7 < 17$.",
-    "solution": "First, solve the inequality so that only the absolute value quantity is on the left and the constant value is on the right.\n\n\\begin{align*}\n2|x| + 7&< 17\\\\\n2|x|&<10\\\\\n|x|&<5\n\\end{align*}To solve the inequality which has an absolute value in it, we must turn this into two different inequalities, one as normal, one with a reversed sign and opposite resulting value.  Both will have the absolute value removed.\n\n\\begin{align*}\nx &< 5 \\\\\nx &> -5\n\\end{align*}Since we need the least integer value of $x$, and $x$ has to be $\\textbf{greater than }$ -5, the next smallest integer is $\\boxed{-4}$.",
-    "gpt_response": "To find the least integer value of $x$ for which $2|x| + 7 < 17$, we first need to isolate $|x|$. \n\nSubtracting 7 from both sides of the inequality gives us $2|x| < 10$. \n\nDividing both sides by 2, we get $|x| < 5$. \n\nThis means that $x$ can be any integer value between -5 and 5, excluding -5 and 5. \n\nTherefore, the least integer value of x for which $2|x| + 7 < 17$ is -4.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to -4?: To find the least integer value of $x$ for which $2|x| + 7 < 17$, we first need to isolate $|x|$. \n\nSubtracting 7 from both sides of the inequality gives us $2|x| < 10$. \n\nDividing both sides by 2, we get $|x| < 5$. \n\nThis means that $x$ can be any integer value between -5 and 5, excluding -5 and 5. \n\nTherefore, the least integer value of x for which $2|x| + 7 < 17$ is -4.",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
-    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. What is the sum of the value(s) of $n$ for which $|2n - 7| = 3$?",
-    "solution": "The absolute value of a real number is equal to $3$ if and only if the number is $3$ or $-3$.  Solving $2n-7=3$ and $2n-7=-3$ we find the solutions $n=5$ and $n=2$.  The sum of these solutions is $5+2=\\boxed{7}$.",
-    "gpt_response": "To solve the given equation $|2n - 7| = 3$, we first consider the two possible cases:\n\nCase 1: $2n - 7 = 3$\nSolving this equation gives $2n = 10$, so $n = 5$.\n\nCase 2: $2n - 7 = -3$\nSolving this equation gives $2n = 4$, so $n = 2$.\n\nTherefore, the sum of the values of $n$ for which $|2n - 7| = 3$ is $5 + 2 = 7$.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 7?: To solve the given equation $|2n - 7| = 3$, we first consider the two possible cases:\n\nCase 1: $2n - 7 = 3$\nSolving this equation gives $2n = 10$, so $n = 5$.\n\nCase 2: $2n - 7 = -3$\nSolving this equation gives $2n = 4$, so $n = 2$.\n\nTherefore, the sum of the values of $n$ for which $|2n - 7| = 3$ is $5 + 2 = 7$.",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

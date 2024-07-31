@@ -1,7 +1,0 @@
-{
-    "prefix": "You are a preschooler.\n",
-    "problem_prompt": "You are a preschooler.\nTyler has entered a buffet line in which he chooses one kind of meat, two different vegetables and one dessert.  If the order of food items is not important, how many different meals might he choose?\n\n$\\bullet$  Meat: beef, chicken, pork\n\n$\\bullet$  Vegetables: baked beans, corn, potatoes, tomatoes\n\n$\\bullet$  Dessert: brownies, chocolate cake, chocolate pudding, ice cream",
-    "solution": "There are $3$ choices for the meat and $4$ for dessert.\n\nThere are $\\binom{4}{2} = 6$ ways to choose $2$ of the $4$ vegetables, since we don't care about the order in which the vegetables are chosen.\n\nThe answer therefore is $3\\cdot 4\\cdot 6=\\boxed{72}.$",
-    "gpt_response": "ChatCompletion(id='chatcmpl-9A2WepGepEO6bwPhUziKLqKEaKbge', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='To find the total number of meal options, we multiply the number of options for each category: \\n\\n3 options for meat $\\\\times$ 3 options for vegetables $\\\\times$ 4 options for dessert = 36 possible meal combinations\\n\\nTherefore, Tyler can choose from 36 different meals in the buffet line.', role='assistant', function_call=None, tool_calls=None))], created=1712180016, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint='fp_b28b39ffa8', usage=CompletionUsage(completion_tokens=62, prompt_tokens=100, total_tokens=162))",
-    "yes_no": "no"
-}

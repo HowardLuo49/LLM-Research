@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in high school would. ",
-    "problem_prompt": "Approach the following question the way someone in high school would. A Senate committee has 5 Democrats and 5 Republicans. Assuming all politicians are distinguishable, in how many ways can they sit around a circular table without restrictions?  (Two seatings are considered the same if one is a rotation of the other.)",
-    "solution": "There are 10 people to place, so we can place them in $10!$ ways, but this counts each valid arrangement 10 times (once for each rotation of the same arrangement).  So the number of ways to seat them is $\\dfrac{10!}{10} = 9! = \\boxed{362,\\!880}$.",
-    "gpt_response": "In order to solve this problem, we need to use the formula for arranging objects in a circle, which is (n-1)!. \n\nIn this case, there are 10 politicians total, so there are (10-1)! = 9! = 362,880 ways they can sit around the circular table without restrictions. \n\nSo, there are 362,880 ways they can sit around the circular table.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 362,\\!880?: In order to solve this problem, we need to use the formula for arranging objects in a circle, which is (n-1)!. \n\nIn this case, there are 10 politicians total, so there are (10-1)! = 9! = 362,880 ways they can sit around the circular table without restrictions. \n\nSo, there are 362,880 ways they can sit around the circular table.",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

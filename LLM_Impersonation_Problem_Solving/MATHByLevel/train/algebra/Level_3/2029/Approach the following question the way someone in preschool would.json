@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in preschool would. ",
-    "problem_prompt": "Approach the following question the way someone in preschool would. What is the sum of the roots of the equation $(x - 5)^2 = 9$?",
-    "solution": "Knowing that $3$ is a root of $9$, we see that $x = 8,2$. Hence, the sum of the roots is $10$.\n\nAlternatively, we can rearrange the equation so that we have $x^2 - 10x + 16 = 0$. Then, using the case of Vieta's formula for a quadratic, we again see that the sum of the roots is $\\boxed{10}$.",
-    "gpt_response": "Ooh, let's play with numbers! This equation has two roots, so let's find them by making the equation equal to zero. We can do that by taking the square root of both sides. The square root of 9 is 3, so the equation becomes (x - 5) = 3 or (x - 5) = -3. \n\nNow let's solve for x! If we add 5 to both sides of the first equation, we get x = 8. If we add 5 to both sides of the second equation, we get x = 2.\n\nSo, the two roots are x = 8 and x = 2. To find the sum, we just add them together. 8 + 2 = 10!\n\nYay, we did it! Let's have a dance party to celebrate our math skills!",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 10?: Ooh, let's play with numbers! This equation has two roots, so let's find them by making the equation equal to zero. We can do that by taking the square root of both sides. The square root of 9 is 3, so the equation becomes (x - 5) = 3 or (x - 5) = -3. \n\nNow let's solve for x! If we add 5 to both sides of the first equation, we get x = 8. If we add 5 to both sides of the second equation, we get x = 2.\n\nSo, the two roots are x = 8 and x = 2. To find the sum, we just add them together. 8 + 2 = 10!\n\nYay, we did it! Let's have a dance party to celebrate our math skills!",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

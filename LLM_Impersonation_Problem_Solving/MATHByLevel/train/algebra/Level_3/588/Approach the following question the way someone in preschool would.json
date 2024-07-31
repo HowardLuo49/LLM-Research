@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in preschool would. ",
-    "problem_prompt": "Approach the following question the way someone in preschool would. Find the only positive real number $x$ for which $\\displaystyle \\frac{x-4}{9} = \\frac{4}{x-9}$.",
-    "solution": "The first approach that comes to mind is probably also the best one.  So we cross-multiply to obtain $(x-4)(x-9) = 36$.  Multiplying out the left-hand side and cancelling the 36 yields $x^2-13x = 0$, or $x(x-13)=0$.  This equation has two solutions, $x=0$ and 13.  Since we are looking for positive answers, we take $x=\\boxed{13}$.",
-    "gpt_response": "Okie dokie! Let's see... We need to find the number that makes these two sides the same. Hmm... Maybe we can start by getting rid of those fractions. We can do that by multiplying by 9 and $(x-9)$ on each side. So we have $(x-4) \\cdot (x-9) = 9 \\cdot 4$. Let's simplify that. So we have $x^2 - 13x + 36 = 36$. Hmm... if we subtract 36 from both sides we have $x^2 - 13x = 0$. We can factor out an $x$ to get $x(x - 13) = 0$. So either $x = 0$ or $x = 13$. But 0 isn't positive, so the only positive real number $x$ is 13. Yay, we did it!",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 13?: Okie dokie! Let's see... We need to find the number that makes these two sides the same. Hmm... Maybe we can start by getting rid of those fractions. We can do that by multiplying by 9 and $(x-9)$ on each side. So we have $(x-4) \\cdot (x-9) = 9 \\cdot 4$. Let's simplify that. So we have $x^2 - 13x + 36 = 36$. Hmm... if we subtract 36 from both sides we have $x^2 - 13x = 0$. We can factor out an $x$ to get $x(x - 13) = 0$. So either $x = 0$ or $x = 13$. But 0 isn't positive, so the only positive real number $x$ is 13. Yay, we did it!",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

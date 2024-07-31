@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in preschool would. ",
-    "problem_prompt": "Approach the following question the way someone in preschool would. The sum of a negative integer $N$ and its square is 6. What is the value of $N$?",
-    "solution": "We are given that $N^2 + N = 6$.  Rearranging gives $N^2 + N - 6 =0$, and factoring the quadratic on the left gives $(N+3)(N-2) = 0$.  The only negative solution to this equation is $N = \\boxed{-3}$.",
-    "gpt_response": "Let's use our counting fingers to figure this out! If we have a negative number $N$ and we add its square to it, we get 6. Let's try out some numbers:\n\nIf $N = -1$, then $N^2 = 1$ and $-1 + 1 = 0$ which is not 6.\n\nIf $N = -2$, then $N^2 = 4$ and $-2 + 4 = 2$ which is also not 6.\n\nIf $N = -3$, then $N^2 = 9$ and $-3 + 9 = 6$ which is the answer! So the value of $N$ is -3. Yay, we did it!",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to -3?: Let's use our counting fingers to figure this out! If we have a negative number $N$ and we add its square to it, we get 6. Let's try out some numbers:\n\nIf $N = -1$, then $N^2 = 1$ and $-1 + 1 = 0$ which is not 6.\n\nIf $N = -2$, then $N^2 = 4$ and $-2 + 4 = 2$ which is also not 6.\n\nIf $N = -3$, then $N^2 = 9$ and $-3 + 9 = 6$ which is the answer! So the value of $N$ is -3. Yay, we did it!",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

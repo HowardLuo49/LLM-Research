@@ -1,8 +1,0 @@
-{
-    "problem_prompt": "Your job is to consider a number theory problem, and leave a plan for the next person to solve it. The problem will be revealed one sentence at a time. You do not have the entire problem yet, thus just do whatever calcluations/planning you think will be useful for the next person. If you don't think you can make any progress, say so. The following is a portion of the entire problem, and the work/progress/message the previous person left for you. There may be errors in the provided work that was previously done and left for you, so check and fix them if necessary.\nLet $n$ be a  positive integer and $a$ be an integer such that $a$ is its own inverse modulo $n$.\n",
-    "solution": "Since $a$ is its own inverse modulo $n$, $a\\equiv a^{-1}\\pmod n$. Then \\[a^2\\equiv a\\cdot a\\equiv a\\cdot a^{-1}\\equiv \\boxed{1}\\pmod n.\\]",
-    "gpt_response": "Previous work/message: Let's note that $a^2 \\equiv 1 \\pmod{n}$, which means $n \\mid (a^2 - 1)$. \n\nPlan for the next person: \n1. Expand $(a + 1)(a - 1)$ and see if that provides any insights.\n2. Consider the cases where $n$ is prime and composite separately to see if there are any patterns or restrictions on $a$. \n3. Explore the properties of the totient function $\\phi(n)$ and how it relates to the problem.\n4. Investigate the Chinese Remainder Theorem to see if it can provide any additional information about $a$ and $n$.",
-    "solution_prompt": "Question partition not complete yet",
-    "gpt_response_correct_incorrect": "Question partition not complete yet",
-    "yes_no": "Question partition not complete yet"
-}

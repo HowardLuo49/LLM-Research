@@ -1,7 +1,0 @@
-{
-    "prefix": "You are in elementary school.\n",
-    "problem_prompt": "You are in elementary school.\nWhat is the sum of all integer values $n$ for which $\\binom{26}{13}+\\binom{26}{n}=\\binom{27}{14}$?",
-    "solution": "From Pascal's identity $\\binom{n-1}{k-1}+\\binom{n-1}{k}=\\binom{n}{k}$.\n\nTherefore, we have $\\binom{26}{13}+\\binom{26}{14}=\\binom{27}{14}$, so $n=14$.\n\nWe know that $\\binom{27}{14}=\\binom{27}{27-14}=\\binom{27}{13}$.\n\nWe use Pascal's identity again to get $\\binom{26}{13}+\\binom{26}{12}=\\binom{27}{13}$, so $n=12$.\n\nThere are two values for $n$, $12$ and $14$, so the sum is $12+14=\\boxed{26}$.",
-    "gpt_response": "ChatCompletion(id='chatcmpl-9A2sbBfS0bJVSH27v5bS7u7hsF0Wo', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content=\"We know that $\\\\binom{26}{13}$ + $\\\\binom{26}{n}$ = $\\\\binom{27}{14}$ can be rewritten as $\\\\binom{26}{n}$ = $\\\\binom{27}{14}$ - $\\\\binom{26}{13}$. \\n\\nUsing Pascal's identity, we have $\\\\binom{27}{14}$ = $\\\\binom{26}{13}$ + $\\\\binom{26}{14}$. \\n\\nPlugging this back in, we get $\\\\binom{26}{n}$ = $\\\\binom{26}{14}$. \\n\\nSo, $n$ = 14.\\n\\nThe sum of all integer values $n$ is $14$.\", role='assistant', function_call=None, tool_calls=None))], created=1712181377, model='gpt-3.5-turbo-0125', object='chat.completion', system_fingerprint='fp_b28b39ffa8', usage=CompletionUsage(completion_tokens=145, prompt_tokens=51, total_tokens=196))",
-    "yes_no": "yes"
-}

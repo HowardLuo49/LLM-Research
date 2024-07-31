@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in high school would. ",
-    "problem_prompt": "Approach the following question the way someone in high school would. How many cubic feet are in three cubic yards?",
-    "solution": "Cubing both sides of  \\[\n1\\text{ yard}=3\\text{ feet}\n\\] we find that 1 cubic yard equals 27 cubic feet.  Therefore, 3 cubic yards are equal to $27\\cdot3=\\boxed{81}$ cubic feet.",
-    "gpt_response": "To figure out how many cubic feet are in three cubic yards, you need to know that there are 27 cubic feet in a cubic yard. So to find out how many cubic feet are in three cubic yards, you would multiply 27 by 3. \n\n27 x 3 = 81 cubic feet \n\nTherefore, there are 81 cubic feet in three cubic yards.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 81?: To figure out how many cubic feet are in three cubic yards, you need to know that there are 27 cubic feet in a cubic yard. So to find out how many cubic feet are in three cubic yards, you would multiply 27 by 3. \n\n27 x 3 = 81 cubic feet \n\nTherefore, there are 81 cubic feet in three cubic yards.",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

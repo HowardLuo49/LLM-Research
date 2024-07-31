@@ -1,8 +1,0 @@
-{
-    "problem_prompt": "Your job is to consider a number theory problem, and leave a plan for the next person to solve it. The problem will be revealed one sentence at a time. You do not have the entire problem yet, thus just do whatever calcluations/planning you think will be useful for the next person. If you don't think you can make any progress, say so. The following is a portion of the entire problem, and the work/progress/message the previous person left for you. There may be errors in the provided work that was previously done and left for you, so check and fix them if necessary.\nA band has 72 members who will all be marching during halftime.\n",
-    "solution": "If $x$ members march in each row and there is a total of $y$ rows, then $xy=72=2^3\\cdot3^2$. Given that $5\\le x\\le20$, the possible values for $x$ are $2^3=8$, $2^2\\cdot3=12$, $2\\cdot3=6$, $2\\cdot3^2=18$ and $3^2=9$, for a total of $ \\boxed{5}$ row-lengths.",
-    "gpt_response": "There are 8 rows in which the band members can march.\n\nNext person: \nCalculate how many members are in each row if they are distributed equally.",
-    "solution_prompt": "Question partition not complete yet",
-    "gpt_response_correct_incorrect": "Question partition not complete yet",
-    "yes_no": "Question partition not complete yet"
-}

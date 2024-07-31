@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in high school would. ",
-    "problem_prompt": "Approach the following question the way someone in high school would. For two real values of $n$, the equation $4x^2+nx+25=0$ has exactly one solution in $x$. What is the positive value of $n$?",
-    "solution": "A quadratic has exactly one distinct solution when its discriminant is 0.  The discriminant of $4x^2 + nx + 25$ is $n^2 - 4(4)(25)$.  Setting this equal to 0 gives $n^2 - 400 = 0$, so $n^2 = 400$.  The positive solution of this equation is $n = \\boxed{20}$.",
-    "gpt_response": "To find the positive value of $n$, we need to think about the discriminant of the quadratic equation $4x^2+nx+25=0$. When a quadratic equation has exactly one solution, the discriminant is equal to zero.\n\nThe discriminant is given by the formula $b^2-4ac$, where $a=4$, $b=n$, and $c=25$. Since we know that the equation has only one solution, the discriminant must be equal to zero:\n\n$(n)^2-4(4)(25)=0$\n$n^2-4(100)=0$\n$n^2-400=0$\n$n^2=400$\n$n=20$ or $n=-20$\n\nSince we are looking for the positive value of $n$, the answer is $\\boxed{20}$.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 20?: To find the positive value of $n$, we need to think about the discriminant of the quadratic equation $4x^2+nx+25=0$. When a quadratic equation has exactly one solution, the discriminant is equal to zero.\n\nThe discriminant is given by the formula $b^2-4ac$, where $a=4$, $b=n$, and $c=25$. Since we know that the equation has only one solution, the discriminant must be equal to zero:\n\n$(n)^2-4(4)(25)=0$\n$n^2-4(100)=0$\n$n^2-400=0$\n$n^2=400$\n$n=20$ or $n=-20$\n\nSince we are looking for the positive value of $n$, the answer is $\\boxed{20}$.",
-    "gpt_response_correct_incorrect": "Yes",
-    "yes_no": "yes"
-}

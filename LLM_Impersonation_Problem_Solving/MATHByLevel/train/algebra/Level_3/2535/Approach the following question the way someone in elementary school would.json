@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone in elementary school would. ",
-    "problem_prompt": "Approach the following question the way someone in elementary school would. Factor $46x^3-115x^7.$",
-    "solution": "Since $46=2\\cdot23$ and $115=5\\cdot23$, we can factor a $23x^3$ from the expression, to get \\[46x^3-115x^7=23x^3(2-5x^4)=\\boxed{-23x^3(5x^4-2)},\\] which is our answer.",
-    "gpt_response": "To factor 46x^3 - 115x^7, we need to find the greatest common factor of the two terms.\n\nThe greatest common factor of 46 and 115 is 23.\n\nThe greatest common factor of x^3 and x^7 is x^3.\n\nSo the greatest common factor of 46x^3 and 115x^7 is 23x^3.\n\nTherefore, we can factor out 23x^3 from both terms to get:\n\n23x^3(2 - 5x^4)\n\nSo, the factored form of 46x^3 - 115x^7 is 23x^3(2 - 5x^4).",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to -23x^3(5x^4-2)?: To factor 46x^3 - 115x^7, we need to find the greatest common factor of the two terms.\n\nThe greatest common factor of 46 and 115 is 23.\n\nThe greatest common factor of x^3 and x^7 is x^3.\n\nSo the greatest common factor of 46x^3 and 115x^7 is 23x^3.\n\nTherefore, we can factor out 23x^3 from both terms to get:\n\n23x^3(2 - 5x^4)\n\nSo, the factored form of 46x^3 - 115x^7 is 23x^3(2 - 5x^4).",
-    "gpt_response_correct_incorrect": "No",
-    "yes_no": "no"
-}

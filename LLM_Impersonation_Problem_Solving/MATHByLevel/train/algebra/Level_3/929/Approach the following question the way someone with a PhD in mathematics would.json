@@ -1,9 +1,0 @@
-{
-    "prefix": "Approach the following question the way someone with a PhD in mathematics would. ",
-    "problem_prompt": "Approach the following question the way someone with a PhD in mathematics would. Find the coefficient of $x^2$ when $3(x^2 - x^3) +2(x - 2x^2 + 3x^5) -(4x^3 - x^2)$ is simplified.",
-    "solution": "When we expand we get  \\begin{align*}\n&3(x^2 - x^3) +2(x - 2x^2 + 3x^5) -(4x^3 - x^2) \\\\\n&\\qquad =3x^2 - 3x^3 +2x - 4x^2 + 6x^5 -4x^3 + x^2\\\\\n&\\qquad =6x^5-7x^3+2x.\n\\end{align*}The coefficient of $x^2$ is $3-4+1=\\boxed{0}$.",
-    "gpt_response": "To find the coefficient of $x^2$ in the given expression, we first need to simplify the expression. \n\nStarting with the given expression: $3(x^2 - x^3) +2(x - 2x^2 + 3x^5) -(4x^3 - x^2)$\nExpanding this out gives: $3x^2 - 3x^3 + 2x - 4x^2 + 6x^5 - 4x^3 + x^2$\n\nCombining like terms, we get: $-3x^3 + 3x^2 + 2x - 4x^2 + 6x^5 - 4x^3 + x^2$\nSimplifying further gives: $6x^5 - 7x^3 + 4x^2 + 2x$\n\nTherefore, the coefficient of $x^2$ in the simplified expression is 4.",
-    "solution_prompt": "Yes or no, is the final solution obtained in the following equal to 0?: To find the coefficient of $x^2$ in the given expression, we first need to simplify the expression. \n\nStarting with the given expression: $3(x^2 - x^3) +2(x - 2x^2 + 3x^5) -(4x^3 - x^2)$\nExpanding this out gives: $3x^2 - 3x^3 + 2x - 4x^2 + 6x^5 - 4x^3 + x^2$\n\nCombining like terms, we get: $-3x^3 + 3x^2 + 2x - 4x^2 + 6x^5 - 4x^3 + x^2$\nSimplifying further gives: $6x^5 - 7x^3 + 4x^2 + 2x$\n\nTherefore, the coefficient of $x^2$ in the simplified expression is 4.",
-    "gpt_response_correct_incorrect": "No",
-    "yes_no": "no"
-}
